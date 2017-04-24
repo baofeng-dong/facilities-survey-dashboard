@@ -1,0 +1,2955 @@
+{
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62996193430193,
+                    45.46203386108553
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 13744,
+                "stop_name": "SE 32nd & Furat Ct",
+                "stop_seq": 6950,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64050846129165,
+                    45.445098272452505
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Milwaukie",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 13482,
+                "stop_name": "SE 21st & Jackson",
+                "stop_seq": 7750,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75714744055868,
+                    45.59240495880896
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 9505,
+                "stop_name": "N Lombard & New York",
+                "stop_seq": 225,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75473974178401,
+                    45.59011254786413
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 3465,
+                "stop_name": "N Lombard & Burlington",
+                "stop_seq": 300,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74942098401155,
+                    45.58945304344874
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 3532,
+                "stop_name": "N Lombard & Oswego",
+                "stop_seq": 450,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74331156463427,
+                    45.58805140103583
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 3464,
+                "stop_name": "N Lombard & Buchanan",
+                "stop_seq": 550,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73710860827865,
+                    45.586561316170936
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 3496,
+                "stop_name": "N Lombard & Gilbert",
+                "stop_seq": 700,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7324156414128,
+                    45.58544156067723
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 3576,
+                "stop_name": "N Lombard & Westanna",
+                "stop_seq": 800,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72177220268442,
+                    45.581557866884204
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 3500,
+                "stop_name": "N Lombard & Hodge",
+                "stop_seq": 1000,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71581799402249,
+                    45.57936575012521
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 3501,
+                "stop_name": "N Lombard & Huron",
+                "stop_seq": 1100,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71108892936891,
+                    45.57763679951971
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 3574,
+                "stop_name": "N Lombard & Wayland",
+                "stop_seq": 1200,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70811901634816,
+                    45.57705194267407
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 3479,
+                "stop_name": "N Lombard & Chautauqua",
+                "stop_seq": 1250,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69420998706674,
+                    45.577051679321265
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 3471,
+                "stop_name": "N Lombard & Burrage",
+                "stop_seq": 1500,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68233814119704,
+                    45.57702362912298
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 3506,
+                "stop_name": "N Lombard Transit Center",
+                "stop_seq": 1800,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6765264224301,
+                    45.577144895388535
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 3451,
+                "stop_name": "N Lombard & Mississippi",
+                "stop_seq": 1850,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66147895534958,
+                    45.57465588547211
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 10494,
+                "stop_name": "NE M L King & Morgan",
+                "stop_seq": 2180,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6562490494086,
+                    45.57171465486136
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 1265,
+                "stop_name": "NE Dekum & Durham",
+                "stop_seq": 2350,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65017827009518,
+                    45.57181130535895
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 1278,
+                "stop_name": "NE Dekum & 15th",
+                "stop_seq": 2500,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64148320020736,
+                    45.571820427687804
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 1284,
+                "stop_name": "NE Dekum & 24th",
+                "stop_seq": 2650,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6205283952655,
+                    45.56822734669772
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7517,
+                "stop_name": "NE 42nd & Holman",
+                "stop_seq": 3150,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62053588284344,
+                    45.565051899448406
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7532,
+                "stop_name": "NE 42nd & Simpson St",
+                "stop_seq": 3250,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62048104799864,
+                    45.56302237497467
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7519,
+                "stop_name": "NE 42nd & Killingsworth",
+                "stop_seq": 3300,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62050616158095,
+                    45.56032545877357
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7536,
+                "stop_name": "NE 42nd & Sumner",
+                "stop_seq": 3350,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62049305273676,
+                    45.55539092170591
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7525,
+                "stop_name": "NE 42nd & Prescott",
+                "stop_seq": 3500,
+                "type": "BUS",
+                "zipcode": "97218"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62049867378525,
+                    45.55378718342729
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7534,
+                "stop_name": "NE 42nd & Skidmore",
+                "stop_seq": 3550,
+                "type": "BUS",
+                "zipcode": "97218"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62046341616708,
+                    45.55188057837357
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7530,
+                "stop_name": "NE 42nd & Shaver",
+                "stop_seq": 3600,
+                "type": "BUS",
+                "zipcode": "97212"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62087308930857,
+                    45.547047164946136
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7500,
+                "stop_name": "NE 41st & Klickitat",
+                "stop_seq": 3750,
+                "type": "BUS",
+                "zipcode": "97212"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62175250456569,
+                    45.54477751594553
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7498,
+                "stop_name": "NE 41st & Wistaria",
+                "stop_seq": 3800,
+                "type": "BUS",
+                "zipcode": "97212"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62001052923655,
+                    45.54219177614009
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7522,
+                "stop_name": "NE 42nd & Knott",
+                "stop_seq": 3850,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6200008225495,
+                    45.5406567315339
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7508,
+                "stop_name": "NE 42nd & Brazee",
+                "stop_seq": 3900,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62002247307223,
+                    45.53787102854405
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7538,
+                "stop_name": "NE 42nd & Tillamook",
+                "stop_seq": 3950,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62039279855749,
+                    45.534765421784826
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7510,
+                "stop_name": "NE 42nd & Broadway",
+                "stop_seq": 4050,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62309479382547,
+                    45.52880028424427
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7483,
+                "stop_name": "NE Cesar Chavez Blvd & Royal Ct",
+                "stop_seq": 4250,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6231528778038,
+                    45.52180723138703
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7436,
+                "stop_name": "SE Cesar Chavez Blvd & Ash",
+                "stop_seq": 4400,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62305136326509,
+                    45.51663900560261
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7438,
+                "stop_name": "SE Cesar Chavez Blvd & Belmont",
+                "stop_seq": 4550,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62303972427884,
+                    45.513868689477746
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7473,
+                "stop_name": "SE Cesar Chavez Blvd & Main",
+                "stop_seq": 4650,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62281662200319,
+                    45.50816151503522
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7469,
+                "stop_name": "SE Cesar Chavez Blvd  & Lincoln",
+                "stop_seq": 4800,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62270656915605,
+                    45.50345047095932
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7443,
+                "stop_name": "SE Cesar Chavez Blvd & Clinton",
+                "stop_seq": 4950,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62272554759899,
+                    45.500565085426416
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7493,
+                "stop_name": "SE Cesar Chavez Blvd & Tibbetts",
+                "stop_seq": 5000,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62275053480464,
+                    45.493431228747
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7450,
+                "stop_name": "SE Cesar Chavez Blvd & Gladstone",
+                "stop_seq": 5200,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62274589016121,
+                    45.49174664416779
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7444,
+                "stop_name": "SE Cesar Chavez Blvd & Cora",
+                "stop_seq": 5250,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6229704201818,
+                    45.48940415941026
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7470,
+                "stop_name": "SE Cesar Chavez Blvd & Long",
+                "stop_seq": 5400,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62274160906655,
+                    45.486368621366736
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7479,
+                "stop_name": "SE Cesar Chavez Blvd & Raymond",
+                "stop_seq": 5450,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62070965315269,
+                    45.479118088551004
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 6411,
+                "stop_name": "SE Woodstock & 41st",
+                "stop_seq": 5700,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61862115166416,
+                    45.479089087489996
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 6413,
+                "stop_name": "SE Woodstock & 43rd",
+                "stop_seq": 5750,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61553840287874,
+                    45.47638819894565
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7564,
+                "stop_name": "SE 46th & Henry",
+                "stop_seq": 5900,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6157799124413,
+                    45.463043519181724
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7546,
+                "stop_name": "SE 45th & Harney",
+                "stop_seq": 6445,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61606515954873,
+                    45.46798778073452
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7556,
+                "stop_name": "SE 45th & Rex",
+                "stop_seq": 6450,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61598884425153,
+                    45.46527978876882
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7561,
+                "stop_name": "SE 45th & 46th/Nehalem",
+                "stop_seq": 6500,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61596660401952,
+                    45.46307942410557
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7548,
+                "stop_name": "SE 45th & Harney St",
+                "stop_seq": 6550,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6333535801763,
+                    45.44659236769553
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Milwaukie",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 2573,
+                "stop_name": "SE Harrison & 29th",
+                "stop_seq": 7600,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63570942703355,
+                    45.44651539657457
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Milwaukie",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 2571,
+                "stop_name": "2700 Block SE Harrison",
+                "stop_seq": 7650,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76243529568627,
+                    45.60215277040229
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 10697,
+                "stop_name": "Pier Park",
+                "stop_seq": 125,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76145938311146,
+                    45.59812365443458
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 9575,
+                "stop_name": "N Lombard & Reno",
+                "stop_seq": 160,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75597434812003,
+                    45.59118357477404
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 3456,
+                "stop_name": "N Lombard & Baltimore",
+                "stop_seq": 250,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75306525555227,
+                    45.58959037571382
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 3508,
+                "stop_name": "N Lombard & John",
+                "stop_seq": 350,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73920516470984,
+                    45.58704157231502
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 3503,
+                "stop_name": "N Lombard & Ida",
+                "stop_seq": 650,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72598525860032,
+                    45.58309235143301
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 3559,
+                "stop_name": "N Lombard & Van Houten",
+                "stop_seq": 900,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71932327015055,
+                    45.580675211645854
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 3511,
+                "stop_name": "N Lombard & Jordan",
+                "stop_seq": 1050,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69777053913602,
+                    45.57705685858144
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 3563,
+                "stop_name": "N Lombard & Villard",
+                "stop_seq": 1450,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69256357287561,
+                    45.577051716994205
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 3484,
+                "stop_name": "N Lombard & Delaware",
+                "stop_seq": 1550,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6854342030475,
+                    45.57704974656658
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 3489,
+                "stop_name": "N Lombard & Fenwick",
+                "stop_seq": 1700,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67436577919109,
+                    45.57713294813725
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 3453,
+                "stop_name": "N Lombard & Albina",
+                "stop_seq": 1900,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66146563966261,
+                    45.5759651884204
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 5919,
+                "stop_name": "NE M L King & Holland",
+                "stop_seq": 2150,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65271713430974,
+                    45.571703456217534
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 1264,
+                "stop_name": "NE Dekum & Dean",
+                "stop_seq": 2450,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6432248123188,
+                    45.571799785177504
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 1283,
+                "stop_name": "NE Dekum & 22nd",
+                "stop_seq": 2600,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6204767428029,
+                    45.533166026514834
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 10868,
+                "stop_name": "Hollywood Transit Center",
+                "stop_seq": 4100,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63871990636524,
+                    45.57181190595555
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 1286,
+                "stop_name": "NE Dekum & 27th",
+                "stop_seq": 2750,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62307864781584,
+                    45.531849077348824
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7494,
+                "stop_name": "NE Cesar Chavez Blvd & Wasco",
+                "stop_seq": 4150,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62311615963169,
+                    45.52370743127832
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7441,
+                "stop_name": "NE Cesar Chavez Blvd & E Burnside",
+                "stop_seq": 4350,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62313831214975,
+                    45.51947008733564
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7486,
+                "stop_name": "SE Cesar Chavez Blvd & Stark",
+                "stop_seq": 4450,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62302154186756,
+                    45.515104077405276
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7492,
+                "stop_name": "SE Cesar Chavez Blvd & Taylor",
+                "stop_seq": 4600,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62296386156058,
+                    45.51218475867732
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7460,
+                "stop_name": "SE Cesar Chavez Blvd & Hawthorne",
+                "stop_seq": 4700,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.622720536351,
+                    45.49924205743948
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7448,
+                "stop_name": "SE Cesar Chavez Blvd & Franklin",
+                "stop_seq": 5050,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62276577871226,
+                    45.4948522957379
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7447,
+                "stop_name": "SE Cesar Chavez Blvd & Francis",
+                "stop_seq": 5150,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6228374714354,
+                    45.49046804517259
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7463,
+                "stop_name": "SE Cesar Chavez Blvd & Holgate",
+                "stop_seq": 5300,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.622757339841,
+                    45.48483887658067
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7488,
+                "stop_name": "SE Cesar Chavez Blvd & Steele",
+                "stop_seq": 5500,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62273374652027,
+                    45.48002217135165
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7466,
+                "stop_name": "SE Cesar Chavez Blvd & Knight",
+                "stop_seq": 5650,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61565838304836,
+                    45.479124800215715
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 6415,
+                "stop_name": "SE Woodstock & 46th",
+                "stop_seq": 5800,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61611386235487,
+                    45.47364504439818
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7543,
+                "stop_name": "SE 45th & Evergreen",
+                "stop_seq": 6000,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61606571973091,
+                    45.47058297213468
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7551,
+                "stop_name": "SE 45th & Knapp",
+                "stop_seq": 6100,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61602924666613,
+                    45.466505405571446
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 8678,
+                "stop_name": "SE 45th & Lexington",
+                "stop_seq": 6475,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63027009765193,
+                    45.446659060633515
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Milwaukie",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 2574,
+                "stop_name": "SE Harrison & 31st",
+                "stop_seq": 7550,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63804474348252,
+                    45.44646906247201
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Milwaukie",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 2570,
+                "stop_name": "SE Harrison & 24th",
+                "stop_seq": 7700,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75171778616858,
+                    45.589156458802826
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 3474,
+                "stop_name": "N Lombard & Charleston",
+                "stop_seq": 400,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72379161046119,
+                    45.5823068010243
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 3537,
+                "stop_name": "N Lombard & Portsmouth",
+                "stop_seq": 950,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66462884171462,
+                    45.57713642591011
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 3547,
+                "stop_name": "NE Lombard & Rodney",
+                "stop_seq": 2050,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63565971430445,
+                    45.57182491364416
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 1288,
+                "stop_name": "NE Dekum & 29th",
+                "stop_seq": 2800,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62049068162914,
+                    45.558367739890414
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7504,
+                "stop_name": "NE 42nd & Alberta Ct",
+                "stop_seq": 3400,
+                "type": "BUS",
+                "zipcode": "97218"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62046731284363,
+                    45.55038864859539
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7511,
+                "stop_name": "NE 42nd & Failing",
+                "stop_seq": 3650,
+                "type": "BUS",
+                "zipcode": "97212"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62001644990171,
+                    45.53621793141777
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7527,
+                "stop_name": "NE 42nd & Sandy",
+                "stop_seq": 4000,
+                "type": "BUS",
+                "zipcode": "97212"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62308858019556,
+                    45.51795297507116
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7434,
+                "stop_name": "SE Cesar Chavez Blvd & Alder",
+                "stop_seq": 4500,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74634648935785,
+                    45.588771431318634
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 3554,
+                "stop_name": "N Lombard & Tyler",
+                "stop_seq": 500,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62999647863825,
+                    45.45440646370144
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Milwaukie",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7351,
+                "stop_name": "SE 32nd & Olsen",
+                "stop_seq": 7200,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62987665347305,
+                    45.45139667904722
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Milwaukie",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7340,
+                "stop_name": "SE 32nd & Harvey",
+                "stop_seq": 7300,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62987630385607,
+                    45.45006550779479
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Milwaukie",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7342,
+                "stop_name": "SE 32nd & Hillside",
+                "stop_seq": 7350,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62982023932173,
+                    45.44863105396789
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Milwaukie",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7349,
+                "stop_name": "SE 32nd & Meek",
+                "stop_seq": 7400,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72985439504362,
+                    45.58452193223755
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 3570,
+                "stop_name": "N Lombard & Wall",
+                "stop_seq": 850,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68744108451368,
+                    45.57705210391497
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 3486,
+                "stop_name": "N Lombard & Denver",
+                "stop_seq": 1650,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64677620061008,
+                    45.5718120968497
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 1281,
+                "stop_name": "NE Dekum & 18th",
+                "stop_seq": 2550,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62043504916625,
+                    45.54854187925377
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7512,
+                "stop_name": "NE 42nd & Fremont",
+                "stop_seq": 3700,
+                "type": "BUS",
+                "zipcode": "97212"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62272059920988,
+                    45.49754195356008
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7476,
+                "stop_name": "SE Cesar Chavez Blvd & Powell",
+                "stop_seq": 5100,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61609788251523,
+                    45.471955188596475
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7558,
+                "stop_name": "SE 45th & Rural",
+                "stop_seq": 6050,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7595927276836,
+                    45.59492817036583
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 9435,
+                "stop_name": "N Lombard & Catlin",
+                "stop_seq": 200,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62355551345179,
+                    45.526428597994105
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7452,
+                "stop_name": "NE Cesar Chavez Blvd & Glisan",
+                "stop_seq": 4300,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61688333948388,
+                    45.461757938411814
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 3080,
+                "stop_name": "SE Johnson Creek & Springwater Corridor",
+                "stop_seq": 6650,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62593362935755,
+                    45.4620817165252
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 3082,
+                "stop_name": "SE Johnson Creek & 36th",
+                "stop_seq": 6900,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63002924565095,
+                    45.45606342624725
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Milwaukie",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7347,
+                "stop_name": "SE 32nd & Malcolm",
+                "stop_seq": 7150,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6171720667132,
+                    45.46045720027855
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Milwaukie",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 3078,
+                "stop_name": "SE Johnson Creek & Brookside",
+                "stop_seq": 6750,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62042012810659,
+                    45.46045361317762
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Milwaukie",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 3076,
+                "stop_name": "SE Johnson Creek & 42nd",
+                "stop_seq": 6800,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6300434887211,
+                    45.46022643238975
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Milwaukie",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 8301,
+                "stop_name": "SE 32nd & Van Water",
+                "stop_seq": 7000,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63004910983571,
+                    45.45784496341744
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Milwaukie",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7334,
+                "stop_name": "SE 32nd & Floss",
+                "stop_seq": 7100,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63090660532467,
+                    45.57184060889676
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 1290,
+                "stop_name": "NE Dekum & 33rd",
+                "stop_seq": 2850,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62828492818922,
+                    45.57310614746071
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 1100,
+                "stop_name": "3500 Block NE Columbia Blvd",
+                "stop_seq": 2900,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62326033144761,
+                    45.572225582161536
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 1102,
+                "stop_name": "3800 Block NE Columbia Blvd",
+                "stop_seq": 2950,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61938022996766,
+                    45.57142716800926
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 1117,
+                "stop_name": "NE Columbia Blvd & 42nd",
+                "stop_seq": 3000,
+                "type": "BUS",
+                "zipcode": "97218"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61513339752348,
+                    45.570714584424785
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 1118,
+                "stop_name": "NE Columbia Blvd & 47th",
+                "stop_seq": 3050,
+                "type": "BUS",
+                "zipcode": "97218"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76263210203687,
+                    45.60004796857347
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 9436,
+                "stop_name": "10200 Block N Lombard",
+                "stop_seq": 150,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.702950172611,
+                    45.57705970870642
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 3564,
+                "stop_name": "N Lombard & Wabash",
+                "stop_seq": 1350,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62285036119567,
+                    45.50957057554495
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7490,
+                "stop_name": "SE Cesar Chavez Blvd & Stephens",
+                "stop_seq": 4750,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62271560675705,
+                    45.48286839745955
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7457,
+                "stop_name": "SE Cesar Chavez Blvd & Harold",
+                "stop_seq": 5550,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71377402004738,
+                    45.578618838166015
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 3578,
+                "stop_name": "N Lombard & Woolsey",
+                "stop_seq": 1150,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66860271796764,
+                    45.57712853186812
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 3562,
+                "stop_name": "N Lombard & Vancouver",
+                "stop_seq": 2000,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65945851351357,
+                    45.571718957592026
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 1293,
+                "stop_name": "NE Dekum & 6th",
+                "stop_seq": 2300,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62274247349617,
+                    45.50494306823401
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7446,
+                "stop_name": "SE Cesar Chavez Blvd & Division",
+                "stop_seq": 4900,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61005813512432,
+                    45.57022369492333
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 11009,
+                "stop_name": "NE Columbia Blvd & 52nd (NAYA)",
+                "stop_seq": 3075,
+                "type": "BUS",
+                "zipcode": "97218"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66156430357441,
+                    45.57709936233693
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 3558,
+                "stop_name": "NE Lombard & M L King",
+                "stop_seq": 2100,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6614899977875,
+                    45.57339135433153
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 5900,
+                "stop_name": "NE M L King & Bryant",
+                "stop_seq": 2200,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

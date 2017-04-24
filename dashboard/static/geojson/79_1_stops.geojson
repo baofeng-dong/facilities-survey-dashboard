@@ -1,0 +1,885 @@
+{
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58584479884495,
+                    45.398720413622186
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 79,
+                "rte_desc": "79-Clackamas/Oregon City",
+                "stop_id": 8764,
+                "stop_name": "17100 Block SE Webster",
+                "stop_seq": 900,
+                "type": "BUS",
+                "zipcode": "97027"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58545374852997,
+                    45.40082980689824
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 79,
+                "rte_desc": "79-Clackamas/Oregon City",
+                "stop_id": 6210,
+                "stop_name": "SE Webster & Strawberry",
+                "stop_seq": 950,
+                "type": "BUS",
+                "zipcode": "97027"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58140013721676,
+                    45.40034257627497
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 79,
+                "rte_desc": "79-Clackamas/Oregon City",
+                "stop_id": 5539,
+                "stop_name": "SE Strawberry & Stanhelma",
+                "stop_seq": 1000,
+                "type": "BUS",
+                "zipcode": "97027"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57875544363229,
+                    45.39947041391262
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 79,
+                "rte_desc": "79-Clackamas/Oregon City",
+                "stop_id": 5542,
+                "stop_name": "SE Strawberry & Wiles Ct",
+                "stop_seq": 1050,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57528548134778,
+                    45.39830068566452
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 79,
+                "rte_desc": "79-Clackamas/Oregon City",
+                "stop_id": 5537,
+                "stop_name": "SE Strawberry & Cason",
+                "stop_seq": 1100,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57212867829676,
+                    45.39679991505774
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 79,
+                "rte_desc": "79-Clackamas/Oregon City",
+                "stop_id": 5543,
+                "stop_name": "SE Strawberry & 82nd Dr",
+                "stop_seq": 1150,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5699357194416,
+                    45.39823366475929
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 79,
+                "rte_desc": "79-Clackamas/Oregon City",
+                "stop_id": 8070,
+                "stop_name": "SE 82nd Dr & Scotts Tree Way",
+                "stop_seq": 1200,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56899068996475,
+                    45.401137597773676
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 79,
+                "rte_desc": "79-Clackamas/Oregon City",
+                "stop_id": 8084,
+                "stop_name": "16700 Block SE 82nd Dr",
+                "stop_seq": 1250,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56879520185497,
+                    45.40283255328512
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 79,
+                "rte_desc": "79-Clackamas/Oregon City",
+                "stop_id": 8430,
+                "stop_name": "16500 Block SE 82nd Dr",
+                "stop_seq": 1300,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56873881917961,
+                    45.40590766052727
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 79,
+                "rte_desc": "79-Clackamas/Oregon City",
+                "stop_id": 8073,
+                "stop_name": "SE 82nd Dr & Greenhouse Square",
+                "stop_seq": 1350,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56872387378675,
+                    45.40845457195801
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 79,
+                "rte_desc": "79-Clackamas/Oregon City",
+                "stop_id": 8079,
+                "stop_name": "15900 Block SE 82nd Dr",
+                "stop_seq": 1400,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56826568992233,
+                    45.41046780184183
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 79,
+                "rte_desc": "79-Clackamas/Oregon City",
+                "stop_id": 8071,
+                "stop_name": "SE 82nd Dr & Clackamas",
+                "stop_seq": 1450,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56811995957085,
+                    45.41288818688067
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 79,
+                "rte_desc": "79-Clackamas/Oregon City",
+                "stop_id": 8083,
+                "stop_name": "SE 82nd Dr & Tolbert",
+                "stop_seq": 1500,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56894221518772,
+                    45.41471248164412
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 79,
+                "rte_desc": "79-Clackamas/Oregon City",
+                "stop_id": 8076,
+                "stop_name": "SE 82nd Dr & Jannsen",
+                "stop_seq": 1550,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57897248212645,
+                    45.430730158317104
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 79,
+                "rte_desc": "79-Clackamas/Oregon City",
+                "stop_id": 11251,
+                "stop_name": "SE 82nd & Sunnybrook",
+                "stop_seq": 1700,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57903500585113,
+                    45.432960415648154
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 79,
+                "rte_desc": "79-Clackamas/Oregon City",
+                "stop_id": 8049,
+                "stop_name": "SE 82nd & Sunnyside",
+                "stop_seq": 1750,
+                "type": "BUS",
+                "zipcode": "97086"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57891625796287,
+                    45.43576731287487
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 79,
+                "rte_desc": "79-Clackamas/Oregon City",
+                "stop_id": 8005,
+                "stop_name": "SE 82nd & McBride",
+                "stop_seq": 1800,
+                "type": "BUS",
+                "zipcode": "97086"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57331242700954,
+                    45.437310329219926
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 79,
+                "rte_desc": "79-Clackamas/Oregon City",
+                "stop_id": 12921,
+                "stop_name": "Clackamas Town Center Mall",
+                "stop_seq": 1850,
+                "type": "BUS",
+                "zipcode": "97086"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56813401888509,
+                    45.43555507416447
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 79,
+                "rte_desc": "79-Clackamas/Oregon City",
+                "stop_id": 13247,
+                "stop_name": "Clackamas Town Center TC",
+                "stop_seq": 1900,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56870745294738,
+                    45.43566941948304
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 79,
+                "rte_desc": "79-Clackamas/Oregon City",
+                "stop_id": 13248,
+                "stop_name": "Clackamas Town Center Transit Center",
+                "stop_seq": 2000,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57184415263113,
+                    45.418227487241566
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 79,
+                "rte_desc": "79-Clackamas/Oregon City",
+                "stop_id": 8074,
+                "stop_name": "SE 82nd Dr & Enoch Ct",
+                "stop_seq": 1625,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59135201039014,
+                    45.38122674973725
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Gladstone",
+                "rte": 79,
+                "rte_desc": "79-Clackamas/Oregon City",
+                "stop_id": 1257,
+                "stop_name": "E Dartmouth & Harvard",
+                "stop_seq": 400,
+                "type": "BUS",
+                "zipcode": "97027"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60468885893248,
+                    45.36016916537092
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Oregon City",
+                "rte": 79,
+                "rte_desc": "79-Clackamas/Oregon City",
+                "stop_id": 8760,
+                "stop_name": "Oregon City Transit Center",
+                "stop_seq": 50,
+                "type": "BUS",
+                "zipcode": "97045"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60089455755612,
+                    45.368796888100604
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Oregon City",
+                "rte": 79,
+                "rte_desc": "79-Clackamas/Oregon City",
+                "stop_id": 3842,
+                "stop_name": "McLoughlin & Oregon City Shopping Center",
+                "stop_seq": 100,
+                "type": "BUS",
+                "zipcode": "97045"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5988227225736,
+                    45.37643552741815
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Gladstone",
+                "rte": 79,
+                "rte_desc": "79-Clackamas/Oregon City",
+                "stop_id": 121,
+                "stop_name": "W Arlington & Barton",
+                "stop_seq": 150,
+                "type": "BUS",
+                "zipcode": "97027"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5969646611402,
+                    45.37706081919687
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Gladstone",
+                "rte": 79,
+                "rte_desc": "79-Clackamas/Oregon City",
+                "stop_id": 123,
+                "stop_name": "W Arlington & Beatrice",
+                "stop_seq": 200,
+                "type": "BUS",
+                "zipcode": "97027"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.595057117196,
+                    45.37769965961322
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Gladstone",
+                "rte": 79,
+                "rte_desc": "79-Clackamas/Oregon City",
+                "stop_id": 125,
+                "stop_name": "W Arlington & Bellevue",
+                "stop_seq": 250,
+                "type": "BUS",
+                "zipcode": "97027"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59341834857524,
+                    45.378220625012496
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Gladstone",
+                "rte": 79,
+                "rte_desc": "79-Clackamas/Oregon City",
+                "stop_id": 136,
+                "stop_name": "W Arlington & Portland Ave",
+                "stop_seq": 300,
+                "type": "BUS",
+                "zipcode": "97027"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59439892227424,
+                    45.380174163926476
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Gladstone",
+                "rte": 79,
+                "rte_desc": "79-Clackamas/Oregon City",
+                "stop_id": 4463,
+                "stop_name": "Portland Ave & E Dartmouth",
+                "stop_seq": 350,
+                "type": "BUS",
+                "zipcode": "97027"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58816839404788,
+                    45.3822903506379
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Gladstone",
+                "rte": 79,
+                "rte_desc": "79-Clackamas/Oregon City",
+                "stop_id": 1255,
+                "stop_name": "E Dartmouth & Cornell",
+                "stop_seq": 450,
+                "type": "BUS",
+                "zipcode": "97027"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58390586136665,
+                    45.384331970973214
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Gladstone",
+                "rte": 79,
+                "rte_desc": "79-Clackamas/Oregon City",
+                "stop_id": 10700,
+                "stop_name": "Oatfield & E Exeter",
+                "stop_seq": 500,
+                "type": "BUS",
+                "zipcode": "97027"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58495944768525,
+                    45.38647109717385
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Gladstone",
+                "rte": 79,
+                "rte_desc": "79-Clackamas/Oregon City",
+                "stop_id": 13252,
+                "stop_name": "Oatfield & E Hereford",
+                "stop_seq": 550,
+                "type": "BUS",
+                "zipcode": "97027"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58529959230792,
+                    45.38823060750014
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Gladstone",
+                "rte": 79,
+                "rte_desc": "79-Clackamas/Oregon City",
+                "stop_id": 13459,
+                "stop_name": "Webster & Oatfield",
+                "stop_seq": 600,
+                "type": "BUS",
+                "zipcode": "97027"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58395676705683,
+                    45.38992816978292
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Gladstone",
+                "rte": 79,
+                "rte_desc": "79-Clackamas/Oregon City",
+                "stop_id": 8763,
+                "stop_name": "Webster & Cason",
+                "stop_seq": 650,
+                "type": "BUS",
+                "zipcode": "97027"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58383649695612,
+                    45.39124591094254
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Gladstone",
+                "rte": 79,
+                "rte_desc": "79-Clackamas/Oregon City",
+                "stop_id": 6196,
+                "stop_name": "18000 Block Webster",
+                "stop_seq": 700,
+                "type": "BUS",
+                "zipcode": "97027"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58361246651688,
+                    45.39334572102076
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Gladstone",
+                "rte": 79,
+                "rte_desc": "79-Clackamas/Oregon City",
+                "stop_id": 6208,
+                "stop_name": "Webster & Kirkwood",
+                "stop_seq": 750,
+                "type": "BUS",
+                "zipcode": "97027"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58496567487614,
+                    45.39509042689588
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Gladstone",
+                "rte": 79,
+                "rte_desc": "79-Clackamas/Oregon City",
+                "stop_id": 6197,
+                "stop_name": "17700 Block Webster",
+                "stop_seq": 800,
+                "type": "BUS",
+                "zipcode": "97027"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58564657898823,
+                    45.397111261346815
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Gladstone",
+                "rte": 79,
+                "rte_desc": "79-Clackamas/Oregon City",
+                "stop_id": 6190,
+                "stop_name": "Webster & Charolais",
+                "stop_seq": 850,
+                "type": "BUS",
+                "zipcode": "97027"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

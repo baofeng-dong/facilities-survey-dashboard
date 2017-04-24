@@ -1,0 +1,2288 @@
+{
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53408116618886,
+                    45.53344355994658
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2368,
+                "stop_name": "NE Halsey & 126th",
+                "stop_seq": 4000,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.52740145203933,
+                    45.533399670821694
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2374,
+                "stop_name": "NE Halsey & 131st Pl",
+                "stop_seq": 4150,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.49611128009374,
+                    45.53409081716261
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2396,
+                "stop_name": "NE Halsey & 162nd",
+                "stop_seq": 4700,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.4898817778521,
+                    45.534255814745585
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2397,
+                "stop_name": "NE Halsey & 168th Pl",
+                "stop_seq": 4800,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.4663790237053,
+                    45.533592259894775
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2408,
+                "stop_name": "NE Halsey & 192nd",
+                "stop_seq": 5200,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.44238662446884,
+                    45.53374026765336
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Fairview",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2327,
+                "stop_name": "NE Halsey & Market Dr",
+                "stop_seq": 5550,
+                "type": "BUS",
+                "zipcode": "97024"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.43316942181498,
+                    45.5349995229677
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Fairview",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2341,
+                "stop_name": "NE Halsey & Fairview/223rd",
+                "stop_seq": 5700,
+                "type": "BUS",
+                "zipcode": "97024"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.42641095534391,
+                    45.5359723787706
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Wood Village",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2418,
+                "stop_name": "NE Halsey & 230th Ct",
+                "stop_seq": 5800,
+                "type": "BUS",
+                "zipcode": "97060"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6601790893744,
+                    45.53141903586054
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 4042,
+                "stop_name": "NE Multnomah & Grand",
+                "stop_seq": 1100,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.54058004220877,
+                    45.53342906904366
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2364,
+                "stop_name": "NE Halsey & 119th",
+                "stop_seq": 3900,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.50371187770071,
+                    45.53357168413345
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2389,
+                "stop_name": "NE Halsey & 155th",
+                "stop_seq": 4550,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.45603320165546,
+                    45.53338464450761
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Fairview",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2410,
+                "stop_name": "NE Halsey & 201st",
+                "stop_seq": 5350,
+                "type": "BUS",
+                "zipcode": "97024"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.41217069775206,
+                    45.53786071034401
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Wood Village",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2422,
+                "stop_name": "NE Halsey & 244th",
+                "stop_seq": 6050,
+                "type": "BUS",
+                "zipcode": "97060"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5788523727858,
+                    45.533613254019926
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 7999,
+                "stop_name": "NE 82nd & 82nd Ave MAX Stn/I-84",
+                "stop_seq": 2900,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70695134190846,
+                    45.53704293854324
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 8484,
+                "stop_name": "NW 27th & Vaughn at Montgomery Park",
+                "stop_seq": 60,
+                "type": "BUS",
+                "zipcode": "97210"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.42239382174371,
+                    45.53652550817141
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Wood Village",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2330,
+                "stop_name": "23300 Block NE Halsey",
+                "stop_seq": 5850,
+                "type": "BUS",
+                "zipcode": "97060"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6506820835322,
+                    45.53425546468104
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 10425,
+                "stop_name": "NE Weidler & 15th",
+                "stop_seq": 1310,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64868235313902,
+                    45.53426596028501
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 6227,
+                "stop_name": "NE Weidler & 17th",
+                "stop_seq": 1350,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64497553106679,
+                    45.534252084923345
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 6235,
+                "stop_name": "NE Weidler & 21st",
+                "stop_seq": 1450,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64309995089927,
+                    45.53424684240045
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 6237,
+                "stop_name": "NE Weidler & 22nd",
+                "stop_seq": 1500,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64128312029726,
+                    45.534268824658525
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 6239,
+                "stop_name": "NE Weidler & 24th",
+                "stop_seq": 1550,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63867146269502,
+                    45.53507148576591
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 636,
+                "stop_name": "NE Broadway & 26th",
+                "stop_seq": 1600,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6363796669481,
+                    45.5350723797375
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 638,
+                "stop_name": "NE Broadway & 28th",
+                "stop_seq": 1650,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63269911921101,
+                    45.53508016052113
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 642,
+                "stop_name": "NE Broadway & 32nd",
+                "stop_seq": 1750,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62779772743043,
+                    45.535066311481316
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 646,
+                "stop_name": "NE Broadway & 35th",
+                "stop_seq": 1850,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62552183263898,
+                    45.535057702872706
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 648,
+                "stop_name": "NE Broadway & 37th",
+                "stop_seq": 1900,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62022932587499,
+                    45.534967226975105
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 7509,
+                "stop_name": "NE 42nd & Broadway",
+                "stop_seq": 2000,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61761313591727,
+                    45.53506103181989
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 651,
+                "stop_name": "NE Broadway & 44th",
+                "stop_seq": 2050,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61511431428254,
+                    45.53507287960384
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 653,
+                "stop_name": "NE Broadway & 47th",
+                "stop_seq": 2100,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61202746696787,
+                    45.5336834805948
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2426,
+                "stop_name": "NE Halsey & 50th",
+                "stop_seq": 2150,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60905920475336,
+                    45.53366715926566
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2429,
+                "stop_name": "NE Halsey & 53rd",
+                "stop_seq": 2200,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60695224020067,
+                    45.53366344221377
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2430,
+                "stop_name": "NE Halsey & 55th",
+                "stop_seq": 2250,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60169408208091,
+                    45.533651264320305
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2439,
+                "stop_name": "NE Halsey & 60th",
+                "stop_seq": 2350,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59616622690716,
+                    45.533609741040436
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2442,
+                "stop_name": "NE Halsey & 66th",
+                "stop_seq": 2450,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59187374776177,
+                    45.53352912800723
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2446,
+                "stop_name": "NE Halsey & 69th",
+                "stop_seq": 2550,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58704418917719,
+                    45.53351237683462
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2450,
+                "stop_name": "NE Halsey & 74th",
+                "stop_seq": 2700,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58494206746153,
+                    45.5335278251769
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2452,
+                "stop_name": "NE Halsey & 76th",
+                "stop_seq": 2750,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59905619405288,
+                    45.53364117943661
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2440,
+                "stop_name": "NE Halsey & 63rd",
+                "stop_seq": 2400,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.50819687936477,
+                    45.53357093661802
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2320,
+                "stop_name": "NE Halsey & 148th",
+                "stop_seq": 4450,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.46174661818667,
+                    45.533583079401176
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2409,
+                "stop_name": "NE Halsey & 195th",
+                "stop_seq": 5250,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5830398225174,
+                    45.533536221818785
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2454,
+                "stop_name": "NE Halsey & 78th",
+                "stop_seq": 2800,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57920901251478,
+                    45.532371930614325
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 9217,
+                "stop_name": "NE Wasco & 82nd",
+                "stop_seq": 2875,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57456914136073,
+                    45.53347466699711
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2456,
+                "stop_name": "NE Halsey & 86th",
+                "stop_seq": 2950,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57224923690124,
+                    45.53343869843661
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2458,
+                "stop_name": "NE Halsey & 88th",
+                "stop_seq": 3000,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56881490012921,
+                    45.53337339568047
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2460,
+                "stop_name": "NE Halsey & 92nd",
+                "stop_seq": 3050,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.55451814790723,
+                    45.533446579321385
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2356,
+                "stop_name": "10500 Block NE Halsey",
+                "stop_seq": 3600,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.55149585035232,
+                    45.53343111095933
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2357,
+                "stop_name": "NE Halsey & 108th",
+                "stop_seq": 3650,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.54919339954937,
+                    45.533401379459356
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2358,
+                "stop_name": "NE Halsey & 111th",
+                "stop_seq": 3700,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.54469810749374,
+                    45.5333863339654
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2360,
+                "stop_name": "NE Halsey & 114th",
+                "stop_seq": 3800,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53708570514465,
+                    45.53345820902819
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2366,
+                "stop_name": "NE Halsey & 122nd",
+                "stop_seq": 3950,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53126384370795,
+                    45.53342459362839
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2370,
+                "stop_name": "NE Halsey & 128th",
+                "stop_seq": 4050,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.52290113152736,
+                    45.5334710301159
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2378,
+                "stop_name": "NE Halsey & 136th Pl",
+                "stop_seq": 4250,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.50110008643338,
+                    45.53355797356406
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2391,
+                "stop_name": "NE Halsey & 157th",
+                "stop_seq": 4600,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.49805954924186,
+                    45.533582038790136
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2393,
+                "stop_name": "NE Halsey & 160th",
+                "stop_seq": 4650,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.48582710282514,
+                    45.53458076557875
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2400,
+                "stop_name": "NE Halsey & 172nd",
+                "stop_seq": 4850,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.48254670547965,
+                    45.53458396953568
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2322,
+                "stop_name": "NE Halsey & 176th",
+                "stop_seq": 4900,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.47805879603408,
+                    45.53459037342729
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2401,
+                "stop_name": "NE Halsey & 181st",
+                "stop_seq": 5000,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.4493444194712,
+                    45.53333654621809
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Fairview",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 10125,
+                "stop_name": "20700 Block NE Halsey",
+                "stop_seq": 5480,
+                "type": "BUS",
+                "zipcode": "97024"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.4453529602207,
+                    45.53355776511729
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Fairview",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2415,
+                "stop_name": "NE Halsey & Fairview Parkway",
+                "stop_seq": 5500,
+                "type": "BUS",
+                "zipcode": "97024"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.43926744748907,
+                    45.534080811112695
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Fairview",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2436,
+                "stop_name": "NE Halsey & Village St",
+                "stop_seq": 5600,
+                "type": "BUS",
+                "zipcode": "97024"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.42883267437878,
+                    45.53566154109045
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Fairview",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2416,
+                "stop_name": "NE Halsey & 227th",
+                "stop_seq": 5750,
+                "type": "BUS",
+                "zipcode": "97024"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.40646549762214,
+                    45.53860803882963
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Troutdale",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2339,
+                "stop_name": "2100 Block SW Halsey (Edgefield Manor)",
+                "stop_seq": 6100,
+                "type": "BUS",
+                "zipcode": "97060"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.39611715023538,
+                    45.5390494487344
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Troutdale",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2345,
+                "stop_name": "SW Halsey & Halsey Loop",
+                "stop_seq": 6250,
+                "type": "BUS",
+                "zipcode": "97060"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62060366166799,
+                    45.533284156131714
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 10870,
+                "stop_name": "Hollywood Transit Center",
+                "stop_seq": 1950,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60417622937504,
+                    45.53365877663488
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2434,
+                "stop_name": "NE Halsey & 58th",
+                "stop_seq": 2300,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.55857832858578,
+                    45.53344784724867
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 10747,
+                "stop_name": "NE Halsey & 102nd",
+                "stop_seq": 3100,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6536855227081,
+                    45.534275589655124
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 6216,
+                "stop_name": "NE Weidler & Lloyd Center",
+                "stop_seq": 1300,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.47242587843016,
+                    45.533539649281146
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2405,
+                "stop_name": "NE Halsey & 186th",
+                "stop_seq": 5100,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70509128332999,
+                    45.53675484742093
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 8385,
+                "stop_name": "NW Vaughn & 26th",
+                "stop_seq": 70,
+                "type": "BUS",
+                "zipcode": "97210"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6564630581173,
+                    45.53349242517498
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 10866,
+                "stop_name": "NE 9th & Halsey",
+                "stop_seq": 1250,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66599914747802,
+                    45.53071217680414
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 11817,
+                "stop_name": "Rose Quarter Transit Center",
+                "stop_seq": 950,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67259670124608,
+                    45.525224078845824
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 1612,
+                "stop_name": "NW Everett & 2nd",
+                "stop_seq": 900,
+                "type": "BUS",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58932620205951,
+                    45.53351997340051
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2448,
+                "stop_name": "NE Halsey & 72nd",
+                "stop_seq": 2650,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.51563190546986,
+                    45.533571328654304
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2383,
+                "stop_name": "NE Halsey & 143rd",
+                "stop_seq": 4350,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.41764240746875,
+                    45.537109084789755
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Wood Village",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2421,
+                "stop_name": "NE Halsey & 238th",
+                "stop_seq": 5900,
+                "type": "BUS",
+                "zipcode": "97060"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.40055786494071,
+                    45.53889003016914
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Troutdale",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 10598,
+                "stop_name": "SW Halsey & Edgefield Meadows",
+                "stop_seq": 6200,
+                "type": "BUS",
+                "zipcode": "97060"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.45902948576392,
+                    45.53358003027483
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2353,
+                "stop_name": "NE Halsey & Wasco",
+                "stop_seq": 5300,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.51939153735654,
+                    45.53352678549999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2380,
+                "stop_name": "NE Halsey & 140th",
+                "stop_seq": 4300,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.51308638399091,
+                    45.53356168264188
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2385,
+                "stop_name": "NE Halsey & 146th",
+                "stop_seq": 4400,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.39036001263457,
+                    45.543490981510615
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Troutdale",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 9470,
+                "stop_name": "NW 257th/Graham & 257th Way",
+                "stop_seq": 6350,
+                "type": "BUS",
+                "zipcode": "97060"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.39104533174661,
+                    45.54544239045561
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Troutdale",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 10758,
+                "stop_name": "NW 257th/Graham & North Frontage Rd",
+                "stop_seq": 6400,
+                "type": "BUS",
+                "zipcode": "97060"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.39651831271716,
+                    45.54549469908308
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Troutdale",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 9472,
+                "stop_name": "900 Block NW North Frontage Rd",
+                "stop_seq": 6450,
+                "type": "BUS",
+                "zipcode": "97060"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.39819242931989,
+                    45.54428711424827
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Troutdale",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 9481,
+                "stop_name": "1100 Block NW Frontage Rd",
+                "stop_seq": 6500,
+                "type": "BUS",
+                "zipcode": "97060"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.39039809755546,
+                    45.54123718777184
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Troutdale",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 13532,
+                "stop_name": "NW 257th/Graham & W Columbia River Hwy",
+                "stop_seq": 6300,
+                "type": "BUS",
+                "zipcode": "97060"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66319713483732,
+                    45.53082489783579
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 13708,
+                "stop_name": "NE Multnomah & 2nd",
+                "stop_seq": 1000,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70095166652968,
+                    45.53680313313323
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 6013,
+                "stop_name": "NW Vaughn & 24th",
+                "stop_seq": 100,
+                "type": "BUS",
+                "zipcode": "97210"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69466025542826,
+                    45.53138729031537
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 7127,
+                "stop_name": "NW 21st & Northrup",
+                "stop_seq": 300,
+                "type": "BUS",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69462839146934,
+                    45.529970404177675
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 7121,
+                "stop_name": "NW 21st & Lovejoy",
+                "stop_seq": 350,
+                "type": "BUS",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69453864839615,
+                    45.52782209736675
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 7114,
+                "stop_name": "NW 21st & Irving",
+                "stop_seq": 400,
+                "type": "BUS",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69450291651951,
+                    45.526411536035276
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 7112,
+                "stop_name": "NW 21st & Glisan",
+                "stop_seq": 450,
+                "type": "BUS",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69398005053941,
+                    45.52483676972233
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 1615,
+                "stop_name": "NW Everett & 21st",
+                "stop_seq": 500,
+                "type": "BUS",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69050135013181,
+                    45.524899854799756
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 1611,
+                "stop_name": "NW Everett & 19th",
+                "stop_seq": 550,
+                "type": "BUS",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68541475788382,
+                    45.52497790173467
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 1608,
+                "stop_name": "NW Everett & 14th",
+                "stop_seq": 600,
+                "type": "BUS",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68189283436183,
+                    45.52505058284847
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 1607,
+                "stop_name": "NW Everett & 11th",
+                "stop_seq": 650,
+                "type": "BUS",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67928981733452,
+                    45.525095602641066
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 8402,
+                "stop_name": "NW Everett & Park",
+                "stop_seq": 700,
+                "type": "BUS",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67766374893353,
+                    45.52511206050793
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 1606,
+                "stop_name": "NW Everett & Broadway",
+                "stop_seq": 750,
+                "type": "BUS",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67562192275052,
+                    45.52518244849463
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 8886,
+                "stop_name": "NW Everett & 5th",
+                "stop_seq": 800,
+                "type": "BUS",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6969509480733,
+                    45.53547307883705
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 7168,
+                "stop_name": "NW Thurman & 22nd",
+                "stop_seq": 175,
+                "type": "BUS",
+                "zipcode": "97210"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69477060082109,
+                    45.53354505064799
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Troutdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 7132,
+                "stop_name": "NW 21st & Quimby",
+                "stop_seq": 250,
+                "type": "BUS",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,1897 @@
+{
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59944425500868,
+                    45.483090822779296
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 2549,
+                "stop_name": "SE Harold & 62nd",
+                "stop_seq": 2075,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56878963147199,
+                    45.479066485406875
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 6427,
+                "stop_name": "SE Woodstock & 92nd",
+                "stop_seq": 125,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57075763363363,
+                    45.48230618528073
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 13757,
+                "stop_name": "SE Ellis & 89th",
+                "stop_seq": 1562,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56624631178272,
+                    45.479259380523075
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 1831,
+                "stop_name": "SE Foster & 94th (I-205 Overpass)",
+                "stop_seq": 50,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56749666283287,
+                    45.479585849998564
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 13236,
+                "stop_name": "SE Foster & 94th",
+                "stop_seq": 100,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56612132476042,
+                    45.478268697229744
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 6398,
+                "stop_name": "SE Woodstock & 94th (I-205 West End)",
+                "stop_seq": 150,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5600253851465,
+                    45.477187810828376
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 1779,
+                "stop_name": "SE Foster & 101st",
+                "stop_seq": 200,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.55659246467133,
+                    45.476537743387
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 1772,
+                "stop_name": "SE Foster & 103rd",
+                "stop_seq": 250,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.55283432470806,
+                    45.47584309729975
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 1782,
+                "stop_name": "SE Foster & 107th",
+                "stop_seq": 300,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.54872233271459,
+                    45.47600754900719
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 1784,
+                "stop_name": "SE Foster & 110th Dr",
+                "stop_seq": 350,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.54360797779901,
+                    45.476337440100835
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 1773,
+                "stop_name": "11600 Block SE Foster",
+                "stop_seq": 400,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53995771447691,
+                    45.47640312146021
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 1766,
+                "stop_name": "SE Foster & 120th",
+                "stop_seq": 450,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60200978774195,
+                    45.48308183653458
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 2547,
+                "stop_name": "SE Harold & 60th",
+                "stop_seq": 2100,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60510092824485,
+                    45.483106602610675
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 2545,
+                "stop_name": "SE Harold & 57th",
+                "stop_seq": 2150,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60910455530093,
+                    45.484750866771925
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 5535,
+                "stop_name": "SE Steele & 52nd",
+                "stop_seq": 2250,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61174662595819,
+                    45.48475140188606
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 5533,
+                "stop_name": "SE Steele & 50th",
+                "stop_seq": 2300,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61737020388946,
+                    45.48475819966539
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 5530,
+                "stop_name": "SE Steele & 44th",
+                "stop_seq": 2400,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62032188765048,
+                    45.48475419229331
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 5527,
+                "stop_name": "SE Steele & 41st",
+                "stop_seq": 2500,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62246619457436,
+                    45.484785283306174
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 5525,
+                "stop_name": "SE Steele & Cesar Chavez Blvd",
+                "stop_seq": 2550,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62609148207788,
+                    45.48478438026586
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 5523,
+                "stop_name": "SE Steele & 36th Pl",
+                "stop_seq": 2600,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62867840829917,
+                    45.48478036765926
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 5521,
+                "stop_name": "SE Steele & 34th",
+                "stop_seq": 2650,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63179363942677,
+                    45.48478119629382
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 5518,
+                "stop_name": "SE Steele & 32nd",
+                "stop_seq": 2700,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63507355062342,
+                    45.48478405994441
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 5516,
+                "stop_name": "SE Steele & 30th",
+                "stop_seq": 2750,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6370908270112,
+                    45.48477620654995
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 5517,
+                "stop_name": "SE Steele & 28th",
+                "stop_seq": 2800,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.637421040367,
+                    45.487133317203266
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 7289,
+                "stop_name": "SE 28th & Raymond",
+                "stop_seq": 2850,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63753868890197,
+                    45.49324424528704
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 7277,
+                "stop_name": "SE 28th & Gladstone",
+                "stop_seq": 2950,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63953165228729,
+                    45.49595261145875
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 7231,
+                "stop_name": "SE 26th & Rhone",
+                "stop_seq": 3050,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63954973189128,
+                    45.49856073856616
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 7227,
+                "stop_name": "SE 26th & Powell",
+                "stop_seq": 3100,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63956879375775,
+                    45.50186063142771
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 7234,
+                "stop_name": "SE 26th & Woodward",
+                "stop_seq": 3200,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64265175402323,
+                    45.503448793942304
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 1094,
+                "stop_name": "SE Clinton & 23rd",
+                "stop_seq": 3300,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64441734308349,
+                    45.503447813198136
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 1092,
+                "stop_name": "SE Clinton & 21st",
+                "stop_seq": 3350,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64560252249106,
+                    45.50536397966097
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 3301,
+                "stop_name": "SE Ladd & Division",
+                "stop_seq": 3450,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64726185805878,
+                    45.50679484958487
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 3307,
+                "stop_name": "SE Ladd & Lavender",
+                "stop_seq": 3500,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6511651262439,
+                    45.51020246410776
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 3310,
+                "stop_name": "SE Ladd & Palm",
+                "stop_seq": 3650,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65455492904745,
+                    45.51298480644416
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 3637,
+                "stop_name": "SE Madison & 11th",
+                "stop_seq": 3750,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6605999177371,
+                    45.513008505863745
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 3633,
+                "stop_name": "SE Madison & Grand",
+                "stop_seq": 3850,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.52860008185964,
+                    45.47669612065695
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 1770,
+                "stop_name": "SE Foster & 131st",
+                "stop_seq": 600,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.52348855781227,
+                    45.478269337868156
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 6723,
+                "stop_name": "6000 Block SE 136th",
+                "stop_seq": 700,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.52402517613547,
+                    45.48348730339447
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 2540,
+                "stop_name": "SE Harold & 136th",
+                "stop_seq": 800,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.52997556066182,
+                    45.48352924981386
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 2507,
+                "stop_name": "12900 Block SE Harold",
+                "stop_seq": 900,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5321143058144,
+                    45.483544527464176
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 2538,
+                "stop_name": "SE Harold & 128th",
+                "stop_seq": 950,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.54700208762098,
+                    45.4829720788044
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 2527,
+                "stop_name": "SE Harold & 113th",
+                "stop_seq": 1200,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.54892403008273,
+                    45.482917607822884
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 2525,
+                "stop_name": "SE Harold & 111th",
+                "stop_seq": 1250,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57479503549465,
+                    45.48228135583177
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 1598,
+                "stop_name": "SE Ellis & 86th Ave",
+                "stop_seq": 1625,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57964081883111,
+                    45.48318150931755
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 1818,
+                "stop_name": "SE Foster & 82nd",
+                "stop_seq": 1700,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58655242252644,
+                    45.48312099044996
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 2558,
+                "stop_name": "SE Harold & 74th",
+                "stop_seq": 1850,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59272023705137,
+                    45.48310355388329
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 2553,
+                "stop_name": "SE Harold & 69th",
+                "stop_seq": 1950,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59742879614615,
+                    45.48310361915961
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 8422,
+                "stop_name": "SE Harold & 64th",
+                "stop_seq": 2050,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56767746501681,
+                    45.48284967456522
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 2563,
+                "stop_name": "SE Harold & 92nd",
+                "stop_seq": 1500,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59428309692898,
+                    45.48308620292351
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 8404,
+                "stop_name": "SE Harold & 67th",
+                "stop_seq": 2000,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61534020763861,
+                    45.4847623916065
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 9307,
+                "stop_name": "SE Steele & 46th",
+                "stop_seq": 2350,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63752625483374,
+                    45.49015194638314
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 7282,
+                "stop_name": "SE 28th & Holgate",
+                "stop_seq": 2900,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64926574675192,
+                    45.508965788612976
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 3312,
+                "stop_name": "SE Ladd & 16th",
+                "stop_seq": 3600,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6755664258467,
+                    45.51526245975885
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 11956,
+                "stop_name": "SW Main & 2nd",
+                "stop_seq": 3950,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.531807865738,
+                    45.47659929234132
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 1788,
+                "stop_name": "SE Foster & 128th",
+                "stop_seq": 550,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.52575629591743,
+                    45.47676226267027
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 1790,
+                "stop_name": "SE Foster & 134th",
+                "stop_seq": 650,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.52348076334629,
+                    45.479859156369
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 6729,
+                "stop_name": "SE 136th & Ramona",
+                "stop_seq": 750,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.52607189060764,
+                    45.48350465497615
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 2510,
+                "stop_name": "SE Harold & 133rd",
+                "stop_seq": 850,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53548746712036,
+                    45.48340405537587
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 2506,
+                "stop_name": "12400 Block SE Harold",
+                "stop_seq": 1000,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.54447203488107,
+                    45.483053811081255
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 2529,
+                "stop_name": "SE Harold & 115th",
+                "stop_seq": 1150,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.55102632856969,
+                    45.48284767305079
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 2523,
+                "stop_name": "SE Harold & 109th",
+                "stop_seq": 1300,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56317898254345,
+                    45.4827379305603
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 2565,
+                "stop_name": "SE Harold & 97th",
+                "stop_seq": 1450,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57717008382853,
+                    45.4822953420382
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 1596,
+                "stop_name": "SE Ellis & Foster",
+                "stop_seq": 1675,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5839679573028,
+                    45.48311282229766
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 2560,
+                "stop_name": "SE Harold & 77th",
+                "stop_seq": 1800,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63938522254371,
+                    45.49341685992817
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 1990,
+                "stop_name": "SE Gladstone & 26th",
+                "stop_seq": 3000,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63955316687476,
+                    45.500439925925406
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 7232,
+                "stop_name": "SE 26th & Tibbetts",
+                "stop_seq": 3150,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6399857972635,
+                    45.50342942866593
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 7223,
+                "stop_name": "SE Clinton & 26th",
+                "stop_seq": 3250,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64449197636785,
+                    45.504734488941054
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 7110,
+                "stop_name": "SE 21st & Division",
+                "stop_seq": 3400,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64885630415672,
+                    45.508203126307514
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 3305,
+                "stop_name": "SE Ladd & Ladd Circle",
+                "stop_seq": 3550,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65330716720483,
+                    45.51198895938913
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 3303,
+                "stop_name": "SE Ladd & Hawthorne",
+                "stop_seq": 3700,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.54189011227653,
+                    45.48315367129014
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 2531,
+                "stop_name": "SE Harold & 118th",
+                "stop_seq": 1100,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58905266666665,
+                    45.4831097705716
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 2554,
+                "stop_name": "SE Harold & 72nd",
+                "stop_seq": 1900,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65846607776346,
+                    45.513012893717836
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 3641,
+                "stop_name": "SE Madison & 7th",
+                "stop_seq": 3800,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53565498497457,
+                    45.47647368557966
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 1786,
+                "stop_name": "12300 Block SE Foster",
+                "stop_seq": 500,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5384219560912,
+                    45.483237616661526
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 2535,
+                "stop_name": "SE Harold & 122nd",
+                "stop_seq": 1050,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.55889665261661,
+                    45.4826262218281
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 8844,
+                "stop_name": "SE Harold & 101st",
+                "stop_seq": 1400,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60853721239191,
+                    45.48310246922979
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 2541,
+                "stop_name": "SE Harold & 52nd",
+                "stop_seq": 2200,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66618415534144,
+                    45.51302146331125
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 2642,
+                "stop_name": "Hawthorne Bridge",
+                "stop_seq": 3900,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58245302583975,
+                    45.48315861580143
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 2562,
+                "stop_name": "SE 79th & Harold",
+                "stop_seq": 1750,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67983866958481,
+                    45.51640315197171
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 13169,
+                "stop_name": "SW Main & 6th",
+                "stop_seq": 4000,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67857274754661,
+                    45.51518918104963
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 3639,
+                "stop_name": "SW Madison & 4th",
+                "stop_seq": 4050,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.55549724249744,
+                    45.482697751727805
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 10,
+                "rte_desc": "10-Harold St",
+                "stop_id": 13122,
+                "stop_name": "SE Harold & 104th",
+                "stop_seq": 1350,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

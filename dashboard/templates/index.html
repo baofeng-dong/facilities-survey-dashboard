@@ -1,0 +1,17 @@
+
+{% extends 'base.html' %}
+
+{% block content %}
+
+<div id='message'>
+<h3><b>TriMet Facilities Cleaning Survey Dashboard</b></h3>
+</div>
+
+<div id="index-content">
+<ul style="list-style-type: none; font-size: medium;">
+  <li style="margin-top: 20px;"><a href="{{ url_for('index') }}introduction"><b>Introduction</b></a></li>
+  <li style="margin-top: 20px;"><a href="{{ url_for('index') }}data"><b>Data</b></a></li>
+  <li style="margin-top: 20px;"><a href="{{ url_for('index') }}map"><b>Map</b></a></li>
+</ul>
+</div>
+{% endblock %}

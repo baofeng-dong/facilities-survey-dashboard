@@ -1,0 +1,1115 @@
+{
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75628712775371,
+                    45.636239538271724
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vancouver Way & Middlefield",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 9439,
+                "stop_name": "N Marine & Leadbetter",
+                "stop_seq": 1575,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75188384237804,
+                    45.587888752718236
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vancouver Way & Middlefield",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 4818,
+                "stop_name": "N Richmond & Syracuse",
+                "stop_seq": 50,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.751861774365,
+                    45.58759200162184
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vancouver Way & Middlefield",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 4817,
+                "stop_name": "N Richmond & Syracuse",
+                "stop_seq": 100,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7547876228635,
+                    45.58948499577993
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vancouver Way & Middlefield",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 10177,
+                "stop_name": "N Ivanhoe & Leavitt",
+                "stop_seq": 150,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75652054743541,
+                    45.59069443647487
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vancouver Way & Middlefield",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 3008,
+                "stop_name": "N Ivanhoe & Baltimore",
+                "stop_seq": 200,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75793331885815,
+                    45.59216877204712
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vancouver Way & Middlefield",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 11934,
+                "stop_name": "N Ivanhoe & New York",
+                "stop_seq": 250,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75547164031941,
+                    45.59388181478751
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vancouver Way & Middlefield",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 11936,
+                "stop_name": "N St Louis & Central",
+                "stop_seq": 300,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75354933125728,
+                    45.594816230388034
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vancouver Way & Middlefield",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 5376,
+                "stop_name": "N St Louis & Smith",
+                "stop_seq": 350,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75190089804788,
+                    45.59561574868927
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vancouver Way & Middlefield",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 5373,
+                "stop_name": "N St Louis & New York",
+                "stop_seq": 400,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74985821251809,
+                    45.596547618298665
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vancouver Way & Middlefield",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 11007,
+                "stop_name": "N Fessenden & Seneca",
+                "stop_seq": 450,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.746717074225,
+                    45.59612187319007
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vancouver Way & Middlefield",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 1714,
+                "stop_name": "N Fessenden & Richmond",
+                "stop_seq": 500,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74386423103039,
+                    45.59544620313633
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vancouver Way & Middlefield",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 1699,
+                "stop_name": "N Fessenden & Allegheny",
+                "stop_seq": 550,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74138127541755,
+                    45.594855579315215
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vancouver Way & Middlefield",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 10614,
+                "stop_name": "N Fessenden & Tioga",
+                "stop_seq": 600,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73843854498965,
+                    45.59416235675518
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vancouver Way & Middlefield",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 1703,
+                "stop_name": "N Fessenden & Burr",
+                "stop_seq": 650,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73512189151654,
+                    45.593373734406924
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vancouver Way & Middlefield",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 1712,
+                "stop_name": "N Fessenden & Midway",
+                "stop_seq": 700,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73024393037888,
+                    45.59399879527814
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vancouver Way & Middlefield",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 11824,
+                "stop_name": "N Macrum & Powers",
+                "stop_seq": 750,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7322846062262,
+                    45.59541703592144
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vancouver Way & Middlefield",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 11825,
+                "stop_name": "N Columbia Blvd & Oregonian",
+                "stop_seq": 800,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73575909157593,
+                    45.596711958566715
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vancouver Way & Middlefield",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 11826,
+                "stop_name": "N Columbia Blvd & Bank",
+                "stop_seq": 850,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74232734085932,
+                    45.600826971600554
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vancouver Way & Middlefield",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 11827,
+                "stop_name": "N Columbia Blvd & Upland Dr",
+                "stop_seq": 900,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74914377896076,
+                    45.60360260883019
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vancouver Way & Middlefield",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 11828,
+                "stop_name": "N Columbia Blvd & Swift",
+                "stop_seq": 950,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75892723698026,
+                    45.608509587827264
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vancouver Way & Middlefield",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 11850,
+                "stop_name": "9500 Block N Columbia Blvd",
+                "stop_seq": 1000,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76261128833332,
+                    45.612462767625864
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vancouver Way & Middlefield",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 13526,
+                "stop_name": "N Columbia Blvd & Burgard",
+                "stop_seq": 1050,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.77130870583846,
+                    45.61759156268492
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vancouver Way & Middlefield",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 9192,
+                "stop_name": "N Rivergate Blvd & Lombard St",
+                "stop_seq": 1100,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7799591423793,
+                    45.61961114953276
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vancouver Way & Middlefield",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 9193,
+                "stop_name": "13300 Block N Rivergate",
+                "stop_seq": 1150,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.77997666712152,
+                    45.62356237005897
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vancouver Way & Middlefield",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 9194,
+                "stop_name": "N Rivergate Blvd & Ramsey",
+                "stop_seq": 1200,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.77632778057982,
+                    45.623903400064606
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vancouver Way & Middlefield",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 12942,
+                "stop_name": "9600 N Ramsey Blvd",
+                "stop_seq": 1250,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.78028906134195,
+                    45.619640100065524
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vancouver Way & Middlefield",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 9196,
+                "stop_name": "13300 Block N Rivergate Blvd",
+                "stop_seq": 1300,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.771344064299,
+                    45.619385809975476
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vancouver Way & Middlefield",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 3540,
+                "stop_name": "13200 Block N Lombard",
+                "stop_seq": 1350,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.77150190571037,
+                    45.62361643467201
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vancouver Way & Middlefield",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 9308,
+                "stop_name": "N Lombard & Ramsey",
+                "stop_seq": 1400,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.77174031696975,
+                    45.630387827263284
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vancouver Way & Middlefield",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 9434,
+                "stop_name": "14500 Block N Lombard",
+                "stop_seq": 1450,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7698031547548,
+                    45.635030456010256
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vancouver Way & Middlefield",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 10163,
+                "stop_name": "N Lombard & Terminal 5 Access Rd",
+                "stop_seq": 1500,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76624805046488,
+                    45.63738699159624
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vancouver Way & Middlefield",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 9197,
+                "stop_name": "N Lombard & Simmons",
+                "stop_seq": 1550,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74993125426016,
+                    45.63275800603211
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vancouver Way & Middlefield",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 9198,
+                "stop_name": "7100 Block N Marine",
+                "stop_seq": 1600,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74466317177965,
+                    45.629844025552416
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vancouver Way & Middlefield",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 9334,
+                "stop_name": "N Marine & Leadbetter",
+                "stop_seq": 1650,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74069260965048,
+                    45.627644701303716
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vancouver Way & Middlefield",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 9440,
+                "stop_name": "N Marine & Bybee Lake Road",
+                "stop_seq": 1700,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73568075563566,
+                    45.6248744628551
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vancouver Way & Middlefield",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 9441,
+                "stop_name": "6100 Block N Marine",
+                "stop_seq": 1750,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7318490640614,
+                    45.622836494264824
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vancouver Way & Middlefield",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 9199,
+                "stop_name": "5900 Block N Marine",
+                "stop_seq": 1800,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72769834879153,
+                    45.620583335517324
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vancouver Way & Middlefield",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 9200,
+                "stop_name": "5700 Block N Marine",
+                "stop_seq": 1850,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70359129491456,
+                    45.61333033225911
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vancouver Way & Middlefield",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 12465,
+                "stop_name": "N Marine & Portland Rd",
+                "stop_seq": 1900,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6943804231434,
+                    45.60998155848543
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vancouver Way & Middlefield",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 10477,
+                "stop_name": "2600 Block N Marine",
+                "stop_seq": 1950,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68498891206825,
+                    45.60652609650867
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vancouver Way & Middlefield",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 11829,
+                "stop_name": "N Marine & Pier 99 St",
+                "stop_seq": 2050,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67718607902326,
+                    45.603000620559186
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vancouver Way & Middlefield",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 9478,
+                "stop_name": "1000 Block N Marine",
+                "stop_seq": 2100,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66946689543748,
+                    45.60174627465494
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vancouver Way & Middlefield",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 9444,
+                "stop_name": "N Marine & Gantenbein",
+                "stop_seq": 2150,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66081284450559,
+                    45.59768793978895
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vancouver Way & Middlefield",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 9447,
+                "stop_name": "NE 6th Drive & South Shore",
+                "stop_seq": 2250,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66533847596229,
+                    45.593755806806975
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vancouver Way & Middlefield",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 11830,
+                "stop_name": "NE Walker & N Vancouver Way",
+                "stop_seq": 2300,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66754105726926,
+                    45.59585028272635
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vancouver Way & Middlefield",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 9477,
+                "stop_name": "NE Middlefield Rd & N Vancouver Way",
+                "stop_seq": 2350,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7234339506289,
+                    45.61862802202126
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vancouver Way & Middlefield",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 9442,
+                "stop_name": "5300 Block N Marine",
+                "stop_seq": 1875,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66025408900155,
+                    45.59833302511455
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vancouver Way & Middlefield",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 13818,
+                "stop_name": "10400 Block NE 6th Dr",
+                "stop_seq": 2200,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

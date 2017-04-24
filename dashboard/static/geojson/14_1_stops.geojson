@@ -1,0 +1,1046 @@
+{
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57230329794281,
+                    45.481024777987656
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 1826,
+                "stop_name": "SE Foster & 88th",
+                "stop_seq": 200,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57964081883111,
+                    45.48318150931755
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 1818,
+                "stop_name": "SE Foster & 82nd",
+                "stop_seq": 300,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5833615032103,
+                    45.48459645215001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 1815,
+                "stop_name": "SE Foster & 78th",
+                "stop_seq": 400,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59297645555468,
+                    45.488178714424734
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 1807,
+                "stop_name": "SE Foster & 69th",
+                "stop_seq": 550,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59417710312638,
+                    45.48867513006353
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 1805,
+                "stop_name": "SE Foster & 67th",
+                "stop_seq": 600,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59788171536267,
+                    45.49022355405018
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 1778,
+                "stop_name": "SE Foster & Holgate",
+                "stop_seq": 700,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6031256426459,
+                    45.49294720320733
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 1799,
+                "stop_name": "SE Foster & 58th",
+                "stop_seq": 800,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6112533655483,
+                    45.50019690274836
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 7665,
+                "stop_name": "SE 50th & Tibbetts",
+                "stop_seq": 1100,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61089823220802,
+                    45.50512692068422
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 7654,
+                "stop_name": "SE 50th & Division",
+                "stop_seq": 1250,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6198411065175,
+                    45.51211521711286
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 2629,
+                "stop_name": "SE Hawthorne & 41st",
+                "stop_seq": 1650,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64339841205829,
+                    45.51215528435872
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 2609,
+                "stop_name": "SE Hawthorne & 22nd",
+                "stop_seq": 2050,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64707398722125,
+                    45.5122717975497
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 2606,
+                "stop_name": "SE Hawthorne & 19th",
+                "stop_seq": 2100,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65191195066114,
+                    45.51227207718863
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 2602,
+                "stop_name": "SE Hawthorne & 14th",
+                "stop_seq": 2200,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65846607776346,
+                    45.513012893717836
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 3641,
+                "stop_name": "SE Madison & 7th",
+                "stop_seq": 2350,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6605999177371,
+                    45.513008505863745
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 3633,
+                "stop_name": "SE Madison & Grand",
+                "stop_seq": 2400,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57557532364092,
+                    45.48186774678256
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 1824,
+                "stop_name": "SE Foster & 86th",
+                "stop_seq": 250,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58969929353024,
+                    45.48680677964602
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 1811,
+                "stop_name": "SE Foster & 72nd",
+                "stop_seq": 500,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59573435995777,
+                    45.48933436802705
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 1803,
+                "stop_name": "SE Foster & 65th",
+                "stop_seq": 650,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6112547905994,
+                    45.49800955691318
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 7656,
+                "stop_name": "SE 50th & Haig",
+                "stop_seq": 1050,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61093174074173,
+                    45.502293140823745
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 8242,
+                "stop_name": "SE 50th & Woodward",
+                "stop_seq": 1150,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61118794418645,
+                    45.50794238720341
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 7659,
+                "stop_name": "SE 50th & Lincoln",
+                "stop_seq": 1350,
+                "type": "BUS",
+                "zipcode": "97215"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61735724239021,
+                    45.51208704391242
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 2632,
+                "stop_name": "SE Hawthorne & 44th",
+                "stop_seq": 1600,
+                "type": "BUS",
+                "zipcode": "97215"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62563108236195,
+                    45.5121268675225
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 2624,
+                "stop_name": "SE Hawthorne & 37th",
+                "stop_seq": 1750,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63241726354269,
+                    45.5121420444619
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 2619,
+                "stop_name": "SE Hawthorne & 32nd",
+                "stop_seq": 1850,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64051452073504,
+                    45.51213602257885
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 2611,
+                "stop_name": "SE Hawthorne & 25th",
+                "stop_seq": 2000,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65455492904745,
+                    45.51298480644416
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 3637,
+                "stop_name": "SE Madison & 11th",
+                "stop_seq": 2250,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66618415534144,
+                    45.51302146331125
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 2642,
+                "stop_name": "Hawthorne Bridge",
+                "stop_seq": 2450,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61147571187985,
+                    45.511776533249346
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 7658,
+                "stop_name": "SE 50th & Hawthorne",
+                "stop_seq": 1500,
+                "type": "BUS",
+                "zipcode": "97215"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64947530370459,
+                    45.512267548760555
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 2604,
+                "stop_name": "SE Hawthorne & 16th",
+                "stop_seq": 2150,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6755664258467,
+                    45.51526245975885
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 11956,
+                "stop_name": "SW Main & 2nd",
+                "stop_seq": 2500,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60499198361086,
+                    45.493918226037444
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 1798,
+                "stop_name": "SE Foster & 56th",
+                "stop_seq": 850,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6232117283735,
+                    45.51213384671235
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 2626,
+                "stop_name": "SE Hawthorne & Cesar Chavez Blvd",
+                "stop_seq": 1700,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62942987538023,
+                    45.5121233979283
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 12892,
+                "stop_name": "SE Hawthorne & 34th",
+                "stop_seq": 1800,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60875005874657,
+                    45.49567281729502
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 1793,
+                "stop_name": "SE Foster & 52nd",
+                "stop_seq": 950,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63799779207467,
+                    45.51214264098565
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 2613,
+                "stop_name": "SE Hawthorne & 27th",
+                "stop_seq": 1950,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61134668741458,
+                    45.50997376250399
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 12917,
+                "stop_name": "SE 50th & Mill",
+                "stop_seq": 1400,
+                "type": "BUS",
+                "zipcode": "97215"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6007016418307,
+                    45.49160760160902
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 12904,
+                "stop_name": "SE Foster & Cora",
+                "stop_seq": 750,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67983866958481,
+                    45.51640315197171
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 13169,
+                "stop_name": "SW Main & 6th",
+                "stop_seq": 2550,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67857274754661,
+                    45.51518918104963
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 3639,
+                "stop_name": "SW Madison & 4th",
+                "stop_seq": 2600,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56749666283287,
+                    45.479585849998564
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 13236,
+                "stop_name": "SE Foster & 94th",
+                "stop_seq": 125,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56624631178272,
+                    45.479259380523075
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 1831,
+                "stop_name": "SE Foster & 94th (I-205 Overpass)",
+                "stop_seq": 100,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63461354047614,
+                    45.51214360172148
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 2616,
+                "stop_name": "SE Hawthorne & 30th",
+                "stop_seq": 1900,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58680808910196,
+                    45.485770771375805
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 12948,
+                "stop_name": "SE Foster & 74th",
+                "stop_seq": 450,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5701234781001,
+                    45.48034255226572
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 1829,
+                "stop_name": "SE Foster & 91st",
+                "stop_seq": 150,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61394150912277,
+                    45.51210712685497
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 2635,
+                "stop_name": "SE Hawthorne & 47th",
+                "stop_seq": 1550,
+                "type": "BUS",
+                "zipcode": "97215"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,632 @@
+{
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.78133932205044,
+                    45.509926734748255
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 59,
+                "rte_desc": "59-Walker/Park Way",
+                "stop_id": 9972,
+                "stop_name": "Sunset Transit Center",
+                "stop_seq": 50,
+                "type": "BUS",
+                "zipcode": "97225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.79660769348652,
+                    45.50791736844734
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 59,
+                "rte_desc": "59-Walker/Park Way",
+                "stop_id": 4369,
+                "stop_name": "SW Park Way & Cedar Hills",
+                "stop_seq": 1300,
+                "type": "BUS",
+                "zipcode": "97225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.79863712558885,
+                    45.50821363585267
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 59,
+                "rte_desc": "59-Walker/Park Way",
+                "stop_id": 4382,
+                "stop_name": "SW Park Way & Tremont",
+                "stop_seq": 1400,
+                "type": "BUS",
+                "zipcode": "97225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.80202096512836,
+                    45.50830686193325
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 59,
+                "rte_desc": "59-Walker/Park Way",
+                "stop_id": 4377,
+                "stop_name": "SW Park Way & Hilldale",
+                "stop_seq": 1450,
+                "type": "BUS",
+                "zipcode": "97225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.80926172720935,
+                    45.509266457797025
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 59,
+                "rte_desc": "59-Walker/Park Way",
+                "stop_id": 4371,
+                "stop_name": "SW Park Way & Dellwood",
+                "stop_seq": 1550,
+                "type": "BUS",
+                "zipcode": "97225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.81120678849118,
+                    45.50925722523703
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 59,
+                "rte_desc": "59-Walker/Park Way",
+                "stop_id": 4385,
+                "stop_name": "SW Park Way & Wynwood",
+                "stop_seq": 1600,
+                "type": "BUS",
+                "zipcode": "97225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.81648921941952,
+                    45.508891086931364
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 59,
+                "rte_desc": "59-Walker/Park Way",
+                "stop_id": 4387,
+                "stop_name": "13500 Block SW Park Way",
+                "stop_seq": 1700,
+                "type": "BUS",
+                "zipcode": "97005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.82801740324531,
+                    45.513646212400126
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 59,
+                "rte_desc": "59-Walker/Park Way",
+                "stop_id": 8921,
+                "stop_name": "SW Walker & Meadow Dr",
+                "stop_seq": 1900,
+                "type": "BUS",
+                "zipcode": "97006"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.8353614505388,
+                    45.51558181227208
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 59,
+                "rte_desc": "59-Walker/Park Way",
+                "stop_id": 8923,
+                "stop_name": "SW Walker & Greystone Ct",
+                "stop_seq": 2000,
+                "type": "BUS",
+                "zipcode": "97006"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.84014116315633,
+                    45.5170493774986
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 59,
+                "rte_desc": "59-Walker/Park Way",
+                "stop_id": 9145,
+                "stop_name": "SW Walker & 158th",
+                "stop_seq": 2050,
+                "type": "BUS",
+                "zipcode": "97006"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.84969648936928,
+                    45.52035001855369
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 59,
+                "rte_desc": "59-Walker/Park Way",
+                "stop_id": 9147,
+                "stop_name": "NW Walker & 167th",
+                "stop_seq": 2150,
+                "type": "BUS",
+                "zipcode": "97006"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.85964129324621,
+                    45.524467655238546
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 59,
+                "rte_desc": "59-Walker/Park Way",
+                "stop_id": 9232,
+                "stop_name": "NW Walker & 178th",
+                "stop_seq": 2250,
+                "type": "BUS",
+                "zipcode": "97006"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.86363093794799,
+                    45.5260070011041
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 59,
+                "rte_desc": "59-Walker/Park Way",
+                "stop_id": 9209,
+                "stop_name": "NW Walker & 180th",
+                "stop_seq": 2260,
+                "type": "BUS",
+                "zipcode": "97006"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.86767307755184,
+                    45.52499663848398
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "frequent": "False",
+                "jurisdic": "Hillsboro",
+                "rte": 59,
+                "rte_desc": "59-Walker/Park Way",
+                "stop_id": 7021,
+                "stop_name": "700 Block NW 185th",
+                "stop_seq": 2350,
+                "type": "BUS",
+                "zipcode": "97006"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.86765251154428,
+                    45.52044673006373
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "frequent": "False",
+                "jurisdic": "Hillsboro",
+                "rte": 59,
+                "rte_desc": "59-Walker/Park Way",
+                "stop_id": 6975,
+                "stop_name": "SW 185th & Heritage Pkwy",
+                "stop_seq": 2425,
+                "type": "BUS",
+                "zipcode": "97006"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.8146781638237,
+                    45.509323281050435
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 59,
+                "rte_desc": "59-Walker/Park Way",
+                "stop_id": 10615,
+                "stop_name": "SW Park Way & 134th",
+                "stop_seq": 1675,
+                "type": "BUS",
+                "zipcode": "97005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.82281978650457,
+                    45.511453217300726
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 59,
+                "rte_desc": "59-Walker/Park Way",
+                "stop_id": 8920,
+                "stop_name": "SW Walker & Butner",
+                "stop_seq": 1850,
+                "type": "BUS",
+                "zipcode": "97006"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.86763068669855,
+                    45.51810043855326
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "frequent": "False",
+                "jurisdic": "Hillsboro",
+                "rte": 59,
+                "rte_desc": "59-Walker/Park Way",
+                "stop_id": 7006,
+                "stop_name": "SW 185th & Edgeway Dr",
+                "stop_seq": 2450,
+                "type": "BUS",
+                "zipcode": "97006"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.78987239214551,
+                    45.50733358830878
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 59,
+                "rte_desc": "59-Walker/Park Way",
+                "stop_id": 4380,
+                "stop_name": "SW Park Way & Parkwood",
+                "stop_seq": 1250,
+                "type": "BUS",
+                "zipcode": "97225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.8060529545215,
+                    45.50876044474513
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 59,
+                "rte_desc": "59-Walker/Park Way",
+                "stop_id": 4378,
+                "stop_name": "SW Park Way & Huntington",
+                "stop_seq": 1500,
+                "type": "BUS",
+                "zipcode": "97225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.819528140239,
+                    45.50852702130723
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 59,
+                "rte_desc": "59-Walker/Park Way",
+                "stop_id": 4383,
+                "stop_name": "SW Park Way & Walker",
+                "stop_seq": 1800,
+                "type": "BUS",
+                "zipcode": "97005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.83192373892162,
+                    45.51467130847736
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 59,
+                "rte_desc": "59-Walker/Park Way",
+                "stop_id": 8922,
+                "stop_name": "SW Walker & 150th",
+                "stop_seq": 1950,
+                "type": "BUS",
+                "zipcode": "97006"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.84353269929615,
+                    45.51820334954223
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 59,
+                "rte_desc": "59-Walker/Park Way",
+                "stop_id": 9146,
+                "stop_name": "SW Walker & Schendel",
+                "stop_seq": 2100,
+                "type": "BUS",
+                "zipcode": "97006"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.86763281484004,
+                    45.52736942031023
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "frequent": "False",
+                "jurisdic": "Hillsboro",
+                "rte": 59,
+                "rte_desc": "59-Walker/Park Way",
+                "stop_id": 7025,
+                "stop_name": "NW 185th & Walker",
+                "stop_seq": 2300,
+                "type": "BUS",
+                "zipcode": "97006"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.86768132117773,
+                    45.522978653042045
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "frequent": "False",
+                "jurisdic": "Hillsboro",
+                "rte": 59,
+                "rte_desc": "59-Walker/Park Way",
+                "stop_id": 6991,
+                "stop_name": "NW 185th & Holly",
+                "stop_seq": 2400,
+                "type": "BUS",
+                "zipcode": "97006"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.78203327070494,
+                    45.508394210903255
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 59,
+                "rte_desc": "59-Walker/Park Way",
+                "stop_id": 10037,
+                "stop_name": "10200 Block SW Park Way",
+                "stop_seq": 100,
+                "type": "BUS",
+                "zipcode": "97225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.86979066619409,
+                    45.51737041571719
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "frequent": "False",
+                "jurisdic": "Hillsboro",
+                "rte": 59,
+                "rte_desc": "59-Walker/Park Way",
+                "stop_id": 9871,
+                "stop_name": "Willow Creek Transit Center",
+                "stop_seq": 2500,
+                "type": "BUS",
+                "zipcode": "97006"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

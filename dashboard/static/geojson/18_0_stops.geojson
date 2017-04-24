@@ -1,0 +1,609 @@
+{
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69012324120067,
+                    45.52193467420253
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Hillside and Providence Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 18,
+                "rte_desc": "18-Hillside",
+                "stop_id": 9122,
+                "stop_name": "SW 18th & Morrison",
+                "stop_seq": 18,
+                "type": "BUS",
+                "zipcode": "97205"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69006534110966,
+                    45.523077149854736
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Hillside and Providence Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 18,
+                "rte_desc": "18-Hillside",
+                "stop_id": 735,
+                "stop_name": "W Burnside & NW 19th",
+                "stop_seq": 100,
+                "type": "BUS",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69286627298094,
+                    45.5232122609602
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Hillside and Providence Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 18,
+                "rte_desc": "18-Hillside",
+                "stop_id": 742,
+                "stop_name": "W Burnside & NW 20th Pl",
+                "stop_seq": 200,
+                "type": "BUS",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69495392325527,
+                    45.52331653405087
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Hillside and Providence Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 18,
+                "rte_desc": "18-Hillside",
+                "stop_id": 747,
+                "stop_name": "W Burnside & NW King",
+                "stop_seq": 250,
+                "type": "BUS",
+                "zipcode": "97210"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6979952742176,
+                    45.523491402861175
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Hillside and Providence Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 18,
+                "rte_desc": "18-Hillside",
+                "stop_id": 755,
+                "stop_name": "W Burnside & NW 23rd",
+                "stop_seq": 300,
+                "type": "BUS",
+                "zipcode": "97210"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69940172755196,
+                    45.524321997673724
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Hillside and Providence Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 18,
+                "rte_desc": "18-Hillside",
+                "stop_id": 9404,
+                "stop_name": "NW 23rd Place & Westover",
+                "stop_seq": 350,
+                "type": "BUS",
+                "zipcode": "97210"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70179852791695,
+                    45.52751179177456
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Hillside and Providence Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 18,
+                "rte_desc": "18-Hillside",
+                "stop_id": 10314,
+                "stop_name": "2400 Block NW Westover",
+                "stop_seq": 400,
+                "type": "BUS",
+                "zipcode": "97210"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70257043932112,
+                    45.529636023546196
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Hillside and Providence Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 18,
+                "rte_desc": "18-Hillside",
+                "stop_id": 9125,
+                "stop_name": "NW 25th & Lovejoy",
+                "stop_seq": 450,
+                "type": "BUS",
+                "zipcode": "97210"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70524196499859,
+                    45.530413703611224
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Hillside and Providence Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 18,
+                "rte_desc": "18-Hillside",
+                "stop_id": 9126,
+                "stop_name": "NW Cornell & Marshall",
+                "stop_seq": 500,
+                "type": "BUS",
+                "zipcode": "97210"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70736620750404,
+                    45.53195315045188
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Hillside and Providence Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 18,
+                "rte_desc": "18-Hillside",
+                "stop_id": 9127,
+                "stop_name": "NW Cornell & Summit Ct",
+                "stop_seq": 550,
+                "type": "BUS",
+                "zipcode": "97210"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71065810750046,
+                    45.53254661261302
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Hillside and Providence Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 18,
+                "rte_desc": "18-Hillside",
+                "stop_id": 9129,
+                "stop_name": "NW Cornell & Westover",
+                "stop_seq": 650,
+                "type": "BUS",
+                "zipcode": "97210"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70826436293312,
+                    45.53049179444864
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Hillside and Providence Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 18,
+                "rte_desc": "18-Hillside",
+                "stop_id": 9130,
+                "stop_name": "NW Cumberland & Fairfax",
+                "stop_seq": 700,
+                "type": "BUS",
+                "zipcode": "97210"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7081645536454,
+                    45.52943626666348
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Hillside and Providence Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 18,
+                "rte_desc": "18-Hillside",
+                "stop_id": 9214,
+                "stop_name": "NW Cumberland & Culpepper",
+                "stop_seq": 750,
+                "type": "BUS",
+                "zipcode": "97210"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70922309939793,
+                    45.5302381574921
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Hillside and Providence Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 18,
+                "rte_desc": "18-Hillside",
+                "stop_id": 9131,
+                "stop_name": "NW Cumberland & Shenandoah",
+                "stop_seq": 800,
+                "type": "BUS",
+                "zipcode": "97210"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71118666629344,
+                    45.52941409463887
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Hillside and Providence Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 18,
+                "rte_desc": "18-Hillside",
+                "stop_id": 9132,
+                "stop_name": "NW Cumberland & Ariel",
+                "stop_seq": 850,
+                "type": "BUS",
+                "zipcode": "97210"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71232990704047,
+                    45.52886433748729
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Hillside and Providence Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 18,
+                "rte_desc": "18-Hillside",
+                "stop_id": 9133,
+                "stop_name": "NW Powhatan & Greenbrier Terr",
+                "stop_seq": 900,
+                "type": "BUS",
+                "zipcode": "97210"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70736953183037,
+                    45.523870145610154
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Hillside and Providence Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 18,
+                "rte_desc": "18-Hillside",
+                "stop_id": 8881,
+                "stop_name": "W Burnside & NW Maywood Dr",
+                "stop_seq": 1150,
+                "type": "BUS",
+                "zipcode": "97210"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70329733589111,
+                    45.52411575326807
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Hillside and Providence Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 18,
+                "rte_desc": "18-Hillside",
+                "stop_id": 8750,
+                "stop_name": "W Burnside & NW Uptown Terrace",
+                "stop_seq": 1200,
+                "type": "BUS",
+                "zipcode": "97205"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69699621827121,
+                    45.523287559506485
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Hillside and Providence Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 18,
+                "rte_desc": "18-Hillside",
+                "stop_id": 718,
+                "stop_name": "W Burnside & SW St Clair",
+                "stop_seq": 1250,
+                "type": "BUS",
+                "zipcode": "97210"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69448860785373,
+                    45.52314544949596
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Hillside and Providence Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 18,
+                "rte_desc": "18-Hillside",
+                "stop_id": 749,
+                "stop_name": "W Burnside & SW 21st",
+                "stop_seq": 1300,
+                "type": "BUS",
+                "zipcode": "97210"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69256884204414,
+                    45.52305825150029
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Hillside and Providence Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 18,
+                "rte_desc": "18-Hillside",
+                "stop_id": 8511,
+                "stop_name": "W Burnside & SW 20th",
+                "stop_seq": 1350,
+                "type": "BUS",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69043311158514,
+                    45.52190147785309
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Hillside and Providence Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 18,
+                "rte_desc": "18-Hillside",
+                "stop_id": 6911,
+                "stop_name": "SW 18th & Morrison",
+                "stop_seq": 1400,
+                "type": "BUS",
+                "zipcode": "97205"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71112367837998,
+                    45.526695400383005
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Hillside and Providence Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 18,
+                "rte_desc": "18-Hillside",
+                "stop_id": 9135,
+                "stop_name": "NW Macleay & Hermosa",
+                "stop_seq": 950,
+                "type": "BUS",
+                "zipcode": "97210"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70698828100699,
+                    45.52631287843978
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Hillside and Providence Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 18,
+                "rte_desc": "18-Hillside",
+                "stop_id": 9136,
+                "stop_name": "NW Macleay & Lomita Terrace",
+                "stop_seq": 1000,
+                "type": "BUS",
+                "zipcode": "97210"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7045154740054,
+                    45.525577522246884
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Hillside and Providence Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 18,
+                "rte_desc": "18-Hillside",
+                "stop_id": 9137,
+                "stop_name": "NW Macleay & Beuhla Vista",
+                "stop_seq": 1050,
+                "type": "BUS",
+                "zipcode": "97210"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70989632451875,
+                    45.52355818017611
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Hillside and Providence Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 18,
+                "rte_desc": "18-Hillside",
+                "stop_id": 9139,
+                "stop_name": "NW Macleay & W Burnside",
+                "stop_seq": 1100,
+                "type": "BUS",
+                "zipcode": "97210"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

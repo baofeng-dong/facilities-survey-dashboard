@@ -1,0 +1,1092 @@
+{
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.41844972491288,
+                    45.501772334264274
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 8359,
+                "stop_name": "Cleveland Ave MAX Station",
+                "stop_seq": 50,
+                "type": "MAX",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.42734808154391,
+                    45.50270485976102
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 8360,
+                "stop_name": "Gresham Central TC MAX Station",
+                "stop_seq": 100,
+                "type": "MAX",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.43628481100299,
+                    45.50598099670479
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 8361,
+                "stop_name": "Gresham City Hall MAX Station",
+                "stop_seq": 200,
+                "type": "MAX",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.46111942676592,
+                    45.51650204007506
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 8362,
+                "stop_name": "Ruby Junction/E 197th Ave MAX Station",
+                "stop_seq": 400,
+                "type": "MAX",
+                "zipcode": "97233"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.47807403831031,
+                    45.52206457569784
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 8364,
+                "stop_name": "E 181st Ave MAX Station",
+                "stop_seq": 600,
+                "type": "MAX",
+                "zipcode": "97233"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.48714021555499,
+                    45.52214005388869
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 8365,
+                "stop_name": "E 172nd Ave MAX Station",
+                "stop_seq": 700,
+                "type": "MAX",
+                "zipcode": "97233"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.49743715520934,
+                    45.522222757115166
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 8366,
+                "stop_name": "E 162nd Ave MAX Station",
+                "stop_seq": 800,
+                "type": "MAX",
+                "zipcode": "97233"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.51161441555135,
+                    45.52234350583202
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 8367,
+                "stop_name": "E 148th Ave MAX Station",
+                "stop_seq": 900,
+                "type": "MAX",
+                "zipcode": "97233"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53874296269355,
+                    45.52254819714308
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 8368,
+                "stop_name": "E 122nd Ave MAX Station",
+                "stop_seq": 1000,
+                "type": "MAX",
+                "zipcode": "97216"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.55924432493167,
+                    45.52269110127175
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 8369,
+                "stop_name": "E 102nd Ave MAX Station",
+                "stop_seq": 1100,
+                "type": "MAX",
+                "zipcode": "97216"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56362689607901,
+                    45.53084204732017
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 8370,
+                "stop_name": "Gateway/NE 99th Ave TC MAX Station",
+                "stop_seq": 1700,
+                "type": "MAX",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57843729381173,
+                    45.53347820392946
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 8371,
+                "stop_name": "NE 82nd Ave MAX Station",
+                "stop_seq": 1950,
+                "type": "MAX",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60334189828251,
+                    45.528494427725576
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 8372,
+                "stop_name": "NE 60th Ave MAX Station",
+                "stop_seq": 2100,
+                "type": "MAX",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68191875169211,
+                    45.51990991890399
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 8384,
+                "stop_name": "Galleria/SW 10th Ave MAX Station",
+                "stop_seq": 3550,
+                "type": "MAX",
+                "zipcode": "97205"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6898159041087,
+                    45.52183309010864
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 9757,
+                "stop_name": "Providence Park MAX Station",
+                "stop_seq": 3700,
+                "type": "MAX",
+                "zipcode": "97205"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7172443957143,
+                    45.51066535380277
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 10121,
+                "stop_name": "Washington Park MAX Station",
+                "stop_seq": 4050,
+                "type": "MAX",
+                "zipcode": "97221"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.78129910331216,
+                    45.51038800658606
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro",
+                "frequent": "True",
+                "jurisdic": "Beaverton",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 9624,
+                "stop_name": "Sunset TC MAX Station",
+                "stop_seq": 4250,
+                "type": "MAX",
+                "zipcode": "97225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.80172319536614,
+                    45.491335049557314
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro",
+                "frequent": "True",
+                "jurisdic": "Beaverton",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 9818,
+                "stop_name": "Beaverton TC MAX Station",
+                "stop_seq": 4400,
+                "type": "MAX",
+                "zipcode": "97005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.80744137992149,
+                    45.49042494988323
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro",
+                "frequent": "True",
+                "jurisdic": "Beaverton",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 9823,
+                "stop_name": "Beaverton Central MAX Station",
+                "stop_seq": 4500,
+                "type": "MAX",
+                "zipcode": "97005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.82180592790309,
+                    45.49542112331192
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro",
+                "frequent": "True",
+                "jurisdic": "Beaverton",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 9825,
+                "stop_name": "Millikan Way MAX Station",
+                "stop_seq": 4550,
+                "type": "MAX",
+                "zipcode": "97005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.83332544882818,
+                    45.50058926030071
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro",
+                "frequent": "True",
+                "jurisdic": "Beaverton",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 9819,
+                "stop_name": "Beaverton Creek MAX Station",
+                "stop_seq": 4700,
+                "type": "MAX",
+                "zipcode": "97003"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.84242357761036,
+                    45.505398884050145
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro",
+                "frequent": "True",
+                "jurisdic": "Beaverton",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 9827,
+                "stop_name": "Merlo Rd/SW 158th Ave MAX Station",
+                "stop_seq": 4900,
+                "type": "MAX",
+                "zipcode": "97003"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.85173220987487,
+                    45.51013865818782
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro",
+                "frequent": "True",
+                "jurisdic": "Beaverton",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 9829,
+                "stop_name": "Elmonica/SW 170th Ave MAX Station",
+                "stop_seq": 5150,
+                "type": "MAX",
+                "zipcode": "97003"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.87051792784546,
+                    45.51738052291546
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro",
+                "frequent": "True",
+                "jurisdic": "Hillsboro",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 9832,
+                "stop_name": "Willow Creek/SW 185th Ave TC MAX Station",
+                "stop_seq": 5300,
+                "type": "MAX",
+                "zipcode": "97006"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.88913137570407,
+                    45.523324853385745
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro",
+                "frequent": "True",
+                "jurisdic": "Hillsboro",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 9833,
+                "stop_name": "Quatama/NW 205th Ave MAX Station",
+                "stop_seq": 5400,
+                "type": "MAX",
+                "zipcode": "97006"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.9161984264067,
+                    45.530304042625986
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro",
+                "frequent": "True",
+                "jurisdic": "Hillsboro",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 9836,
+                "stop_name": "Orenco/NW 231st Ave MAX Station",
+                "stop_seq": 5550,
+                "type": "MAX",
+                "zipcode": "97124"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.93111981049272,
+                    45.529926434701416
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro",
+                "frequent": "True",
+                "jurisdic": "Hillsboro",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 9840,
+                "stop_name": "Hawthorn Farm MAX Station",
+                "stop_seq": 5750,
+                "type": "MAX",
+                "zipcode": "97124"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.94649914857058,
+                    45.52692362714308
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro",
+                "frequent": "True",
+                "jurisdic": "Hillsboro",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 9837,
+                "stop_name": "Fair Complex/Hillsboro Airport MAX Stn",
+                "stop_seq": 5850,
+                "type": "MAX",
+                "zipcode": "97124"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.96986722807604,
+                    45.52123726938204
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro",
+                "frequent": "True",
+                "jurisdic": "Hillsboro",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 9842,
+                "stop_name": "Washington/SE 12th Ave MAX Station",
+                "stop_seq": 6050,
+                "type": "MAX",
+                "zipcode": "97123"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.98559648089226,
+                    45.521384829374874
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro",
+                "frequent": "True",
+                "jurisdic": "Hillsboro",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 9845,
+                "stop_name": "Hillsboro Central/SE 3rd TC MAX Station",
+                "stop_seq": 6200,
+                "type": "MAX",
+                "zipcode": "97123"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.99102224759926,
+                    45.52220367077976
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro",
+                "frequent": "True",
+                "jurisdic": "Hillsboro",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 9848,
+                "stop_name": "Hatfield Government Center MAX Station",
+                "stop_seq": 6450,
+                "type": "MAX",
+                "zipcode": "97123"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62136679025559,
+                    45.53295655318682
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 8373,
+                "stop_name": "Hollywood/NE 42nd Ave TC MAX Station",
+                "stop_seq": 2300,
+                "type": "MAX",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65433450644264,
+                    45.530146371409934
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 8374,
+                "stop_name": "Lloyd Center/NE 11th Ave MAX Station",
+                "stop_seq": 2550,
+                "type": "MAX",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69131981544096,
+                    45.520206557145904
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 9820,
+                "stop_name": "Kings Hill/SW Salmon St MAX Station",
+                "stop_seq": 3850,
+                "type": "MAX",
+                "zipcode": "97205"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.47109294409306,
+                    45.52072337912401
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 8363,
+                "stop_name": "Rockwood/E 188th Ave MAX Station",
+                "stop_seq": 500,
+                "type": "MAX",
+                "zipcode": "97233"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69408941518657,
+                    45.518235629805716
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 10117,
+                "stop_name": "Goose Hollow/SW Jefferson St MAX Station",
+                "stop_seq": 4000,
+                "type": "MAX",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.97872843600554,
+                    45.52132114620603
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro",
+                "frequent": "True",
+                "jurisdic": "Hillsboro",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 9844,
+                "stop_name": "Tuality Hospital/SE 8th Ave MAX Station",
+                "stop_seq": 6100,
+                "type": "MAX",
+                "zipcode": "97123"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.44184324925106,
+                    45.50829258590652
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 13449,
+                "stop_name": "Civic Drive MAX Station",
+                "stop_seq": 275,
+                "type": "MAX",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65827702947595,
+                    45.530149686720165
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 8375,
+                "stop_name": "NE 7th Ave MAX Station",
+                "stop_seq": 2650,
+                "type": "MAX",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66253954729235,
+                    45.53013784857727
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 8376,
+                "stop_name": "Convention Center MAX Station",
+                "stop_seq": 2750,
+                "type": "MAX",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66555733829783,
+                    45.53023535131612
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 8377,
+                "stop_name": "Rose Quarter TC MAX Station",
+                "stop_seq": 2850,
+                "type": "MAX",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67146679387186,
+                    45.524695334643354
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 8378,
+                "stop_name": "Old Town/Chinatown MAX Station",
+                "stop_seq": 2900,
+                "type": "MAX",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67139025881568,
+                    45.522872758344455
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 8379,
+                "stop_name": "Skidmore Fountain MAX Station",
+                "stop_seq": 3000,
+                "type": "MAX",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67252299050378,
+                    45.5198597206101
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 8380,
+                "stop_name": "Oak/ SW 1st Ave MAX Station",
+                "stop_seq": 3100,
+                "type": "MAX",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6753858643766,
+                    45.51818112782514
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 8381,
+                "stop_name": "Morrison/SW 3rd Ave MAX Station",
+                "stop_seq": 3200,
+                "type": "MAX",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6774020923525,
+                    45.51870127323588
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 8382,
+                "stop_name": "Mall/SW 5th Ave MAX Station",
+                "stop_seq": 3300,
+                "type": "MAX",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6794747753357,
+                    45.51925309140243
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 8383,
+                "stop_name": "Pioneer Square North MAX Station",
+                "stop_seq": 3400,
+                "type": "MAX",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

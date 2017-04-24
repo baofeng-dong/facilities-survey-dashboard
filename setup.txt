@@ -1,0 +1,26 @@
+# Copyright (C) 2017 Baofeng Dong
+# This program is released under the "MIT License".
+# Please see the file COPYING in the source
+# distribution of this software for license terms.
+
+# clone project
+git clone https://github.com/baofeng-dong/facilities-survey-dashboard.git
+cd facilities-survey-dashboard
+
+# create virtual environment and install python requirments
+# some of the requirments may require other packages to be
+# installed such as 'libpq-dev' and 'python-dev' being required for psycopg2
+virtualenv env
+env/bin/pip install -r requirements.txt
+
+# copy and edit example config file for your environments settings
+# project uses 'config.py' as default config file
+cp example_config.py config.py
+
+# ---------------------------------
+# deploying on apache with mod_wsgi
+# ---------------------------------
+
+# 1. create wsgi file
+# 2. create virtual host
+# 3. make wsgi file visible to apache user

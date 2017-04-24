@@ -1,0 +1,1414 @@
+{
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71293486585868,
+                    45.50197677535224
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 51,
+                "rte_desc": "51-Vista",
+                "stop_id": 5679,
+                "stop_name": "SW Talbot & Patton",
+                "stop_seq": 1,
+                "type": "BUS",
+                "zipcode": "97221"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71099758624443,
+                    45.50112202154171
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 51,
+                "rte_desc": "51-Vista",
+                "stop_id": 8672,
+                "stop_name": "SW Talbot & Talbot Terrace",
+                "stop_seq": 2,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70769066116478,
+                    45.50071102841649
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 51,
+                "rte_desc": "51-Vista",
+                "stop_id": 5681,
+                "stop_name": "SW Talbot Terrace & Greenway",
+                "stop_seq": 3,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7050766311851,
+                    45.4975186608318
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 51,
+                "rte_desc": "51-Vista",
+                "stop_id": 1215,
+                "stop_name": "SW Council Crest & Greenway",
+                "stop_seq": 4,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70339146881007,
+                    45.496663919257365
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 51,
+                "rte_desc": "51-Vista",
+                "stop_id": 1212,
+                "stop_name": "SW Council Crest & Chehalem",
+                "stop_seq": 5,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70198813732365,
+                    45.496127376920256
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 51,
+                "rte_desc": "51-Vista",
+                "stop_id": 1214,
+                "stop_name": "SW Council Crest & Chehalem (south leg)",
+                "stop_seq": 6,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70233199732259,
+                    45.494626419603996
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 51,
+                "rte_desc": "51-Vista",
+                "stop_id": 1217,
+                "stop_name": "SW Council Crest & Tualatin",
+                "stop_seq": 7,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69915582324491,
+                    45.49340882470485
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 51,
+                "rte_desc": "51-Vista",
+                "stop_id": 4410,
+                "stop_name": "SW Patrick & Council Crest",
+                "stop_seq": 10,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70053911929361,
+                    45.49339899441488
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 51,
+                "rte_desc": "51-Vista",
+                "stop_id": 1218,
+                "stop_name": "SW Council Crest & Tualatin",
+                "stop_seq": 50,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70211954730583,
+                    45.494417196120814
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 51,
+                "rte_desc": "51-Vista",
+                "stop_id": 8821,
+                "stop_name": "SW Council Crest & Tualatin (north leg)",
+                "stop_seq": 110,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70198817908118,
+                    45.49634187331247
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 51,
+                "rte_desc": "51-Vista",
+                "stop_id": 1211,
+                "stop_name": "SW Council Crest & Chehalem",
+                "stop_seq": 125,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7033349516325,
+                    45.49677280133414
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 51,
+                "rte_desc": "51-Vista",
+                "stop_id": 1213,
+                "stop_name": "SW Council Crest & Chehalem",
+                "stop_seq": 200,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70530122975951,
+                    45.49796104690584
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 51,
+                "rte_desc": "51-Vista",
+                "stop_id": 2252,
+                "stop_name": "SW Greenway & Council Crest",
+                "stop_seq": 300,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71305257320667,
+                    45.50215145233805
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 51,
+                "rte_desc": "51-Vista",
+                "stop_id": 5680,
+                "stop_name": "SW Talbot & Patton",
+                "stop_seq": 400,
+                "type": "BUS",
+                "zipcode": "97221"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71229645899989,
+                    45.49995910540126
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 51,
+                "rte_desc": "51-Vista",
+                "stop_id": 1510,
+                "stop_name": "3100 Block SW Dosch",
+                "stop_seq": 402,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71291685239765,
+                    45.49769766849394
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 51,
+                "rte_desc": "51-Vista",
+                "stop_id": 1513,
+                "stop_name": "3500 Block SW Dosch",
+                "stop_seq": 404,
+                "type": "BUS",
+                "zipcode": "97221"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71172119553162,
+                    45.49622070978964
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 51,
+                "rte_desc": "51-Vista",
+                "stop_id": 1517,
+                "stop_name": "SW Dosch & Dosch Ct",
+                "stop_seq": 405,
+                "type": "BUS",
+                "zipcode": "97221"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71209993463383,
+                    45.49441001554949
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 51,
+                "rte_desc": "51-Vista",
+                "stop_id": 1520,
+                "stop_name": "SW Dosch & Martins",
+                "stop_seq": 406,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71133765166753,
+                    45.493209404867
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 51,
+                "rte_desc": "51-Vista",
+                "stop_id": 1515,
+                "stop_name": "SW Dosch & Bridlemile",
+                "stop_seq": 407,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70940175770035,
+                    45.49128593841595
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 51,
+                "rte_desc": "51-Vista",
+                "stop_id": 4801,
+                "stop_name": "SW Redondo & Santa Monica",
+                "stop_seq": 409,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71108830917719,
+                    45.493187377437536
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 51,
+                "rte_desc": "51-Vista",
+                "stop_id": 1516,
+                "stop_name": "SW Dosch & Bridlemile",
+                "stop_seq": 600,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71154659604099,
+                    45.49622456699887
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 51,
+                "rte_desc": "51-Vista",
+                "stop_id": 1518,
+                "stop_name": "SW Dosch & Dosch Ct",
+                "stop_seq": 700,
+                "type": "BUS",
+                "zipcode": "97221"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71341493018885,
+                    45.50184477969493
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 51,
+                "rte_desc": "51-Vista",
+                "stop_id": 1524,
+                "stop_name": "SW Dosch & Patton",
+                "stop_seq": 900,
+                "type": "BUS",
+                "zipcode": "97221"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71031882599306,
+                    45.503460307723884
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 51,
+                "rte_desc": "51-Vista",
+                "stop_id": 4424,
+                "stop_name": "SW Patton & Patton Ln",
+                "stop_seq": 1050,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70598475579989,
+                    45.50490391859719
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 51,
+                "rte_desc": "51-Vista",
+                "stop_id": 4416,
+                "stop_name": "SW Patton & Homar",
+                "stop_seq": 1150,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69882902698484,
+                    45.50928924437031
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 51,
+                "rte_desc": "51-Vista",
+                "stop_id": 5313,
+                "stop_name": "SW Spring & Vista",
+                "stop_seq": 1650,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69869647082382,
+                    45.509854991058305
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 51,
+                "rte_desc": "51-Vista",
+                "stop_id": 6075,
+                "stop_name": "SW Vista & Elm St",
+                "stop_seq": 1700,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6979666625066,
+                    45.511206491661426
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 51,
+                "rte_desc": "51-Vista",
+                "stop_id": 6089,
+                "stop_name": "SW Vista & Myrtle",
+                "stop_seq": 1800,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69699292808643,
+                    45.51298530689642
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 51,
+                "rte_desc": "51-Vista",
+                "stop_id": 6079,
+                "stop_name": "SW Vista & Jackson",
+                "stop_seq": 1900,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69690235083148,
+                    45.51558738811402
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 51,
+                "rte_desc": "51-Vista",
+                "stop_id": 6087,
+                "stop_name": "SW Vista & Montgomery",
+                "stop_seq": 2050,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69530360800664,
+                    45.520925550852915
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 51,
+                "rte_desc": "51-Vista",
+                "stop_id": 3236,
+                "stop_name": "SW King & Salmon",
+                "stop_seq": 2300,
+                "type": "BUS",
+                "zipcode": "97205"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69377086920966,
+                    45.520554934771894
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 51,
+                "rte_desc": "51-Vista",
+                "stop_id": 5019,
+                "stop_name": "SW Salmon & 20th",
+                "stop_seq": 2350,
+                "type": "BUS",
+                "zipcode": "97205"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68747850643904,
+                    45.5191063300079
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 51,
+                "rte_desc": "51-Vista",
+                "stop_id": 5014,
+                "stop_name": "SW Salmon & 14th",
+                "stop_seq": 2550,
+                "type": "BUS",
+                "zipcode": "97205"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67885409884914,
+                    45.51679365250741
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 51,
+                "rte_desc": "51-Vista",
+                "stop_id": 5020,
+                "stop_name": "SW Salmon & 5th",
+                "stop_seq": 2751,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6752402689042,
+                    45.516533981239206
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 51,
+                "rte_desc": "51-Vista",
+                "stop_id": 7098,
+                "stop_name": "SW 2nd & Taylor",
+                "stop_seq": 2850,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67459934134885,
+                    45.519590161269775
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 51,
+                "rte_desc": "51-Vista",
+                "stop_id": 6158,
+                "stop_name": "SW Washington & 3rd",
+                "stop_seq": 2900,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67658603150089,
+                    45.52012555080458
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 51,
+                "rte_desc": "51-Vista",
+                "stop_id": 6160,
+                "stop_name": "SW Washington & 5th",
+                "stop_seq": 2950,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71093158531296,
+                    45.50137477178641
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 51,
+                "rte_desc": "51-Vista",
+                "stop_id": 5682,
+                "stop_name": "SW Talbot & Talbot Terrace",
+                "stop_seq": 350,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70981591226466,
+                    45.49062522207284
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 51,
+                "rte_desc": "51-Vista",
+                "stop_id": 2467,
+                "stop_name": "SW Hamilton & Dosch",
+                "stop_seq": 500,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70032452696084,
+                    45.5075253511285
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 51,
+                "rte_desc": "51-Vista",
+                "stop_id": 4799,
+                "stop_name": "SW Ravensview & Terrace",
+                "stop_seq": 1500,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6981331201661,
+                    45.52039829984604
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 51,
+                "rte_desc": "51-Vista",
+                "stop_id": 6083,
+                "stop_name": "SW Vista & Main",
+                "stop_seq": 2200,
+                "type": "BUS",
+                "zipcode": "97205"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71081533674933,
+                    45.49209341357251
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 51,
+                "rte_desc": "51-Vista",
+                "stop_id": 1522,
+                "stop_name": "SW Dosch & Newby",
+                "stop_seq": 408,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71196516395847,
+                    45.494535356958444
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 51,
+                "rte_desc": "51-Vista",
+                "stop_id": 1521,
+                "stop_name": "SW Dosch & Martins",
+                "stop_seq": 650,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71231944179085,
+                    45.49946659447996
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 51,
+                "rte_desc": "51-Vista",
+                "stop_id": 8416,
+                "stop_name": "3300 Block SW Dosch",
+                "stop_seq": 825,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71167576070154,
+                    45.50317253344486
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 51,
+                "rte_desc": "51-Vista",
+                "stop_id": 4422,
+                "stop_name": "SW Patton & Patton Ct",
+                "stop_seq": 1000,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70724811265431,
+                    45.503869621469
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 51,
+                "rte_desc": "51-Vista",
+                "stop_id": 4420,
+                "stop_name": "SW Patton & Old Orchard",
+                "stop_seq": 1100,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70390129106612,
+                    45.50535512562486
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 51,
+                "rte_desc": "51-Vista",
+                "stop_id": 4415,
+                "stop_name": "SW Patton & Greenway",
+                "stop_seq": 1250,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69748914963175,
+                    45.508302522864675
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 51,
+                "rte_desc": "51-Vista",
+                "stop_id": 6908,
+                "stop_name": "SW 18th & Elizabeth",
+                "stop_seq": 1600,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69735267279871,
+                    45.51859123237387
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 51,
+                "rte_desc": "51-Vista",
+                "stop_id": 6084,
+                "stop_name": "SW Vista & Market Street",
+                "stop_seq": 2150,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69236446889536,
+                    45.520159879868494
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 51,
+                "rte_desc": "51-Vista",
+                "stop_id": 5006,
+                "stop_name": "SW Salmon & 19th",
+                "stop_seq": 2450,
+                "type": "BUS",
+                "zipcode": "97205"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68479718809677,
+                    45.518386379283506
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 51,
+                "rte_desc": "51-Vista",
+                "stop_id": 5012,
+                "stop_name": "SW Salmon & 12th",
+                "stop_seq": 2600,
+                "type": "BUS",
+                "zipcode": "97205"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6818443245761,
+                    45.517596126673084
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 51,
+                "rte_desc": "51-Vista",
+                "stop_id": 5007,
+                "stop_name": "SW Salmon & Park",
+                "stop_seq": 2700,
+                "type": "BUS",
+                "zipcode": "97205"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7000738367656,
+                    45.493293805662354
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 51,
+                "rte_desc": "51-Vista",
+                "stop_id": 1207,
+                "stop_name": "4100 Block SW Council Crest",
+                "stop_seq": 9,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6786565079318,
+                    45.5206946365535
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 51,
+                "rte_desc": "51-Vista",
+                "stop_id": 6137,
+                "stop_name": "SW Washington & Broadway",
+                "stop_seq": 3000,
+                "type": "BUS",
+                "zipcode": "97205"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68027007275433,
+                    45.52111166470496
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 51,
+                "rte_desc": "51-Vista",
+                "stop_id": 6169,
+                "stop_name": "SW Washington & 9th",
+                "stop_seq": 3050,
+                "type": "BUS",
+                "zipcode": "97205"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71287649248,
+                    45.4986176894992
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 51,
+                "rte_desc": "51-Vista",
+                "stop_id": 1511,
+                "stop_name": "SW Dosch & Doschview",
+                "stop_seq": 403,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68931176527755,
+                    45.519577748402426
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 51,
+                "rte_desc": "51-Vista",
+                "stop_id": 5016,
+                "stop_name": "SW Salmon & 16th",
+                "stop_seq": 2500,
+                "type": "BUS",
+                "zipcode": "97205"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71043418260608,
+                    45.49193937117438
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 51,
+                "rte_desc": "51-Vista",
+                "stop_id": 1523,
+                "stop_name": "SW Dosch & Newby",
+                "stop_seq": 550,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71283073350426,
+                    45.498258986905455
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 51,
+                "rte_desc": "51-Vista",
+                "stop_id": 13571,
+                "stop_name": "SW Dosch & Doschview",
+                "stop_seq": 750,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70232286602396,
+                    45.50649675133639
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 51,
+                "rte_desc": "51-Vista",
+                "stop_id": 13572,
+                "stop_name": "2600 Block SW Ravensview",
+                "stop_seq": 1375,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6834747880386,
+                    45.51802616585619
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 51,
+                "rte_desc": "51-Vista",
+                "stop_id": 5009,
+                "stop_name": "SW Salmon & 10th",
+                "stop_seq": 2650,
+                "type": "BUS",
+                "zipcode": "97205"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,701 @@
+{
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56537956636681,
+                    45.559200708928046
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Portland International Airport",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 90,
+                "rte_desc": "MAX Red Line",
+                "stop_id": 10572,
+                "stop_name": "Parkrose/Sumner TC MAX Station",
+                "stop_seq": 3700,
+                "type": "MAX",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.55828956070093,
+                    45.57239331643928
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Portland International Airport",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 90,
+                "rte_desc": "MAX Red Line",
+                "stop_id": 10574,
+                "stop_name": "Cascades MAX Station",
+                "stop_seq": 3750,
+                "type": "MAX",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56357752451703,
+                    45.53027212744254
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Portland International Airport",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 90,
+                "rte_desc": "MAX Red Line",
+                "stop_id": 8347,
+                "stop_name": "Gateway/NE 99th Ave TC MAX Station",
+                "stop_seq": 3500,
+                "type": "MAX",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56715143477147,
+                    45.57736181423561
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Portland International Airport",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 90,
+                "rte_desc": "MAX Red Line",
+                "stop_id": 10576,
+                "stop_name": "Mt Hood Ave MAX Station",
+                "stop_seq": 3850,
+                "type": "MAX",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59310032830112,
+                    45.587584116187294
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Portland International Airport",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 90,
+                "rte_desc": "MAX Red Line",
+                "stop_id": 10579,
+                "stop_name": "Portland Int'l Airport MAX Station",
+                "stop_seq": 4100,
+                "type": "MAX",
+                "zipcode": "97218"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66491664178665,
+                    45.530060460750306
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Portland International Airport",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 90,
+                "rte_desc": "MAX Red Line",
+                "stop_id": 8340,
+                "stop_name": "Rose Quarter TC MAX Station",
+                "stop_seq": 2600,
+                "type": "MAX",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66190799067053,
+                    45.53005557103645
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Portland International Airport",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 90,
+                "rte_desc": "MAX Red Line",
+                "stop_id": 8341,
+                "stop_name": "Convention Center MAX Station",
+                "stop_seq": 2700,
+                "type": "MAX",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65774000112242,
+                    45.530058663132984
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Portland International Airport",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 90,
+                "rte_desc": "MAX Red Line",
+                "stop_id": 8342,
+                "stop_name": "NE 7th Ave MAX Station",
+                "stop_seq": 2800,
+                "type": "MAX",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65363838177642,
+                    45.530070757047056
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Portland International Airport",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 90,
+                "rte_desc": "MAX Red Line",
+                "stop_id": 8343,
+                "stop_name": "Lloyd Center/NE 11th Ave MAX Station",
+                "stop_seq": 2900,
+                "type": "MAX",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62070826736168,
+                    45.53277546854319
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Portland International Airport",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 90,
+                "rte_desc": "MAX Red Line",
+                "stop_id": 8344,
+                "stop_name": "Hollywood/NE 42nd Ave TC MAX Station",
+                "stop_seq": 3000,
+                "type": "MAX",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6027032688746,
+                    45.52876682229986
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Portland International Airport",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 90,
+                "rte_desc": "MAX Red Line",
+                "stop_id": 8345,
+                "stop_name": "NE 60th Ave MAX Station",
+                "stop_seq": 3100,
+                "type": "MAX",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57779435785815,
+                    45.533223747009714
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Portland International Airport",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 90,
+                "rte_desc": "MAX Red Line",
+                "stop_id": 8346,
+                "stop_name": "NE 82nd Ave MAX Station",
+                "stop_seq": 3200,
+                "type": "MAX",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.85119309934949,
+                    45.50978250781564
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Portland International Airport",
+                "frequent": "True",
+                "jurisdic": "Beaverton",
+                "rte": 90,
+                "rte_desc": "MAX Red Line",
+                "stop_id": 9830,
+                "stop_name": "Elmonica/SW 170th Ave MAX Station",
+                "stop_seq": 500,
+                "type": "MAX",
+                "zipcode": "97003"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.84187185846977,
+                    45.50506279681968
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Portland International Airport",
+                "frequent": "True",
+                "jurisdic": "Beaverton",
+                "rte": 90,
+                "rte_desc": "MAX Red Line",
+                "stop_id": 9828,
+                "stop_name": "Merlo Rd/SW 158th Ave MAX Station",
+                "stop_seq": 600,
+                "type": "MAX",
+                "zipcode": "97003"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.83278542146205,
+                    45.50025370129317
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Portland International Airport",
+                "frequent": "True",
+                "jurisdic": "Beaverton",
+                "rte": 90,
+                "rte_desc": "MAX Red Line",
+                "stop_id": 9822,
+                "stop_name": "Beaverton Creek MAX Station",
+                "stop_seq": 700,
+                "type": "MAX",
+                "zipcode": "97003"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.82123815815801,
+                    45.49510730430138
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Portland International Airport",
+                "frequent": "True",
+                "jurisdic": "Beaverton",
+                "rte": 90,
+                "rte_desc": "MAX Red Line",
+                "stop_id": 9826,
+                "stop_name": "Millikan Way MAX Station",
+                "stop_seq": 800,
+                "type": "MAX",
+                "zipcode": "97005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.80676616567595,
+                    45.4905011004702
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Portland International Airport",
+                "frequent": "True",
+                "jurisdic": "Beaverton",
+                "rte": 90,
+                "rte_desc": "MAX Red Line",
+                "stop_id": 9824,
+                "stop_name": "Beaverton Central MAX Station",
+                "stop_seq": 900,
+                "type": "MAX",
+                "zipcode": "97005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.80120043259276,
+                    45.49170104212468
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Portland International Airport",
+                "frequent": "True",
+                "jurisdic": "Beaverton",
+                "rte": 90,
+                "rte_desc": "MAX Red Line",
+                "stop_id": 9821,
+                "stop_name": "Beaverton TC MAX Station",
+                "stop_seq": 1000,
+                "type": "MAX",
+                "zipcode": "97005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.78075676090837,
+                    45.51010264514384
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Portland International Airport",
+                "frequent": "True",
+                "jurisdic": "Beaverton",
+                "rte": 90,
+                "rte_desc": "MAX Red Line",
+                "stop_id": 9969,
+                "stop_name": "Sunset TC MAX Station",
+                "stop_seq": 1100,
+                "type": "MAX",
+                "zipcode": "97225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71633983488718,
+                    45.51065714951402
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Portland International Airport",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 90,
+                "rte_desc": "MAX Red Line",
+                "stop_id": 10120,
+                "stop_name": "Washington Park MAX Station",
+                "stop_seq": 1300,
+                "type": "MAX",
+                "zipcode": "97221"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69354360013396,
+                    45.517989372920475
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Portland International Airport",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 90,
+                "rte_desc": "MAX Red Line",
+                "stop_id": 10118,
+                "stop_name": "Goose Hollow/SW Jefferson St MAX Station",
+                "stop_seq": 1500,
+                "type": "MAX",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69100535356071,
+                    45.52059246103185
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Portland International Airport",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 90,
+                "rte_desc": "MAX Red Line",
+                "stop_id": 9759,
+                "stop_name": "Kings Hill/SW Salmon St MAX Station",
+                "stop_seq": 1600,
+                "type": "MAX",
+                "zipcode": "97205"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6898864397169,
+                    45.5213214835215
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Portland International Airport",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 90,
+                "rte_desc": "MAX Red Line",
+                "stop_id": 9758,
+                "stop_name": "Providence Park MAX Station",
+                "stop_seq": 1700,
+                "type": "MAX",
+                "zipcode": "97205"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68162040749792,
+                    45.519163883388444
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Portland International Airport",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 90,
+                "rte_desc": "MAX Red Line",
+                "stop_id": 8333,
+                "stop_name": "Library/SW 9th Ave MAX Station",
+                "stop_seq": 1900,
+                "type": "MAX",
+                "zipcode": "97205"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67914533068303,
+                    45.518499283545594
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Portland International Airport",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 90,
+                "rte_desc": "MAX Red Line",
+                "stop_id": 8334,
+                "stop_name": "Pioneer Square South MAX Station",
+                "stop_seq": 2000,
+                "type": "MAX",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.677087944688,
+                    45.51794590492197
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Portland International Airport",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 90,
+                "rte_desc": "MAX Red Line",
+                "stop_id": 8335,
+                "stop_name": "Mall/SW 4th Ave MAX Station",
+                "stop_seq": 2100,
+                "type": "MAX",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6741719027824,
+                    45.51715635462896
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Portland International Airport",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 90,
+                "rte_desc": "MAX Red Line",
+                "stop_id": 8336,
+                "stop_name": "Yamhill District MAX Station",
+                "stop_seq": 2200,
+                "type": "MAX",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67214642404377,
+                    45.52028417022197
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Portland International Airport",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 90,
+                "rte_desc": "MAX Red Line",
+                "stop_id": 8337,
+                "stop_name": "Oak/ SW 1st Ave MAX Station",
+                "stop_seq": 2300,
+                "type": "MAX",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67125631183303,
+                    45.52309546863391
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Portland International Airport",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 90,
+                "rte_desc": "MAX Red Line",
+                "stop_id": 8338,
+                "stop_name": "Skidmore Fountain MAX Station",
+                "stop_seq": 2400,
+                "type": "MAX",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67135318551166,
+                    45.52518332904411
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Portland International Airport",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 90,
+                "rte_desc": "MAX Red Line",
+                "stop_id": 8339,
+                "stop_name": "Old Town/Chinatown MAX Station",
+                "stop_seq": 2500,
+                "type": "MAX",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

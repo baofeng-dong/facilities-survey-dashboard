@@ -1,0 +1,2909 @@
+{
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61474164772976,
+                    45.57082914153545
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 13472,
+                "stop_name": "NE Columbia Blvd & 47th",
+                "stop_seq": 4050,
+                "type": "BUS",
+                "zipcode": "97218"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64050846129165,
+                    45.445098272452505
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Milwaukie",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 13482,
+                "stop_name": "SE 21st & Jackson",
+                "stop_seq": 25,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6412693576665,
+                    45.44489587210286
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Milwaukie",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 8223,
+                "stop_name": "SE Jackson & Main St",
+                "stop_seq": 50,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63500030170454,
+                    45.44641497978056
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Milwaukie",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 2572,
+                "stop_name": "SE Harrison & 28th",
+                "stop_seq": 150,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61585843145988,
+                    45.46772340604339
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7554,
+                "stop_name": "SE 45th & Malden Dr",
+                "stop_seq": 1150,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61592038169168,
+                    45.4721036521828
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7557,
+                "stop_name": "SE 45th & Rural",
+                "stop_seq": 1250,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61536467618225,
+                    45.47650416186401
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7563,
+                "stop_name": "SE 46th & Henry",
+                "stop_seq": 1350,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6153797345871,
+                    45.47904133904795
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7565,
+                "stop_name": "SE 46th & Woodstock",
+                "stop_seq": 1400,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61833520272582,
+                    45.47924452632141
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 6414,
+                "stop_name": "SE Woodstock & 43rd",
+                "stop_seq": 1500,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62036513031566,
+                    45.479260469164714
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 6412,
+                "stop_name": "SE Woodstock & 41st",
+                "stop_seq": 1550,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62256586611994,
+                    45.48271965870387
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7456,
+                "stop_name": "SE Cesar Chavez Blvd & Harold",
+                "stop_seq": 1700,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62255293867396,
+                    45.486929533606286
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7478,
+                "stop_name": "SE Cesar Chavez Blvd & Raymond",
+                "stop_seq": 1800,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62272411433024,
+                    45.48908084904818
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7471,
+                "stop_name": "SE Cesar Chavez Blvd & Long",
+                "stop_seq": 1850,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62254794821929,
+                    45.49620527975865
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7467,
+                "stop_name": "SE Cesar Chavez Blvd & Lafayette",
+                "stop_seq": 2000,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6225522190939,
+                    45.49971729755622
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7464,
+                "stop_name": "SE Cesar Chavez Blvd & Kelly",
+                "stop_seq": 2100,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62252671448168,
+                    45.50324197088521
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7442,
+                "stop_name": "SE Cesar Chavez Blvd & Clinton",
+                "stop_seq": 2200,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6225181183032,
+                    45.50498743880761
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7445,
+                "stop_name": "SE Cesar Chavez Blvd & Division",
+                "stop_seq": 2250,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62265546450118,
+                    45.50948132104767
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7489,
+                "stop_name": "SE Cesar Chavez Blvd & Stephens",
+                "stop_seq": 2400,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62280585159743,
+                    45.513488938281554
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7472,
+                "stop_name": "SE Cesar Chavez Blvd & Main",
+                "stop_seq": 2500,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62282986911595,
+                    45.515216289781485
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7491,
+                "stop_name": "SE Cesar Chavez Blvd & Taylor",
+                "stop_seq": 2525,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62291527724697,
+                    45.52339768403482
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7440,
+                "stop_name": "SE Cesar Chavez Blvd & E Burnside",
+                "stop_seq": 2750,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62288869872648,
+                    45.528478773781465
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7482,
+                "stop_name": "NE Cesar Chavez Blvd & Royal",
+                "stop_seq": 2850,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62289112378974,
+                    45.529874326279646
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7461,
+                "stop_name": "NE Cesar Chavez Blvd & Hazelfern",
+                "stop_seq": 2900,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62022932587499,
+                    45.534967226975105
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7509,
+                "stop_name": "NE 42nd & Broadway",
+                "stop_seq": 3050,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61983960649268,
+                    45.53807576610817
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7537,
+                "stop_name": "NE 42nd & Tillamook",
+                "stop_seq": 3150,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61983648679859,
+                    45.540520313955135
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7507,
+                "stop_name": "NE 42nd & Brazee",
+                "stop_seq": 3200,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62104517992483,
+                    45.54511183246664
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7497,
+                "stop_name": "NE 41st & Alameda",
+                "stop_seq": 3350,
+                "type": "BUS",
+                "zipcode": "97212"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6202940957675,
+                    45.55005420039615
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7506,
+                "stop_name": "NE 42nd & Beech",
+                "stop_seq": 3500,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62031483635818,
+                    45.55363475012859
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7533,
+                "stop_name": "NE 42nd & Skidmore",
+                "stop_seq": 3600,
+                "type": "BUS",
+                "zipcode": "97218"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6203201001634,
+                    45.55528981123942
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7526,
+                "stop_name": "NE 42nd & Prescott",
+                "stop_seq": 3650,
+                "type": "BUS",
+                "zipcode": "97218"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6203388821868,
+                    45.55880869081941
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7505,
+                "stop_name": "NE 42nd & Alberta St",
+                "stop_seq": 3750,
+                "type": "BUS",
+                "zipcode": "97218"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62032504906378,
+                    45.56346045245786
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7520,
+                "stop_name": "NE 42nd & Killingsworth",
+                "stop_seq": 3850,
+                "type": "BUS",
+                "zipcode": "97218"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62034552507268,
+                    45.56502525753594
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7531,
+                "stop_name": "NE 42nd & Simpson St",
+                "stop_seq": 3900,
+                "type": "BUS",
+                "zipcode": "97218"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62389036810586,
+                    45.57251780053894
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 1101,
+                "stop_name": "3800 Block NE Columbia Blvd",
+                "stop_seq": 4150,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62689261365867,
+                    45.57305990237833
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 1099,
+                "stop_name": "3500 Block NE Columbia Blvd",
+                "stop_seq": 4200,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66218034092029,
+                    45.57730919640088
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 3557,
+                "stop_name": "NE Lombard & M L King",
+                "stop_seq": 5000,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66482333874684,
+                    45.577293844117484
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 3546,
+                "stop_name": "NE Lombard & Rodney",
+                "stop_seq": 5050,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66897971100525,
+                    45.57729662230491
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 3561,
+                "stop_name": "N Lombard & Vancouver",
+                "stop_seq": 5100,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67618221300725,
+                    45.57728689755923
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 3521,
+                "stop_name": "N Lombard & Mississippi",
+                "stop_seq": 5250,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68270111592216,
+                    45.57723180356185
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 3507,
+                "stop_name": "N Lombard Transit Center",
+                "stop_seq": 5350,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69474447153205,
+                    45.57720941921978
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 3472,
+                "stop_name": "N Lombard & Burrage",
+                "stop_seq": 5600,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69685796646014,
+                    45.57720689859296
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 3535,
+                "stop_name": "N Lombard & Peninsular",
+                "stop_seq": 5650,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70312532971829,
+                    45.57721248915246
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 3566,
+                "stop_name": "N Lombard & Wabash",
+                "stop_seq": 5750,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7158150879321,
+                    45.57953115259913
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 3502,
+                "stop_name": "N Lombard & Huron",
+                "stop_seq": 6000,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71811575144629,
+                    45.58040396923225
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 3491,
+                "stop_name": "N Lombard & Fiske",
+                "stop_seq": 6050,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72147884906033,
+                    45.58161302412143
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 3498,
+                "stop_name": "N Lombard & Hodge",
+                "stop_seq": 6150,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72631223134348,
+                    45.58340488575911
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 3480,
+                "stop_name": "N Lombard & Clarendon",
+                "stop_seq": 6250,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73212743655696,
+                    45.58554083572091
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 3575,
+                "stop_name": "N Lombard & Westanna",
+                "stop_seq": 6400,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73829717250028,
+                    45.58700427625678
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 3504,
+                "stop_name": "N Lombard & Ida",
+                "stop_seq": 6550,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75267956524137,
+                    45.58958863790517
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 3509,
+                "stop_name": "N Lombard & John",
+                "stop_seq": 6850,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7557066547405,
+                    45.59110733082989
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 8480,
+                "stop_name": "N Lombard & Baltimore",
+                "stop_seq": 6950,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76110934023907,
+                    45.59798397098024
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 9576,
+                "stop_name": "N Lombard & Reno",
+                "stop_seq": 7090,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6203238575997,
+                    45.56013324452682
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7535,
+                "stop_name": "NE 42nd & Sumner",
+                "stop_seq": 3800,
+                "type": "BUS",
+                "zipcode": "97218"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62035889928272,
+                    45.56852261019102
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7516,
+                "stop_name": "NE 42nd & Holman",
+                "stop_seq": 4000,
+                "type": "BUS",
+                "zipcode": "97218"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62081711155086,
+                    45.57191246865381
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 1116,
+                "stop_name": "NE Columbia Blvd & 42nd",
+                "stop_seq": 4100,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69229956562461,
+                    45.57720357023385
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 3483,
+                "stop_name": "N Lombard & Delaware",
+                "stop_seq": 5550,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7078010830354,
+                    45.57721376248633
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 3478,
+                "stop_name": "N Lombard & Chautauqua",
+                "stop_seq": 5850,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71424799079058,
+                    45.57896310259236
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 3487,
+                "stop_name": "N Lombard & Dwight",
+                "stop_seq": 5950,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72380998950122,
+                    45.582472410805245
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 3538,
+                "stop_name": "N Lombard & Portsmouth",
+                "stop_seq": 6200,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72948761442035,
+                    45.58457098154253
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 3569,
+                "stop_name": "N Lombard & Wall",
+                "stop_seq": 6350,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74893435949555,
+                    45.58951159371243
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 3534,
+                "stop_name": "N Lombard & Oswego",
+                "stop_seq": 6750,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75428268479551,
+                    45.590102478492135
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 3467,
+                "stop_name": "N Lombard & Burlington",
+                "stop_seq": 6900,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75686410669668,
+                    45.592307592466355
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 3525,
+                "stop_name": "N Lombard & New York",
+                "stop_seq": 7000,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76227322596279,
+                    45.5999367158058
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 9432,
+                "stop_name": "N Lombard & Weyerhauser",
+                "stop_seq": 7100,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63788719751174,
+                    45.44636650657025
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Milwaukie",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 2569,
+                "stop_name": "SE Harrison & 24th",
+                "stop_seq": 100,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63265633024925,
+                    45.44645886183523
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Milwaukie",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 2568,
+                "stop_name": "SE Harrison & Hwy 224",
+                "stop_seq": 200,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6157799124413,
+                    45.463043519181724
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7546,
+                "stop_name": "SE 45th & Harney",
+                "stop_seq": 1050,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6159430466792,
+                    45.47353214608568
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7542,
+                "stop_name": "SE 45th & Evergreen",
+                "stop_seq": 1300,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62257808182045,
+                    45.47965460455908
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7465,
+                "stop_name": "SE Cesar Chavez Blvd & Knight",
+                "stop_seq": 1600,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62251877812088,
+                    45.4845092418878
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7487,
+                "stop_name": "SE Cesar Chavez Blvd & Steele",
+                "stop_seq": 1750,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62255131312679,
+                    45.490910646955534
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7474,
+                "stop_name": "SE Cesar Chavez Blvd & Mall",
+                "stop_seq": 1900,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62261891568136,
+                    45.50793868256528
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7468,
+                "stop_name": "SE Cesar Chavez Blvd & Lincoln",
+                "stop_seq": 2350,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.622672160833,
+                    45.51176273972452
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7459,
+                "stop_name": "SE Cesar Chavez Blvd & Hawthorne",
+                "stop_seq": 2450,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62283163295727,
+                    45.51635088934849
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7437,
+                "stop_name": "SE Cesar Chavez Blvd & Belmont",
+                "stop_seq": 2550,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62294353532299,
+                    45.52153809706841
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7435,
+                "stop_name": "SE Cesar Chavez Blvd & Ash",
+                "stop_seq": 2700,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62287954567262,
+                    45.53140576738185
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7475,
+                "stop_name": "NE Cesar Chavez Blvd & Multnomah",
+                "stop_seq": 2950,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61981656930529,
+                    45.53638469955573
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7528,
+                "stop_name": "NE 42nd & Sandy",
+                "stop_seq": 3100,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61983393966615,
+                    45.54203551304385
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7521,
+                "stop_name": "NE 42nd & Knott",
+                "stop_seq": 3250,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.620265031349,
+                    45.55175713553206
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7529,
+                "stop_name": "NE 42nd & Shaver",
+                "stop_seq": 3550,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62026407214735,
+                    45.533528504603545
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 10872,
+                "stop_name": "Hollywood Transit Center",
+                "stop_seq": 3000,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71182644943555,
+                    45.57807355016574
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 3548,
+                "stop_name": "N Lombard & Russet",
+                "stop_seq": 5900,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72807687511697,
+                    45.58403785771742
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 3518,
+                "stop_name": "N Lombard & McKenna",
+                "stop_seq": 6300,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75906550059693,
+                    45.59457936674815
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 9431,
+                "stop_name": "N Lombard & Catlin",
+                "stop_seq": 7050,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7465231874752,
+                    45.588917996404575
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 3555,
+                "stop_name": "N Lombard & Tyler",
+                "stop_seq": 6700,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62276854418009,
+                    45.53347910590012
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 11487,
+                "stop_name": "NE Cesar Chavez Blvd & Halsey",
+                "stop_seq": 2975,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61581609688018,
+                    45.46551040709347
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7560,
+                "stop_name": "SE 45th & 46th/Nehalem",
+                "stop_seq": 1100,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62254690780719,
+                    45.49376648137215
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7449,
+                "stop_name": "SE Cesar Chavez Blvd & Gladstone",
+                "stop_seq": 1950,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6202671208399,
+                    45.54853527679648
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7501,
+                "stop_name": "NE 42nd & Fremont",
+                "stop_seq": 3450,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67463963021068,
+                    45.57729936443599
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 3452,
+                "stop_name": "N Lombard & Albina",
+                "stop_seq": 5200,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74400814799579,
+                    45.5883344657905
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 3462,
+                "stop_name": "N Lombard & Buchanan",
+                "stop_seq": 6650,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76243529568627,
+                    45.60215277040229
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 10697,
+                "stop_name": "Pier Park",
+                "stop_seq": 7150,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62289863379375,
+                    45.51919483108382
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7485,
+                "stop_name": "SE Cesar Chavez Blvd & Stark",
+                "stop_seq": 2650,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6297229636428,
+                    45.449846308511646
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Milwaukie",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7339,
+                "stop_name": "SE 32nd & Hillside",
+                "stop_seq": 350,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62975211368285,
+                    45.45129381317599
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Milwaukie",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7341,
+                "stop_name": "SE 32nd & Harvey",
+                "stop_seq": 400,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62984701311836,
+                    45.454806695831905
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Milwaukie",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7350,
+                "stop_name": "SE 32nd & Olsen",
+                "stop_seq": 500,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62987444966474,
+                    45.45614669671559
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Milwaukie",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7346,
+                "stop_name": "SE 32nd & Malcolm",
+                "stop_seq": 550,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62993152754615,
+                    45.45770733749682
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Milwaukie",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 8326,
+                "stop_name": "SE 32nd & Floss",
+                "stop_seq": 600,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6296570120206,
+                    45.44829823705515
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Milwaukie",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 8894,
+                "stop_name": "SE 32nd & Meek",
+                "stop_seq": 300,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6298648589403,
+                    45.46053506877719
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Milwaukie",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7359,
+                "stop_name": "SE 32nd & Van Water",
+                "stop_seq": 650,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62979670614999,
+                    45.46242526102955
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 8168,
+                "stop_name": "SE 32nd & Johnson Creek",
+                "stop_seq": 700,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62637925571971,
+                    45.46218474968144
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 3083,
+                "stop_name": "SE Johnson Creek & 36th",
+                "stop_seq": 750,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61694717673184,
+                    45.46050353215399
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Milwaukie",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 3077,
+                "stop_name": "SE Johnson Creek & Brookside",
+                "stop_seq": 900,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6167270088931,
+                    45.46157637766223
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 3079,
+                "stop_name": "SE Johnson Creek & Springwater Corridor",
+                "stop_seq": 1000,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63158990332809,
+                    45.571942603445834
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 1289,
+                "stop_name": "NE Dekum & 32nd Pl",
+                "stop_seq": 4250,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63585314441971,
+                    45.5719404890714
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 1287,
+                "stop_name": "NE Dekum & 29th",
+                "stop_seq": 4300,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63800001104482,
+                    45.571935758287516
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 1285,
+                "stop_name": "NE Dekum & 27th",
+                "stop_seq": 4350,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64121477303739,
+                    45.571930617252775
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 1271,
+                "stop_name": "NE Dekum & Saratoga",
+                "stop_seq": 4400,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64336432373848,
+                    45.571932173869364
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 1282,
+                "stop_name": "NE Dekum & 22nd",
+                "stop_seq": 4450,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64709476567425,
+                    45.57192623954454
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 1280,
+                "stop_name": "NE Dekum & 18th",
+                "stop_seq": 4500,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64990978169125,
+                    45.57191999699073
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 1277,
+                "stop_name": "NE Dekum & 15th",
+                "stop_seq": 4550,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65268112239423,
+                    45.571827956124594
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 1275,
+                "stop_name": "NE Dekum & Claremont",
+                "stop_seq": 4600,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65581030922671,
+                    45.571835244297745
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 1267,
+                "stop_name": "NE Dekum & Durham",
+                "stop_seq": 4650,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65918912182285,
+                    45.571864964890786
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 1292,
+                "stop_name": "NE Dekum & 6th",
+                "stop_seq": 4700,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66124483735456,
+                    45.57297152689051
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 5899,
+                "stop_name": "NE M L King & Bryant",
+                "stop_seq": 4800,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66124748485586,
+                    45.57432701352914
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 5937,
+                "stop_name": "NE M L King & Morgan",
+                "stop_seq": 4850,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6612383881563,
+                    45.57561211079077
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 5918,
+                "stop_name": "NE M L King & Holland",
+                "stop_seq": 4900,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68658236618056,
+                    45.57720228218433
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 3485,
+                "stop_name": "N Lombard & Denver",
+                "stop_seq": 5450,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73690271054626,
+                    45.58666031646515
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 3494,
+                "stop_name": "N Lombard & Gilbert",
+                "stop_seq": 6500,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62248689769889,
+                    45.49787107231756
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7477,
+                "stop_name": "SE Cesar Chavez Blvd & Powell",
+                "stop_seq": 2050,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6197074456628,
+                    45.46011525619904
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Milwaukie",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 3086,
+                "stop_name": "SE Johnson Creek & 42nd",
+                "stop_seq": 850,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61589197783822,
+                    45.47070737386363
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7552,
+                "stop_name": "SE 45th & Knapp",
+                "stop_seq": 1200,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6225434651375,
+                    45.50113226588597
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7439,
+                "stop_name": "SE Cesar Chavez Blvd & Brooklyn",
+                "stop_seq": 2150,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62245052117095,
+                    45.526469814961736
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7451,
+                "stop_name": "NE Cesar Chavez Blvd & Glisan",
+                "stop_seq": 2800,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62070038963866,
+                    45.54716432690077
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 7499,
+                "stop_name": "NE 41st & Klickitat",
+                "stop_seq": 3400,
+                "type": "BUS",
+                "zipcode": "97212"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61005813512432,
+                    45.57022369492333
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 11009,
+                "stop_name": "NE Columbia Blvd & 52nd (NAYA)",
+                "stop_seq": 4025,
+                "type": "BUS",
+                "zipcode": "97218"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6608522732776,
+                    45.57185597624683
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To St. Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 75,
+                "rte_desc": "75-Cesar Chavez/Lombard",
+                "stop_id": 1273,
+                "stop_name": "NE Dekum & M L King",
+                "stop_seq": 4750,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

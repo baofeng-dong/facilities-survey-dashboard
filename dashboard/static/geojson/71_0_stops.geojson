@@ -1,0 +1,1759 @@
+{
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60235878439134,
+                    45.46855771506305
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 71,
+                "rte_desc": "71-60th Ave",
+                "stop_id": 1739,
+                "stop_name": "SE Flavel & 60th",
+                "stop_seq": 2550,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57359897813461,
+                    45.555542250014845
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 71,
+                "rte_desc": "71-60th Ave",
+                "stop_id": 12992,
+                "stop_name": "NE Prescott & 87th",
+                "stop_seq": 200,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57928001856284,
+                    45.55549075063638
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 71,
+                "rte_desc": "71-60th Ave",
+                "stop_id": 4761,
+                "stop_name": "NE Prescott & 82nd",
+                "stop_seq": 300,
+                "type": "BUS",
+                "zipcode": "97218"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60153211825053,
+                    45.554851994858495
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 71,
+                "rte_desc": "71-60th Ave",
+                "stop_id": 1241,
+                "stop_name": "NE Cully & Prescott",
+                "stop_seq": 550,
+                "type": "BUS",
+                "zipcode": "97218"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59293341782204,
+                    45.45457624354306
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 71,
+                "rte_desc": "71-60th Ave",
+                "stop_id": 393,
+                "stop_name": "SE Bell & Overland",
+                "stop_seq": 3025,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5729956387589,
+                    45.441196365587
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 71,
+                "rte_desc": "71-60th Ave",
+                "stop_id": 987,
+                "stop_name": "8800 Block SE Causey",
+                "stop_seq": 3450,
+                "type": "BUS",
+                "zipcode": "97086"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57126370745878,
+                    45.440887083218506
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 71,
+                "rte_desc": "71-60th Ave",
+                "stop_id": 13037,
+                "stop_name": "SE 90th & Causey",
+                "stop_seq": 3500,
+                "type": "BUS",
+                "zipcode": "97086"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57101072453086,
+                    45.438527174959624
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 71,
+                "rte_desc": "71-60th Ave",
+                "stop_id": 8467,
+                "stop_name": "SE 90th & Monterey",
+                "stop_seq": 3550,
+                "type": "BUS",
+                "zipcode": "97086"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60244500422256,
+                    45.51934569083519
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 71,
+                "rte_desc": "71-60th Ave",
+                "stop_id": 7833,
+                "stop_name": "SE 60th & Stark",
+                "stop_seq": 1250,
+                "type": "BUS",
+                "zipcode": "97215"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60208908328917,
+                    45.516873508090825
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 71,
+                "rte_desc": "71-60th Ave",
+                "stop_id": 7813,
+                "stop_name": "SE 60th & Belmont",
+                "stop_seq": 1300,
+                "type": "BUS",
+                "zipcode": "97215"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60199861071199,
+                    45.51413366537468
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 71,
+                "rte_desc": "71-60th Ave",
+                "stop_id": 7831,
+                "stop_name": "SE 60th & Salmon",
+                "stop_seq": 1350,
+                "type": "BUS",
+                "zipcode": "97215"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60192111653335,
+                    45.51196240461078
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 71,
+                "rte_desc": "71-60th Ave",
+                "stop_id": 7824,
+                "stop_name": "SE 60th & Hawthorne",
+                "stop_seq": 1400,
+                "type": "BUS",
+                "zipcode": "97215"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60185462512332,
+                    45.509456198325225
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 71,
+                "rte_desc": "71-60th Ave",
+                "stop_id": 7835,
+                "stop_name": "SE 60th & Stephens",
+                "stop_seq": 1450,
+                "type": "BUS",
+                "zipcode": "97215"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60507465129123,
+                    45.50811624934598
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 71,
+                "rte_desc": "71-60th Ave",
+                "stop_id": 3404,
+                "stop_name": "SE Lincoln & 57th",
+                "stop_seq": 1500,
+                "type": "BUS",
+                "zipcode": "97215"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60912226458387,
+                    45.5077077538999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 71,
+                "rte_desc": "71-60th Ave",
+                "stop_id": 7696,
+                "stop_name": "SE 52nd & Lincoln",
+                "stop_seq": 1550,
+                "type": "BUS",
+                "zipcode": "97215"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60464561389723,
+                    45.54797544397307
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 71,
+                "rte_desc": "71-60th Ave",
+                "stop_id": 7733,
+                "stop_name": "NE 57th & Fremont",
+                "stop_seq": 700,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60466810128615,
+                    45.54544857894773
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 71,
+                "rte_desc": "71-60th Ave",
+                "stop_id": 7741,
+                "stop_name": "NE 57th & Siskiyou",
+                "stop_seq": 750,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56813401888509,
+                    45.43555507416447
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 71,
+                "rte_desc": "71-60th Ave",
+                "stop_id": 13247,
+                "stop_name": "Clackamas Town Center TC",
+                "stop_seq": 3650,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56870745294738,
+                    45.43566941948304
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 71,
+                "rte_desc": "71-60th Ave",
+                "stop_id": 13248,
+                "stop_name": "Clackamas Town Center Transit Center",
+                "stop_seq": 3700,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5835377101086,
+                    45.555479523535645
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 71,
+                "rte_desc": "71-60th Ave",
+                "stop_id": 4757,
+                "stop_name": "NE Prescott & 77th",
+                "stop_seq": 350,
+                "type": "BUS",
+                "zipcode": "97218"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58866588661188,
+                    45.55551803815334
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 71,
+                "rte_desc": "71-60th Ave",
+                "stop_id": 4753,
+                "stop_name": "NE Prescott & 72nd",
+                "stop_seq": 400,
+                "type": "BUS",
+                "zipcode": "97218"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5937108336295,
+                    45.555508585011424
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 71,
+                "rte_desc": "71-60th Ave",
+                "stop_id": 4749,
+                "stop_name": "NE Prescott & 68th",
+                "stop_seq": 450,
+                "type": "BUS",
+                "zipcode": "97218"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60417444730363,
+                    45.55171550295484
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 71,
+                "rte_desc": "71-60th Ave",
+                "stop_id": 1239,
+                "stop_name": "NE Cully & Shaver",
+                "stop_seq": 650,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60469549387919,
+                    45.54252611488785
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 71,
+                "rte_desc": "71-60th Ave",
+                "stop_id": 7738,
+                "stop_name": "NE 57th & Sandy",
+                "stop_seq": 800,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60468681739955,
+                    45.53911034473929
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 71,
+                "rte_desc": "71-60th Ave",
+                "stop_id": 7744,
+                "stop_name": "NE 57th & Thompson",
+                "stop_seq": 850,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60472350809542,
+                    45.53659794817022
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 71,
+                "rte_desc": "71-60th Ave",
+                "stop_id": 7735,
+                "stop_name": "NE 57th & Hancock",
+                "stop_seq": 900,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60417622937504,
+                    45.53365877663488
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 71,
+                "rte_desc": "71-60th Ave",
+                "stop_id": 2434,
+                "stop_name": "NE Halsey & 58th",
+                "stop_seq": 950,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60236081395117,
+                    45.5251206641121
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 71,
+                "rte_desc": "71-60th Ave",
+                "stop_id": 7817,
+                "stop_name": "NE 60th & Everett",
+                "stop_seq": 1150,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60910410350934,
+                    45.50302047270809
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 71,
+                "rte_desc": "71-60th Ave",
+                "stop_id": 7673,
+                "stop_name": "SE 52nd & Clinton",
+                "stop_seq": 1650,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60912384538904,
+                    45.498657802651955
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 71,
+                "rte_desc": "71-60th Ave",
+                "stop_id": 7687,
+                "stop_name": "SE 52nd & Franklin",
+                "stop_seq": 1750,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60911292626844,
+                    45.49524628204
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 71,
+                "rte_desc": "71-60th Ave",
+                "stop_id": 7684,
+                "stop_name": "SE 52nd & Bush",
+                "stop_seq": 1850,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60910499102593,
+                    45.49359686351754
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 71,
+                "rte_desc": "71-60th Ave",
+                "stop_id": 7688,
+                "stop_name": "SE 52nd & Gladstone",
+                "stop_seq": 1900,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60881980555307,
+                    45.481412164859
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 71,
+                "rte_desc": "71-60th Ave",
+                "stop_id": 7709,
+                "stop_name": "SE 52nd & Reedway",
+                "stop_seq": 2150,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61009767085959,
+                    45.47094881403191
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 71,
+                "rte_desc": "71-60th Ave",
+                "stop_id": 7703,
+                "stop_name": "SE 52nd & Ogden",
+                "stop_seq": 2400,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60929861682014,
+                    45.46855808367565
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 71,
+                "rte_desc": "71-60th Ave",
+                "stop_id": 1732,
+                "stop_name": "SE Flavel & 52nd",
+                "stop_seq": 2450,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59792138168274,
+                    45.46856574733654
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 71,
+                "rte_desc": "71-60th Ave",
+                "stop_id": 1745,
+                "stop_name": "SE Flavel & 64th",
+                "stop_seq": 2600,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59140327569766,
+                    45.468579582566555
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 71,
+                "rte_desc": "71-60th Ave",
+                "stop_id": 1754,
+                "stop_name": "SE Flavel & 70th",
+                "stop_seq": 2700,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58943468432565,
+                    45.46832297609177
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 71,
+                "rte_desc": "71-60th Ave",
+                "stop_id": 7875,
+                "stop_name": "SE 72nd & Flavel",
+                "stop_seq": 2750,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58945571771503,
+                    45.46647637996972
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 71,
+                "rte_desc": "71-60th Ave",
+                "stop_id": 7882,
+                "stop_name": "SE 72nd & Lexington",
+                "stop_seq": 2800,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5894661540105,
+                    45.46397193337145
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 71,
+                "rte_desc": "71-60th Ave",
+                "stop_id": 7892,
+                "stop_name": "SE 72nd & Tenino",
+                "stop_seq": 2850,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58947448657976,
+                    45.46119812119361
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 71,
+                "rte_desc": "71-60th Ave",
+                "stop_id": 7874,
+                "stop_name": "SE 72nd & Luther",
+                "stop_seq": 2900,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59182644898847,
+                    45.45863721610047
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 71,
+                "rte_desc": "71-60th Ave",
+                "stop_id": 68,
+                "stop_name": "SE Alberta & 70th",
+                "stop_seq": 2950,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59293608435624,
+                    45.45609185866566
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 71,
+                "rte_desc": "71-60th Ave",
+                "stop_id": 396,
+                "stop_name": "SE Bell & Johnson Creek",
+                "stop_seq": 3000,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59295083219041,
+                    45.45025851120839
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 71,
+                "rte_desc": "71-60th Ave",
+                "stop_id": 392,
+                "stop_name": "10000 Block SE Bell",
+                "stop_seq": 3075,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59294161305027,
+                    45.4492630925054
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 71,
+                "rte_desc": "71-60th Ave",
+                "stop_id": 8457,
+                "stop_name": "SE Bell & Sandview",
+                "stop_seq": 3100,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59027333681327,
+                    45.44698819311386
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 71,
+                "rte_desc": "71-60th Ave",
+                "stop_id": 3224,
+                "stop_name": "7100 Block SE King",
+                "stop_seq": 3150,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58733548224427,
+                    45.44698728219207
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 71,
+                "rte_desc": "71-60th Ave",
+                "stop_id": 3251,
+                "stop_name": "SE King & 74th",
+                "stop_seq": 3200,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57907078590057,
+                    45.4465881795596
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 71,
+                "rte_desc": "71-60th Ave",
+                "stop_id": 7990,
+                "stop_name": "SE 82nd & King",
+                "stop_seq": 3300,
+                "type": "BUS",
+                "zipcode": "97086"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.579068460076,
+                    45.44421980508582
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 71,
+                "rte_desc": "71-60th Ave",
+                "stop_id": 7921,
+                "stop_name": "SE 82nd & Boyer Drive",
+                "stop_seq": 3350,
+                "type": "BUS",
+                "zipcode": "97086"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56868071224102,
+                    45.556599484429746
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 71,
+                "rte_desc": "71-60th Ave",
+                "stop_id": 5145,
+                "stop_name": "NE Sandy & 91st",
+                "stop_seq": 100,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59718102210725,
+                    45.55551763931317
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 71,
+                "rte_desc": "71-60th Ave",
+                "stop_id": 4745,
+                "stop_name": "NE Prescott & 64th",
+                "stop_seq": 500,
+                "type": "BUS",
+                "zipcode": "97218"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60339194740104,
+                    45.55265565616568
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 71,
+                "rte_desc": "71-60th Ave",
+                "stop_id": 1245,
+                "stop_name": "NE Cully & Mason",
+                "stop_seq": 600,
+                "type": "BUS",
+                "zipcode": "97218"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60226935376532,
+                    45.53234035758554
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 71,
+                "rte_desc": "71-60th Ave",
+                "stop_id": 7837,
+                "stop_name": "NE 60th & Wasco",
+                "stop_seq": 1000,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60235053491893,
+                    45.52662573244002
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 71,
+                "rte_desc": "71-60th Ave",
+                "stop_id": 7819,
+                "stop_name": "NE 60th & Glisan",
+                "stop_seq": 1100,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60245429346254,
+                    45.52261608567549
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 71,
+                "rte_desc": "71-60th Ave",
+                "stop_id": 7814,
+                "stop_name": "SE 60th & E Burnside",
+                "stop_seq": 1200,
+                "type": "BUS",
+                "zipcode": "97215"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6091292106364,
+                    45.50119107136332
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 71,
+                "rte_desc": "71-60th Ave",
+                "stop_id": 7723,
+                "stop_name": "SE 52nd & Woodward",
+                "stop_seq": 1700,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60914330329184,
+                    45.49718521286129
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 71,
+                "rte_desc": "71-60th Ave",
+                "stop_id": 7706,
+                "stop_name": "SE 52nd & Powell",
+                "stop_seq": 1800,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6089218329209,
+                    45.48796889500628
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 71,
+                "rte_desc": "71-60th Ave",
+                "stop_id": 7711,
+                "stop_name": "SE 52nd & Schiller",
+                "stop_seq": 2000,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60881939179146,
+                    45.482835808162186
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 71,
+                "rte_desc": "71-60th Ave",
+                "stop_id": 7691,
+                "stop_name": "SE 52nd & Harold",
+                "stop_seq": 2100,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60880790622053,
+                    45.47594450967523
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 71,
+                "rte_desc": "71-60th Ave",
+                "stop_id": 7682,
+                "stop_name": "SE 52nd & Duke",
+                "stop_seq": 2300,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60455358592752,
+                    45.468567133029126
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 71,
+                "rte_desc": "71-60th Ave",
+                "stop_id": 1738,
+                "stop_name": "SE Flavel & 57th",
+                "stop_seq": 2500,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57121600465064,
+                    45.55589751799683
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 71,
+                "rte_desc": "71-60th Ave",
+                "stop_id": 10820,
+                "stop_name": "NE Prescott & 89th",
+                "stop_seq": 150,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5650431947423,
+                    45.55856492666953
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 71,
+                "rte_desc": "71-60th Ave",
+                "stop_id": 10798,
+                "stop_name": "Parkrose/ Sumner Transit Center",
+                "stop_seq": 50,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60908304521921,
+                    45.490655126504116
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 71,
+                "rte_desc": "71-60th Ave",
+                "stop_id": 7693,
+                "stop_name": "SE 52nd & Holgate",
+                "stop_seq": 1950,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60958159641156,
+                    45.47367316174878
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 71,
+                "rte_desc": "71-60th Ave",
+                "stop_id": 7676,
+                "stop_name": "SE 52nd & Cooper",
+                "stop_seq": 2350,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59497270626096,
+                    45.468567918763306
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 71,
+                "rte_desc": "71-60th Ave",
+                "stop_id": 1748,
+                "stop_name": "SE Flavel & 66th Place",
+                "stop_seq": 2650,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59293650937948,
+                    45.4521224337213
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 71,
+                "rte_desc": "71-60th Ave",
+                "stop_id": 398,
+                "stop_name": "SE Bell & Jordan",
+                "stop_seq": 3050,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58221661523145,
+                    45.446962996863526
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 71,
+                "rte_desc": "71-60th Ave",
+                "stop_id": 3226,
+                "stop_name": "7900 Block SE King",
+                "stop_seq": 3250,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6023647820589,
+                    45.52860495707134
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 71,
+                "rte_desc": "71-60th Ave",
+                "stop_id": 7828,
+                "stop_name": "NE 60th & 60th Ave MAX Stn/I-84",
+                "stop_seq": 1050,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60907603317493,
+                    45.5056846672456
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 71,
+                "rte_desc": "71-60th Ave",
+                "stop_id": 7679,
+                "stop_name": "SE 52nd & Division",
+                "stop_seq": 1600,
+                "type": "BUS",
+                "zipcode": "97215"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57760910758707,
+                    45.44120723410736
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 71,
+                "rte_desc": "71-60th Ave",
+                "stop_id": 8448,
+                "stop_name": "8300 Block SE Causey",
+                "stop_seq": 3400,
+                "type": "BUS",
+                "zipcode": "97086"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60880463659963,
+                    45.47781962663336
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 71,
+                "rte_desc": "71-60th Ave",
+                "stop_id": 7718,
+                "stop_name": "SE 52nd & Carlton",
+                "stop_seq": 2250,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57331242700954,
+                    45.437310329219926
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 71,
+                "rte_desc": "71-60th Ave",
+                "stop_id": 12921,
+                "stop_name": "Clackamas Town Center Mall",
+                "stop_seq": 3600,
+                "type": "BUS",
+                "zipcode": "97086"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60883042069314,
+                    45.48443458147904
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 71,
+                "rte_desc": "71-60th Ave",
+                "stop_id": 7716,
+                "stop_name": "SE 52nd & Steele",
+                "stop_seq": 2050,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57700884869772,
+                    45.55549226676398
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 71,
+                "rte_desc": "71-60th Ave",
+                "stop_id": 4763,
+                "stop_name": "NE Prescott & 84th",
+                "stop_seq": 250,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6088155817076,
+                    45.47961409833966
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 71,
+                "rte_desc": "71-60th Ave",
+                "stop_id": 13849,
+                "stop_name": "SE 52nd & Knight",
+                "stop_seq": 2200,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

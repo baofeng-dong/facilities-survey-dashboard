@@ -1,0 +1,747 @@
+{
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.48187163479354,
+                    45.52651119119774
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 25,
+                "rte_desc": "25-Glisan/Rockwood",
+                "stop_id": 2075,
+                "stop_name": "NE Glisan & 176th",
+                "stop_seq": 950,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.49705766452443,
+                    45.52651041488456
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 25,
+                "rte_desc": "25-Glisan/Rockwood",
+                "stop_id": 2066,
+                "stop_name": "NE Glisan & 162nd",
+                "stop_seq": 1200,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.50183321328409,
+                    45.52653506328206
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 25,
+                "rte_desc": "25-Glisan/Rockwood",
+                "stop_id": 2061,
+                "stop_name": "NE Glisan & 157th",
+                "stop_seq": 1300,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.51111590241676,
+                    45.526563568007035
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 25,
+                "rte_desc": "25-Glisan/Rockwood",
+                "stop_id": 2054,
+                "stop_name": "NE Glisan & 148th",
+                "stop_seq": 1500,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.52353145810724,
+                    45.52652607102174
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 25,
+                "rte_desc": "25-Glisan/Rockwood",
+                "stop_id": 2043,
+                "stop_name": "NE Glisan & 136th",
+                "stop_seq": 1750,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53707425445718,
+                    45.52639834826952
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 25,
+                "rte_desc": "25-Glisan/Rockwood",
+                "stop_id": 2034,
+                "stop_name": "NE Glisan & 122nd",
+                "stop_seq": 2000,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.47795087098523,
+                    45.52651087688424
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 25,
+                "rte_desc": "25-Glisan/Rockwood",
+                "stop_id": 2081,
+                "stop_name": "NE Glisan & 181st",
+                "stop_seq": 850,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.48666009149042,
+                    45.526509935150465
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 25,
+                "rte_desc": "25-Glisan/Rockwood",
+                "stop_id": 2073,
+                "stop_name": "NE Glisan & 172nd",
+                "stop_seq": 1000,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.49316738662934,
+                    45.52650593899822
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 25,
+                "rte_desc": "25-Glisan/Rockwood",
+                "stop_id": 2068,
+                "stop_name": "NE Glisan & 165th",
+                "stop_seq": 1150,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.49883008998478,
+                    45.526531645094465
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 25,
+                "rte_desc": "25-Glisan/Rockwood",
+                "stop_id": 2064,
+                "stop_name": "NE Glisan & 160th",
+                "stop_seq": 1250,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.50643460728827,
+                    45.52654433658701
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 25,
+                "rte_desc": "25-Glisan/Rockwood",
+                "stop_id": 2057,
+                "stop_name": "NE Glisan & 152nd",
+                "stop_seq": 1400,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.51814983997555,
+                    45.52657793458712
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 25,
+                "rte_desc": "25-Glisan/Rockwood",
+                "stop_id": 2047,
+                "stop_name": "NE Glisan & 141st",
+                "stop_seq": 1650,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53156314929326,
+                    45.52644599063963
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 25,
+                "rte_desc": "25-Glisan/Rockwood",
+                "stop_id": 2037,
+                "stop_name": "NE Glisan & 128th",
+                "stop_seq": 1900,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.54655905105193,
+                    45.52637865700159
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 25,
+                "rte_desc": "25-Glisan/Rockwood",
+                "stop_id": 2025,
+                "stop_name": "NE Glisan & 113th",
+                "stop_seq": 2200,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.55136003029907,
+                    45.5263744617472
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 25,
+                "rte_desc": "25-Glisan/Rockwood",
+                "stop_id": 2021,
+                "stop_name": "NE Glisan & 108th",
+                "stop_seq": 2300,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.55791898926174,
+                    45.52636586761408
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 25,
+                "rte_desc": "25-Glisan/Rockwood",
+                "stop_id": 2016,
+                "stop_name": "NE Glisan & 102nd",
+                "stop_seq": 2450,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56046479648573,
+                    45.529563493180504
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 25,
+                "rte_desc": "25-Glisan/Rockwood",
+                "stop_id": 4288,
+                "stop_name": "10000 Block NE Pacific St",
+                "stop_seq": 2550,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.49055563807846,
+                    45.52651059906825
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 25,
+                "rte_desc": "25-Glisan/Rockwood",
+                "stop_id": 2070,
+                "stop_name": "NE Glisan & 167th Pl",
+                "stop_seq": 1100,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.54177256695436,
+                    45.52638373246776
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 25,
+                "rte_desc": "25-Glisan/Rockwood",
+                "stop_id": 2029,
+                "stop_name": "NE Glisan & 117th",
+                "stop_seq": 2100,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.51553099739743,
+                    45.52657861723257
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 25,
+                "rte_desc": "25-Glisan/Rockwood",
+                "stop_id": 2050,
+                "stop_name": "NE Glisan & 143rd",
+                "stop_seq": 1600,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.55610502584257,
+                    45.52637068161433
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 25,
+                "rte_desc": "25-Glisan/Rockwood",
+                "stop_id": 2017,
+                "stop_name": "NE Glisan & 104th",
+                "stop_seq": 2400,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.50394683430426,
+                    45.52654370771469
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 25,
+                "rte_desc": "25-Glisan/Rockwood",
+                "stop_id": 2059,
+                "stop_name": "NE Glisan & 155th",
+                "stop_seq": 1350,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56278734723529,
+                    45.52956226757305
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 25,
+                "rte_desc": "25-Glisan/Rockwood",
+                "stop_id": 8321,
+                "stop_name": "9800 Block NE Pacific St",
+                "stop_seq": 2600,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56377346451607,
+                    45.530571493870696
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 25,
+                "rte_desc": "25-Glisan/Rockwood",
+                "stop_id": 8194,
+                "stop_name": "Gateway Transit Center",
+                "stop_seq": 2625,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5263893555279,
+                    45.52650634787233
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 25,
+                "rte_desc": "25-Glisan/Rockwood",
+                "stop_id": 2041,
+                "stop_name": "NE Glisan & 133rd",
+                "stop_seq": 1800,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53950351175799,
+                    45.52638508367024
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 25,
+                "rte_desc": "25-Glisan/Rockwood",
+                "stop_id": 13071,
+                "stop_name": "NE Glisan & 120th",
+                "stop_seq": 2050,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53358487273289,
+                    45.526424453943854
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 25,
+                "rte_desc": "25-Glisan/Rockwood",
+                "stop_id": 13480,
+                "stop_name": "NE Glisan & 127th",
+                "stop_seq": 1950,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.47272749473376,
+                    45.52061132575595
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 25,
+                "rte_desc": "25-Glisan/Rockwood",
+                "stop_id": 13320,
+                "stop_name": "SE 185th Ave/Rockwood",
+                "stop_seq": 600,
+                "type": "BUS",
+                "zipcode": "97233"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.47533715851344,
+                    45.51925231064123
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 25,
+                "rte_desc": "25-Glisan/Rockwood",
+                "stop_id": 5390,
+                "stop_name": "SE Stark & 182nd",
+                "stop_seq": 650,
+                "type": "BUS",
+                "zipcode": "97233"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.47698734579716,
+                    45.519780398629806
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 25,
+                "rte_desc": "25-Glisan/Rockwood",
+                "stop_id": 6921,
+                "stop_name": "SE 181st & Oak",
+                "stop_seq": 700,
+                "type": "BUS",
+                "zipcode": "97233"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.47695981210796,
+                    45.52244089856634
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 25,
+                "rte_desc": "25-Glisan/Rockwood",
+                "stop_id": 6914,
+                "stop_name": "NE 181st & E Burnside",
+                "stop_seq": 750,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.47693339920403,
+                    45.524369860290825
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 25,
+                "rte_desc": "25-Glisan/Rockwood",
+                "stop_id": 6918,
+                "stop_name": "NE 181st & Everett Ct",
+                "stop_seq": 800,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,1989 @@
+{
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.45324657363196,
+                    45.385126794589986
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 13655,
+                "stop_name": "20200 Block SE Hwy 224",
+                "stop_seq": 1775,
+                "type": "BUS",
+                "zipcode": "97089"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.36405802772849,
+                    45.36165562337223
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 13495,
+                "stop_name": "SE Hwy 224 & Dowty Rd",
+                "stop_seq": 2475,
+                "type": "BUS",
+                "zipcode": "97022"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.34380972378483,
+                    45.3252441360497
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 13749,
+                "stop_name": "27400 Block SE Eagle Creek Rd",
+                "stop_seq": 2800,
+                "type": "BUS",
+                "zipcode": "97023"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56870745294738,
+                    45.43566941948304
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 13248,
+                "stop_name": "Clackamas Town Center Transit Center",
+                "stop_seq": 300,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.3773093326728,
+                    45.37287415136535
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 13631,
+                "stop_name": "Hwy 224 & Paul Bunyan Ln",
+                "stop_seq": 2325,
+                "type": "BUS",
+                "zipcode": "97022"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57400318580466,
+                    45.437506594559366
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 12922,
+                "stop_name": "Clackamas Town Center Mall",
+                "stop_seq": 350,
+                "type": "BUS",
+                "zipcode": "97086"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57926042722407,
+                    45.43593930435524
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 8006,
+                "stop_name": "SE 82nd & McBride",
+                "stop_seq": 400,
+                "type": "BUS",
+                "zipcode": "97086"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5793664897492,
+                    45.43374962036602
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 8050,
+                "stop_name": "SE 82nd & Sunnyside Dr",
+                "stop_seq": 450,
+                "type": "BUS",
+                "zipcode": "97086"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57944040802126,
+                    45.43222152765979
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 7975,
+                "stop_name": "SE 82nd & Harmony",
+                "stop_seq": 500,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57932892424326,
+                    45.43033249623467
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 10446,
+                "stop_name": "SE 82nd & Sunnybrook",
+                "stop_seq": 550,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56929166068166,
+                    45.40726451439752
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 2914,
+                "stop_name": "SE Hwy 224 & 82nd Dr",
+                "stop_seq": 600,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.55898936210045,
+                    45.40758111493032
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Happy Valley",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 2888,
+                "stop_name": "SE Hwy 212 & Evelyn",
+                "stop_seq": 650,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5518325820497,
+                    45.40767504129026
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Happy Valley",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 2868,
+                "stop_name": "10800 Block SE Highway 212",
+                "stop_seq": 700,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.54418051550371,
+                    45.40770793237566
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Happy Valley",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 2891,
+                "stop_name": "Hwy 212 & Fred Meyer Dc Entr",
+                "stop_seq": 750,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53694361520391,
+                    45.40775348575201
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Happy Valley",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 2904,
+                "stop_name": "SE Hwy 212 & 122nd",
+                "stop_seq": 800,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53294528811803,
+                    45.40829132342194
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Happy Valley",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 11930,
+                "stop_name": "12700 Block SE Hwy 212",
+                "stop_seq": 850,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53057632340625,
+                    45.408882133583354
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Happy Valley",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 2906,
+                "stop_name": "SE Hwy 212 & 130th",
+                "stop_seq": 900,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.52371296298898,
+                    45.41040662258328
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Happy Valley",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 2907,
+                "stop_name": "SE Hwy 224 & 135th",
+                "stop_seq": 950,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.51816562412188,
+                    45.40998366025892
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Happy Valley",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 2908,
+                "stop_name": "SE Hwy 224 & 142nd",
+                "stop_seq": 1050,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.50798276857024,
+                    45.40959166295181
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Happy Valley",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 2910,
+                "stop_name": "SE Hwy 224 & 152nd",
+                "stop_seq": 1100,
+                "type": "BUS",
+                "zipcode": "97089"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.50454553106177,
+                    45.40861931286275
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Damascus",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 2895,
+                "stop_name": "SE Hwy 224 & Hwy 212",
+                "stop_seq": 1150,
+                "type": "BUS",
+                "zipcode": "97089"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.50083443459552,
+                    45.40328671264016
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Damascus",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 2870,
+                "stop_name": "SE Hwy 224 & Eckert Ln",
+                "stop_seq": 1200,
+                "type": "BUS",
+                "zipcode": "97089"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.50032078598137,
+                    45.40124743665337
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Damascus",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 2872,
+                "stop_name": "15700 Block SE Hwy 224",
+                "stop_seq": 1250,
+                "type": "BUS",
+                "zipcode": "97089"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.49897482006712,
+                    45.39631195224887
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Damascus",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 2885,
+                "stop_name": "16000 Block SE Hwy 224",
+                "stop_seq": 1300,
+                "type": "BUS",
+                "zipcode": "97089"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.49627567643122,
+                    45.394491697838184
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Damascus",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 2875,
+                "stop_name": "16200 Block SE Hwy 224",
+                "stop_seq": 1350,
+                "type": "BUS",
+                "zipcode": "97089"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.49403084544096,
+                    45.39415098231014
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Damascus",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 2883,
+                "stop_name": "16400 Block SE Hwy 224",
+                "stop_seq": 1400,
+                "type": "BUS",
+                "zipcode": "97089"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.48848831954507,
+                    45.395821118477954
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Damascus",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 10696,
+                "stop_name": "SE Hwy 224 & Eilers Circle",
+                "stop_seq": 1450,
+                "type": "BUS",
+                "zipcode": "97089"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.4836670774504,
+                    45.39626605470488
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Damascus",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 8737,
+                "stop_name": "17400 Block SE Hwy 224",
+                "stop_seq": 1500,
+                "type": "BUS",
+                "zipcode": "97089"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.47873755568997,
+                    45.39578963348023
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Damascus",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 8794,
+                "stop_name": "SE Hwy 224 & Tong",
+                "stop_seq": 1550,
+                "type": "BUS",
+                "zipcode": "97089"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.46121658237968,
+                    45.39254481536423
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 12937,
+                "stop_name": "19300 Block SE Hwy 224",
+                "stop_seq": 1650,
+                "type": "BUS",
+                "zipcode": "97089"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.46007872714061,
+                    45.3886469313271
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 2912,
+                "stop_name": "SE Hwy 224 & 197th",
+                "stop_seq": 1700,
+                "type": "BUS",
+                "zipcode": "97089"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.45568389689835,
+                    45.386013549786874
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 8755,
+                "stop_name": "20000 Block SE Hwy 224",
+                "stop_seq": 1750,
+                "type": "BUS",
+                "zipcode": "97089"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.44027139832998,
+                    45.38685340720868
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 8720,
+                "stop_name": "21700 Block SE Hwy 224",
+                "stop_seq": 1800,
+                "type": "BUS",
+                "zipcode": "97089"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.43008871280783,
+                    45.39242148669104
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 10186,
+                "stop_name": "22600 Block SE Hwy 224",
+                "stop_seq": 1850,
+                "type": "BUS",
+                "zipcode": "97089"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.42345669260587,
+                    45.39417439494036
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Damascus",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 8421,
+                "stop_name": "SE Hwy 224 & 232nd Dr",
+                "stop_seq": 1900,
+                "type": "BUS",
+                "zipcode": "97089"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.40744206520458,
+                    45.389139341559776
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 2881,
+                "stop_name": "SE Hwy 224 & Bakers Ferry Rd",
+                "stop_seq": 1950,
+                "type": "BUS",
+                "zipcode": "97009"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.40188536168603,
+                    45.387502548069506
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 2879,
+                "stop_name": "SE Hwy 224 & Barton Church",
+                "stop_seq": 2000,
+                "type": "BUS",
+                "zipcode": "97009"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.39656549451175,
+                    45.38607849663647
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 2877,
+                "stop_name": "SE Hwy 224 & Amisigger Rd",
+                "stop_seq": 2050,
+                "type": "BUS",
+                "zipcode": "97022"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.39217172668657,
+                    45.383557274319216
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 10500,
+                "stop_name": "26300 Block SE Hwy 224",
+                "stop_seq": 2100,
+                "type": "BUS",
+                "zipcode": "97022"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.38772532397049,
+                    45.380696782435756
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 9640,
+                "stop_name": "SE Hwy 224 & Sherman Cooper",
+                "stop_seq": 2150,
+                "type": "BUS",
+                "zipcode": "97022"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.38340178465027,
+                    45.37754956973533
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 2900,
+                "stop_name": "SE Hwy 224 & Odell",
+                "stop_seq": 2250,
+                "type": "BUS",
+                "zipcode": "97022"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.3794892533061,
+                    45.37457856363137
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 9321,
+                "stop_name": "27500 Block SE Hwy 224",
+                "stop_seq": 2300,
+                "type": "BUS",
+                "zipcode": "97022"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.37535432891104,
+                    45.37141111455307
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 9313,
+                "stop_name": "SE Hwy 224 & Suttle Rd",
+                "stop_seq": 2350,
+                "type": "BUS",
+                "zipcode": "97022"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.37093454727527,
+                    45.36722484012198
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 8948,
+                "stop_name": "28400 Block SE Hwy 224",
+                "stop_seq": 2400,
+                "type": "BUS",
+                "zipcode": "97022"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.36845985996912,
+                    45.36474232412516
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 8823,
+                "stop_name": "SE Hwy 224 & Glover Rd",
+                "stop_seq": 2450,
+                "type": "BUS",
+                "zipcode": "97022"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.35778617978588,
+                    45.35792761899404
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 2824,
+                "stop_name": "SE Hwy 211 & Hwy 224",
+                "stop_seq": 2500,
+                "type": "BUS",
+                "zipcode": "97022"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.35433173397453,
+                    45.358571853284985
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 1563,
+                "stop_name": "SE Eagle Creek Rd & Hwy 211",
+                "stop_seq": 2550,
+                "type": "BUS",
+                "zipcode": "97022"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.34828030846941,
+                    45.348185982342756
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 1566,
+                "stop_name": "SE Eagle Creek Rd & Risberg",
+                "stop_seq": 2600,
+                "type": "BUS",
+                "zipcode": "97022"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.34694616894153,
+                    45.34606318235502
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 1567,
+                "stop_name": "SE Eagle Creek Rd & Wildcat Mtn",
+                "stop_seq": 2650,
+                "type": "BUS",
+                "zipcode": "97022"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.34619885455128,
+                    45.33617863244327
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 1559,
+                "stop_name": "SE Eagle Creek Rd & Riverside Way",
+                "stop_seq": 2700,
+                "type": "BUS",
+                "zipcode": "97022"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.34622516464383,
+                    45.331702333399
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 1560,
+                "stop_name": "SE Eagle Creek Rd & Folsom",
+                "stop_seq": 2750,
+                "type": "BUS",
+                "zipcode": "97022"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.34362702019145,
+                    45.322181631992095
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 1562,
+                "stop_name": "SE Eagle Creek Rd & Heiple Rd",
+                "stop_seq": 2850,
+                "type": "BUS",
+                "zipcode": "97023"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.34329794739692,
+                    45.31774879162289
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 1556,
+                "stop_name": "28200 Block SE Eagle Creek Rd",
+                "stop_seq": 2900,
+                "type": "BUS",
+                "zipcode": "97023"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.3433850508447,
+                    45.31523292411459
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 10835,
+                "stop_name": "SE Eagle Creek Rd & Duus Rd",
+                "stop_seq": 2950,
+                "type": "BUS",
+                "zipcode": "97023"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.34164559307972,
+                    45.311448883523646
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 9561,
+                "stop_name": "29200 Block SE Eagle Creek Rd",
+                "stop_seq": 3000,
+                "type": "BUS",
+                "zipcode": "97023"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.34041103423301,
+                    45.30881472838882
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 8685,
+                "stop_name": "29600 Block SE Eagle Creek Rd",
+                "stop_seq": 3050,
+                "type": "BUS",
+                "zipcode": "97023"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.33924152939976,
+                    45.30643796387102
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 8442,
+                "stop_name": "SE Eagle Creek Rd & River Mill Rd",
+                "stop_seq": 3100,
+                "type": "BUS",
+                "zipcode": "97023"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.33868612766241,
+                    45.303603081814444
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 9521,
+                "stop_name": "SE Eagle Creek Rd & Strubhar Lane",
+                "stop_seq": 3150,
+                "type": "BUS",
+                "zipcode": "97023"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.33797459186049,
+                    45.29682453169273
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Estacada",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 8723,
+                "stop_name": "800 Block NW Wade (at Library)",
+                "stop_seq": 3200,
+                "type": "BUS",
+                "zipcode": "97023"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.33383548879277,
+                    45.29442177224649
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Estacada",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 7770,
+                "stop_name": "NE 6th & Main",
+                "stop_seq": 3250,
+                "type": "BUS",
+                "zipcode": "97023"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.33387805317865,
+                    45.29170817211755
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Estacada",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 8837,
+                "stop_name": "NE Main & 3rd",
+                "stop_seq": 3300,
+                "type": "BUS",
+                "zipcode": "97023"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.3339857582352,
+                    45.2897537645375
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Estacada",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 9430,
+                "stop_name": "NE Main & E 1st",
+                "stop_seq": 3350,
+                "type": "BUS",
+                "zipcode": "97023"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.33406340190214,
+                    45.28779292225826
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Estacada",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 3720,
+                "stop_name": "SE Main & 3rd",
+                "stop_seq": 3400,
+                "type": "BUS",
+                "zipcode": "97023"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.33409573944719,
+                    45.28623441437311
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Estacada",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 3724,
+                "stop_name": "SE Main & 4th",
+                "stop_seq": 3450,
+                "type": "BUS",
+                "zipcode": "97023"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.50251085245597,
+                    45.40603321940064
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Damascus",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 13156,
+                "stop_name": "SE Hwy 224 & Goosehollow",
+                "stop_seq": 1175,
+                "type": "BUS",
+                "zipcode": "97089"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64049050567837,
+                    45.44482683637778
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 8225,
+                "stop_name": "SE Jackson & 21st",
+                "stop_seq": 10,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59327816590115,
+                    45.42328638661552
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 6193,
+                "stop_name": "SE Webster & Lake",
+                "stop_seq": 11,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59340374659587,
+                    45.421347464934854
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 6189,
+                "stop_name": "SE Webster & Cavalier Way",
+                "stop_seq": 12,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59342217845514,
+                    45.41958734773935
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 6215,
+                "stop_name": "SE Webster & Wilshire",
+                "stop_seq": 13,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59344223532604,
+                    45.41789654359236
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 6213,
+                "stop_name": "SE Webster & Tuscany Ct",
+                "stop_seq": 14,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59260867220495,
+                    45.4152570798677
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 6212,
+                "stop_name": "SE Webster & Thiessen",
+                "stop_seq": 15,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5910808775759,
+                    45.41260753564482
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 6205,
+                "stop_name": "SE Webster & Molt St",
+                "stop_seq": 16,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59034275014014,
+                    45.41031991473142
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 6192,
+                "stop_name": "SE Webster & Clackamas",
+                "stop_seq": 17,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58909426638714,
+                    45.40730684783215
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 6203,
+                "stop_name": "SE Webster & Mabel",
+                "stop_seq": 18,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58486008839714,
+                    45.40646508356971
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 4939,
+                "stop_name": "SE Roots & Rickshire",
+                "stop_seq": 19,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5827158902499,
+                    45.40645119153247
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 4945,
+                "stop_name": "SE Roots & 79th",
+                "stop_seq": 20,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57934523002663,
+                    45.40638520059326
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 4946,
+                "stop_name": "SE Roots & 81st",
+                "stop_seq": 21,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57601432259264,
+                    45.40632774544705
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 4935,
+                "stop_name": "SE Roots & Hearthwood Dr",
+                "stop_seq": 22,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57312596626383,
+                    45.40716809378706
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 3825,
+                "stop_name": "SE McKinley & Jefferson",
+                "stop_seq": 23,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67582657583233,
+                    45.52224017989127
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 7631,
+                "stop_name": "SW 5th & Pine",
+                "stop_seq": 2,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67685502185405,
+                    45.52026995352134
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 7642,
+                "stop_name": "SW 5th & Washington",
+                "stop_seq": 3,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67865107999347,
+                    45.51693981225403
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 7634,
+                "stop_name": "SW 5th & Salmon",
+                "stop_seq": 4,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67857274754661,
+                    45.51518918104963
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 3639,
+                "stop_name": "SW Madison & 4th",
+                "stop_seq": 5,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67583887422084,
+                    45.5144552233251
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 3635,
+                "stop_name": "SW Madison & 1st",
+                "stop_seq": 6,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66197375801434,
+                    45.50964387899657
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 5933,
+                "stop_name": "SE M L King & Mill",
+                "stop_seq": 7,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64768885355133,
+                    45.48577845704463
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Estacada",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 30,
+                "rte_desc": "30-Estacada",
+                "stop_id": 3859,
+                "stop_name": "SE McLoughlin & 17th",
+                "stop_seq": 8,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

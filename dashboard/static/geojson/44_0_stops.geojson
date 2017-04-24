@@ -1,0 +1,2196 @@
+{
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67410562996959,
+                    45.52681683202971
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 9311,
+                "stop_name": "NW Glisan & 3rd",
+                "stop_seq": 3400,
+                "type": "BUS",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67555202542113,
+                    45.52470499281588
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 9301,
+                "stop_name": "NW 5th & Davis",
+                "stop_seq": 3450,
+                "type": "BUS",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67582657583233,
+                    45.52224017989127
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 7631,
+                "stop_name": "SW 5th & Pine",
+                "stop_seq": 3500,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67720704032783,
+                    45.51960192319443
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 7586,
+                "stop_name": "SW 5th & Alder",
+                "stop_seq": 3550,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67901593827192,
+                    45.51626940153301
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 7614,
+                "stop_name": "SW 5th & Main",
+                "stop_seq": 3600,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68049937692007,
+                    45.51359718532567
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 13167,
+                "stop_name": "SW 5th & Clay",
+                "stop_seq": 3650,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68192315550098,
+                    45.510938675136586
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 7602,
+                "stop_name": "SW 5th & Harrison",
+                "stop_seq": 3700,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68385035369094,
+                    45.50708320964193
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 7588,
+                "stop_name": "SW 5th & Broadway",
+                "stop_seq": 3750,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76234383775525,
+                    45.6021135686695
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 10095,
+                "stop_name": "Pier Park",
+                "stop_seq": 50,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76263210203687,
+                    45.60004796857347
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 9436,
+                "stop_name": "10200 Block N Lombard",
+                "stop_seq": 100,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76145938311146,
+                    45.59812365443458
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 9575,
+                "stop_name": "N Lombard & Reno",
+                "stop_seq": 150,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7595927276836,
+                    45.59492817036583
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 9435,
+                "stop_name": "N Lombard & Catlin",
+                "stop_seq": 200,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75714744055868,
+                    45.59240495880896
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 9505,
+                "stop_name": "N Lombard & New York",
+                "stop_seq": 250,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75597434812003,
+                    45.59118357477404
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 3456,
+                "stop_name": "N Lombard & Baltimore",
+                "stop_seq": 300,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75473974178401,
+                    45.59011254786413
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 3465,
+                "stop_name": "N Lombard & Burlington",
+                "stop_seq": 350,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75306525555227,
+                    45.58959037571382
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 3508,
+                "stop_name": "N Lombard & John",
+                "stop_seq": 400,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75171778616858,
+                    45.589156458802826
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 3474,
+                "stop_name": "N Lombard & Charleston",
+                "stop_seq": 450,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75217181623185,
+                    45.5874507744173
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 13212,
+                "stop_name": "N Richmond & Syracuse",
+                "stop_seq": 500,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7509999206202,
+                    45.585809750755516
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 6279,
+                "stop_name": "N Willamette & Mohawk",
+                "stop_seq": 550,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7486518003043,
+                    45.585045956852284
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 6289,
+                "stop_name": "N Willamette & Tyler",
+                "stop_seq": 600,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74618380392842,
+                    45.58423664110927
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 6262,
+                "stop_name": "N Willamette & Edgewater",
+                "stop_seq": 650,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74404230240778,
+                    45.583222212240166
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 10975,
+                "stop_name": "N Willamette & Burr",
+                "stop_seq": 700,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74228028739125,
+                    45.5823004439628
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 6259,
+                "stop_name": "N Willamette & Ida",
+                "stop_seq": 750,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73964902789596,
+                    45.58130415892972
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 6265,
+                "stop_name": "N Willamette & Carey",
+                "stop_seq": 800,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73736689625464,
+                    45.580008707109215
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 6274,
+                "stop_name": "N Willamette & Macrum",
+                "stop_seq": 850,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73440239590568,
+                    45.578472012329186
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 6293,
+                "stop_name": "N Willamette & Wall",
+                "stop_seq": 900,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73061151040373,
+                    45.576622069877715
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 6291,
+                "stop_name": "N Willamette & Van Houten",
+                "stop_seq": 1000,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72831107356635,
+                    45.575783746973606
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 6285,
+                "stop_name": "N Willamette & Portsmouth",
+                "stop_seq": 1050,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7239063892729,
+                    45.574118173745426
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 6290,
+                "stop_name": "N Willamette & University of Portland",
+                "stop_seq": 1150,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71860034832581,
+                    45.5744439176512
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 6278,
+                "stop_name": "N Willamette & Menlo",
+                "stop_seq": 1250,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71320097900887,
+                    45.57523185694672
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 6299,
+                "stop_name": "N Willamette & Woolsey",
+                "stop_seq": 1300,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70816925585616,
+                    45.57492324323216
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 6266,
+                "stop_name": "N Willamette & Chautauqua",
+                "stop_seq": 1350,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70201683368636,
+                    45.57251638472897
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 6286,
+                "stop_name": "N Willamette & Saratoga",
+                "stop_seq": 1450,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6987216623068,
+                    45.56985008367193
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 4461,
+                "stop_name": "N Rosa Parks Way & Curtis",
+                "stop_seq": 1500,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69521303703674,
+                    45.56985670434328
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 4470,
+                "stop_name": "N Rosa Parks Way & Greeley",
+                "stop_seq": 1550,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69162599496156,
+                    45.56982972199587
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 4457,
+                "stop_name": "N Rosa Parks Way & Boston",
+                "stop_seq": 1600,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68777786500003,
+                    45.56982034818277
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 4466,
+                "stop_name": "N Rosa Parks Way & Denver",
+                "stop_seq": 1700,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68171413580205,
+                    45.569784814057286
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 4474,
+                "stop_name": "N Rosa Parks Way & Interstate",
+                "stop_seq": 1800,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67505430402322,
+                    45.56983487947296
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 4455,
+                "stop_name": "N Rosa Parks Way & Albina",
+                "stop_seq": 1900,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67181954422284,
+                    45.56984778670375
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 4459,
+                "stop_name": "N Rosa Parks Way & Congress",
+                "stop_seq": 1950,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66912910219786,
+                    45.56988818241568
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 4486,
+                "stop_name": "N Rosa Parks Way & Vancouver",
+                "stop_seq": 2000,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66893025417254,
+                    45.56781371864279
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 5992,
+                "stop_name": "N Vancouver & Holman",
+                "stop_seq": 2050,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66890392592268,
+                    45.5666189127917
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 5977,
+                "stop_name": "N Vancouver & Ainsworth",
+                "stop_seq": 2100,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66885826675586,
+                    45.564231985238315
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 5995,
+                "stop_name": "N Vancouver & Jessup",
+                "stop_seq": 2150,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66879464874089,
+                    45.562497339277286
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 5996,
+                "stop_name": "N Vancouver & Killingsworth",
+                "stop_seq": 2200,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6683345265523,
+                    45.55917712882775
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 5978,
+                "stop_name": "N Vancouver & Alberta",
+                "stop_seq": 2250,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66824333854892,
+                    45.55761387214626
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 6010,
+                "stop_name": "N Vancouver & Wygant",
+                "stop_seq": 2300,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6680764079626,
+                    45.55479431430169
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 6005,
+                "stop_name": "N Vancouver & Skidmore",
+                "stop_seq": 2400,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66803553992452,
+                    45.55215678731746
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 6004,
+                "stop_name": "N Vancouver & Shaver",
+                "stop_seq": 2500,
+                "type": "BUS",
+                "zipcode": "97227"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66801919684306,
+                    45.549613198960294
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 5979,
+                "stop_name": "N Vancouver & Beech",
+                "stop_seq": 2600,
+                "type": "BUS",
+                "zipcode": "97227"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66804924187797,
+                    45.54759559540915
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 6000,
+                "stop_name": "N Vancouver & Ivy",
+                "stop_seq": 2650,
+                "type": "BUS",
+                "zipcode": "97227"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6680417965956,
+                    45.54597517640566
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 5984,
+                "stop_name": "N Vancouver & Fargo",
+                "stop_seq": 2700,
+                "type": "BUS",
+                "zipcode": "97227"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66824623451849,
+                    45.543883348125135
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 6006,
+                "stop_name": "N Vancouver & Stanton",
+                "stop_seq": 2750,
+                "type": "BUS",
+                "zipcode": "97227"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66824900361374,
+                    45.54203174173933
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 5997,
+                "stop_name": "N Vancouver & Knott",
+                "stop_seq": 2800,
+                "type": "BUS",
+                "zipcode": "97227"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66786328190754,
+                    45.5407143820721
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 6003,
+                "stop_name": "N Vancouver & Russell",
+                "stop_seq": 2850,
+                "type": "BUS",
+                "zipcode": "97227"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66779080587627,
+                    45.53966638174055
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 6001,
+                "stop_name": "N Vancouver & Page",
+                "stop_seq": 2900,
+                "type": "BUS",
+                "zipcode": "97227"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66779156839615,
+                    45.5381207907475
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 6008,
+                "stop_name": "N Vancouver & Tillamook",
+                "stop_seq": 2950,
+                "type": "BUS",
+                "zipcode": "97227"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66784119230472,
+                    45.53449962550467
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 6009,
+                "stop_name": "N Vancouver & Weidler",
+                "stop_seq": 3000,
+                "type": "BUS",
+                "zipcode": "97227"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66647593582104,
+                    45.53000537698145
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 2592,
+                "stop_name": "Rose Quarter Transit Center",
+                "stop_seq": 3050,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68328988914024,
+                    45.50556589359561
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 7591,
+                "stop_name": "SW 5th & Caruthers",
+                "stop_seq": 3800,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68211456047726,
+                    45.50268645330365
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 175,
+                "stop_name": "SW Barbur & Hooker",
+                "stop_seq": 3850,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68114846394523,
+                    45.50098487484533
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 198,
+                "stop_name": "SW Barbur & Woods",
+                "stop_seq": 3900,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67981216485971,
+                    45.49860155624016
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 196,
+                "stop_name": "SW Barbur & Whitaker",
+                "stop_seq": 3950,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67911949604607,
+                    45.49734773033284
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 185,
+                "stop_name": "SW Barbur & Pennoyer",
+                "stop_seq": 4000,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67836731311237,
+                    45.495994401122694
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 176,
+                "stop_name": "SW Barbur & Lane",
+                "stop_seq": 4050,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67856572713242,
+                    45.49103721631117
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 173,
+                "stop_name": "SW Barbur & Hamilton",
+                "stop_seq": 4100,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68275676679828,
+                    45.487059214323075
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 155,
+                "stop_name": "4900 Block SW Barbur",
+                "stop_seq": 4150,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68733659927163,
+                    45.48027615783863
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 957,
+                "stop_name": "SW Capitol & Terwilliger",
+                "stop_seq": 4200,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69321930207246,
+                    45.47889611121874
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 955,
+                "stop_name": "SW Capitol & Sunset",
+                "stop_seq": 4250,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69961991802458,
+                    45.47770586251413
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 964,
+                "stop_name": "SW Capitol & Nebraska",
+                "stop_seq": 4300,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70172559662366,
+                    45.47674647424673
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 943,
+                "stop_name": "SW Capitol & Idaho",
+                "stop_seq": 4350,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70418812266034,
+                    45.47612714612064
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 966,
+                "stop_name": "SW Capitol & 26th",
+                "stop_seq": 4400,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70778810588398,
+                    45.474698907862766
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 935,
+                "stop_name": "SW Capitol & Florida",
+                "stop_seq": 4450,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70779171927988,
+                    45.473595907160345
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 958,
+                "stop_name": "SW Capitol & Texas",
+                "stop_seq": 4500,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70775410657549,
+                    45.470964347174
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 949,
+                "stop_name": "SW Capitol & Miles",
+                "stop_seq": 4550,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71053022098036,
+                    45.468608010790575
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 970,
+                "stop_name": "SW Capitol & 33rd",
+                "stop_seq": 4650,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7134339188214,
+                    45.46829005610519
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 5878,
+                "stop_name": "SW Troy & 35th",
+                "stop_seq": 4700,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71418671701642,
+                    45.467828537144065
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 10865,
+                "stop_name": "SW 36th & Capitol Hwy",
+                "stop_seq": 4750,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71669841345005,
+                    45.46665942465243
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 10933,
+                "stop_name": "SW Capitol & Garden Home",
+                "stop_seq": 4800,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71784690905838,
+                    45.46540362845697
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 10932,
+                "stop_name": "SW Capitol & 40th",
+                "stop_seq": 4850,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71807119382125,
+                    45.464230028027565
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 927,
+                "stop_name": "SW Capitol & Carson",
+                "stop_seq": 4900,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71918699566675,
+                    45.46186174616667
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 933,
+                "stop_name": "SW Capitol & Dolph",
+                "stop_seq": 4950,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71924245383187,
+                    45.460392238695036
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 947,
+                "stop_name": "SW Capitol & Marigold",
+                "stop_seq": 5000,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71909015411264,
+                    45.458357734685656
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 921,
+                "stop_name": "SW Capitol & Alice",
+                "stop_seq": 5100,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71907490909534,
+                    45.456580878860365
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 926,
+                "stop_name": "9500 Block SW Capitol",
+                "stop_seq": 5150,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7204557872064,
+                    45.45476194104639
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 930,
+                "stop_name": "SW Capitol & Taylors Ferry",
+                "stop_seq": 5200,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72166504602119,
+                    45.452932145369935
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 10952,
+                "stop_name": "SW Capitol & Huber",
+                "stop_seq": 5250,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72424099007415,
+                    45.449472108860796
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 936,
+                "stop_name": "SW Capitol & Galeburn",
+                "stop_seq": 5300,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7255549153484,
+                    45.447263474030954
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 931,
+                "stop_name": "SW Capitol & Dickinson",
+                "stop_seq": 5350,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72694494397206,
+                    45.445160280918046
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 951,
+                "stop_name": "SW Capitol & Pomona",
+                "stop_seq": 5400,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72719485396036,
+                    45.442598180082264
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 7577,
+                "stop_name": "SW 49th & Coronado",
+                "stop_seq": 5500,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72726144924751,
+                    45.4399123099988
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 8951,
+                "stop_name": "SW 49th & PCC Entrance",
+                "stop_seq": 5550,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72010679918561,
+                    45.57392396879641
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 6270,
+                "stop_name": "N Willamette & Harvard",
+                "stop_seq": 1200,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73017673010175,
+                    45.43795901109099
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 4431,
+                "stop_name": "PCC Sylvania Main Stop",
+                "stop_seq": 5600,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70593604068439,
+                    45.57438026096543
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Sylvania",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 6295,
+                "stop_name": "N Willamette & Washburne",
+                "stop_seq": 1400,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

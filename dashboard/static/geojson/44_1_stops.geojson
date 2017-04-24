@@ -1,0 +1,2196 @@
+{
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68109464303544,
+                    45.51426672816957
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 11486,
+                "stop_name": "SW 6th & Columbia",
+                "stop_seq": 2150,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67968720178953,
+                    45.51693373366212
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 7789,
+                "stop_name": "SW 6th & Salmon",
+                "stop_seq": 2200,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67785941932121,
+                    45.520244003919665
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 7803,
+                "stop_name": "SW 6th & Washington",
+                "stop_seq": 2250,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67562192275052,
+                    45.52518244849463
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 8886,
+                "stop_name": "NW Everett & 5th",
+                "stop_seq": 2350,
+                "type": "BUS",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67644118329773,
+                    45.52572476225456
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 9300,
+                "stop_name": "NW 6th & Flanders",
+                "stop_seq": 2413,
+                "type": "BUS",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73017673010175,
+                    45.43795901109099
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 4431,
+                "stop_name": "PCC Sylvania Main Stop",
+                "stop_seq": 50,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72693255317633,
+                    45.43996259995041
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 7579,
+                "stop_name": "SW 49th & Hidalgo",
+                "stop_seq": 100,
+                "type": "BUS",
+                "zipcode": "97035"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72694397125373,
+                    45.442454405413145
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 7578,
+                "stop_name": "SW 49th & Coronado",
+                "stop_seq": 150,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72656036901755,
+                    45.44526824922761
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 952,
+                "stop_name": "SW Capitol & Pomona",
+                "stop_seq": 200,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72518038315063,
+                    45.44735489547399
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 932,
+                "stop_name": "SW Capitol & Dickinson",
+                "stop_seq": 250,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72409327569811,
+                    45.44920864324007
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 937,
+                "stop_name": "SW Capitol & Galeburn",
+                "stop_seq": 300,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72144052863378,
+                    45.45293061324479
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 923,
+                "stop_name": "SW Capitol & Barbur",
+                "stop_seq": 350,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7201265508761,
+                    45.45496969683432
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 10935,
+                "stop_name": "SW Capitol & Taylors Ferry",
+                "stop_seq": 400,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71921622989298,
+                    45.45589026945069
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 975,
+                "stop_name": "SW Capitol & Brugger",
+                "stop_seq": 450,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71892138876218,
+                    45.45824635408421
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 922,
+                "stop_name": "SW Capitol & Alice",
+                "stop_seq": 500,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71904278475118,
+                    45.46035793412584
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 946,
+                "stop_name": "SW Capitol & Marigold",
+                "stop_seq": 600,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7188676072292,
+                    45.4620536540839
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 934,
+                "stop_name": "SW Capitol & Dolph",
+                "stop_seq": 650,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71297330013276,
+                    45.46798861012663
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 972,
+                "stop_name": "SW Capitol & 35th",
+                "stop_seq": 850,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7101731268957,
+                    45.468549454761614
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 971,
+                "stop_name": "SW Capitol & 33rd",
+                "stop_seq": 900,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70762408657092,
+                    45.47057325802511
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 948,
+                "stop_name": "SW Capitol & Miles",
+                "stop_seq": 1000,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70757273609547,
+                    45.47439696855969
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 959,
+                "stop_name": "SW Capitol & California",
+                "stop_seq": 1050,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70594353075721,
+                    45.47599675219318
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 6023,
+                "stop_name": "SW Capitol & Vermont",
+                "stop_seq": 1100,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70348116558586,
+                    45.47599572033405
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 965,
+                "stop_name": "SW Capitol & 26th",
+                "stop_seq": 1150,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70159997950675,
+                    45.4766850438385
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 942,
+                "stop_name": "SW Capitol & Idaho",
+                "stop_seq": 1200,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69925214789522,
+                    45.477651144557086
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 963,
+                "stop_name": "SW Capitol & Nebraska",
+                "stop_seq": 1250,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69636752797888,
+                    45.4780800719219
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 925,
+                "stop_name": "SW Capitol & Bertha Ct",
+                "stop_seq": 1300,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69285640366004,
+                    45.47879137447437
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 929,
+                "stop_name": "SW Capitol & Sunset",
+                "stop_seq": 1350,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68728093043629,
+                    45.48004111614926
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 956,
+                "stop_name": "SW Capitol & Terwilliger",
+                "stop_seq": 1400,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68251463988024,
+                    45.48767712840085
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 156,
+                "stop_name": "4900 Block SW Barbur",
+                "stop_seq": 1450,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67772473005718,
+                    45.49118599251005
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 172,
+                "stop_name": "SW Barbur & Hamilton",
+                "stop_seq": 1500,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67800432287771,
+                    45.495936828305716
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 177,
+                "stop_name": "SW Barbur & Lane",
+                "stop_seq": 1550,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67907374054063,
+                    45.49775594220434
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 186,
+                "stop_name": "SW Barbur & Pennoyer",
+                "stop_seq": 1600,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67978695102482,
+                    45.49907017744065
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 195,
+                "stop_name": "SW Barbur & Whitaker",
+                "stop_seq": 1650,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68075635467333,
+                    45.500752912794724
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 197,
+                "stop_name": "SW Barbur & Woods",
+                "stop_seq": 1700,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6814777506682,
+                    45.50208712044087
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 174,
+                "stop_name": "SW Barbur & Hooker",
+                "stop_seq": 1750,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68187855926614,
+                    45.50552195865174
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 12762,
+                "stop_name": "SW 4th & Caruthers",
+                "stop_seq": 1800,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68134418257758,
+                    45.50947933886171
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 12763,
+                "stop_name": "SW 4th & Hall",
+                "stop_seq": 1850,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67259670124608,
+                    45.525224078845824
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 1612,
+                "stop_name": "NW Everett & 2nd",
+                "stop_seq": 2400,
+                "type": "BUS",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66564585634005,
+                    45.53066891965364
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 1097,
+                "stop_name": "Rose Quarter Transit Center",
+                "stop_seq": 2600,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66663752246941,
+                    45.53580856369055
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 6357,
+                "stop_name": "N Williams & NE Broadway",
+                "stop_seq": 2700,
+                "type": "BUS",
+                "zipcode": "97212"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66661464528933,
+                    45.53825018165953
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 6370,
+                "stop_name": "N Williams & NE Tillamook",
+                "stop_seq": 2750,
+                "type": "BUS",
+                "zipcode": "97227"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66658651074485,
+                    45.54135771299315
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 6354,
+                "stop_name": "N Williams & NE Russell",
+                "stop_seq": 2850,
+                "type": "BUS",
+                "zipcode": "97227"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66657071302308,
+                    45.54273275380298
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 6362,
+                "stop_name": "N Williams & NE Graham",
+                "stop_seq": 2900,
+                "type": "BUS",
+                "zipcode": "97227"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66655454203638,
+                    45.544449160807154
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 6364,
+                "stop_name": "N Williams & NE Morris",
+                "stop_seq": 2950,
+                "type": "BUS",
+                "zipcode": "97212"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6666065649511,
+                    45.54697712624407
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 6359,
+                "stop_name": "N Williams & NE Cook",
+                "stop_seq": 3000,
+                "type": "BUS",
+                "zipcode": "97227"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66658642663597,
+                    45.54850866869728
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 6360,
+                "stop_name": "N Williams & NE Fremont",
+                "stop_seq": 3050,
+                "type": "BUS",
+                "zipcode": "97227"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66661734719935,
+                    45.55193933806551
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 6366,
+                "stop_name": "N Williams & NE Shaver",
+                "stop_seq": 3150,
+                "type": "BUS",
+                "zipcode": "97212"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66664606737692,
+                    45.55448276473121
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 6367,
+                "stop_name": "N Williams & NE Skidmore",
+                "stop_seq": 3200,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66661698992137,
+                    45.55755942157745
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 6371,
+                "stop_name": "N Williams & NE Wygant",
+                "stop_seq": 3300,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6665903230341,
+                    45.5590170872884
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 6355,
+                "stop_name": "N Williams & NE Alberta",
+                "stop_seq": 3350,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6668280427262,
+                    45.56159687989507
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 10463,
+                "stop_name": "N Williams & Emerson",
+                "stop_seq": 3450,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66836122685277,
+                    45.5627752475031
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 3184,
+                "stop_name": "N Killingsworth & Vancouver",
+                "stop_seq": 3500,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66865972283313,
+                    45.563773284019746
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 3070,
+                "stop_name": "N Vancouver & Jessup",
+                "stop_seq": 3550,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66872177333772,
+                    45.566301800768954
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 5976,
+                "stop_name": "N Vancouver & Ainsworth",
+                "stop_seq": 3600,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6687429176682,
+                    45.56764741772506
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 5991,
+                "stop_name": "N Vancouver & Holman",
+                "stop_seq": 3650,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6694293916974,
+                    45.5700374859658
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 4485,
+                "stop_name": "N Rosa Parks Way & Vancouver",
+                "stop_seq": 3700,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67211081405966,
+                    45.57003000456855
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 4458,
+                "stop_name": "N Rosa Parks Way & Congress",
+                "stop_seq": 3750,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67465036169612,
+                    45.57001545876511
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 8814,
+                "stop_name": "N Rosa Parks Way & Albina",
+                "stop_seq": 3800,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68174318136779,
+                    45.56998614646791
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 4473,
+                "stop_name": "N Rosa Parks Way & Interstate",
+                "stop_seq": 3900,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68714915962353,
+                    45.570004304543836
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 4465,
+                "stop_name": "N Rosa Parks Way & Denver",
+                "stop_seq": 4000,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69226886004668,
+                    45.570031359498664
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 4464,
+                "stop_name": "N Rosa Parks Way & Delaware",
+                "stop_seq": 4100,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69528948253082,
+                    45.570037620608794
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 4471,
+                "stop_name": "N Rosa Parks Way & Greeley",
+                "stop_seq": 4150,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69917869261786,
+                    45.570038413207946
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 8329,
+                "stop_name": "N Rosa Parks Way & Knowles",
+                "stop_seq": 4250,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7088915817569,
+                    45.575153703626675
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 6273,
+                "stop_name": "N Willamette & Hurst",
+                "stop_seq": 4450,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71328028780123,
+                    45.575361954885956
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 6298,
+                "stop_name": "N Willamette & Woolsey",
+                "stop_seq": 4550,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71842378387062,
+                    45.574630906195495
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 6277,
+                "stop_name": "N Willamette & Menlo",
+                "stop_seq": 4650,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72456052903587,
+                    45.574542046060245
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 6271,
+                "stop_name": "N Willamette & Haven",
+                "stop_seq": 4750,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72859814836848,
+                    45.57604229933695
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 6284,
+                "stop_name": "N Willamette & Portsmouth",
+                "stop_seq": 4850,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73193222693003,
+                    45.577267790655156
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 6280,
+                "stop_name": "N Willamette & Monteith",
+                "stop_seq": 4900,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7340621323315,
+                    45.57838894190924
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 6292,
+                "stop_name": "N Willamette & Wall",
+                "stop_seq": 4950,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73719435792464,
+                    45.58009578863796
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 6275,
+                "stop_name": "N Willamette & Macrum",
+                "stop_seq": 5000,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7397618548779,
+                    45.58171435104561
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 6264,
+                "stop_name": "N Willamette & Carey",
+                "stop_seq": 5050,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74236373011432,
+                    45.58246813717154
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 6258,
+                "stop_name": "N Willamette & Alma",
+                "stop_seq": 5100,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74404271137632,
+                    45.58353930995339
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 6263,
+                "stop_name": "N Willamette & Burr",
+                "stop_seq": 5150,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74642274409238,
+                    45.58445560144329
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 6283,
+                "stop_name": "N Willamette & Edgewater",
+                "stop_seq": 5200,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74925452705592,
+                    45.585379618703975
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 6288,
+                "stop_name": "N Willamette & Tyler",
+                "stop_seq": 5250,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75161174655486,
+                    45.58614659678152
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 6282,
+                "stop_name": "N Willamette & Oswego",
+                "stop_seq": 5300,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.751861774365,
+                    45.58759200162184
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 4817,
+                "stop_name": "N Richmond & Syracuse",
+                "stop_seq": 5350,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75212182080375,
+                    45.58898087345023
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 8653,
+                "stop_name": "N Charleston & Lombard St",
+                "stop_seq": 5450,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75267956524137,
+                    45.58958863790517
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 3509,
+                "stop_name": "N Lombard & John",
+                "stop_seq": 5500,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75428268479551,
+                    45.590102478492135
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 3467,
+                "stop_name": "N Lombard & Burlington",
+                "stop_seq": 5550,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7557066547405,
+                    45.59110733082989
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 8480,
+                "stop_name": "N Lombard & Baltimore",
+                "stop_seq": 5600,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75686410669668,
+                    45.592307592466355
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 3525,
+                "stop_name": "N Lombard & New York",
+                "stop_seq": 5650,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75906550059693,
+                    45.59457936674815
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 9431,
+                "stop_name": "N Lombard & Catlin",
+                "stop_seq": 5700,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76110934023907,
+                    45.59798397098024
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 9576,
+                "stop_name": "N Lombard & Reno",
+                "stop_seq": 5750,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76227322596279,
+                    45.5999367158058
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 9432,
+                "stop_name": "N Lombard & Weyerhauser",
+                "stop_seq": 5800,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76234383775525,
+                    45.6021135686695
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 10095,
+                "stop_name": "Pier Park",
+                "stop_seq": 5850,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68181137567855,
+                    45.512946379080326
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 7772,
+                "stop_name": "SW 6th & Market",
+                "stop_seq": 2000,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7203906659317,
+                    45.57395588014951
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 6269,
+                "stop_name": "N Willamette & Harvard",
+                "stop_seq": 4700,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71635578675095,
+                    45.46670508872991
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 939,
+                "stop_name": "SW Capitol & Garden Home",
+                "stop_seq": 800,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71790985730836,
+                    45.46432960704546
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 13347,
+                "stop_name": "SW Capitol & Carson",
+                "stop_seq": 725,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67641501100557,
+                    45.522880235484514
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 7751,
+                "stop_name": "SW 6th & W Burnside",
+                "stop_seq": 2300,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70312152847788,
+                    45.57349655410992
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 6260,
+                "stop_name": "N Willamette & Bryant",
+                "stop_seq": 4350,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70568438896326,
+                    45.57444433774965
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 6294,
+                "stop_name": "N Willamette & Washburne",
+                "stop_seq": 4400,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66658605016165,
+                    45.534238339941496
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 44,
+                "rte_desc": "44-Capitol Hwy/Mocks Crest",
+                "stop_id": 11480,
+                "stop_name": "N Williams & NE Weidler",
+                "stop_seq": 2650,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

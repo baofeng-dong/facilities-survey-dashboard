@@ -1,0 +1,1460 @@
+{
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.80630960760266,
+                    45.48607504736299
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 76,
+                "rte_desc": "76-Beaverton/Tualatin",
+                "stop_id": 6178,
+                "stop_name": "SW Watson & 1st",
+                "stop_seq": 4,
+                "type": "BUS",
+                "zipcode": "97005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.80680514142108,
+                    45.481149823842685
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 76,
+                "rte_desc": "76-Beaverton/Tualatin",
+                "stop_id": 6182,
+                "stop_name": "SW Watson & 9th",
+                "stop_seq": 7,
+                "type": "BUS",
+                "zipcode": "97005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.80618895723867,
+                    45.47969728317761
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 76,
+                "rte_desc": "76-Beaverton/Tualatin",
+                "stop_id": 6179,
+                "stop_name": "SW Watson & 10th",
+                "stop_seq": 8,
+                "type": "BUS",
+                "zipcode": "97005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.80558089698815,
+                    45.475507855666535
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 76,
+                "rte_desc": "76-Beaverton/Tualatin",
+                "stop_id": 2266,
+                "stop_name": "SW Hall & Allen",
+                "stop_seq": 10,
+                "type": "BUS",
+                "zipcode": "97008"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.8052878385673,
+                    45.47198117805325
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 76,
+                "rte_desc": "76-Beaverton/Tualatin",
+                "stop_id": 2303,
+                "stop_name": "SW Hall & 22nd",
+                "stop_seq": 12,
+                "type": "BUS",
+                "zipcode": "97008"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.80415030916751,
+                    45.46880865751119
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 76,
+                "rte_desc": "76-Beaverton/Tualatin",
+                "stop_id": 2279,
+                "stop_name": "SW Hall & Denney",
+                "stop_seq": 13,
+                "type": "BUS",
+                "zipcode": "97008"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.80347918881648,
+                    45.46419016692232
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 76,
+                "rte_desc": "76-Beaverton/Tualatin",
+                "stop_id": 2280,
+                "stop_name": "SW Hall & Green Lane",
+                "stop_seq": 15,
+                "type": "BUS",
+                "zipcode": "97008"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.79851915461055,
+                    45.46186632539957
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 76,
+                "rte_desc": "76-Beaverton/Tualatin",
+                "stop_id": 2292,
+                "stop_name": "SW Hall & Ridgecrest",
+                "stop_seq": 17,
+                "type": "BUS",
+                "zipcode": "97008"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.79642066754695,
+                    45.4612555702627
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 76,
+                "rte_desc": "76-Beaverton/Tualatin",
+                "stop_id": 2283,
+                "stop_name": "SW Hall & Greenway",
+                "stop_seq": 18,
+                "type": "BUS",
+                "zipcode": "97008"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.78742522314153,
+                    45.45877680342482
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 76,
+                "rte_desc": "76-Beaverton/Tualatin",
+                "stop_id": 2272,
+                "stop_name": "SW Hall & Cascade",
+                "stop_seq": 21,
+                "type": "BUS",
+                "zipcode": "97008"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.78049488341172,
+                    45.45509338516159
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 76,
+                "rte_desc": "76-Beaverton/Tualatin",
+                "stop_id": 6125,
+                "stop_name": "SW Eliander & One Embassy Centre",
+                "stop_seq": 23,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.77942535694189,
+                    45.44132680630418
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 76,
+                "rte_desc": "76-Beaverton/Tualatin",
+                "stop_id": 2231,
+                "stop_name": "SW Greenburg & Cascade",
+                "stop_seq": 28,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.77958152444224,
+                    45.43885903942497
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 76,
+                "rte_desc": "76-Beaverton/Tualatin",
+                "stop_id": 2235,
+                "stop_name": "SW Greenburg & North Dakota",
+                "stop_seq": 29,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.77761826300379,
+                    45.43735921257527
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 76,
+                "rte_desc": "76-Beaverton/Tualatin",
+                "stop_id": 2246,
+                "stop_name": "SW Greenburg & 98th",
+                "stop_seq": 30,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.77213027842768,
+                    45.43600958459839
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 76,
+                "rte_desc": "76-Beaverton/Tualatin",
+                "stop_id": 2237,
+                "stop_name": "SW Greenburg & 92nd",
+                "stop_seq": 32,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.77035744057436,
+                    45.43512083681655
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 76,
+                "rte_desc": "76-Beaverton/Tualatin",
+                "stop_id": 2240,
+                "stop_name": "SW Greenburg & Lincoln",
+                "stop_seq": 33,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76857001410959,
+                    45.43403388417127
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 76,
+                "rte_desc": "76-Beaverton/Tualatin",
+                "stop_id": 2233,
+                "stop_name": "SW Greenburg & Center",
+                "stop_seq": 34,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76822689782736,
+                    45.43256910232386
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 76,
+                "rte_desc": "76-Beaverton/Tualatin",
+                "stop_id": 3673,
+                "stop_name": "SW Main & Scoffins",
+                "stop_seq": 35,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7666045761361,
+                    45.42857050331615
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 76,
+                "rte_desc": "76-Beaverton/Tualatin",
+                "stop_id": 1123,
+                "stop_name": "SW Commercial & Hall",
+                "stop_seq": 150,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76587996086677,
+                    45.42508564329622
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 76,
+                "rte_desc": "76-Beaverton/Tualatin",
+                "stop_id": 9065,
+                "stop_name": "SW Hall & Tigard City Hall",
+                "stop_seq": 250,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76532285239387,
+                    45.417427609445504
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 76,
+                "rte_desc": "76-Beaverton/Tualatin",
+                "stop_id": 9067,
+                "stop_name": "SW Hall & Fanno Creek Ct",
+                "stop_seq": 350,
+                "type": "BUS",
+                "zipcode": "97224"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76458895984624,
+                    45.41512826280862
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 76,
+                "rte_desc": "76-Beaverton/Tualatin",
+                "stop_id": 9068,
+                "stop_name": "SW Hall & Bonita",
+                "stop_seq": 400,
+                "type": "BUS",
+                "zipcode": "97224"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7645295818201,
+                    45.4126710059965
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 76,
+                "rte_desc": "76-Beaverton/Tualatin",
+                "stop_id": 9069,
+                "stop_name": "SW Hall & Murdock",
+                "stop_seq": 450,
+                "type": "BUS",
+                "zipcode": "97224"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76458964054511,
+                    45.40996766553042
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 76,
+                "rte_desc": "76-Beaverton/Tualatin",
+                "stop_id": 9070,
+                "stop_name": "SW Hall & Sattler",
+                "stop_seq": 500,
+                "type": "BUS",
+                "zipcode": "97224"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76262766016681,
+                    45.404212481113696
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 76,
+                "rte_desc": "76-Beaverton/Tualatin",
+                "stop_id": 9072,
+                "stop_name": "8300 Block SW Durham",
+                "stop_seq": 600,
+                "type": "BUS",
+                "zipcode": "97224"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75782086662632,
+                    45.40419944675586
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 76,
+                "rte_desc": "76-Beaverton/Tualatin",
+                "stop_id": 9224,
+                "stop_name": "SW Durham & 79th",
+                "stop_seq": 625,
+                "type": "BUS",
+                "zipcode": "97224"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75594645152457,
+                    45.40363844724614
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 76,
+                "rte_desc": "76-Beaverton/Tualatin",
+                "stop_id": 9073,
+                "stop_name": "SW Durham & 76th",
+                "stop_seq": 650,
+                "type": "BUS",
+                "zipcode": "97224"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75206487345032,
+                    45.40169998538949
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 76,
+                "rte_desc": "76-Beaverton/Tualatin",
+                "stop_id": 9076,
+                "stop_name": "SW Durham & Upper Boones Ferry",
+                "stop_seq": 770,
+                "type": "BUS",
+                "zipcode": "97224"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75137715421168,
+                    45.40046517558891
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 76,
+                "rte_desc": "76-Beaverton/Tualatin",
+                "stop_id": 9257,
+                "stop_name": "7200 Block SW Durham",
+                "stop_seq": 775,
+                "type": "BUS",
+                "zipcode": "97224"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75334519691953,
+                    45.39007791960493
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin",
+                "frequent": "False",
+                "jurisdic": "Tualatin",
+                "rte": 76,
+                "rte_desc": "76-Beaverton/Tualatin",
+                "stop_id": 514,
+                "stop_name": "SW Lower Boones Ferry & Childs Rd",
+                "stop_seq": 1000,
+                "type": "BUS",
+                "zipcode": "97224"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75726801303102,
+                    45.387046274369276
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin",
+                "frequent": "False",
+                "jurisdic": "Tualatin",
+                "rte": 76,
+                "rte_desc": "76-Beaverton/Tualatin",
+                "stop_id": 495,
+                "stop_name": "18200 Block SW Boones Ferry Rd",
+                "stop_seq": 1100,
+                "type": "BUS",
+                "zipcode": "97224"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7515183089276,
+                    45.3753429689914
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin",
+                "frequent": "False",
+                "jurisdic": "Tualatin",
+                "rte": 76,
+                "rte_desc": "76-Beaverton/Tualatin",
+                "stop_id": 5003,
+                "stop_name": "SW Sagert & 72nd",
+                "stop_seq": 1500,
+                "type": "BUS",
+                "zipcode": "97062"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74548978082998,
+                    45.37541702956336
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin",
+                "frequent": "False",
+                "jurisdic": "Tualatin",
+                "rte": 76,
+                "rte_desc": "76-Beaverton/Tualatin",
+                "stop_id": 5001,
+                "stop_name": "SW Sagert & Wampanoag",
+                "stop_seq": 1550,
+                "type": "BUS",
+                "zipcode": "97062"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74235323084815,
+                    45.377921855531845
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin",
+                "frequent": "False",
+                "jurisdic": "Tualatin",
+                "rte": 76,
+                "rte_desc": "76-Beaverton/Tualatin",
+                "stop_id": 3868,
+                "stop_name": "Meridian Park Hospital Main Stop",
+                "stop_seq": 1700,
+                "type": "BUS",
+                "zipcode": "97062"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76464250281883,
+                    45.405592165607835
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 76,
+                "rte_desc": "76-Beaverton/Tualatin",
+                "stop_id": 10631,
+                "stop_name": "SW Hall & Avon",
+                "stop_seq": 550,
+                "type": "BUS",
+                "zipcode": "97224"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.80391040924485,
+                    45.466542174663346
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 76,
+                "rte_desc": "76-Beaverton/Tualatin",
+                "stop_id": 2286,
+                "stop_name": "SW Hall & Hart",
+                "stop_seq": 14,
+                "type": "BUS",
+                "zipcode": "97008"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.80128168702919,
+                    45.463059517069254
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 76,
+                "rte_desc": "76-Beaverton/Tualatin",
+                "stop_id": 2263,
+                "stop_name": "7800 Block SW Hall",
+                "stop_seq": 16,
+                "type": "BUS",
+                "zipcode": "97008"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.79254574894605,
+                    45.46010683825112
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 76,
+                "rte_desc": "76-Beaverton/Tualatin",
+                "stop_id": 2276,
+                "stop_name": "SW Hall & Creekside",
+                "stop_seq": 19,
+                "type": "BUS",
+                "zipcode": "97008"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7493954479012,
+                    45.39890820302681
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 76,
+                "rte_desc": "76-Beaverton/Tualatin",
+                "stop_id": 9565,
+                "stop_name": "SW Durham & 72nd",
+                "stop_seq": 780,
+                "type": "BUS",
+                "zipcode": "97224"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74875930512178,
+                    45.39476710235203
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin",
+                "frequent": "False",
+                "jurisdic": "Tualatin",
+                "rte": 76,
+                "rte_desc": "76-Beaverton/Tualatin",
+                "stop_id": 7880,
+                "stop_name": "Tualatin Park & Ride",
+                "stop_seq": 900,
+                "type": "BUS",
+                "zipcode": "97224"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7599741692553,
+                    45.375319160904574
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin",
+                "frequent": "False",
+                "jurisdic": "Tualatin",
+                "rte": 76,
+                "rte_desc": "76-Beaverton/Tualatin",
+                "stop_id": 8506,
+                "stop_name": "SW Sagert & Martinazzi",
+                "stop_seq": 1400,
+                "type": "BUS",
+                "zipcode": "97062"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74846490793496,
+                    45.375369260507355
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin",
+                "frequent": "False",
+                "jurisdic": "Tualatin",
+                "rte": 76,
+                "rte_desc": "76-Beaverton/Tualatin",
+                "stop_id": 5002,
+                "stop_name": "SW Sagert & 70th",
+                "stop_seq": 1525,
+                "type": "BUS",
+                "zipcode": "97062"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74380445834461,
+                    45.3762260563756
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin",
+                "frequent": "False",
+                "jurisdic": "Tualatin",
+                "rte": 76,
+                "rte_desc": "76-Beaverton/Tualatin",
+                "stop_id": 7839,
+                "stop_name": "SW 65th & Borland",
+                "stop_seq": 1600,
+                "type": "BUS",
+                "zipcode": "97062"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.80174139112817,
+                    45.49092981589538
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 76,
+                "rte_desc": "76-Beaverton/Tualatin",
+                "stop_id": 9981,
+                "stop_name": "Beaverton Transit Center",
+                "stop_seq": 1,
+                "type": "BUS",
+                "zipcode": "97005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.80636753678354,
+                    45.48756314961516
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 76,
+                "rte_desc": "76-Beaverton/Tualatin",
+                "stop_id": 8262,
+                "stop_name": "SW Watson & Broadway",
+                "stop_seq": 3,
+                "type": "BUS",
+                "zipcode": "97005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.8057911138755,
+                    45.47787816409544
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 76,
+                "rte_desc": "76-Beaverton/Tualatin",
+                "stop_id": 2301,
+                "stop_name": "SW Hall & 13th",
+                "stop_seq": 9,
+                "type": "BUS",
+                "zipcode": "97005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75199332565496,
+                    45.39098420035397
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin",
+                "frequent": "False",
+                "jurisdic": "Tualatin",
+                "rte": 76,
+                "rte_desc": "76-Beaverton/Tualatin",
+                "stop_id": 558,
+                "stop_name": "18000 Block SW Lower Boones Ferry",
+                "stop_seq": 950,
+                "type": "BUS",
+                "zipcode": "97224"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75814720334856,
+                    45.37532765755441
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin",
+                "frequent": "False",
+                "jurisdic": "Tualatin",
+                "rte": 76,
+                "rte_desc": "76-Beaverton/Tualatin",
+                "stop_id": 4999,
+                "stop_name": "7800 Block SW Sagert",
+                "stop_seq": 1450,
+                "type": "BUS",
+                "zipcode": "97062"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74974106612471,
+                    45.39715900340252
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 76,
+                "rte_desc": "76-Beaverton/Tualatin",
+                "stop_id": 11945,
+                "stop_name": "17000 Block SW 72nd",
+                "stop_seq": 850,
+                "type": "BUS",
+                "zipcode": "97224"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.77879167772493,
+                    45.4526032304752
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 76,
+                "rte_desc": "76-Beaverton/Tualatin",
+                "stop_id": 9653,
+                "stop_name": "Washington Square Transit Center",
+                "stop_seq": 24,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76583442607775,
+                    45.42182408437569
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 76,
+                "rte_desc": "76-Beaverton/Tualatin",
+                "stop_id": 12468,
+                "stop_name": "SW Hall & Wall",
+                "stop_seq": 300,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.77527710910643,
+                    45.44912682626245
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 76,
+                "rte_desc": "76-Beaverton/Tualatin",
+                "stop_id": 8832,
+                "stop_name": "SW Greenburg & Lehman",
+                "stop_seq": 26,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.77652004967031,
+                    45.44607723052176
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 76,
+                "rte_desc": "76-Beaverton/Tualatin",
+                "stop_id": 12404,
+                "stop_name": "SW Greenburg & Washington Square Rd",
+                "stop_seq": 27,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.80683256439552,
+                    45.483715114881896
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 76,
+                "rte_desc": "76-Beaverton/Tualatin",
+                "stop_id": 13197,
+                "stop_name": "SW Watson & 5th",
+                "stop_seq": 5,
+                "type": "BUS",
+                "zipcode": "97005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.77422131896604,
+                    45.43672803526142
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 76,
+                "rte_desc": "76-Beaverton/Tualatin",
+                "stop_id": 2243,
+                "stop_name": "SW Greenburg & 95th",
+                "stop_seq": 31,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76927752794658,
+                    45.43046218972948
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 76,
+                "rte_desc": "76-Beaverton/Tualatin",
+                "stop_id": 8212,
+                "stop_name": "Tigard Transit Center",
+                "stop_seq": 50,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.78204154171621,
+                    45.45653154230166
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 76,
+                "rte_desc": "76-Beaverton/Tualatin",
+                "stop_id": 2296,
+                "stop_name": "SW Hall & Scholls Ferry",
+                "stop_seq": 22,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.78917051981344,
+                    45.459152620271894
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 76,
+                "rte_desc": "76-Beaverton/Tualatin",
+                "stop_id": 2290,
+                "stop_name": "SW Hall & Nimbus",
+                "stop_seq": 20,
+                "type": "BUS",
+                "zipcode": "97008"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75967006599589,
+                    45.38474625593123
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin",
+                "frequent": "False",
+                "jurisdic": "Tualatin",
+                "rte": 76,
+                "rte_desc": "76-Beaverton/Tualatin",
+                "stop_id": 13078,
+                "stop_name": "SW Boones Ferry Rd & Martinazzi",
+                "stop_seq": 1150,
+                "type": "BUS",
+                "zipcode": "97062"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76436308494584,
+                    45.382865616521265
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin",
+                "frequent": "False",
+                "jurisdic": "Tualatin",
+                "rte": 76,
+                "rte_desc": "76-Beaverton/Tualatin",
+                "stop_id": 13079,
+                "stop_name": "SW Boones Ferry Rd & Nyberg",
+                "stop_seq": 1200,
+                "type": "BUS",
+                "zipcode": "97062"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76355376694093,
+                    45.379474672181416
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin",
+                "frequent": "False",
+                "jurisdic": "Tualatin",
+                "rte": 76,
+                "rte_desc": "76-Beaverton/Tualatin",
+                "stop_id": 13080,
+                "stop_name": "SW Warm Springs & Boones Ferry",
+                "stop_seq": 1250,
+                "type": "BUS",
+                "zipcode": "97062"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75983789401988,
+                    45.37886973198429
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin",
+                "frequent": "False",
+                "jurisdic": "Tualatin",
+                "rte": 76,
+                "rte_desc": "76-Beaverton/Tualatin",
+                "stop_id": 13081,
+                "stop_name": "SW Warm Springs & Martinazzi",
+                "stop_seq": 1300,
+                "type": "BUS",
+                "zipcode": "97062"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.77542407477809,
+                    45.45134331042624
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 76,
+                "rte_desc": "76-Beaverton/Tualatin",
+                "stop_id": 13588,
+                "stop_name": "SW Summit Dr & Greenburg",
+                "stop_seq": 25,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

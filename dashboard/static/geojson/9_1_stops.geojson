@@ -1,0 +1,1966 @@
+{
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.48453218299896,
+                    45.4923610813573
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4616,
+                "stop_name": "SE Powell & 174th",
+                "stop_seq": 1000,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.48764507384618,
+                    45.49300266806463
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4614,
+                "stop_name": "SE Powell & 170th",
+                "stop_seq": 1050,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.49056665344337,
+                    45.49360113313944
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4613,
+                "stop_name": "SE Powell & 168th",
+                "stop_seq": 1100,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.49287264024059,
+                    45.494072384021074
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4611,
+                "stop_name": "SE Powell & 166th",
+                "stop_seq": 1150,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.49471374285775,
+                    45.49446251201115
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4609,
+                "stop_name": "SE Powell & 164th",
+                "stop_seq": 1200,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.49862532912796,
+                    45.49525461483163
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4607,
+                "stop_name": "SE Powell & 160th",
+                "stop_seq": 1250,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.50180078908312,
+                    45.495913798831715
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4603,
+                "stop_name": "SE Powell & 157th",
+                "stop_seq": 1300,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5043059900763,
+                    45.49648665409296
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 11786,
+                "stop_name": "SE Powell & 156th",
+                "stop_seq": 1350,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.50714204504526,
+                    45.49723805864626
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4506,
+                "stop_name": "SE Powell & 151st",
+                "stop_seq": 1400,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.51093524169853,
+                    45.49825231823746
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4597,
+                "stop_name": "SE Powell & 148th",
+                "stop_seq": 1450,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.51371430093484,
+                    45.49894604035105
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4595,
+                "stop_name": "SE Powell & 145th",
+                "stop_seq": 1500,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.51921151183709,
+                    45.49865723294469
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4591,
+                "stop_name": "SE Powell & 140th",
+                "stop_seq": 1550,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5212517320328,
+                    45.49831288526334
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4587,
+                "stop_name": "SE Powell & 138th",
+                "stop_seq": 1600,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.52337197090915,
+                    45.497967542555074
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4586,
+                "stop_name": "SE Powell & 136th",
+                "stop_seq": 1650,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.52512684554988,
+                    45.49767107458916
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4583,
+                "stop_name": "SE Powell & 134th",
+                "stop_seq": 1700,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.52797020290157,
+                    45.497534530242646
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4581,
+                "stop_name": "SE Powell & 132nd",
+                "stop_seq": 1750,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53098292532925,
+                    45.497394798724294
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4578,
+                "stop_name": "SE Powell & 129th",
+                "stop_seq": 1800,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53344529926748,
+                    45.497310688297404
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4576,
+                "stop_name": "SE Powell & 127th Pl",
+                "stop_seq": 1850,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53605080616765,
+                    45.4972145639038
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4575,
+                "stop_name": "SE Powell & 124th",
+                "stop_seq": 1900,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53801906819578,
+                    45.49714846401579
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4572,
+                "stop_name": "SE Powell & 122nd",
+                "stop_seq": 1950,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.54058289252012,
+                    45.49704940314632
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4570,
+                "stop_name": "SE Powell & 119th",
+                "stop_seq": 2000,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5431740142303,
+                    45.496951344344
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4569,
+                "stop_name": "SE Powell & 116th",
+                "stop_seq": 2050,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5485430521994,
+                    45.49661040521052
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4566,
+                "stop_name": "SE Powell & 112th",
+                "stop_seq": 2100,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.55166488106197,
+                    45.49634262168659
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4503,
+                "stop_name": "10800 Block SE Powell",
+                "stop_seq": 2150,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.55594729072648,
+                    45.49600059204287
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4565,
+                "stop_name": "SE Powell & 104th",
+                "stop_seq": 2200,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.55764276967146,
+                    45.495905909384454
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4563,
+                "stop_name": "SE Powell & 102nd",
+                "stop_seq": 2250,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56067933836921,
+                    45.496216870348036
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4561,
+                "stop_name": "10000 Block SE Powell",
+                "stop_seq": 2300,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56392771739293,
+                    45.49715805734099
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4543,
+                "stop_name": "SE Powell & Powell Garage Dr",
+                "stop_seq": 2400,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56910721678608,
+                    45.49749017764414
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4709,
+                "stop_name": "SE Powell & 92nd",
+                "stop_seq": 2450,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57088853582634,
+                    45.49749239647668
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4706,
+                "stop_name": "SE Powell & 90th Pl",
+                "stop_seq": 2500,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58619064203796,
+                    45.49752819629116
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 11923,
+                "stop_name": "SE Powell & 75th",
+                "stop_seq": 2750,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58976378403172,
+                    45.49754077294039
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4684,
+                "stop_name": "SE Powell & 71st",
+                "stop_seq": 2800,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59279444042699,
+                    45.49753158721349
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4683,
+                "stop_name": "SE Powell & 69th",
+                "stop_seq": 2850,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59506141596776,
+                    45.49756399149006
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4681,
+                "stop_name": "SE Powell & 67th",
+                "stop_seq": 2900,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5971647900743,
+                    45.49756299714776
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 11924,
+                "stop_name": "SE Powell & 65th",
+                "stop_seq": 2950,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59990345581797,
+                    45.49758425112741
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4676,
+                "stop_name": "SE Powell & 62nd",
+                "stop_seq": 3000,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60289762493463,
+                    45.497592269487505
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4674,
+                "stop_name": "SE Powell & 58th",
+                "stop_seq": 3050,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60631638785787,
+                    45.497565294465886
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 11925,
+                "stop_name": "SE Powell & 55th",
+                "stop_seq": 3100,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6095472008939,
+                    45.49759551772428
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4668,
+                "stop_name": "SE Powell & 52nd",
+                "stop_seq": 3150,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61234644756719,
+                    45.49763314203786
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4664,
+                "stop_name": "SE Powell & 49th",
+                "stop_seq": 3200,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61520606521832,
+                    45.49761756275633
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4663,
+                "stop_name": "SE Powell & 47th",
+                "stop_seq": 3250,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61805438946507,
+                    45.49763525806086
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4657,
+                "stop_name": "SE Powell & 43rd",
+                "stop_seq": 3300,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62062609439103,
+                    45.49756031342585
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4654,
+                "stop_name": "SE Powell & 40th",
+                "stop_seq": 3350,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62298649055568,
+                    45.49741035197806
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4653,
+                "stop_name": "SE Powell & Cesar Chavez Blvd",
+                "stop_seq": 3400,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62663996971985,
+                    45.49710077496191
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4649,
+                "stop_name": "SE Powell & 36th",
+                "stop_seq": 3450,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62915986400225,
+                    45.496909805964705
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4646,
+                "stop_name": "SE Powell & 34th",
+                "stop_seq": 3500,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63195033896548,
+                    45.49688442506932
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4643,
+                "stop_name": "SE Powell & 33rd",
+                "stop_seq": 3550,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63738802513758,
+                    45.497841665546915
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4631,
+                "stop_name": "SE Powell & 28th",
+                "stop_seq": 3600,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63937020183747,
+                    45.498016871439106
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4628,
+                "stop_name": "SE Powell & 26th",
+                "stop_seq": 3650,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6418816901456,
+                    45.49864803411797
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4626,
+                "stop_name": "SE Powell & 24th",
+                "stop_seq": 3700,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64449638941177,
+                    45.49939709410055
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4623,
+                "stop_name": "SE Powell & 21st",
+                "stop_seq": 3750,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65467876392233,
+                    45.501411528482365
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4538,
+                "stop_name": "SE Powell & Milwaukie",
+                "stop_seq": 3800,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57381865842872,
+                    45.49750819452338
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4700,
+                "stop_name": "SE Powell & 87th",
+                "stop_seq": 2550,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57649255284842,
+                    45.49751099182113
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4698,
+                "stop_name": "SE Powell & 84th",
+                "stop_seq": 2600,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57918796565299,
+                    45.49754065976031
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4695,
+                "stop_name": "SE Powell & 82nd",
+                "stop_seq": 2650,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58218149504675,
+                    45.49750528708218
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4692,
+                "stop_name": "SE Powell & 79th",
+                "stop_seq": 2700,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68220249504158,
+                    45.51223283780385
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 7773,
+                "stop_name": "SW 6th & Mill",
+                "stop_seq": 4050,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68143977394693,
+                    45.513596575009096
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 7756,
+                "stop_name": "SW 6th & Clay",
+                "stop_seq": 4100,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68003858172007,
+                    45.516272768850286
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 7767,
+                "stop_name": "SW 6th & Main",
+                "stop_seq": 4200,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6782398041585,
+                    45.51960676316679
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 7747,
+                "stop_name": "SW 6th & Alder",
+                "stop_seq": 4250,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.4265898862855,
+                    45.502869939593765
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 10858,
+                "stop_name": "Gresham Transit Center",
+                "stop_seq": 50,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67644118329773,
+                    45.52572476225456
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 9300,
+                "stop_name": "NW 6th & Flanders",
+                "stop_seq": 4300,
+                "type": "BUS",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67641501100557,
+                    45.522880235484514
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 7751,
+                "stop_name": "SW 6th & W Burnside",
+                "stop_seq": 4275,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66315541393675,
+                    45.50660244796625
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 13773,
+                "stop_name": "OMSI/SE Water",
+                "stop_seq": 3900,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67179132846064,
+                    45.502618376390046
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 13733,
+                "stop_name": "South Waterfront/SW Moody",
+                "stop_seq": 3950,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6797230884672,
+                    45.508033876057155
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 3398,
+                "stop_name": "SW Lincoln & 1st",
+                "stop_seq": 4000,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6820879584694,
+                    45.510132718257076
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 13780,
+                "stop_name": "SW Hall & 5th",
+                "stop_seq": 4025,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.4278001986576,
+                    45.50106909201832
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 7605,
+                "stop_name": "NE 5th & Hood",
+                "stop_seq": 150,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.42783210484416,
+                    45.498615610744515
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 13033,
+                "stop_name": "NE Hood & 2nd",
+                "stop_seq": 200,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.43137687037388,
+                    45.49798758185847
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 12862,
+                "stop_name": "W Powell & N Main",
+                "stop_seq": 250,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.4330250088648,
+                    45.49757575173298
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 9347,
+                "stop_name": "W Powell & NW Miller",
+                "stop_seq": 300,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.4350700384451,
+                    45.49728183897902
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4558,
+                "stop_name": "W Powell & SW Walters",
+                "stop_seq": 350,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.43871555313156,
+                    45.497236978270244
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 12868,
+                "stop_name": "W Powell & NW Eastman Parkway",
+                "stop_seq": 400,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.4417185552711,
+                    45.49718939992805
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 12863,
+                "stop_name": "W Powell & NW Wilson",
+                "stop_seq": 450,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.4446277319865,
+                    45.49717464204597
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4556,
+                "stop_name": "W Powell & NW Wallula",
+                "stop_seq": 500,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.44754868855114,
+                    45.49716881218337
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4553,
+                "stop_name": "W Powell & NW Towle",
+                "stop_seq": 550,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.45131143282049,
+                    45.49714373044833
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 12864,
+                "stop_name": "W Powell & NW Willowbrook",
+                "stop_seq": 600,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.4553491831349,
+                    45.49713608897137
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4516,
+                "stop_name": "W Powell & NW Birdsdale",
+                "stop_seq": 650,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.45985045444728,
+                    45.49565184142849
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 8743,
+                "stop_name": "2700 Block W Powell",
+                "stop_seq": 700,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.46284312957316,
+                    45.4938256494393
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4508,
+                "stop_name": "2900 Block W Powell",
+                "stop_seq": 750,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.46831677867739,
+                    45.49052123275809
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4621,
+                "stop_name": "W Powell & Powell Loop",
+                "stop_seq": 800,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.47364716696238,
+                    45.48992790409713
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4523,
+                "stop_name": "W Powell & SW Duniway",
+                "stop_seq": 850,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.47710696805804,
+                    45.49091272759251
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4617,
+                "stop_name": "W Powell & SW 181st",
+                "stop_seq": 900,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.47975012176386,
+                    45.49143521000517
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4554,
+                "stop_name": "W Powell & Village Drive",
+                "stop_seq": 950,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6586312921707,
+                    45.505581855169694
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 13825,
+                "stop_name": "SE 7th & Tilikum Way",
+                "stop_seq": 3850,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

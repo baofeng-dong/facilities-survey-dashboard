@@ -1,0 +1,1989 @@
+{
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.52969065805911,
+                    45.48957781456762
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 2707,
+                "stop_name": "SE Holgate & 130th",
+                "stop_seq": 4475,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64867237572783,
+                    45.49155177675893
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 6877,
+                "stop_name": "SE 17th & Mall",
+                "stop_seq": 2650,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64867123517814,
+                    45.49410368903412
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 6850,
+                "stop_name": "SE 17th & Center",
+                "stop_seq": 2600,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6483665008592,
+                    45.49719160622516
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 13704,
+                "stop_name": "SE 17th & Rhine",
+                "stop_seq": 2525,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63988515026519,
+                    45.57285170240897
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 5148,
+                "stop_name": "2500 Block of NE Saratoga",
+                "stop_seq": 50,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64141900197858,
+                    45.571966572162545
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 5150,
+                "stop_name": "NE Saratoga & Dekum",
+                "stop_seq": 100,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63871990636524,
+                    45.57181190595555
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 1286,
+                "stop_name": "NE Dekum & 27th",
+                "stop_seq": 150,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63822503470436,
+                    45.56922785873486
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 7245,
+                "stop_name": "NE 27th & Highland",
+                "stop_seq": 200,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63822066934839,
+                    45.56830504661311
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 7247,
+                "stop_name": "NE 27th & Holman",
+                "stop_seq": 250,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63822692417126,
+                    45.566516009965454
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 7236,
+                "stop_name": "NE 27th & Ainsworth",
+                "stop_seq": 300,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63823539995334,
+                    45.564535118168216
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 7249,
+                "stop_name": "NE 27th & Jarrett",
+                "stop_seq": 350,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63820815356488,
+                    45.56283608577567
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 7251,
+                "stop_name": "NE 27th & Killingsworth",
+                "stop_seq": 400,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63794045057872,
+                    45.56038870878845
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 7261,
+                "stop_name": "NE 27th & Sumner",
+                "stop_seq": 450,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6379619009837,
+                    45.55883322598748
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 7237,
+                "stop_name": "NE 27th & Alberta",
+                "stop_seq": 500,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63796996174264,
+                    45.557602907572594
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 7266,
+                "stop_name": "NE 27th & Wygant",
+                "stop_seq": 550,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63796735966868,
+                    45.55549725310922
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 7257,
+                "stop_name": "NE 27th & Prescott",
+                "stop_seq": 600,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63600348982928,
+                    45.554279795735724
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 5253,
+                "stop_name": "NE Skidmore & 29th",
+                "stop_seq": 650,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63598336006301,
+                    45.5519920078894
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 7310,
+                "stop_name": "NE 29th & Bryce",
+                "stop_seq": 700,
+                "type": "BUS",
+                "zipcode": "97212"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63602250959524,
+                    45.550417456907915
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 7307,
+                "stop_name": "NE 29th & Alameda",
+                "stop_seq": 750,
+                "type": "BUS",
+                "zipcode": "97212"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63900273814944,
+                    45.5499027451232
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 4812,
+                "stop_name": "NE Regents & Ridgewood Dr",
+                "stop_seq": 800,
+                "type": "BUS",
+                "zipcode": "97212"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64117906184563,
+                    45.5483871481054
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 7191,
+                "stop_name": "NE 24th & Fremont",
+                "stop_seq": 850,
+                "type": "BUS",
+                "zipcode": "97212"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6411863762454,
+                    45.54678344791792
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 7196,
+                "stop_name": "NE 24th & Klickitat",
+                "stop_seq": 900,
+                "type": "BUS",
+                "zipcode": "97212"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64119113819241,
+                    45.545236441592955
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 7202,
+                "stop_name": "NE 24th & Siskiyou",
+                "stop_seq": 950,
+                "type": "BUS",
+                "zipcode": "97212"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6412245626858,
+                    45.542186045750874
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 7198,
+                "stop_name": "NE 24th & Knott",
+                "stop_seq": 1000,
+                "type": "BUS",
+                "zipcode": "97212"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64123875361588,
+                    45.539049092989764
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 7205,
+                "stop_name": "NE 24th & Thompson",
+                "stop_seq": 1050,
+                "type": "BUS",
+                "zipcode": "97212"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64124845192829,
+                    45.536506054430774
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 7193,
+                "stop_name": "NE 24th & Hancock",
+                "stop_seq": 1100,
+                "type": "BUS",
+                "zipcode": "97212"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64160645444014,
+                    45.53512578108114
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 635,
+                "stop_name": "NE Broadway & 24th",
+                "stop_seq": 1150,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6453381063347,
+                    45.53510217543255
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 634,
+                "stop_name": "NE Broadway & 21st",
+                "stop_seq": 1200,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64985666773579,
+                    45.5351197616726
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 631,
+                "stop_name": "NE Broadway & 16th",
+                "stop_seq": 1300,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65340526179286,
+                    45.535107055774475
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 629,
+                "stop_name": "NE Broadway & 12th",
+                "stop_seq": 1350,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65639860562257,
+                    45.53513507427877
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 656,
+                "stop_name": "NE Broadway & 9th",
+                "stop_seq": 1400,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6584675061639,
+                    45.535148413325985
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 655,
+                "stop_name": "NE Broadway & 7th",
+                "stop_seq": 1450,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66046079576019,
+                    45.53514517873624
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 605,
+                "stop_name": "NE Broadway & Grand",
+                "stop_seq": 1500,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6619854630746,
+                    45.535164727126194
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 622,
+                "stop_name": "NE Broadway & M L King",
+                "stop_seq": 1550,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66351087258323,
+                    45.53516913132084
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 633,
+                "stop_name": "NE Broadway & 2nd",
+                "stop_seq": 1600,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66750369036214,
+                    45.53519788880892
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 627,
+                "stop_name": "N Broadway & Vancouver",
+                "stop_seq": 1650,
+                "type": "BUS",
+                "zipcode": "97227"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67024404006077,
+                    45.53420104180864
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 12374,
+                "stop_name": "N Broadway & Benton",
+                "stop_seq": 1700,
+                "type": "BUS",
+                "zipcode": "97227"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67774355034958,
+                    45.527574080032224
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 12805,
+                "stop_name": "NW Broadway & Hoyt",
+                "stop_seq": 1750,
+                "type": "BUS",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67762951086414,
+                    45.52531246756909
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 13178,
+                "stop_name": "NW Broadway & Everett",
+                "stop_seq": 1800,
+                "type": "BUS",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67558224723933,
+                    45.52297005334322
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 13171,
+                "stop_name": "W Burnside & SW 5th",
+                "stop_seq": 1850,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6764837104184,
+                    45.52094547021621
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 7636,
+                "stop_name": "SW 5th & Stark",
+                "stop_seq": 1900,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6782923923198,
+                    45.51760322230304
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 7640,
+                "stop_name": "SW 5th & Taylor",
+                "stop_seq": 1950,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68011287477063,
+                    45.51429717055883
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 7594,
+                "stop_name": "SW 5th & Columbia",
+                "stop_seq": 2000,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68192315550098,
+                    45.510938675136586
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 7602,
+                "stop_name": "SW 5th & Harrison",
+                "stop_seq": 2050,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68013152290851,
+                    45.5077938153603
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 3397,
+                "stop_name": "300 Block SW Lincoln",
+                "stop_seq": 2150,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63972150149509,
+                    45.490213994753255
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 2712,
+                "stop_name": "SE Holgate & 26th",
+                "stop_seq": 2750,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63718400140894,
+                    45.49025183340608
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 2714,
+                "stop_name": "SE Holgate & 28th",
+                "stop_seq": 2800,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6329213909421,
+                    45.49054006848073
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 2718,
+                "stop_name": "SE Holgate & 32nd",
+                "stop_seq": 2850,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62951089658047,
+                    45.49023356568309
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 2720,
+                "stop_name": "SE Holgate & 34th",
+                "stop_seq": 2900,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62678926287616,
+                    45.490248462046694
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 2722,
+                "stop_name": "SE Holgate & 36th",
+                "stop_seq": 2950,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62346540312774,
+                    45.490239303380044
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 2726,
+                "stop_name": "SE Holgate & Cesar Chavez Blvd",
+                "stop_seq": 3000,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61975725861048,
+                    45.4902412353465
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 2728,
+                "stop_name": "SE Holgate & 41st",
+                "stop_seq": 3050,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61597150178764,
+                    45.49023695320304
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 2732,
+                "stop_name": "SE Holgate & 45th",
+                "stop_seq": 3100,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61399478354579,
+                    45.49024284451195
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 2734,
+                "stop_name": "SE Holgate & 47th",
+                "stop_seq": 3150,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61202535149795,
+                    45.490236916221114
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 2736,
+                "stop_name": "SE Holgate & 49th",
+                "stop_seq": 3200,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60849927814782,
+                    45.49023826773888
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 2738,
+                "stop_name": "SE Holgate & 52nd",
+                "stop_seq": 3250,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6057726851844,
+                    45.49022911689317
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 2740,
+                "stop_name": "SE Holgate & 56th",
+                "stop_seq": 3300,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60407429311138,
+                    45.490232464089466
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 2742,
+                "stop_name": "SE Holgate & 58th",
+                "stop_seq": 3350,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59912558208983,
+                    45.49021573342513
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 2746,
+                "stop_name": "SE Holgate & 62nd",
+                "stop_seq": 3400,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59604090310188,
+                    45.49027065588797
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 2749,
+                "stop_name": "SE Holgate & 65th",
+                "stop_seq": 3450,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59390751203854,
+                    45.49021011072908
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 2750,
+                "stop_name": "SE Holgate & 67th",
+                "stop_seq": 3500,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59139879667063,
+                    45.49020413239742
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 2752,
+                "stop_name": "SE Holgate & 70th",
+                "stop_seq": 3550,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58938728287747,
+                    45.49019103983253
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 2754,
+                "stop_name": "SE Holgate & 72nd",
+                "stop_seq": 3600,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58620032804477,
+                    45.490192074932324
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 2757,
+                "stop_name": "SE Holgate & 75th",
+                "stop_seq": 3650,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58422582052401,
+                    45.490194356793346
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 2758,
+                "stop_name": "SE Holgate & 77th",
+                "stop_seq": 3700,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58224598546609,
+                    45.49019460411637
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 2760,
+                "stop_name": "SE Holgate & 79th",
+                "stop_seq": 3750,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57796932400898,
+                    45.490167811914155
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 2762,
+                "stop_name": "SE Holgate & 83rd",
+                "stop_seq": 3800,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57169343330892,
+                    45.49001964642186
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 2767,
+                "stop_name": "SE Holgate & 88th",
+                "stop_seq": 3850,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56882692535667,
+                    45.48995872718795
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 2770,
+                "stop_name": "SE Holgate & 92nd",
+                "stop_seq": 3900,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56686125474845,
+                    45.489880644701955
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 13218,
+                "stop_name": "SE Holgate & SE Holgate Blvd MAX Stn",
+                "stop_seq": 3950,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56318536495334,
+                    45.489814657990784
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 12900,
+                "stop_name": "SE Holgate & 97th",
+                "stop_seq": 4000,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56059705073665,
+                    45.4897555016358
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 2686,
+                "stop_name": "SE Holgate & 100th",
+                "stop_seq": 4050,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.55596324523506,
+                    45.48967967231492
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 2691,
+                "stop_name": "SE Holgate & 104th",
+                "stop_seq": 4100,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.55318351727195,
+                    45.48968228142171
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 2692,
+                "stop_name": "SE Holgate & 107th",
+                "stop_seq": 4150,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.54813556593218,
+                    45.489664498708876
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 2696,
+                "stop_name": "SE Holgate & 112th",
+                "stop_seq": 4200,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.54407883921623,
+                    45.48960187873446
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 2699,
+                "stop_name": "SE Holgate & 115th",
+                "stop_seq": 4250,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.54217695354923,
+                    45.489582536758554
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 2701,
+                "stop_name": "SE Holgate & 118th",
+                "stop_seq": 4300,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53713870391653,
+                    45.48951875981294
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 2703,
+                "stop_name": "SE Holgate & 122nd",
+                "stop_seq": 4350,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53435837620103,
+                    45.4896039492823
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 2684,
+                "stop_name": "SE Holgate & 125th",
+                "stop_seq": 4400,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5324143199692,
+                    45.48959559166015
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 2706,
+                "stop_name": "SE Holgate & 128th",
+                "stop_seq": 4450,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.52674814197296,
+                    45.48958510994878
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 2685,
+                "stop_name": "SE Holgate & 134th Dr",
+                "stop_seq": 4500,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67087151007394,
+                    45.50279736707373
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 13732,
+                "stop_name": "South Waterfront/SW Moody",
+                "stop_seq": 2200,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66229084049223,
+                    45.50649251675052
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 13772,
+                "stop_name": "OMSI/SE Water",
+                "stop_seq": 2250,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65812415569906,
+                    45.50481465205183
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 13778,
+                "stop_name": "SE Division Pl & 8th",
+                "stop_seq": 2300,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6543592747207,
+                    45.5025624006342
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 13791,
+                "stop_name": "SE Milwaukie & Gideon",
+                "stop_seq": 2350,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65328324948825,
+                    45.500809319046134
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Holgate & 134th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 13792,
+                "stop_name": "SE Powell & 12th",
+                "stop_seq": 2450,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

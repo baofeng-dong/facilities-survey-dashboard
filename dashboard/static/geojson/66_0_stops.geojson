@@ -1,0 +1,517 @@
+{
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68815613954094,
+                    45.49735520503011
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Hollywood Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 66,
+                "rte_desc": "66-Marquam Hill/Hollywood",
+                "stop_id": 9488,
+                "stop_name": "3505 SW US Veterans Rd",
+                "stop_seq": 45,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63977952183798,
+                    45.497846582905204
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Hollywood Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 66,
+                "rte_desc": "66-Marquam Hill/Hollywood",
+                "stop_id": 4627,
+                "stop_name": "SE Powell & 26th",
+                "stop_seq": 350,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6225181183032,
+                    45.50498743880761
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Hollywood Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 66,
+                "rte_desc": "66-Marquam Hill/Hollywood",
+                "stop_id": 7445,
+                "stop_name": "SE Cesar Chavez Blvd & Division",
+                "stop_seq": 450,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62283163295727,
+                    45.51635088934849
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Hollywood Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 66,
+                "rte_desc": "66-Marquam Hill/Hollywood",
+                "stop_id": 7437,
+                "stop_name": "SE Cesar Chavez Blvd & Belmont",
+                "stop_seq": 550,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62291527724697,
+                    45.52339768403482
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Hollywood Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 66,
+                "rte_desc": "66-Marquam Hill/Hollywood",
+                "stop_id": 7440,
+                "stop_name": "SE Cesar Chavez Blvd & E Burnside",
+                "stop_seq": 600,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68327068056084,
+                    45.49705833364313
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Hollywood Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 66,
+                "rte_desc": "66-Marquam Hill/Hollywood",
+                "stop_id": 5975,
+                "stop_name": "US Veterans Hospital",
+                "stop_seq": 25,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68716115199707,
+                    45.49904224530831
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Hollywood Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 66,
+                "rte_desc": "66-Marquam Hill/Hollywood",
+                "stop_id": 5032,
+                "stop_name": "SW Sam Jackson Pk & US Veterans",
+                "stop_seq": 55,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65446926200882,
+                    45.50109041850719
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Hollywood Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 66,
+                "rte_desc": "66-Marquam Hill/Hollywood",
+                "stop_id": 4537,
+                "stop_name": "SE Powell & Milwaukie",
+                "stop_seq": 300,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.622672160833,
+                    45.51176273972452
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Hollywood Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 66,
+                "rte_desc": "66-Marquam Hill/Hollywood",
+                "stop_id": 7459,
+                "stop_name": "SE Cesar Chavez Blvd & Hawthorne",
+                "stop_seq": 500,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62245052117095,
+                    45.526469814961736
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Hollywood Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 66,
+                "rte_desc": "66-Marquam Hill/Hollywood",
+                "stop_id": 7451,
+                "stop_name": "NE Cesar Chavez Blvd & Glisan",
+                "stop_seq": 650,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6442249575556,
+                    45.499143500971655
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Hollywood Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 66,
+                "rte_desc": "66-Marquam Hill/Hollywood",
+                "stop_id": 4622,
+                "stop_name": "SE Powell & 21st",
+                "stop_seq": 340,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62057449929631,
+                    45.53333649069372
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Hollywood Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 66,
+                "rte_desc": "66-Marquam Hill/Hollywood",
+                "stop_id": 10871,
+                "stop_name": "Hollywood Transit Center",
+                "stop_seq": 700,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68514079906794,
+                    45.49887720517788
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Hollywood Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 66,
+                "rte_desc": "66-Marquam Hill/Hollywood",
+                "stop_id": 871,
+                "stop_name": "SW Campus Dr & Loading Dock 5",
+                "stop_seq": 100,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68590102057397,
+                    45.497876895369586
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Hollywood Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 66,
+                "rte_desc": "66-Marquam Hill/Hollywood",
+                "stop_id": 10176,
+                "stop_name": "700 SW Campus Dr at Doernbecher",
+                "stop_seq": 125,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68430258691197,
+                    45.498186562258525
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Hollywood Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 66,
+                "rte_desc": "66-Marquam Hill/Hollywood",
+                "stop_id": 868,
+                "stop_name": "SW Campus Dr & OHSU Garage F",
+                "stop_seq": 150,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62248689769889,
+                    45.49787107231756
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Hollywood Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 66,
+                "rte_desc": "66-Marquam Hill/Hollywood",
+                "stop_id": 7477,
+                "stop_name": "SE Cesar Chavez Blvd & Powell",
+                "stop_seq": 400,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68652053151128,
+                    45.49702571280562
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Hollywood Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 66,
+                "rte_desc": "66-Marquam Hill/Hollywood",
+                "stop_id": 10612,
+                "stop_name": "3515 SW US Veterans Rd",
+                "stop_seq": 35,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68221997802769,
+                    45.49642214627816
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Hollywood Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 66,
+                "rte_desc": "66-Marquam Hill/Hollywood",
+                "stop_id": 8455,
+                "stop_name": "SW US Veterans Rd & Bldg #16",
+                "stop_seq": 15,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68426545105717,
+                    45.500298423399734
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Hollywood Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 66,
+                "rte_desc": "66-Marquam Hill/Hollywood",
+                "stop_id": 5027,
+                "stop_name": "SW Sam Jackson Pk & Campus Dr",
+                "stop_seq": 75,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6855354526294,
+                    45.49933602534843
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Hollywood Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 66,
+                "rte_desc": "66-Marquam Hill/Hollywood",
+                "stop_id": 5028,
+                "stop_name": "SW Sam Jackson Pk & OHSU",
+                "stop_seq": 65,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68257202304343,
+                    45.49910833412138
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Hollywood Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 66,
+                "rte_desc": "66-Marquam Hill/Hollywood",
+                "stop_id": 870,
+                "stop_name": "SW Campus Dr & Terwilliger",
+                "stop_seq": 200,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6789967168075,
+                    45.503630230503376
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Hollywood Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 66,
+                "rte_desc": "66-Marquam Hill/Hollywood",
+                "stop_id": 142,
+                "stop_name": "SW Arthur & 1st",
+                "stop_seq": 250,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

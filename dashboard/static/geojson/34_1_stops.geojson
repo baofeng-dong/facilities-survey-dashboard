@@ -1,0 +1,1805 @@
+{
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64181683745059,
+                    45.44650875654236
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 3672,
+                "stop_name": "SE Main & Scott",
+                "stop_seq": 2800,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64181639934264,
+                    45.44853924734524
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 12462,
+                "stop_name": "10200 Block SE Main",
+                "stop_seq": 2850,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64056982870373,
+                    45.45237489162484
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 3657,
+                "stop_name": "SE Main & Milport",
+                "stop_seq": 2900,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63997021156369,
+                    45.4555906755826
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 3658,
+                "stop_name": "SE Main & Mailwell",
+                "stop_seq": 2950,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6387464105493,
+                    45.457034206847894
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 3652,
+                "stop_name": "SE Main & Beta",
+                "stop_seq": 3000,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63933775648559,
+                    45.45880886962277
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 3797,
+                "stop_name": "SE Ochoco & McLoughlin",
+                "stop_seq": 3050,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63713510516975,
+                    45.46222030185779
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 13771,
+                "stop_name": "SE Tacoma Park & Ride",
+                "stop_seq": 3100,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62637925571971,
+                    45.46218474968144
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 3083,
+                "stop_name": "SE Johnson Creek & 36th",
+                "stop_seq": 3200,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6197074456628,
+                    45.46011525619904
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 3086,
+                "stop_name": "SE Johnson Creek & 42nd",
+                "stop_seq": 3300,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61694717673184,
+                    45.46050353215399
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 3077,
+                "stop_name": "SE Johnson Creek & Brookside",
+                "stop_seq": 3350,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6167270088931,
+                    45.46157637766223
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 3079,
+                "stop_name": "SE Johnson Creek & Springwater Corridor",
+                "stop_seq": 3400,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60417827695406,
+                    45.45765140235883
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 13790,
+                "stop_name": "Johnson Creek & Stanley",
+                "stop_seq": 3500,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60088939983231,
+                    45.45661076151285
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 13788,
+                "stop_name": "SE Johnson Creek & Wichita",
+                "stop_seq": 3550,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59904629832633,
+                    45.45312407829592
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 13786,
+                "stop_name": "9700 Block SE Linwood",
+                "stop_seq": 3600,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59908017760813,
+                    45.44810298236966
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 13784,
+                "stop_name": "SE Linwood & King",
+                "stop_seq": 3650,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60428537348632,
+                    45.36014618240127
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Oregon City",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 10447,
+                "stop_name": "Oregon City Transit Center",
+                "stop_seq": 550,
+                "type": "BUS",
+                "zipcode": "97045"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60089455755612,
+                    45.368796888100604
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Oregon City",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 3842,
+                "stop_name": "McLoughlin & Oregon City Shopping Center",
+                "stop_seq": 600,
+                "type": "BUS",
+                "zipcode": "97045"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5988227225736,
+                    45.37643552741815
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Gladstone",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 121,
+                "stop_name": "W Arlington & Barton",
+                "stop_seq": 650,
+                "type": "BUS",
+                "zipcode": "97027"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5969646611402,
+                    45.37706081919687
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Gladstone",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 123,
+                "stop_name": "W Arlington & Beatrice",
+                "stop_seq": 700,
+                "type": "BUS",
+                "zipcode": "97027"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.595057117196,
+                    45.37769965961322
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Gladstone",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 125,
+                "stop_name": "W Arlington & Bellevue",
+                "stop_seq": 750,
+                "type": "BUS",
+                "zipcode": "97027"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59341834857524,
+                    45.378220625012496
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Gladstone",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 136,
+                "stop_name": "W Arlington & Portland Ave",
+                "stop_seq": 800,
+                "type": "BUS",
+                "zipcode": "97027"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59439892227424,
+                    45.380174163926476
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Gladstone",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 4463,
+                "stop_name": "Portland Ave & E Dartmouth",
+                "stop_seq": 850,
+                "type": "BUS",
+                "zipcode": "97027"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59530166415094,
+                    45.38150335316083
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Gladstone",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 4468,
+                "stop_name": "Portland Ave & E Fairfield",
+                "stop_seq": 900,
+                "type": "BUS",
+                "zipcode": "97027"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59613430790324,
+                    45.382801546485865
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Gladstone",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 4472,
+                "stop_name": "Portland Ave & E Hereford",
+                "stop_seq": 950,
+                "type": "BUS",
+                "zipcode": "97027"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59818121118013,
+                    45.38422182334241
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Gladstone",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 16,
+                "stop_name": "Abernethy & Portland Ave",
+                "stop_seq": 1000,
+                "type": "BUS",
+                "zipcode": "97027"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60113688256091,
+                    45.38414004054836
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Gladstone",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 12,
+                "stop_name": "Abernethy & Center",
+                "stop_seq": 1050,
+                "type": "BUS",
+                "zipcode": "97027"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60287261854505,
+                    45.384645133322714
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Gladstone",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 9,
+                "stop_name": "Abernethy & Barclay",
+                "stop_seq": 1100,
+                "type": "BUS",
+                "zipcode": "97027"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60472369821152,
+                    45.38589320884958
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Gladstone",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 13,
+                "stop_name": "Abernethy & Duniway",
+                "stop_seq": 1150,
+                "type": "BUS",
+                "zipcode": "97027"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60773732494512,
+                    45.38545919791627
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Gladstone",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 1994,
+                "stop_name": "Glen Echo & Mildred",
+                "stop_seq": 1200,
+                "type": "BUS",
+                "zipcode": "97027"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60936616303154,
+                    45.38503419205225
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 4835,
+                "stop_name": "SE River Rd & Britton",
+                "stop_seq": 1250,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61082027319422,
+                    45.38602275399982
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 4860,
+                "stop_name": "SE River Rd & Meldrum",
+                "stop_seq": 1300,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61228194631816,
+                    45.387021019561274
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 4870,
+                "stop_name": "SE River Rd & River Dr",
+                "stop_seq": 1350,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61386262339556,
+                    45.38808932532486
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 4849,
+                "stop_name": "SE River Rd & Hull Ave",
+                "stop_seq": 1400,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61668221619831,
+                    45.39000060813423
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 4851,
+                "stop_name": "SE River Rd & Jennings",
+                "stop_seq": 1450,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62128365315182,
+                    45.393093331290196
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 4833,
+                "stop_name": "SE River Rd & Boardman",
+                "stop_seq": 1500,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62261862595466,
+                    45.393994180878
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 4881,
+                "stop_name": "SE River Rd & Rogers",
+                "stop_seq": 1550,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6250138341182,
+                    45.39561152567567
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 4879,
+                "stop_name": "SE River Rd & Roethe",
+                "stop_seq": 1600,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62899135315187,
+                    45.39789227507088
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 4864,
+                "stop_name": "SE River Rd & Naef",
+                "stop_seq": 1650,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63112344595213,
+                    45.39940857513226
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 4844,
+                "stop_name": "SE River Rd & Laurelwood",
+                "stop_seq": 1700,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63222626959012,
+                    45.400425701142474
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 4878,
+                "stop_name": "SE River Rd & Cooke",
+                "stop_seq": 1750,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63447583881901,
+                    45.401860318445664
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 4862,
+                "stop_name": "SE River Rd & Mulberry",
+                "stop_seq": 1800,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63719936776005,
+                    45.40356764214312
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 4853,
+                "stop_name": "SE River Rd & Juniper Dr",
+                "stop_seq": 1850,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6389388456464,
+                    45.40495931202636
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 4837,
+                "stop_name": "SE River Rd & Concord",
+                "stop_seq": 1900,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6417787136294,
+                    45.40644194783331
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 4888,
+                "stop_name": "SE River Rd & Swain",
+                "stop_seq": 1950,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64427856560147,
+                    45.407546775384546
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 4875,
+                "stop_name": "SE River Rd & River Glen Ct",
+                "stop_seq": 2000,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64536380724306,
+                    45.40995032647074
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 4867,
+                "stop_name": "SE River Rd & Parkview Circle",
+                "stop_seq": 2050,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64539098224942,
+                    45.411933391065
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 4831,
+                "stop_name": "SE River Rd & Anspach",
+                "stop_seq": 2100,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64538878542116,
+                    45.414021527364625
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 4883,
+                "stop_name": "SE River Rd & Rosebrier",
+                "stop_seq": 2150,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64539094059226,
+                    45.41658733503679
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 4865,
+                "stop_name": "SE River Rd & Oak Grove",
+                "stop_seq": 2200,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64538437952754,
+                    45.41818329592798
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 4857,
+                "stop_name": "SE River Rd & Maple",
+                "stop_seq": 2250,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64538281916933,
+                    45.420989185002895
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 4822,
+                "stop_name": "14000 Block SE River Rd",
+                "stop_seq": 2300,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6454006996385,
+                    45.422416150205606
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 4840,
+                "stop_name": "SE River Rd & Courtney",
+                "stop_seq": 2350,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.645368195752,
+                    45.424753527766285
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 4891,
+                "stop_name": "SE River Rd & Torbank",
+                "stop_seq": 2400,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64420328811599,
+                    45.42878768898142
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 4846,
+                "stop_name": "SE River Rd & Evergreen",
+                "stop_seq": 2450,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64138722367329,
+                    45.43239495964181
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 4819,
+                "stop_name": "12500 Block SE River Rd",
+                "stop_seq": 2550,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63990044910962,
+                    45.43567228358998
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 4892,
+                "stop_name": "SE River Rd & Wren",
+                "stop_seq": 2600,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6412693576665,
+                    45.44489587210286
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 8223,
+                "stop_name": "SE Jackson & Main St",
+                "stop_seq": 2750,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59910744930349,
+                    45.44466723182846
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 3435,
+                "stop_name": "SE Linwood & Monroe",
+                "stop_seq": 3700,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5992872664359,
+                    45.44225445461613
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 3424,
+                "stop_name": "SE Linwood & Montgomery",
+                "stop_seq": 3750,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59944225602092,
+                    45.438932249994686
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 3427,
+                "stop_name": "11600 Block SE Linwood",
+                "stop_seq": 3800,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59940741598729,
+                    45.437706202102156
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 3431,
+                "stop_name": "SE Linwood & Furnberg",
+                "stop_seq": 3850,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59943259580173,
+                    45.43591904463809
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 3433,
+                "stop_name": "11900 Block SE Linwood (Linwood Sch)",
+                "stop_seq": 3900,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59911463811403,
+                    45.434042433575236
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 3429,
+                "stop_name": "12300 Block SE Linwood",
+                "stop_seq": 3950,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59791317904907,
+                    45.431839009266504
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 2498,
+                "stop_name": "SE Harmony & Linwood",
+                "stop_seq": 4000,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5938248830026,
+                    45.431984794980046
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 2500,
+                "stop_name": "SE Harmony & 67th",
+                "stop_seq": 4050,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59072226515548,
+                    45.432098080119594
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 2502,
+                "stop_name": "SE Harmony & 71st",
+                "stop_seq": 4100,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5869761731709,
+                    45.43323684830435
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 1934,
+                "stop_name": "SE Fuller & Sunnyside Dr",
+                "stop_seq": 4150,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58650480194306,
+                    45.43461644551579
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 1939,
+                "stop_name": "SE Fuller & Southgate",
+                "stop_seq": 4200,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5849502412662,
+                    45.436385975379245
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 1935,
+                "stop_name": "11900 Block SE Fuller (La Salle)",
+                "stop_seq": 4250,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58384177983038,
+                    45.43784869149807
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 1941,
+                "stop_name": "SE Fuller & Stephanie Ct",
+                "stop_seq": 4300,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58282342561024,
+                    45.43973282696927
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 1937,
+                "stop_name": "SE Fuller & Michael Dr",
+                "stop_seq": 4350,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5792482401296,
+                    45.441200498601916
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 988,
+                "stop_name": "SE Causey & 82nd",
+                "stop_seq": 4400,
+                "type": "BUS",
+                "zipcode": "97086"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57331242700954,
+                    45.437310329219926
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 12921,
+                "stop_name": "Clackamas Town Center Mall",
+                "stop_seq": 4450,
+                "type": "BUS",
+                "zipcode": "97086"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56813401888509,
+                    45.43555507416447
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 13247,
+                "stop_name": "Clackamas Town Center TC",
+                "stop_seq": 4500,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56870745294738,
+                    45.43566941948304
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 13248,
+                "stop_name": "Clackamas Town Center Transit Center",
+                "stop_seq": 4600,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63996647989205,
+                    45.442538506790314
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 13777,
+                "stop_name": "SE Washington & 21st",
+                "stop_seq": 2700,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61236477089133,
+                    45.460313796511876
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 13806,
+                "stop_name": "4900 Block SE Johnson Creek",
+                "stop_seq": 3450,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62940756863063,
+                    45.46256091779044
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 13807,
+                "stop_name": "SE Johnson Creek & 32nd",
+                "stop_seq": 3150,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

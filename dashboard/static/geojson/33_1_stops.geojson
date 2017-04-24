@@ -1,0 +1,1805 @@
+{
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57528594222738,
+                    45.322757550136046
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Oregon City",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 1068,
+                "stop_name": "Clackamas Community College",
+                "stop_seq": 50,
+                "type": "BUS",
+                "zipcode": "97045"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58053335094588,
+                    45.32439342051505
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Oregon City",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 2828,
+                "stop_name": "Molalla & Lazy Creek Ln",
+                "stop_seq": 100,
+                "type": "BUS",
+                "zipcode": "97045"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58171945032362,
+                    45.32579055212395
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Oregon City",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 9041,
+                "stop_name": "Molalla & Char Diaz Dr",
+                "stop_seq": 150,
+                "type": "BUS",
+                "zipcode": "97045"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58305168243267,
+                    45.32741376619301
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Oregon City",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 9042,
+                "stop_name": "Molalla & Oregon City Post Office",
+                "stop_seq": 200,
+                "type": "BUS",
+                "zipcode": "97045"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58504719280803,
+                    45.329858418459786
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Oregon City",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 2841,
+                "stop_name": "Molalla & Gaffney Ln",
+                "stop_seq": 250,
+                "type": "BUS",
+                "zipcode": "97045"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58647343087561,
+                    45.33158932790384
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Oregon City",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 2837,
+                "stop_name": "Molalla & Clairmont",
+                "stop_seq": 300,
+                "type": "BUS",
+                "zipcode": "97045"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59403500791215,
+                    45.33370453965969
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Oregon City",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 6115,
+                "stop_name": "300 Block Beavercreek Rd",
+                "stop_seq": 400,
+                "type": "BUS",
+                "zipcode": "97045"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59830044159536,
+                    45.33505881489637
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Oregon City",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 9517,
+                "stop_name": "Beavercreek & Library Ct",
+                "stop_seq": 450,
+                "type": "BUS",
+                "zipcode": "97045"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6008386039557,
+                    45.33648594400652
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Oregon City",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 6114,
+                "stop_name": "200 Block Warner - Milne",
+                "stop_seq": 500,
+                "type": "BUS",
+                "zipcode": "97045"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.604554767493,
+                    45.33652942400827
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Oregon City",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 6121,
+                "stop_name": "Warner - Milne & Linn",
+                "stop_seq": 550,
+                "type": "BUS",
+                "zipcode": "97045"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60489333944128,
+                    45.33746741159309
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Oregon City",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 3418,
+                "stop_name": "Linn & Williams",
+                "stop_seq": 600,
+                "type": "BUS",
+                "zipcode": "97045"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60492023830743,
+                    45.34006645580478
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Oregon City",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 3410,
+                "stop_name": "Linn & Ethel",
+                "stop_seq": 650,
+                "type": "BUS",
+                "zipcode": "97045"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60494908526627,
+                    45.34188167781569
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Oregon City",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 3412,
+                "stop_name": "Linn & Holmes",
+                "stop_seq": 700,
+                "type": "BUS",
+                "zipcode": "97045"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60494493467397,
+                    45.344229967164296
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Oregon City",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 3413,
+                "stop_name": "Linn & Narain",
+                "stop_seq": 750,
+                "type": "BUS",
+                "zipcode": "97045"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60286484078703,
+                    45.34743963632824
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Oregon City",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 3409,
+                "stop_name": "Linn & Charman",
+                "stop_seq": 800,
+                "type": "BUS",
+                "zipcode": "97045"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60145072602499,
+                    45.34916785540805
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Oregon City",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 3416,
+                "stop_name": "Linn & Pearl",
+                "stop_seq": 850,
+                "type": "BUS",
+                "zipcode": "97045"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60073444761765,
+                    45.35105105552843
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Oregon City",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 3423,
+                "stop_name": "Linn & 4th",
+                "stop_seq": 900,
+                "type": "BUS",
+                "zipcode": "97045"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60296747621894,
+                    45.35311548884368
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Oregon City",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 7621,
+                "stop_name": "5th & Monroe",
+                "stop_seq": 950,
+                "type": "BUS",
+                "zipcode": "97045"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60474646387277,
+                    45.35400331261051
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Oregon City",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 7610,
+                "stop_name": "5th & Jefferson",
+                "stop_seq": 1000,
+                "type": "BUS",
+                "zipcode": "97045"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6063925752597,
+                    45.35487297054567
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Oregon City",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 8732,
+                "stop_name": "5th & Washington (Oregon City)",
+                "stop_seq": 1050,
+                "type": "BUS",
+                "zipcode": "97045"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60808175042763,
+                    45.35571426729265
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Oregon City",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 7604,
+                "stop_name": "5th & High",
+                "stop_seq": 1100,
+                "type": "BUS",
+                "zipcode": "97045"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60979021627742,
+                    45.354311569419735
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Oregon City",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 2665,
+                "stop_name": "High & 3rd",
+                "stop_seq": 1150,
+                "type": "BUS",
+                "zipcode": "97045"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6115183430847,
+                    45.35260811063887
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Oregon City",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 2663,
+                "stop_name": "S High & 1st",
+                "stop_seq": 1200,
+                "type": "BUS",
+                "zipcode": "97045"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61351991344067,
+                    45.35148698167869
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Oregon City",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 7101,
+                "stop_name": "S 2nd & Tumwater",
+                "stop_seq": 1250,
+                "type": "BUS",
+                "zipcode": "97045"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60801138039898,
+                    45.35718805494297
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Oregon City",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 4784,
+                "stop_name": "Railroad & 7th",
+                "stop_seq": 1300,
+                "type": "BUS",
+                "zipcode": "97045"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60618068848764,
+                    45.35881898888653
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Oregon City",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 8096,
+                "stop_name": "9th & Main",
+                "stop_seq": 1350,
+                "type": "BUS",
+                "zipcode": "97045"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60452945646318,
+                    45.360269460528635
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Oregon City",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 8758,
+                "stop_name": "Oregon City Transit Center",
+                "stop_seq": 1400,
+                "type": "BUS",
+                "zipcode": "97045"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60089455755612,
+                    45.368796888100604
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Oregon City",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 3842,
+                "stop_name": "McLoughlin & Oregon City Shopping Center",
+                "stop_seq": 1450,
+                "type": "BUS",
+                "zipcode": "97045"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.608407154938,
+                    45.38562736367274
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Clackamas Co.",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 10326,
+                "stop_name": "SE McLoughlin & Glen Echo",
+                "stop_seq": 2300,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6097638674542,
+                    45.387396631138714
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Clackamas Co.",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 8819,
+                "stop_name": "SE McLoughlin & Meldrum",
+                "stop_seq": 2350,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6113627945463,
+                    45.389508913281084
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Clackamas Co.",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 3790,
+                "stop_name": "SE McLoughlin & Hull Ave",
+                "stop_seq": 2400,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61305889702777,
+                    45.391679773200934
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Clackamas Co.",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 3791,
+                "stop_name": "SE McLoughlin & Jennings",
+                "stop_seq": 2450,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6158462459809,
+                    45.395355127713735
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Clackamas Co.",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 3781,
+                "stop_name": "SE McLoughlin & Boardman",
+                "stop_seq": 2500,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61872470978115,
+                    45.39907417424921
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Clackamas Co.",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 3800,
+                "stop_name": "SE McLoughlin & Roethe",
+                "stop_seq": 2550,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62100344629332,
+                    45.4020553598218
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Clackamas Co.",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 3794,
+                "stop_name": "SE McLoughlin & Naef",
+                "stop_seq": 2600,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62331226823889,
+                    45.40508709856606
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Clackamas Co.",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 3807,
+                "stop_name": "SE McLoughlin & Vineyard",
+                "stop_seq": 2650,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62459466635386,
+                    45.406750925068394
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Clackamas Co.",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 3789,
+                "stop_name": "SE McLoughlin & Holly Farm Mall",
+                "stop_seq": 2700,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62657202990913,
+                    45.40932960952655
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Clackamas Co.",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 3783,
+                "stop_name": "SE McLoughlin & Concord",
+                "stop_seq": 2750,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62864813878289,
+                    45.412032610517045
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Clackamas Co.",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 3799,
+                "stop_name": "SE McLoughlin & Risley",
+                "stop_seq": 2800,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62953051300276,
+                    45.41314094791427
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Clackamas Co.",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 3802,
+                "stop_name": "SE McLoughlin & Silverleaf",
+                "stop_seq": 2850,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63178892072045,
+                    45.41617329814244
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Clackamas Co.",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 3795,
+                "stop_name": "SE McLoughlin & Oak Grove",
+                "stop_seq": 2900,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63259064268182,
+                    45.41824076685461
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Clackamas Co.",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 3792,
+                "stop_name": "SE McLoughlin & Maple",
+                "stop_seq": 2950,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6328361853597,
+                    45.419855226047844
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Clackamas Co.",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 3782,
+                "stop_name": "SE McLoughlin & Chestnut",
+                "stop_seq": 3000,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63328394843907,
+                    45.422832441967884
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Clackamas Co.",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 3784,
+                "stop_name": "SE McLoughlin & Courtney",
+                "stop_seq": 3050,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63363117195733,
+                    45.42500131963983
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Clackamas Co.",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 3780,
+                "stop_name": "13700 Block SE McLoughlin",
+                "stop_seq": 3100,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6340710100857,
+                    45.42762904641652
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Clackamas Co.",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 3801,
+                "stop_name": "SE McLoughlin & Silver Springs",
+                "stop_seq": 3150,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63450547578783,
+                    45.43051510123764
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Clackamas Co.",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 3798,
+                "stop_name": "SE McLoughlin & Park Ave",
+                "stop_seq": 3200,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63493145359627,
+                    45.43255036922328
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Clackamas Co.",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 8726,
+                "stop_name": "12700 Block SE McLoughlin",
+                "stop_seq": 3250,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63723039187826,
+                    45.435367692136865
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Milwaukie",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 3810,
+                "stop_name": "12200 Block SE McLoughlin",
+                "stop_seq": 3300,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6017547910748,
+                    45.37622643979423
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Gladstone",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 10328,
+                "stop_name": "McLoughlin & W Arlington",
+                "stop_seq": 1650,
+                "type": "BUS",
+                "zipcode": "97027"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60387515352602,
+                    45.37977721840636
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Gladstone",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 10327,
+                "stop_name": "SE McLoughlin & W Gloucester",
+                "stop_seq": 1850,
+                "type": "BUS",
+                "zipcode": "97027"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60544672406466,
+                    45.381766810408614
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Gladstone",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 10421,
+                "stop_name": "19300 Block McLoughlin",
+                "stop_seq": 2050,
+                "type": "BUS",
+                "zipcode": "97027"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6412693576665,
+                    45.44489587210286
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 8223,
+                "stop_name": "SE Jackson & Main St",
+                "stop_seq": 3400,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59127802160361,
+                    45.33375858382976
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Oregon City",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 13592,
+                "stop_name": "Beavercreek & Danielson Dr",
+                "stop_seq": 350,
+                "type": "BUS",
+                "zipcode": "97045"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63788719751174,
+                    45.44636650657025
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 2569,
+                "stop_name": "SE Harrison & 24th",
+                "stop_seq": 3500,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63500030170454,
+                    45.44641497978056
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 2572,
+                "stop_name": "SE Harrison & 28th",
+                "stop_seq": 3550,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63265633024925,
+                    45.44645886183523
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 2568,
+                "stop_name": "SE Harrison & Hwy 224",
+                "stop_seq": 3600,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62892275012526,
+                    45.44649455650307
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 2575,
+                "stop_name": "SE Harrison & 32nd",
+                "stop_seq": 3650,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.624793625121,
+                    45.44662237908049
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 2578,
+                "stop_name": "SE Harrison & 37th",
+                "stop_seq": 3700,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62221838415232,
+                    45.44656707472421
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 2582,
+                "stop_name": "SE Harrison & 40th",
+                "stop_seq": 3750,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61942669336408,
+                    45.44757028257891
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 7523,
+                "stop_name": "SE 42nd & Llewellyn",
+                "stop_seq": 3800,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6145271656972,
+                    45.447935085457175
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 3242,
+                "stop_name": "SE King & 47th",
+                "stop_seq": 3850,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61132964487412,
+                    45.44793204131205
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 3233,
+                "stop_name": "SE King & Home",
+                "stop_seq": 3900,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60936713612625,
+                    45.44791622558468
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 3245,
+                "stop_name": "SE King & 52nd",
+                "stop_seq": 3950,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60427589017411,
+                    45.44790112862116
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 3238,
+                "stop_name": "SE King & Stanley",
+                "stop_seq": 4000,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60262200038883,
+                    45.44788427029062
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 3231,
+                "stop_name": "SE King & Hollywood",
+                "stop_seq": 4050,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59855934169083,
+                    45.447877288165024
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 3234,
+                "stop_name": "SE King & Linwood",
+                "stop_seq": 4100,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59534680218327,
+                    45.44786145544635
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 3250,
+                "stop_name": "SE King & 66th",
+                "stop_seq": 4150,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5929565871997,
+                    45.44782495781374
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 3230,
+                "stop_name": "SE King & Bell",
+                "stop_seq": 4200,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59027333681327,
+                    45.44698819311386
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 3224,
+                "stop_name": "7100 Block SE King",
+                "stop_seq": 4250,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58733548224427,
+                    45.44698728219207
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 3251,
+                "stop_name": "SE King & 74th",
+                "stop_seq": 4300,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58221661523145,
+                    45.446962996863526
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 3226,
+                "stop_name": "7900 Block SE King",
+                "stop_seq": 4350,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57907078590057,
+                    45.4465881795596
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 7990,
+                "stop_name": "SE 82nd & King",
+                "stop_seq": 4400,
+                "type": "BUS",
+                "zipcode": "97086"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.579068460076,
+                    45.44421980508582
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 7921,
+                "stop_name": "SE 82nd & Boyer Drive",
+                "stop_seq": 4450,
+                "type": "BUS",
+                "zipcode": "97086"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57910865806384,
+                    45.441552353548595
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 7942,
+                "stop_name": "SE 82nd & Causey",
+                "stop_seq": 4500,
+                "type": "BUS",
+                "zipcode": "97086"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57331242700954,
+                    45.437310329219926
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 12921,
+                "stop_name": "Clackamas Town Center Mall",
+                "stop_seq": 4550,
+                "type": "BUS",
+                "zipcode": "97086"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56813401888509,
+                    45.43555507416447
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 13247,
+                "stop_name": "Clackamas Town Center TC",
+                "stop_seq": 4600,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63996647989205,
+                    45.442538506790314
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie or Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Milwaukie",
+                "rte": 33,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "stop_id": 13777,
+                "stop_name": "SE Washington & 21st",
+                "stop_seq": 3350,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

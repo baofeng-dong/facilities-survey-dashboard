@@ -1,0 +1,1161 @@
+{
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76076428128165,
+                    45.48926829398452
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 3367,
+                "stop_name": "SW Laurelwood & Laurel",
+                "stop_seq": 45,
+                "type": "BUS",
+                "zipcode": "97225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76070800721978,
+                    45.49095076018999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 593,
+                "stop_name": "SW Laurelwood & Brentwood",
+                "stop_seq": 50,
+                "type": "BUS",
+                "zipcode": "97225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7568239685993,
+                    45.48841338714262
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 7901,
+                "stop_name": "SW 78th & Westmoor",
+                "stop_seq": 150,
+                "type": "BUS",
+                "zipcode": "97225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75707186134801,
+                    45.486296777786556
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 7900,
+                "stop_name": "SW 78th & Beaverton-Hillsdale Hwy",
+                "stop_seq": 200,
+                "type": "BUS",
+                "zipcode": "97225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75202286516667,
+                    45.485992759762574
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 331,
+                "stop_name": "7300 Block SW Beaverton-Hillsdale",
+                "stop_seq": 300,
+                "type": "BUS",
+                "zipcode": "97225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74531808759225,
+                    45.489753601618204
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 5196,
+                "stop_name": "SW Scholls Ferry & Seymour",
+                "stop_seq": 400,
+                "type": "BUS",
+                "zipcode": "97225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7437791663054,
+                    45.49078456661944
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 2465,
+                "stop_name": "SW Hamilton & Scholls Ferry",
+                "stop_seq": 450,
+                "type": "BUS",
+                "zipcode": "97221"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73565954630645,
+                    45.49071941056954
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 2462,
+                "stop_name": "5700 Block SW Hamilton",
+                "stop_seq": 625,
+                "type": "BUS",
+                "zipcode": "97221"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73478698712844,
+                    45.490723108057416
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 9405,
+                "stop_name": "SW Hamilton & 55th Pl",
+                "stop_seq": 635,
+                "type": "BUS",
+                "zipcode": "97221"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73290056787324,
+                    45.490711947545876
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 8229,
+                "stop_name": "SW Hamilton & 54th Pl",
+                "stop_seq": 675,
+                "type": "BUS",
+                "zipcode": "97221"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7313866508905,
+                    45.49072107914603
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 2486,
+                "stop_name": "SW Hamilton & 53rd",
+                "stop_seq": 750,
+                "type": "BUS",
+                "zipcode": "97221"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72928444269361,
+                    45.49072106311763
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 2472,
+                "stop_name": "SW Hamilton & Shattuck",
+                "stop_seq": 800,
+                "type": "BUS",
+                "zipcode": "97221"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72476163434582,
+                    45.490671470194954
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 2484,
+                "stop_name": "SW Hamilton & 47th",
+                "stop_seq": 850,
+                "type": "BUS",
+                "zipcode": "97221"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72325279691344,
+                    45.49066261503081
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 2482,
+                "stop_name": "SW Hamilton & 45th",
+                "stop_seq": 900,
+                "type": "BUS",
+                "zipcode": "97221"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71665452076824,
+                    45.49059793771146
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 2477,
+                "stop_name": "SW Hamilton & 39th Dr",
+                "stop_seq": 1000,
+                "type": "BUS",
+                "zipcode": "97221"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7142953180096,
+                    45.49058884704672
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 2476,
+                "stop_name": "SW Hamilton & 36th Pl",
+                "stop_seq": 1050,
+                "type": "BUS",
+                "zipcode": "97221"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71329418131943,
+                    45.4905831239568
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 2468,
+                "stop_name": "SW Hamilton & Hamilton Ct",
+                "stop_seq": 1100,
+                "type": "BUS",
+                "zipcode": "97221"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71210041570346,
+                    45.49057294069992
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 2474,
+                "stop_name": "SW Hamilton & 34th",
+                "stop_seq": 1150,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71055631749468,
+                    45.49054914216384
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 2466,
+                "stop_name": "SW Hamilton & Dosch",
+                "stop_seq": 1200,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70980059312332,
+                    45.48866873173699
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 5557,
+                "stop_name": "SW Sunset Blvd & Dosch",
+                "stop_seq": 1300,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70840491845388,
+                    45.488662048284944
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 5576,
+                "stop_name": "SW Sunset Blvd & 31st Dr",
+                "stop_seq": 1350,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7063708463604,
+                    45.48863264107275
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 5558,
+                "stop_name": "SW Sunset Blvd & Dosch Park Ln",
+                "stop_seq": 1400,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.705064141592,
+                    45.48870279328106
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 5573,
+                "stop_name": "SW Sunset Blvd & 27th",
+                "stop_seq": 1450,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7025712147256,
+                    45.48816483844697
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 5569,
+                "stop_name": "SW Sunset Blvd & 25th",
+                "stop_seq": 1550,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70115959572666,
+                    45.48692141305507
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 5565,
+                "stop_name": "SW Sunset Blvd & Richardson",
+                "stop_seq": 1600,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69936684135367,
+                    45.48575323530118
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 5563,
+                "stop_name": "SW Sunset Blvd & Mitchell",
+                "stop_seq": 1650,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69808412124117,
+                    45.484801796139905
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 5554,
+                "stop_name": "SW Sunset Blvd & Boundary",
+                "stop_seq": 1700,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69630597072765,
+                    45.48165250188622
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 5566,
+                "stop_name": "SW Sunset Blvd & 18th Dr",
+                "stop_seq": 1800,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69285640366004,
+                    45.47879137447437
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 929,
+                "stop_name": "SW Capitol & Sunset",
+                "stop_seq": 1900,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68728093043629,
+                    45.48004111614926
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 956,
+                "stop_name": "SW Capitol & Terwilliger",
+                "stop_seq": 2000,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73969201831768,
+                    45.490752625115924
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 2492,
+                "stop_name": "SW Hamilton & 60th Pl",
+                "stop_seq": 550,
+                "type": "BUS",
+                "zipcode": "97221"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71961334260008,
+                    45.49063165012315
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 2480,
+                "stop_name": "SW Hamilton & 42nd Pl",
+                "stop_seq": 950,
+                "type": "BUS",
+                "zipcode": "97221"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70355782199158,
+                    45.48862972405284
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 5570,
+                "stop_name": "SW Sunset Blvd & 26th",
+                "stop_seq": 1500,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76113356976967,
+                    45.48520217939772
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 9760,
+                "stop_name": "SW Apple Way & Laurelwood",
+                "stop_seq": 40,
+                "type": "BUS",
+                "zipcode": "97225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75773094346391,
+                    45.49097696207542
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 595,
+                "stop_name": "SW Brentwood & 78th",
+                "stop_seq": 100,
+                "type": "BUS",
+                "zipcode": "97225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75491103614537,
+                    45.48602790680519
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 333,
+                "stop_name": "7700 Block SW Beaverton-Hillsdale",
+                "stop_seq": 250,
+                "type": "BUS",
+                "zipcode": "97225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74662925859624,
+                    45.487699983636944
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 5194,
+                "stop_name": "4400 Block SW Scholls Ferry",
+                "stop_seq": 350,
+                "type": "BUS",
+                "zipcode": "97225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74174594481053,
+                    45.49076407660416
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 2464,
+                "stop_name": "6200 Block SW Hamilton",
+                "stop_seq": 500,
+                "type": "BUS",
+                "zipcode": "97221"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68251463988024,
+                    45.48767712840085
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 156,
+                "stop_name": "4900 Block SW Barbur",
+                "stop_seq": 2050,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67762997014248,
+                    45.502166097086885
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 1930,
+                "stop_name": "SW Naito Parkway & Hooker",
+                "stop_seq": 2200,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67687521213138,
+                    45.50927864085123
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 1926,
+                "stop_name": "SW Naito Parkway & Harrison",
+                "stop_seq": 2250,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67559976074202,
+                    45.513746096543365
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 12789,
+                "stop_name": "SW Jefferson & 1st",
+                "stop_seq": 2300,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6795348685042,
+                    45.514809931890845
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 12791,
+                "stop_name": "SW Jefferson & 5th",
+                "stop_seq": 2350,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68159251203018,
+                    45.51536586842799
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 3039,
+                "stop_name": "SW Jefferson & Broadway",
+                "stop_seq": 2400,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68376350724297,
+                    45.51594444595192
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 3049,
+                "stop_name": "SW Jefferson & 10th",
+                "stop_seq": 2450,
+                "type": "BUS",
+                "zipcode": "97205"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68715357056004,
+                    45.51685238997436
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 3051,
+                "stop_name": "SW Jefferson & 13th",
+                "stop_seq": 2500,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69011097103783,
+                    45.517636362303435
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 3052,
+                "stop_name": "SW Jefferson & 16th",
+                "stop_seq": 2550,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67772473005718,
+                    45.49118599251005
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 172,
+                "stop_name": "SW Barbur & Hamilton",
+                "stop_seq": 2101,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73721708968549,
+                    45.49073901128917
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 2490,
+                "stop_name": "SW Hamilton & 58th",
+                "stop_seq": 600,
+                "type": "BUS",
+                "zipcode": "97221"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69428114217546,
+                    45.479469998363506
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 13767,
+                "stop_name": "1500 Block SW Sunset Blvd",
+                "stop_seq": 1850,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

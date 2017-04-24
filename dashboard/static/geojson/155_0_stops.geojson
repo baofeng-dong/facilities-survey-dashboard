@@ -1,0 +1,540 @@
+{
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.54893721042062,
+                    45.433193236503094
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 157th",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 155,
+                "rte_desc": "155-Sunnyside",
+                "stop_id": 8993,
+                "stop_name": "SE Sunnyside & Valley View Terr",
+                "stop_seq": 300,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.54019200955307,
+                    45.42975807314052
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 157th",
+                "frequent": "False",
+                "jurisdic": "Happy Valley",
+                "rte": 155,
+                "rte_desc": "155-Sunnyside",
+                "stop_id": 8995,
+                "stop_name": "SE Sunnyside & 119th",
+                "stop_seq": 355,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.52087351901487,
+                    45.42497301713432
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 157th",
+                "frequent": "False",
+                "jurisdic": "Happy Valley",
+                "rte": 155,
+                "rte_desc": "155-Sunnyside",
+                "stop_id": 10140,
+                "stop_name": "SE Sunnyside & 139th",
+                "stop_seq": 390,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.51655116831661,
+                    45.42480037064531
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 157th",
+                "frequent": "False",
+                "jurisdic": "Happy Valley",
+                "rte": 155,
+                "rte_desc": "155-Sunnyside",
+                "stop_id": 10142,
+                "stop_name": "SE Sunnyside & 142nd",
+                "stop_seq": 400,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.51444470782755,
+                    45.42479675613892
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 157th",
+                "frequent": "False",
+                "jurisdic": "Happy Valley",
+                "rte": 155,
+                "rte_desc": "155-Sunnyside",
+                "stop_id": 10144,
+                "stop_name": "SE Sunnyside & 145th",
+                "stop_seq": 425,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53092686010321,
+                    45.42710320604354
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 157th",
+                "frequent": "False",
+                "jurisdic": "Happy Valley",
+                "rte": 155,
+                "rte_desc": "155-Sunnyside",
+                "stop_id": 10136,
+                "stop_name": "SE Sunnyside & 128th",
+                "stop_seq": 370,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.54432074444512,
+                    45.431732085358526
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 157th",
+                "frequent": "False",
+                "jurisdic": "Happy Valley",
+                "rte": 155,
+                "rte_desc": "155-Sunnyside",
+                "stop_id": 10580,
+                "stop_name": "SE Sunnyside & 117th",
+                "stop_seq": 353,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56065860399211,
+                    45.433318301170644
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 157th",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 155,
+                "rte_desc": "155-Sunnyside",
+                "stop_id": 11520,
+                "stop_name": "SE Sunnyside & Stevens",
+                "stop_seq": 100,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.50659257132048,
+                    45.425410040585554
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 157th",
+                "frequent": "False",
+                "jurisdic": "Happy Valley",
+                "rte": 155,
+                "rte_desc": "155-Sunnyside",
+                "stop_id": 12901,
+                "stop_name": "SE Sunnyside & 152nd",
+                "stop_seq": 500,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.50133865625332,
+                    45.426983648537416
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 157th",
+                "frequent": "False",
+                "jurisdic": "Happy Valley",
+                "rte": 155,
+                "rte_desc": "155-Sunnyside",
+                "stop_id": 12902,
+                "stop_name": "SE Sunnyside & 157th",
+                "stop_seq": 750,
+                "type": "BUS",
+                "zipcode": "97086"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53691295207908,
+                    45.42821247981711
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 157th",
+                "frequent": "False",
+                "jurisdic": "Happy Valley",
+                "rte": 155,
+                "rte_desc": "155-Sunnyside",
+                "stop_id": 10203,
+                "stop_name": "SE Sunnyside & 122nd",
+                "stop_seq": 360,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.52706969247369,
+                    45.42653154579251
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 157th",
+                "frequent": "False",
+                "jurisdic": "Happy Valley",
+                "rte": 155,
+                "rte_desc": "155-Sunnyside",
+                "stop_id": 10138,
+                "stop_name": "SE Sunnyside & 132nd",
+                "stop_seq": 380,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.55555962668016,
+                    45.43351565587695
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 157th",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 155,
+                "rte_desc": "155-Sunnyside",
+                "stop_id": 8991,
+                "stop_name": "SE Sunnyside & 105th",
+                "stop_seq": 200,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57400318580466,
+                    45.437506594559366
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 157th",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 155,
+                "rte_desc": "155-Sunnyside",
+                "stop_id": 12922,
+                "stop_name": "Clackamas Town Center Mall",
+                "stop_seq": 25,
+                "type": "BUS",
+                "zipcode": "97086"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5668984679619,
+                    45.43780624370134
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 157th",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 155,
+                "rte_desc": "155-Sunnyside",
+                "stop_id": 11926,
+                "stop_name": "SE Bob Schumacher & Monterey",
+                "stop_seq": 50,
+                "type": "BUS",
+                "zipcode": "97086"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56225182273654,
+                    45.43499508508465
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 157th",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 155,
+                "rte_desc": "155-Sunnyside",
+                "stop_id": 11453,
+                "stop_name": "10000 Block SE Stevens Rd",
+                "stop_seq": 75,
+                "type": "BUS",
+                "zipcode": "97086"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.51296416504819,
+                    45.42474598491564
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 157th",
+                "frequent": "False",
+                "jurisdic": "Happy Valley",
+                "rte": 155,
+                "rte_desc": "155-Sunnyside",
+                "stop_id": 12924,
+                "stop_name": "SE Sunnyside & 147th",
+                "stop_seq": 475,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.55238901270272,
+                    45.43356749719307
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 157th",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 155,
+                "rte_desc": "155-Sunnyside",
+                "stop_id": 11970,
+                "stop_name": "SE Sunnyside & Sunnybrook",
+                "stop_seq": 250,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.50167942080778,
+                    45.42743905211167
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 157th",
+                "frequent": "False",
+                "jurisdic": "Happy Valley",
+                "rte": 155,
+                "rte_desc": "155-Sunnyside",
+                "stop_id": 13157,
+                "stop_name": "SE 157th & Sunnyside",
+                "stop_seq": 550,
+                "type": "BUS",
+                "zipcode": "97086"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.50123289197691,
+                    45.42916959675593
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 157th",
+                "frequent": "False",
+                "jurisdic": "Happy Valley",
+                "rte": 155,
+                "rte_desc": "155-Sunnyside",
+                "stop_id": 13158,
+                "stop_name": "SE 157th & Misty",
+                "stop_seq": 600,
+                "type": "BUS",
+                "zipcode": "97086"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.49723952294988,
+                    45.429630174585064
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 157th",
+                "frequent": "False",
+                "jurisdic": "Happy Valley",
+                "rte": 155,
+                "rte_desc": "155-Sunnyside",
+                "stop_id": 13159,
+                "stop_name": "SE Misty & 162nd",
+                "stop_seq": 650,
+                "type": "BUS",
+                "zipcode": "97086"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.49695623152283,
+                    45.4272743193398
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 157th",
+                "frequent": "False",
+                "jurisdic": "Happy Valley",
+                "rte": 155,
+                "rte_desc": "155-Sunnyside",
+                "stop_id": 13160,
+                "stop_name": "SE 162nd & Sunnyside",
+                "stop_seq": 700,
+                "type": "BUS",
+                "zipcode": "97086"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56870745294738,
+                    45.43566941948304
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 157th",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 155,
+                "rte_desc": "155-Sunnyside",
+                "stop_id": 13248,
+                "stop_name": "Clackamas Town Center Transit Center",
+                "stop_seq": 15,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

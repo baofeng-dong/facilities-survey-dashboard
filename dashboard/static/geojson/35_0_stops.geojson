@@ -1,0 +1,2196 @@
+{
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72775754181683,
+                    45.57736561438305
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 4502,
+                "stop_name": "N Portsmouth & Yale",
+                "stop_seq": 150,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72669720872295,
+                    45.57878667138514
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 4497,
+                "stop_name": "N Portsmouth & Princeton",
+                "stop_seq": 200,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72550872738417,
+                    45.58033146564872
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 4492,
+                "stop_name": "N Portsmouth & Depauw",
+                "stop_seq": 250,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72403231971732,
+                    45.58234109645727
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 4495,
+                "stop_name": "N Portsmouth & Lombard St",
+                "stop_seq": 300,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72255167324,
+                    45.58433077847941
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 4501,
+                "stop_name": "N Portsmouth & Willis",
+                "stop_seq": 350,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72000381799472,
+                    45.58400632639086
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 6380,
+                "stop_name": "N Willis & Hodge",
+                "stop_seq": 400,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71753883291069,
+                    45.58403031866843
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 6376,
+                "stop_name": "N Willis & Druid",
+                "stop_seq": 450,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7155108631841,
+                    45.58405011170896
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 6381,
+                "stop_name": "N Willis & Newman",
+                "stop_seq": 500,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71358323247556,
+                    45.58396642118832
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 6392,
+                "stop_name": "N Willis & Woolsey",
+                "stop_seq": 550,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71145830263806,
+                    45.58397244331578
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 6390,
+                "stop_name": "N Willis & Wayland",
+                "stop_seq": 600,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70807074204198,
+                    45.58395719410419
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 6374,
+                "stop_name": "N Willis & Chautauqua",
+                "stop_seq": 650,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70546593622657,
+                    45.58394367521728
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 6388,
+                "stop_name": "N Willis & Washburne",
+                "stop_seq": 700,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7027947168726,
+                    45.58395529943304
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 6386,
+                "stop_name": "N Willis & Wabash",
+                "stop_seq": 750,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70005826561218,
+                    45.58393223860504
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 6377,
+                "stop_name": "N Willis & Emerald",
+                "stop_seq": 800,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69735704586707,
+                    45.58392927281205
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 6383,
+                "stop_name": "N Willis & Peninsular",
+                "stop_seq": 850,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69729686876357,
+                    45.58285342524266
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 4435,
+                "stop_name": "N Peninsular & Halleck",
+                "stop_seq": 900,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69729666337861,
+                    45.581373740921215
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 4439,
+                "stop_name": "N Peninsular & Watts",
+                "stop_seq": 950,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69731926608061,
+                    45.579232041655914
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 4433,
+                "stop_name": "N Peninsular & Farragut",
+                "stop_seq": 1000,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69733294801274,
+                    45.57784082871859
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 4437,
+                "stop_name": "N Peninsular & Russet",
+                "stop_seq": 1050,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69559492543875,
+                    45.576734284174364
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 2213,
+                "stop_name": "N Greeley & Lombard St",
+                "stop_seq": 1100,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6955727221964,
+                    45.57366133494609
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 2186,
+                "stop_name": "N Greeley & Bryant",
+                "stop_seq": 1200,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69562071840372,
+                    45.57185369105693
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 2191,
+                "stop_name": "N Greeley & Dekum",
+                "stop_seq": 1250,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69566646384597,
+                    45.57008559472819
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 2222,
+                "stop_name": "N Greeley & Rosa Parks Way",
+                "stop_seq": 1300,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69565153535807,
+                    45.56828255719712
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 2198,
+                "stop_name": "N Greeley & Holman",
+                "stop_seq": 1350,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69568894787982,
+                    45.56466499618225
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 2205,
+                "stop_name": "N Greeley & Jessup",
+                "stop_seq": 1450,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67129817201213,
+                    45.53220536228081
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 11845,
+                "stop_name": "N Interstate & Larrabee",
+                "stop_seq": 1850,
+                "type": "BUS",
+                "zipcode": "97227"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66765758395259,
+                    45.52987491721817
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 11813,
+                "stop_name": "N Interstate & Multnomah (Rose Quarter)",
+                "stop_seq": 1900,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67410562996959,
+                    45.52681683202971
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 9311,
+                "stop_name": "NW Glisan & 3rd",
+                "stop_seq": 2550,
+                "type": "BUS",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67555202542113,
+                    45.52470499281588
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 9301,
+                "stop_name": "NW 5th & Davis",
+                "stop_seq": 2600,
+                "type": "BUS",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67582657583233,
+                    45.52224017989127
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 7631,
+                "stop_name": "SW 5th & Pine",
+                "stop_seq": 2650,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67720704032783,
+                    45.51960192319443
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 7586,
+                "stop_name": "SW 5th & Alder",
+                "stop_seq": 2700,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67901593827192,
+                    45.51626940153301
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 7614,
+                "stop_name": "SW 5th & Main",
+                "stop_seq": 2750,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68049937692007,
+                    45.51359718532567
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 13167,
+                "stop_name": "SW 5th & Clay",
+                "stop_seq": 2800,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6810947894226,
+                    45.51052365532965
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 2580,
+                "stop_name": "SW Harrison & 4th",
+                "stop_seq": 2850,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6790316748977,
+                    45.509981575504646
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 2566,
+                "stop_name": "200 Block SW Harrison",
+                "stop_seq": 2900,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.673829627984,
+                    45.48995947538594
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 3612,
+                "stop_name": "SW Macadam & Hamilton Ct",
+                "stop_seq": 3200,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6755211090545,
+                    45.48765880900117
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 3615,
+                "stop_name": "SW Macadam & Julia",
+                "stop_seq": 3250,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67533424890529,
+                    45.48512864484854
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 3604,
+                "stop_name": "SW Macadam & Boundary",
+                "stop_seq": 3300,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67401643763255,
+                    45.482582345164026
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 3609,
+                "stop_name": "SW Macadam & Flower",
+                "stop_seq": 3350,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67357111252684,
+                    45.48126072398044
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 3624,
+                "stop_name": "SW Macadam & Pendleton",
+                "stop_seq": 3400,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6727272502711,
+                    45.478771427271184
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 3606,
+                "stop_name": "SW Macadam & Carolina",
+                "stop_seq": 3450,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6722638373277,
+                    45.477346558386735
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 3614,
+                "stop_name": "SW Macadam & Nebraska",
+                "stop_seq": 3500,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67178426921679,
+                    45.47445048802813
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 3605,
+                "stop_name": "SW Macadam & California",
+                "stop_seq": 3550,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6715992617733,
+                    45.47303964213283
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 3620,
+                "stop_name": "SW Macadam & Nevada",
+                "stop_seq": 3600,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65989360355555,
+                    45.45211921945925
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Multnomah Co.",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 4905,
+                "stop_name": "SW Riverside & Radcliffe",
+                "stop_seq": 3750,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65909315446035,
+                    45.45068314978109
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Multnomah Co.",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 4906,
+                "stop_name": "SW Riverside & Riverdale",
+                "stop_seq": 3800,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65735953131711,
+                    45.44714885515465
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Multnomah Co.",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 4909,
+                "stop_name": "SW Riverside & Riverwood",
+                "stop_seq": 3850,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65691361297864,
+                    45.44562072307477
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Multnomah Co.",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 4902,
+                "stop_name": "SW Riverside & Palatine Hill",
+                "stop_seq": 3900,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65503902195084,
+                    45.441689306729494
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Multnomah Co.",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 4900,
+                "stop_name": "SW Riverside & Military",
+                "stop_seq": 3950,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65351917240862,
+                    45.435883788563245
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Multnomah Co.",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 4898,
+                "stop_name": "SW Riverside & Breyman",
+                "stop_seq": 4000,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65595599339677,
+                    45.43095388914944
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 4899,
+                "stop_name": "SW Riverside & Midvale",
+                "stop_seq": 4050,
+                "type": "BUS",
+                "zipcode": "97034"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65831167640307,
+                    45.42838918716768
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 4894,
+                "stop_name": "SW Riverside & Briarwood",
+                "stop_seq": 4100,
+                "type": "BUS",
+                "zipcode": "97034"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66198954841086,
+                    45.42266777598851
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 5507,
+                "stop_name": "N State & D Ave",
+                "stop_seq": 4150,
+                "type": "BUS",
+                "zipcode": "97034"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66268255107337,
+                    45.420769882540895
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 5506,
+                "stop_name": "N State & B Ave",
+                "stop_seq": 4200,
+                "type": "BUS",
+                "zipcode": "97034"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66511312642294,
+                    45.42084450252147
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 147,
+                "stop_name": "B Ave & Second St",
+                "stop_seq": 4250,
+                "type": "BUS",
+                "zipcode": "97034"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6634226059053,
+                    45.41755034510096
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 5510,
+                "stop_name": "N State & Foothills",
+                "stop_seq": 4400,
+                "type": "BUS",
+                "zipcode": "97034"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66381258035244,
+                    45.4157589838545
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 5513,
+                "stop_name": "N State & North Shore",
+                "stop_seq": 4450,
+                "type": "BUS",
+                "zipcode": "97034"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6644089461622,
+                    45.41315941528287
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 5511,
+                "stop_name": "S State & Middlecrest",
+                "stop_seq": 4500,
+                "type": "BUS",
+                "zipcode": "97034"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66013506960725,
+                    45.40739720236576
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 6328,
+                "stop_name": "Pacific Hwy & Burnham",
+                "stop_seq": 4550,
+                "type": "BUS",
+                "zipcode": "97034"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65982883448633,
+                    45.40401575402821
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 6311,
+                "stop_name": "Pacific Hwy (Hwy 43) & Cherry",
+                "stop_seq": 4600,
+                "type": "BUS",
+                "zipcode": "97034"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65766002014139,
+                    45.40197448384578
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 6318,
+                "stop_name": "Pacific Hwy & Glenmorrie",
+                "stop_seq": 4650,
+                "type": "BUS",
+                "zipcode": "97034"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6543787884821,
+                    45.3988374947007
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 6336,
+                "stop_name": "Pacific Hwy & Brookhurst Dr",
+                "stop_seq": 4700,
+                "type": "BUS",
+                "zipcode": "97034"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65248287902956,
+                    45.39709397278065
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 6338,
+                "stop_name": "Pacific Hwy & Marylbrook Dr",
+                "stop_seq": 4750,
+                "type": "BUS",
+                "zipcode": "97034"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65070074613224,
+                    45.395547383859636
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "West Linn",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 6302,
+                "stop_name": "Willamette Dr & Arbor",
+                "stop_seq": 4800,
+                "type": "BUS",
+                "zipcode": "97068"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64759489848164,
+                    45.39274196238779
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "West Linn",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 6347,
+                "stop_name": "Willamette Dr & Shady Hollow",
+                "stop_seq": 4850,
+                "type": "BUS",
+                "zipcode": "97068"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64618730522606,
+                    45.39141290103296
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "West Linn",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 6337,
+                "stop_name": "Willamette Dr & Marylhurst Dr",
+                "stop_seq": 4900,
+                "type": "BUS",
+                "zipcode": "97068"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64414212231338,
+                    45.389519816460755
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "West Linn",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 6350,
+                "stop_name": "Willamette Dr & Walling Circle",
+                "stop_seq": 4950,
+                "type": "BUS",
+                "zipcode": "97068"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64034872135242,
+                    45.38599177884462
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "West Linn",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 6319,
+                "stop_name": "Willamette Dr & Hidden Springs",
+                "stop_seq": 5000,
+                "type": "BUS",
+                "zipcode": "97068"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63915925799697,
+                    45.3839554802356
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "West Linn",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 6300,
+                "stop_name": "Willamette Dr & Mapleton Dr",
+                "stop_seq": 5050,
+                "type": "BUS",
+                "zipcode": "97068"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63589282537055,
+                    45.37907312863195
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "West Linn",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 6333,
+                "stop_name": "Willamette Dr & Linwood",
+                "stop_seq": 5100,
+                "type": "BUS",
+                "zipcode": "97068"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63399371644711,
+                    45.37743759562069
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "West Linn",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 6326,
+                "stop_name": "Willamette Dr & Jolie Pointe",
+                "stop_seq": 5150,
+                "type": "BUS",
+                "zipcode": "97068"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63277426093003,
+                    45.376424076645826
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "West Linn",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 6345,
+                "stop_name": "Willamette Dr & Pimlico",
+                "stop_seq": 5200,
+                "type": "BUS",
+                "zipcode": "97068"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63015706249853,
+                    45.37441239264613
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "West Linn",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 6324,
+                "stop_name": "Willamette Dr & Hughes",
+                "stop_seq": 5250,
+                "type": "BUS",
+                "zipcode": "97068"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62859374849651,
+                    45.37332687967549
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "West Linn",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 6304,
+                "stop_name": "Willamette Dr & Barlow",
+                "stop_seq": 5300,
+                "type": "BUS",
+                "zipcode": "97068"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62330475398704,
+                    45.37077912835288
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "West Linn",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 6314,
+                "stop_name": "Willamette Dr & West A",
+                "stop_seq": 5350,
+                "type": "BUS",
+                "zipcode": "97068"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6190350778655,
+                    45.369092206468316
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "West Linn",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 6322,
+                "stop_name": "Willamette Dr & Holmes",
+                "stop_seq": 5400,
+                "type": "BUS",
+                "zipcode": "97068"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61717314220387,
+                    45.3679838603069
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "West Linn",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 6352,
+                "stop_name": "Willamette Dr & Webb",
+                "stop_seq": 5450,
+                "type": "BUS",
+                "zipcode": "97068"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61254013923109,
+                    45.36564202705665
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "West Linn",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 6339,
+                "stop_name": "Willamette Dr & McKillican",
+                "stop_seq": 5500,
+                "type": "BUS",
+                "zipcode": "97068"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6110611610519,
+                    45.36433885071445
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "West Linn",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 6348,
+                "stop_name": "Willamette Dr & Holly (near gas stn)",
+                "stop_seq": 5550,
+                "type": "BUS",
+                "zipcode": "97068"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60462904123888,
+                    45.359789583156584
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Oregon City",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 8762,
+                "stop_name": "Oregon City Transit Center",
+                "stop_seq": 5700,
+                "type": "BUS",
+                "zipcode": "97045"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69570079541516,
+                    45.562852462068726
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 2209,
+                "stop_name": "N Greeley & Killingsworth",
+                "stop_seq": 1500,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6947955755889,
+                    45.560275153324454
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 2227,
+                "stop_name": "N Greeley & Sumner",
+                "stop_seq": 1550,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69374289675399,
+                    45.558667414033245
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 2202,
+                "stop_name": "N Greeley & Humboldt",
+                "stop_seq": 1600,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6932938524948,
+                    45.55647387192763
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 2196,
+                "stop_name": "N Greeley & Going",
+                "stop_seq": 1650,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6773695571511,
+                    45.54327343648938
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 2964,
+                "stop_name": "N Interstate & Graham",
+                "stop_seq": 1700,
+                "type": "BUS",
+                "zipcode": "97227"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67525197688803,
+                    45.53926747254369
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 2945,
+                "stop_name": "N Interstate & Albina",
+                "stop_seq": 1750,
+                "type": "BUS",
+                "zipcode": "97227"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67473078440213,
+                    45.538047434970686
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 11844,
+                "stop_name": "N Interstate & Tillamook",
+                "stop_seq": 1800,
+                "type": "BUS",
+                "zipcode": "97227"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67454422178687,
+                    45.50714773267976
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 13180,
+                "stop_name": "SW River Pkwy & River Dr",
+                "stop_seq": 2950,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67194204426227,
+                    45.49618615622484
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 12880,
+                "stop_name": "SW Moody & Gaines",
+                "stop_seq": 3100,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67204199738086,
+                    45.49438809271779
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 13183,
+                "stop_name": "SW Moody & Thomas",
+                "stop_seq": 3150,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69566842620134,
+                    45.56649076192793
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 2183,
+                "stop_name": "N Greeley & Ainsworth",
+                "stop_seq": 1400,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67279257733266,
+                    45.50311477285932
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 13601,
+                "stop_name": "SW Moody & Meade South",
+                "stop_seq": 3000,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72875963125277,
+                    45.57635307573365
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 9635,
+                "stop_name": "N Portsmouth & Willamette",
+                "stop_seq": 75,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67181484176659,
+                    45.49933700642493
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 12760,
+                "stop_name": "SW Moody & Gibbs",
+                "stop_seq": 3050,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66787974610853,
+                    45.42063106268485
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 35,
+                "rte_desc": "35-Macadam/Greeley",
+                "stop_id": 8208,
+                "stop_name": "Lake Oswego Transit Center",
+                "stop_seq": 4300,
+                "type": "BUS",
+                "zipcode": "97034"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

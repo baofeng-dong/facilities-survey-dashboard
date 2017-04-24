@@ -1,0 +1,586 @@
+{
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67892997079146,
+                    45.51013995252431
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center via Sellwood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 99,
+                "rte_desc": "99-Macadam/McLoughlin",
+                "stop_id": 2567,
+                "stop_name": "200 Block SW Harrison",
+                "stop_seq": 1250,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68264818379635,
+                    45.51105825464804
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center via Sellwood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 99,
+                "rte_desc": "99-Macadam/McLoughlin",
+                "stop_id": 13305,
+                "stop_name": "SW Harrison & 6th",
+                "stop_seq": 1300,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67752142826667,
+                    45.520930667478034
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center via Sellwood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 99,
+                "rte_desc": "99-Macadam/McLoughlin",
+                "stop_id": 7797,
+                "stop_name": "SW 6th & Stark",
+                "stop_seq": 1450,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6474292684676,
+                    45.46438295485591
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center via Sellwood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 99,
+                "rte_desc": "99-Macadam/McLoughlin",
+                "stop_id": 5669,
+                "stop_name": "Tacoma & 17th",
+                "stop_seq": 850,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65271580507215,
+                    45.46438654424579
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center via Sellwood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 99,
+                "rte_desc": "99-Macadam/McLoughlin",
+                "stop_id": 5665,
+                "stop_name": "Tacoma & 13th",
+                "stop_seq": 900,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63450547578783,
+                    45.43051510123764
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center via Sellwood",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 99,
+                "rte_desc": "99-Macadam/McLoughlin",
+                "stop_id": 3798,
+                "stop_name": "SE McLoughlin & Park Ave",
+                "stop_seq": 600,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64056982870373,
+                    45.45237489162484
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center via Sellwood",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 99,
+                "rte_desc": "99-Macadam/McLoughlin",
+                "stop_id": 3657,
+                "stop_name": "SE Main & Milport",
+                "stop_seq": 700,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57528594222738,
+                    45.322757550136046
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center via Sellwood",
+                "frequent": "False",
+                "jurisdic": "Oregon City",
+                "rte": 99,
+                "rte_desc": "99-Macadam/McLoughlin",
+                "stop_id": 1068,
+                "stop_name": "Clackamas Community College",
+                "stop_seq": 50,
+                "type": "BUS",
+                "zipcode": "97045"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58647343087561,
+                    45.33158932790384
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center via Sellwood",
+                "frequent": "False",
+                "jurisdic": "Oregon City",
+                "rte": 99,
+                "rte_desc": "99-Macadam/McLoughlin",
+                "stop_id": 2837,
+                "stop_name": "Molalla & Clairmont",
+                "stop_seq": 100,
+                "type": "BUS",
+                "zipcode": "97045"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62657202990913,
+                    45.40932960952655
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center via Sellwood",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 99,
+                "rte_desc": "99-Macadam/McLoughlin",
+                "stop_id": 3783,
+                "stop_name": "SE McLoughlin & Concord",
+                "stop_seq": 450,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63328394843907,
+                    45.422832441967884
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center via Sellwood",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 99,
+                "rte_desc": "99-Macadam/McLoughlin",
+                "stop_id": 3784,
+                "stop_name": "SE McLoughlin & Courtney",
+                "stop_seq": 550,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63933775648559,
+                    45.45880886962277
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center via Sellwood",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 99,
+                "rte_desc": "99-Macadam/McLoughlin",
+                "stop_id": 3797,
+                "stop_name": "SE Ochoco & McLoughlin",
+                "stop_seq": 750,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5965587791774,
+                    45.34873448029525
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center via Sellwood",
+                "frequent": "False",
+                "jurisdic": "Oregon City",
+                "rte": 99,
+                "rte_desc": "99-Macadam/McLoughlin",
+                "stop_id": 3990,
+                "stop_name": "Molalla & Pearl",
+                "stop_seq": 150,
+                "type": "BUS",
+                "zipcode": "97045"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61305889702777,
+                    45.391679773200934
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center via Sellwood",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 99,
+                "rte_desc": "99-Macadam/McLoughlin",
+                "stop_id": 3791,
+                "stop_name": "SE McLoughlin & Jennings",
+                "stop_seq": 350,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63178892072045,
+                    45.41617329814244
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center via Sellwood",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 99,
+                "rte_desc": "99-Macadam/McLoughlin",
+                "stop_id": 3795,
+                "stop_name": "SE McLoughlin & Oak Grove",
+                "stop_seq": 500,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60452945646318,
+                    45.360269460528635
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center via Sellwood",
+                "frequent": "False",
+                "jurisdic": "Oregon City",
+                "rte": 99,
+                "rte_desc": "99-Macadam/McLoughlin",
+                "stop_id": 8758,
+                "stop_name": "Oregon City Transit Center",
+                "stop_seq": 200,
+                "type": "BUS",
+                "zipcode": "97045"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63713510516975,
+                    45.46222030185779
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center via Sellwood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 99,
+                "rte_desc": "99-Macadam/McLoughlin",
+                "stop_id": 13771,
+                "stop_name": "SE Tacoma Park & Ride",
+                "stop_seq": 800,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61872470978115,
+                    45.39907417424921
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center via Sellwood",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 99,
+                "rte_desc": "99-Macadam/McLoughlin",
+                "stop_id": 3800,
+                "stop_name": "SE McLoughlin & Roethe",
+                "stop_seq": 400,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68109464303544,
+                    45.51426672816957
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center via Sellwood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 99,
+                "rte_desc": "99-Macadam/McLoughlin",
+                "stop_id": 11486,
+                "stop_name": "SW 6th & Columbia",
+                "stop_seq": 1350,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67931555136094,
+                    45.51760440161132
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center via Sellwood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 99,
+                "rte_desc": "99-Macadam/McLoughlin",
+                "stop_id": 7800,
+                "stop_name": "SW 6th & Taylor",
+                "stop_seq": 1400,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67641501100557,
+                    45.522880235484514
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center via Sellwood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 99,
+                "rte_desc": "99-Macadam/McLoughlin",
+                "stop_id": 7751,
+                "stop_name": "SW 6th & W Burnside",
+                "stop_seq": 1500,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6412693576665,
+                    45.44489587210286
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center via Sellwood",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 99,
+                "rte_desc": "99-Macadam/McLoughlin",
+                "stop_id": 8223,
+                "stop_name": "SE Jackson & Main St",
+                "stop_seq": 650,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67845128890315,
+                    45.50381151013754
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center via Sellwood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 99,
+                "rte_desc": "99-Macadam/McLoughlin",
+                "stop_id": 143,
+                "stop_name": "SW Arthur & 1st",
+                "stop_seq": 1200,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6017547910748,
+                    45.37622643979423
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center via Sellwood",
+                "frequent": "False",
+                "jurisdic": "Gladstone",
+                "rte": 99,
+                "rte_desc": "99-Macadam/McLoughlin",
+                "stop_id": 10328,
+                "stop_name": "McLoughlin & W Arlington",
+                "stop_seq": 250,
+                "type": "BUS",
+                "zipcode": "97027"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.608407154938,
+                    45.38562736367274
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center via Sellwood",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 99,
+                "rte_desc": "99-Macadam/McLoughlin",
+                "stop_id": 10326,
+                "stop_name": "SE McLoughlin & Glen Echo",
+                "stop_seq": 300,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

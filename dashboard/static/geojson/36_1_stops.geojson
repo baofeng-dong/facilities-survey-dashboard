@@ -1,0 +1,1483 @@
+{
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72388681346543,
+                    45.396913793648025
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Lake Oswego Transit Center or Portland",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 36,
+                "rte_desc": "36-South Shore",
+                "stop_id": 3030,
+                "stop_name": "Jean Rd & Bryant",
+                "stop_seq": 900,
+                "type": "BUS",
+                "zipcode": "97035"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71059625864666,
+                    45.402243536694236
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Lake Oswego Transit Center or Portland",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 36,
+                "rte_desc": "36-South Shore",
+                "stop_id": 10175,
+                "stop_name": "South Shore & Cedar Rd",
+                "stop_seq": 1320,
+                "type": "BUS",
+                "zipcode": "97034"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70225268894977,
+                    45.40464549948358
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Lake Oswego Transit Center or Portland",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 36,
+                "rte_desc": "36-South Shore",
+                "stop_id": 5294,
+                "stop_name": "South Shore & Canyon",
+                "stop_seq": 1400,
+                "type": "BUS",
+                "zipcode": "97034"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69861428188278,
+                    45.40484731962247
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Lake Oswego Transit Center or Portland",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 36,
+                "rte_desc": "36-South Shore",
+                "stop_id": 5299,
+                "stop_name": "South Shore & Fernwood",
+                "stop_seq": 1450,
+                "type": "BUS",
+                "zipcode": "97034"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66585251539915,
+                    45.41071036930158
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Lake Oswego Transit Center or Portland",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 36,
+                "rte_desc": "36-South Shore",
+                "stop_id": 3811,
+                "stop_name": "600 Block McVey",
+                "stop_seq": 1950,
+                "type": "BUS",
+                "zipcode": "97034"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66364335825364,
+                    45.41548108476153
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Lake Oswego Transit Center or Portland",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 36,
+                "rte_desc": "36-South Shore",
+                "stop_id": 5512,
+                "stop_name": "S State & North Shore",
+                "stop_seq": 2050,
+                "type": "BUS",
+                "zipcode": "97034"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66511312642294,
+                    45.42084450252147
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Lake Oswego Transit Center or Portland",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 36,
+                "rte_desc": "36-South Shore",
+                "stop_id": 147,
+                "stop_name": "B Ave & Second St",
+                "stop_seq": 2150,
+                "type": "BUS",
+                "zipcode": "97034"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66240178055843,
+                    45.420964812233166
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Lake Oswego Transit Center or Portland",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 36,
+                "rte_desc": "36-South Shore",
+                "stop_id": 5505,
+                "stop_name": "N State & B Ave",
+                "stop_seq": 2350,
+                "type": "BUS",
+                "zipcode": "97034"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6533391670283,
+                    45.43594206597149
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Lake Oswego Transit Center or Portland",
+                "frequent": "False",
+                "jurisdic": "Multnomah Co.",
+                "rte": 36,
+                "rte_desc": "36-South Shore",
+                "stop_id": 4897,
+                "stop_name": "SW Riverside & Greenwood",
+                "stop_seq": 2550,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65896321220472,
+                    45.45078183972588
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Lake Oswego Transit Center or Portland",
+                "frequent": "False",
+                "jurisdic": "Multnomah Co.",
+                "rte": 36,
+                "rte_desc": "36-South Shore",
+                "stop_id": 4908,
+                "stop_name": "SW Riverside & Riverdale",
+                "stop_seq": 2700,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67157689607441,
+                    45.47517839149745
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Lake Oswego Transit Center or Portland",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 36,
+                "rte_desc": "36-South Shore",
+                "stop_id": 3608,
+                "stop_name": "SW Macadam & Florida",
+                "stop_seq": 2850,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67317102938661,
+                    45.48091115018938
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Lake Oswego Transit Center or Portland",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 36,
+                "rte_desc": "36-South Shore",
+                "stop_id": 3623,
+                "stop_name": "SW Macadam & Pendleton",
+                "stop_seq": 2950,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67372612199188,
+                    45.48251744396991
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Lake Oswego Transit Center or Portland",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 36,
+                "rte_desc": "36-South Shore",
+                "stop_id": 3610,
+                "stop_name": "SW Macadam & Flower",
+                "stop_seq": 3000,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67504688291723,
+                    45.48804934944072
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Lake Oswego Transit Center or Portland",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 36,
+                "rte_desc": "36-South Shore",
+                "stop_id": 3616,
+                "stop_name": "SW Macadam & Julia",
+                "stop_seq": 3100,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67359572980874,
+                    45.48982040105718
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Lake Oswego Transit Center or Portland",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 36,
+                "rte_desc": "36-South Shore",
+                "stop_id": 3613,
+                "stop_name": "SW Macadam & Hamilton Ct",
+                "stop_seq": 3150,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72724857117865,
+                    45.39694561305545
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Lake Oswego Transit Center or Portland",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 36,
+                "rte_desc": "36-South Shore",
+                "stop_id": 3032,
+                "stop_name": "Jean Rd & Schalit",
+                "stop_seq": 850,
+                "type": "BUS",
+                "zipcode": "97035"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70906659900243,
+                    45.4019183766037
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Lake Oswego Transit Center or Portland",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 36,
+                "rte_desc": "36-South Shore",
+                "stop_id": 5293,
+                "stop_name": "South Shore & Blue Heron",
+                "stop_seq": 1350,
+                "type": "BUS",
+                "zipcode": "97034"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69581759719254,
+                    45.40485121128255
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Lake Oswego Transit Center or Portland",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 36,
+                "rte_desc": "36-South Shore",
+                "stop_id": 5304,
+                "stop_name": "South Shore & Lakeridge",
+                "stop_seq": 1500,
+                "type": "BUS",
+                "zipcode": "97034"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68039148844521,
+                    45.406766146864825
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Lake Oswego Transit Center or Portland",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 36,
+                "rte_desc": "36-South Shore",
+                "stop_id": 5287,
+                "stop_name": "1800 Block South Shore (Park & Ride)",
+                "stop_seq": 1650,
+                "type": "BUS",
+                "zipcode": "97034"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67197298293955,
+                    45.40870354191415
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Lake Oswego Transit Center or Portland",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 36,
+                "rte_desc": "36-South Shore",
+                "stop_id": 3814,
+                "stop_name": "McVey & Cornell",
+                "stop_seq": 1800,
+                "type": "BUS",
+                "zipcode": "97034"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66303359877246,
+                    45.418046236674044
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Lake Oswego Transit Center or Portland",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 36,
+                "rte_desc": "36-South Shore",
+                "stop_id": 5509,
+                "stop_name": "N State & Foothills",
+                "stop_seq": 2100,
+                "type": "BUS",
+                "zipcode": "97034"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66787974610853,
+                    45.42063106268485
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Lake Oswego Transit Center or Portland",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 36,
+                "rte_desc": "36-South Shore",
+                "stop_id": 8208,
+                "stop_name": "Lake Oswego Transit Center",
+                "stop_seq": 2250,
+                "type": "BUS",
+                "zipcode": "97034"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6554047538554,
+                    45.43145555075604
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Lake Oswego Transit Center or Portland",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 36,
+                "rte_desc": "36-South Shore",
+                "stop_id": 4896,
+                "stop_name": "SW Riverside & Elk Rock",
+                "stop_seq": 2500,
+                "type": "BUS",
+                "zipcode": "97034"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67134912774223,
+                    45.47287696608962
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Lake Oswego Transit Center or Portland",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 36,
+                "rte_desc": "36-South Shore",
+                "stop_id": 3622,
+                "stop_name": "SW Macadam & Nevada",
+                "stop_seq": 2800,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67190248900765,
+                    45.47712836929626
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Lake Oswego Transit Center or Portland",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 36,
+                "rte_desc": "36-South Shore",
+                "stop_id": 3619,
+                "stop_name": "SW Macadam & Nebraska",
+                "stop_seq": 2900,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67489115635185,
+                    45.484877803722654
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Lake Oswego Transit Center or Portland",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 36,
+                "rte_desc": "36-South Shore",
+                "stop_id": 3603,
+                "stop_name": "SW Macadam & Boundary",
+                "stop_seq": 3050,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66419191190269,
+                    45.41293425472581
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Lake Oswego Transit Center or Portland",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 36,
+                "rte_desc": "36-South Shore",
+                "stop_id": 5514,
+                "stop_name": "S State & Wilbur",
+                "stop_seq": 2001,
+                "type": "BUS",
+                "zipcode": "97034"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65669379014174,
+                    45.446027928568924
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Lake Oswego Transit Center or Portland",
+                "frequent": "False",
+                "jurisdic": "Multnomah Co.",
+                "rte": 36,
+                "rte_desc": "36-South Shore",
+                "stop_id": 4904,
+                "stop_name": "SW Riverside & Palatine Hill",
+                "stop_seq": 2650,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67280350491778,
+                    45.496381748324595
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Lake Oswego Transit Center or Portland",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 36,
+                "rte_desc": "36-South Shore",
+                "stop_id": 3611,
+                "stop_name": "SW Macadam & Gaines",
+                "stop_seq": 3250,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67362770550167,
+                    45.408255463558916
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Lake Oswego Transit Center or Portland",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 36,
+                "rte_desc": "36-South Shore",
+                "stop_id": 3818,
+                "stop_name": "McVey & Oak",
+                "stop_seq": 1750,
+                "type": "BUS",
+                "zipcode": "97034"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65460732061955,
+                    45.44151637147707
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Lake Oswego Transit Center or Portland",
+                "frequent": "False",
+                "jurisdic": "Multnomah Co.",
+                "rte": 36,
+                "rte_desc": "36-South Shore",
+                "stop_id": 4901,
+                "stop_name": "SW Riverside & Military",
+                "stop_seq": 2600,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67821543393586,
+                    45.406741710317405
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Lake Oswego Transit Center or Portland",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 36,
+                "rte_desc": "36-South Shore",
+                "stop_id": 11805,
+                "stop_name": "South Shore & Patton",
+                "stop_seq": 1675,
+                "type": "BUS",
+                "zipcode": "97034"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65697128446806,
+                    45.44697656253939
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Lake Oswego Transit Center or Portland",
+                "frequent": "False",
+                "jurisdic": "Multnomah Co.",
+                "rte": 36,
+                "rte_desc": "36-South Shore",
+                "stop_id": 4910,
+                "stop_name": "SW Riverside & Riverwood",
+                "stop_seq": 2675,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67239565444065,
+                    45.4785771383434
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Lake Oswego Transit Center or Portland",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 36,
+                "rte_desc": "36-South Shore",
+                "stop_id": 11812,
+                "stop_name": "SW Macadam & Carolina",
+                "stop_seq": 2925,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72302473621538,
+                    45.398275158643806
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Lake Oswego Transit Center or Portland",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 36,
+                "rte_desc": "36-South Shore",
+                "stop_id": 668,
+                "stop_name": "Bryant & Lords Ln",
+                "stop_seq": 950,
+                "type": "BUS",
+                "zipcode": "97035"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72302215704909,
+                    45.399471572428574
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Lake Oswego Transit Center or Portland",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 36,
+                "rte_desc": "36-South Shore",
+                "stop_id": 663,
+                "stop_name": "Bryant & Black Forest Ct",
+                "stop_seq": 1000,
+                "type": "BUS",
+                "zipcode": "97035"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.723041969771,
+                    45.401607230392464
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Lake Oswego Transit Center or Portland",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 36,
+                "rte_desc": "36-South Shore",
+                "stop_id": 664,
+                "stop_name": "Bryant & Chapman Way",
+                "stop_seq": 1050,
+                "type": "BUS",
+                "zipcode": "97035"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72305489711889,
+                    45.40393914708243
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Lake Oswego Transit Center or Portland",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 36,
+                "rte_desc": "36-South Shore",
+                "stop_id": 665,
+                "stop_name": "Bryant & Lakeview",
+                "stop_seq": 1100,
+                "type": "BUS",
+                "zipcode": "97035"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7181701589967,
+                    45.40633561196353
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Lake Oswego Transit Center or Portland",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 36,
+                "rte_desc": "36-South Shore",
+                "stop_id": 5305,
+                "stop_name": "Lakeview & South Shore",
+                "stop_seq": 1150,
+                "type": "BUS",
+                "zipcode": "97035"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71848883805556,
+                    45.404341673224806
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Lake Oswego Transit Center or Portland",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 36,
+                "rte_desc": "36-South Shore",
+                "stop_id": 5291,
+                "stop_name": "4100 Block South Shore",
+                "stop_seq": 1200,
+                "type": "BUS",
+                "zipcode": "97035"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7173312153408,
+                    45.40324409838578
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Lake Oswego Transit Center or Portland",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 36,
+                "rte_desc": "36-South Shore",
+                "stop_id": 5311,
+                "stop_name": "South Shore & Canal Circle",
+                "stop_seq": 1250,
+                "type": "BUS",
+                "zipcode": "97035"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71406199134128,
+                    45.40271332565024
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Lake Oswego Transit Center or Portland",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 36,
+                "rte_desc": "36-South Shore",
+                "stop_id": 5303,
+                "stop_name": "South Shore & Kelok",
+                "stop_seq": 1300,
+                "type": "BUS",
+                "zipcode": "97034"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74882076841627,
+                    45.39469654986714
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Lake Oswego Transit Center or Portland",
+                "frequent": "False",
+                "jurisdic": "Tualatin",
+                "rte": 36,
+                "rte_desc": "36-South Shore",
+                "stop_id": 7879,
+                "stop_name": "Tualatin Park & Ride",
+                "stop_seq": 50,
+                "type": "BUS",
+                "zipcode": "97224"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73071080887516,
+                    45.397005427221835
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Lake Oswego Transit Center or Portland",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 36,
+                "rte_desc": "36-South Shore",
+                "stop_id": 3038,
+                "stop_name": "SW Jean Rd & Tualata",
+                "stop_seq": 800,
+                "type": "BUS",
+                "zipcode": "97035"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67647185625559,
+                    45.40691537578043
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Lake Oswego Transit Center or Portland",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 36,
+                "rte_desc": "36-South Shore",
+                "stop_id": 5307,
+                "stop_name": "McVey & Parrish",
+                "stop_seq": 1700,
+                "type": "BUS",
+                "zipcode": "97034"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66798327071318,
+                    45.42017793962341
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Lake Oswego Transit Center or Portland",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 36,
+                "rte_desc": "36-South Shore",
+                "stop_id": 8207,
+                "stop_name": "Lake Oswego Transit Center",
+                "stop_seq": 2200,
+                "type": "BUS",
+                "zipcode": "97034"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6728632139497,
+                    45.493472188861695
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Lake Oswego Transit Center or Portland",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 36,
+                "rte_desc": "36-South Shore",
+                "stop_id": 13184,
+                "stop_name": "SW Macadam & Lowell",
+                "stop_seq": 3200,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65819854429448,
+                    45.42809053504243
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Lake Oswego Transit Center or Portland",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 36,
+                "rte_desc": "36-South Shore",
+                "stop_id": 4895,
+                "stop_name": "SW Riverside & Briarwood",
+                "stop_seq": 2450,
+                "type": "BUS",
+                "zipcode": "97034"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68375041821379,
+                    45.406755969492
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Lake Oswego Transit Center or Portland",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 36,
+                "rte_desc": "36-South Shore",
+                "stop_id": 5302,
+                "stop_name": "South Shore & Greentree",
+                "stop_seq": 1550,
+                "type": "BUS",
+                "zipcode": "97034"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67641501100557,
+                    45.522880235484514
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Lake Oswego Transit Center or Portland",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 36,
+                "rte_desc": "36-South Shore",
+                "stop_id": 7751,
+                "stop_name": "SW 6th & W Burnside",
+                "stop_seq": 3700,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66122353123721,
+                    45.42343350056407
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Lake Oswego Transit Center or Portland",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 36,
+                "rte_desc": "36-South Shore",
+                "stop_id": 5508,
+                "stop_name": "N State & E Ave",
+                "stop_seq": 2400,
+                "type": "BUS",
+                "zipcode": "97034"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66929183657892,
+                    45.4095381494508
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Lake Oswego Transit Center or Portland",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 36,
+                "rte_desc": "36-South Shore",
+                "stop_id": 3815,
+                "stop_name": "McVey & Maple",
+                "stop_seq": 1850,
+                "type": "BUS",
+                "zipcode": "97034"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67892997079146,
+                    45.51013995252431
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Lake Oswego Transit Center or Portland",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 36,
+                "rte_desc": "36-South Shore",
+                "stop_id": 2567,
+                "stop_name": "200 Block SW Harrison",
+                "stop_seq": 3450,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68109464303544,
+                    45.51426672816957
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Lake Oswego Transit Center or Portland",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 36,
+                "rte_desc": "36-South Shore",
+                "stop_id": 11486,
+                "stop_name": "SW 6th & Columbia",
+                "stop_seq": 3550,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67968720178953,
+                    45.51693373366212
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Lake Oswego Transit Center or Portland",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 36,
+                "rte_desc": "36-South Shore",
+                "stop_id": 7789,
+                "stop_name": "SW 6th & Salmon",
+                "stop_seq": 3600,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67785941932121,
+                    45.520244003919665
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Lake Oswego Transit Center or Portland",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 36,
+                "rte_desc": "36-South Shore",
+                "stop_id": 7803,
+                "stop_name": "SW 6th & Washington",
+                "stop_seq": 3650,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67272574025353,
+                    45.49918447763752
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Lake Oswego Transit Center or Portland",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 36,
+                "rte_desc": "36-South Shore",
+                "stop_id": 13185,
+                "stop_name": "SW Macadam & Tram Tower",
+                "stop_seq": 3300,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67845128890315,
+                    45.50381151013754
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Lake Oswego Transit Center or Portland",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 36,
+                "rte_desc": "36-South Shore",
+                "stop_id": 143,
+                "stop_name": "SW Arthur & 1st",
+                "stop_seq": 3350,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67853678136471,
+                    45.50668710429442
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Lake Oswego Transit Center or Portland",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 36,
+                "rte_desc": "36-South Shore",
+                "stop_id": 6472,
+                "stop_name": "2200 Block SW 1st",
+                "stop_seq": 3400,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68264818379635,
+                    45.51105825464804
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Lake Oswego Transit Center or Portland",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 36,
+                "rte_desc": "36-South Shore",
+                "stop_id": 13305,
+                "stop_name": "SW Harrison & 6th",
+                "stop_seq": 3500,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74321144797285,
+                    45.396537306038745
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Lake Oswego Transit Center or Portland",
+                "frequent": "False",
+                "jurisdic": "Tualatin",
+                "rte": 36,
+                "rte_desc": "36-South Shore",
+                "stop_id": 13195,
+                "stop_name": "SW Lower Boones Ferry & McEwan Rd",
+                "stop_seq": 200,
+                "type": "BUS",
+                "zipcode": "97035"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73875812909692,
+                    45.39877839117746
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Lake Oswego Transit Center or Portland",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 36,
+                "rte_desc": "36-South Shore",
+                "stop_id": 11780,
+                "stop_name": "Boones Ferry Rd & Jean",
+                "stop_seq": 350,
+                "type": "BUS",
+                "zipcode": "97035"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73768371669178,
+                    45.39700194600316
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Lake Oswego Transit Center or Portland",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 36,
+                "rte_desc": "36-South Shore",
+                "stop_id": 13856,
+                "stop_name": "Jean Rd & Jean Way",
+                "stop_seq": 500,
+                "type": "BUS",
+                "zipcode": "97035"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73300707469441,
+                    45.39699586259605
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Lake Oswego Transit Center or Portland",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 36,
+                "rte_desc": "36-South Shore",
+                "stop_id": 13857,
+                "stop_name": "Jean Rd & Pilkington",
+                "stop_seq": 650,
+                "type": "BUS",
+                "zipcode": "97035"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

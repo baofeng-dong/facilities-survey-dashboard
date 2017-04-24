@@ -1,0 +1,1391 @@
+{
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72325067945205,
+                    45.475875068406836
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 10466,
+                "stop_name": "SW 45th & Vermont",
+                "stop_seq": 95,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72324120799388,
+                    45.473725953475146
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 9328,
+                "stop_name": "SW 45th & Nevada",
+                "stop_seq": 125,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72323389042326,
+                    45.472199107559604
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 7540,
+                "stop_name": "SW 45th & Caldew",
+                "stop_seq": 150,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72870528813145,
+                    45.46797247958138
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 7668,
+                "stop_name": "SW 51st & Moss",
+                "stop_seq": 250,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73339450657463,
+                    45.47402811924031
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 7728,
+                "stop_name": "SW 55th & Texas",
+                "stop_seq": 550,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73333352671715,
+                    45.47628466361283
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 7729,
+                "stop_name": "SW 55th & Vermont",
+                "stop_seq": 650,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73571367715927,
+                    45.476409695092364
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 6019,
+                "stop_name": "5700 Block SW Vermont",
+                "stop_seq": 700,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74156186786138,
+                    45.47645992410211
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 6052,
+                "stop_name": "SW Vermont & 63rd",
+                "stop_seq": 800,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74186855506038,
+                    45.477622312077415
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 5222,
+                "stop_name": "SW Shattuck & 63rd",
+                "stop_seq": 900,
+                "type": "BUS",
+                "zipcode": "97221"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7386766140444,
+                    45.47929081207639
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 5221,
+                "stop_name": "SW Shattuck & 60th",
+                "stop_seq": 950,
+                "type": "BUS",
+                "zipcode": "97221"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73480576635629,
+                    45.48351240002997
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 863,
+                "stop_name": "SW Cameron & Shattuck",
+                "stop_seq": 1100,
+                "type": "BUS",
+                "zipcode": "97221"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73161996339654,
+                    45.48348801244362
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 865,
+                "stop_name": "SW Cameron & 53rd",
+                "stop_seq": 1200,
+                "type": "BUS",
+                "zipcode": "97221"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72735969897776,
+                    45.48346832495721
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 862,
+                "stop_name": "SW Cameron & Fairvale Ct",
+                "stop_seq": 1300,
+                "type": "BUS",
+                "zipcode": "97221"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72479534298287,
+                    45.48344499316855
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 861,
+                "stop_name": "4600 Block SW Cameron",
+                "stop_seq": 1350,
+                "type": "BUS",
+                "zipcode": "97221"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7232360392244,
+                    45.48125183856153
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 7555,
+                "stop_name": "SW 45th & Pendleton",
+                "stop_seq": 1450,
+                "type": "BUS",
+                "zipcode": "97221"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72249741315756,
+                    45.476164148334455
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 6045,
+                "stop_name": "SW Vermont & 45th",
+                "stop_seq": 1600,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70594353075721,
+                    45.47599675219318
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 6023,
+                "stop_name": "SW Capitol & Vermont",
+                "stop_seq": 1950,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7017298444323,
+                    45.47597369714922
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 6031,
+                "stop_name": "SW Vermont & Capitol Hwy",
+                "stop_seq": 2050,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69969994579535,
+                    45.475970975634766
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 6017,
+                "stop_name": "1900 Block SW Vermont",
+                "stop_seq": 2100,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69156152811696,
+                    45.474491419104105
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 1053,
+                "stop_name": "SW Chestnut & 12th",
+                "stop_seq": 2400,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69451667386653,
+                    45.47265248570953
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 1051,
+                "stop_name": "SW Chestnut & Bertha",
+                "stop_seq": 2550,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69360054851167,
+                    45.470918074855014
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 467,
+                "stop_name": "1400 Block SW Bertha",
+                "stop_seq": 2600,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68012851343006,
+                    45.480455657162715
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 189,
+                "stop_name": "SW Barbur & Slavin/Capitol Hwy",
+                "stop_seq": 2950,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68251463988024,
+                    45.48767712840085
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 156,
+                "stop_name": "4900 Block SW Barbur",
+                "stop_seq": 3000,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67800432287771,
+                    45.495936828305716
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 177,
+                "stop_name": "SW Barbur & Lane",
+                "stop_seq": 3100,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68075635467333,
+                    45.500752912794724
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 197,
+                "stop_name": "SW Barbur & Woods",
+                "stop_seq": 3250,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68911100704037,
+                    45.47102049004152
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 11211,
+                "stop_name": "SW Bertha & Barbur",
+                "stop_seq": 2700,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7232353935922,
+                    45.47038007873023
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 10801,
+                "stop_name": "7500 Block SW 45th",
+                "stop_seq": 175,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72324387660125,
+                    45.48289849067566
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 7544,
+                "stop_name": "SW 45th & Flower Pl",
+                "stop_seq": 1400,
+                "type": "BUS",
+                "zipcode": "97221"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72324385285235,
+                    45.478718642621715
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 7549,
+                "stop_name": "SW 45th & Illinois",
+                "stop_seq": 1550,
+                "type": "BUS",
+                "zipcode": "97221"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71567784912813,
+                    45.47608269286584
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 6042,
+                "stop_name": "SW Vermont & 37th",
+                "stop_seq": 1750,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70348116558586,
+                    45.47599572033405
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 965,
+                "stop_name": "SW Capitol & 26th",
+                "stop_seq": 2001,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69688424607133,
+                    45.47595637030697
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 6022,
+                "stop_name": "SW Vermont & Bertha",
+                "stop_seq": 2250,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69081297998022,
+                    45.47596591489228
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 6025,
+                "stop_name": "SW Vermont & Chestnut",
+                "stop_seq": 2350,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68497570035656,
+                    45.470919191202206
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 193,
+                "stop_name": "SW Barbur & Terwilliger",
+                "stop_seq": 2750,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67772473005718,
+                    45.49118599251005
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 172,
+                "stop_name": "SW Barbur & Hamilton",
+                "stop_seq": 3051,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67907374054063,
+                    45.49775594220434
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 186,
+                "stop_name": "SW Barbur & Pennoyer",
+                "stop_seq": 3150,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6814777506682,
+                    45.50208712044087
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 174,
+                "stop_name": "SW Barbur & Hooker",
+                "stop_seq": 3300,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73854357708079,
+                    45.476431575239786
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 6051,
+                "stop_name": "SW Vermont & 60th",
+                "stop_seq": 750,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74269020684922,
+                    45.476468918716535
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 6030,
+                "stop_name": "SW Vermont & Shattuck",
+                "stop_seq": 850,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73051649846686,
+                    45.472842631921054
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 7700,
+                "stop_name": "SW 52nd & Nevada Ct",
+                "stop_seq": 450,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7202784998019,
+                    45.47613769904654
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 11789,
+                "stop_name": "SW Vermont & Idaho Dr",
+                "stop_seq": 1650,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69334864844991,
+                    45.47596292053068
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 6033,
+                "stop_name": "SW Vermont & 13th",
+                "stop_seq": 2300,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67978695102482,
+                    45.49907017744065
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 195,
+                "stop_name": "SW Barbur & Whitaker",
+                "stop_seq": 3200,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72868795918318,
+                    45.46966843777188
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 7667,
+                "stop_name": "SW 51st & Custer",
+                "stop_seq": 300,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68057487881339,
+                    45.47144891997979
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 203,
+                "stop_name": "SW Barbur & 2nd",
+                "stop_seq": 2800,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70788217772933,
+                    45.47601899714257
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 6036,
+                "stop_name": "SW Vermont & 30th",
+                "stop_seq": 1900,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73046798404533,
+                    45.470858377987135
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 7698,
+                "stop_name": "SW 52nd & Maplewood School",
+                "stop_seq": 400,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72188386484333,
+                    45.47629609307275
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 6029,
+                "stop_name": "SW Vermont & Idaho Dr",
+                "stop_seq": 50,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73235513485645,
+                    45.47292944760687
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 4104,
+                "stop_name": "SW Nevada Ct & 54th",
+                "stop_seq": 500,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68347357095746,
+                    45.506701968560826
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 654,
+                "stop_name": "SW Broadway & 5th",
+                "stop_seq": 3350,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68181137567855,
+                    45.512946379080326
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 7772,
+                "stop_name": "SW 6th & Market",
+                "stop_seq": 3400,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6807614445876,
+                    45.51486977564483
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 7765,
+                "stop_name": "SW 6th & Jefferson",
+                "stop_seq": 3450,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6789745778685,
+                    45.518199280986885
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 7807,
+                "stop_name": "SW 6th & Yamhill",
+                "stop_seq": 3500,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6771722837615,
+                    45.52152502201463
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 7782,
+                "stop_name": "SW 6th & Oak",
+                "stop_seq": 3550,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67723157892468,
+                    45.522897413959754
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 13170,
+                "stop_name": "SW Broadway & W Burnside",
+                "stop_seq": 3600,
+                "type": "BUS",
+                "zipcode": "97205"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67965705474725,
+                    45.47748047459302
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 182,
+                "stop_name": "SW Barbur & Parkhill",
+                "stop_seq": 2900,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71125292495434,
+                    45.47606673806155
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 13769,
+                "stop_name": "SW Vermont & 34th",
+                "stop_seq": 1825,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7362924209051,
+                    45.48257574359754
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 13703,
+                "stop_name": "SW Shattuck & 59th Ct",
+                "stop_seq": 1025,
+                "type": "BUS",
+                "zipcode": "97221"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72401506119918,
+                    45.46753062163561
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 4052,
+                "stop_name": "SW Multnomah & 45th",
+                "stop_seq": 200,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

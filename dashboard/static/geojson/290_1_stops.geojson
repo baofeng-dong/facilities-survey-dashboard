@@ -1,0 +1,402 @@
+{
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68015362720026,
+                    45.50790192640031
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 290,
+                "rte_desc": "MAX Orange Line",
+                "stop_id": 13710,
+                "stop_name": "Lincoln St/SW 3rd Ave MAX Station",
+                "stop_seq": 400,
+                "type": "MAX",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67114064055359,
+                    45.50269295906861
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 290,
+                "rte_desc": "MAX Orange Line",
+                "stop_id": 13711,
+                "stop_name": "South Waterfront/SW Moody MAX Station",
+                "stop_seq": 450,
+                "type": "MAX",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66255941441086,
+                    45.506475114397794
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 290,
+                "rte_desc": "MAX Orange Line",
+                "stop_id": 13712,
+                "stop_name": "OMSI/SE Water MAX Station",
+                "stop_seq": 500,
+                "type": "MAX",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65298550065025,
+                    45.50260393473869
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 290,
+                "rte_desc": "MAX Orange Line",
+                "stop_id": 13713,
+                "stop_name": "Clinton St/SE 12th Ave MAX Station",
+                "stop_seq": 550,
+                "type": "MAX",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64817782348842,
+                    45.497644238837914
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 290,
+                "rte_desc": "MAX Orange Line",
+                "stop_id": 13714,
+                "stop_name": "SE 17th Ave & Rhine St MAX Station",
+                "stop_seq": 600,
+                "type": "MAX",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64854049583367,
+                    45.49063921870076
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 290,
+                "rte_desc": "MAX Orange Line",
+                "stop_id": 13715,
+                "stop_name": "SE 17th Ave & Holgate Blvd MAX Station",
+                "stop_seq": 650,
+                "type": "MAX",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63998983754662,
+                    45.47466662486195
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 290,
+                "rte_desc": "MAX Orange Line",
+                "stop_id": 13716,
+                "stop_name": "SE Bybee Blvd MAX Station",
+                "stop_seq": 700,
+                "type": "MAX",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6374234835441,
+                    45.46263128558037
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 290,
+                "rte_desc": "MAX Orange Line",
+                "stop_id": 13717,
+                "stop_name": "SE Tacoma/Johnson Creek MAX Station",
+                "stop_seq": 750,
+                "type": "MAX",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64005589836295,
+                    45.44102675632903
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Milwaukie",
+                "rte": 290,
+                "rte_desc": "MAX Orange Line",
+                "stop_id": 13718,
+                "stop_name": "Milwaukie/Main St MAX Station",
+                "stop_seq": 800,
+                "type": "MAX",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67560442703862,
+                    45.52673535003867
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 290,
+                "rte_desc": "MAX Orange Line",
+                "stop_id": 7601,
+                "stop_name": "Union Station/NW 5th & Glisan MAX Stn",
+                "stop_seq": 50,
+                "type": "MAX",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67549840464419,
+                    45.523885246783
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 290,
+                "rte_desc": "MAX Orange Line",
+                "stop_id": 9303,
+                "stop_name": "NW 5th & Couch MAX Station",
+                "stop_seq": 100,
+                "type": "MAX",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67617830172131,
+                    45.52157338786237
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 290,
+                "rte_desc": "MAX Orange Line",
+                "stop_id": 7627,
+                "stop_name": "SW 5th & Oak MAX Station",
+                "stop_seq": 150,
+                "type": "MAX",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67793376529407,
+                    45.51825542125225
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 290,
+                "rte_desc": "MAX Orange Line",
+                "stop_id": 7646,
+                "stop_name": "Pioneer Place/SW 5th Ave MAX Station",
+                "stop_seq": 200,
+                "type": "MAX",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67974162318123,
+                    45.51491772389312
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 290,
+                "rte_desc": "MAX Orange Line",
+                "stop_id": 7608,
+                "stop_name": "City Hall/SW 5th & Jefferson MAX Station",
+                "stop_seq": 250,
+                "type": "MAX",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68155076155331,
+                    45.511644700168986
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 290,
+                "rte_desc": "MAX Orange Line",
+                "stop_id": 7618,
+                "stop_name": "PSU Urban Center/SW 5th & Mill MAX Station",
+                "stop_seq": 300,
+                "type": "MAX",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68299881410887,
+                    45.50897935357969
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 290,
+                "rte_desc": "MAX Orange Line",
+                "stop_id": 7606,
+                "stop_name": "PSU South/SW 5th & Jackson MAX Stn",
+                "stop_seq": 350,
+                "type": "MAX",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63506495298192,
+                    45.430734003586345
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "True",
+                "jurisdic": "Clackamas Co.",
+                "rte": 290,
+                "rte_desc": "MAX Orange Line",
+                "stop_id": 13720,
+                "stop_name": "SE Park Ave MAX Station",
+                "stop_seq": 900,
+                "type": "MAX",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

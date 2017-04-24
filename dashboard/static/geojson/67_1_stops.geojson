@@ -1,0 +1,655 @@
+{
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.84108996250261,
+                    45.53435391421723
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Merlo Rd/158th Ave",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 67,
+                "rte_desc": "67-Bethany/158th",
+                "stop_id": 8779,
+                "stop_name": "NW Bethany & Bronson",
+                "stop_seq": 975,
+                "type": "BUS",
+                "zipcode": "97006"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.84070302872938,
+                    45.507975711190845
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Merlo Rd/158th Ave",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 67,
+                "rte_desc": "67-Bethany/158th",
+                "stop_id": 9252,
+                "stop_name": "SW 158th & Jenkins",
+                "stop_seq": 1400,
+                "type": "BUS",
+                "zipcode": "97006"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.85942626408945,
+                    45.566013935676885
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Merlo Rd/158th Ave",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 67,
+                "rte_desc": "67-Bethany/158th",
+                "stop_id": 4429,
+                "stop_name": "PCC Rock Creek Main Stop",
+                "stop_seq": 50,
+                "type": "BUS",
+                "zipcode": "97229"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.85181393249172,
+                    45.56302513709623
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Merlo Rd/158th Ave",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 67,
+                "rte_desc": "67-Bethany/158th",
+                "stop_id": 10102,
+                "stop_name": "NW Springville & Samuel Drive",
+                "stop_seq": 150,
+                "type": "BUS",
+                "zipcode": "97229"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.8453387623422,
+                    45.56471017699287
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Merlo Rd/158th Ave",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 67,
+                "rte_desc": "67-Bethany/158th",
+                "stop_id": 10100,
+                "stop_name": "NW Springville & Sickle Terrace",
+                "stop_seq": 250,
+                "type": "BUS",
+                "zipcode": "97229"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.83567570498566,
+                    45.56491952616911
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Merlo Rd/158th Ave",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 67,
+                "rte_desc": "67-Bethany/158th",
+                "stop_id": 10105,
+                "stop_name": "NW Kaiser & Graf St",
+                "stop_seq": 400,
+                "type": "BUS",
+                "zipcode": "97229"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.8368966655015,
+                    45.556034046474
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Merlo Rd/158th Ave",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 67,
+                "rte_desc": "67-Bethany/158th",
+                "stop_id": 10107,
+                "stop_name": "NW Bethany & Laidlaw",
+                "stop_seq": 550,
+                "type": "BUS",
+                "zipcode": "97229"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.8369281217425,
+                    45.55083488152611
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Merlo Rd/158th Ave",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 67,
+                "rte_desc": "67-Bethany/158th",
+                "stop_id": 10109,
+                "stop_name": "NW Bethany & Claremont Dr",
+                "stop_seq": 650,
+                "type": "BUS",
+                "zipcode": "97229"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.83694775895124,
+                    45.54697561186612
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Merlo Rd/158th Ave",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 67,
+                "rte_desc": "67-Bethany/158th",
+                "stop_id": 10110,
+                "stop_name": "NW Bethany & Saint Andrews",
+                "stop_seq": 700,
+                "type": "BUS",
+                "zipcode": "97229"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.84045470238195,
+                    45.542195974909326
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Merlo Rd/158th Ave",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 67,
+                "rte_desc": "67-Bethany/158th",
+                "stop_id": 10112,
+                "stop_name": "NW Bethany & Ridgetop Lane",
+                "stop_seq": 800,
+                "type": "BUS",
+                "zipcode": "97006"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.84051218490688,
+                    45.540481481544695
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Merlo Rd/158th Ave",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 67,
+                "rte_desc": "67-Bethany/158th",
+                "stop_id": 10113,
+                "stop_name": "NW Bethany & Telshire Terrace",
+                "stop_seq": 850,
+                "type": "BUS",
+                "zipcode": "97006"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.83974977279291,
+                    45.52641300273962
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Merlo Rd/158th Ave",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 67,
+                "rte_desc": "67-Bethany/158th",
+                "stop_id": 6829,
+                "stop_name": "NW 158th & Greenbrier Pkwy",
+                "stop_seq": 1150,
+                "type": "BUS",
+                "zipcode": "97006"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.83972040535923,
+                    45.52376921762094
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Merlo Rd/158th Ave",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 67,
+                "rte_desc": "67-Bethany/158th",
+                "stop_id": 8474,
+                "stop_name": "NW 158th & Blueridge",
+                "stop_seq": 1200,
+                "type": "BUS",
+                "zipcode": "97006"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.83979474660316,
+                    45.51634514770174
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Merlo Rd/158th Ave",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 67,
+                "rte_desc": "67-Bethany/158th",
+                "stop_id": 6833,
+                "stop_name": "SW 158th & Walker",
+                "stop_seq": 1300,
+                "type": "BUS",
+                "zipcode": "97006"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.85602664247294,
+                    45.5629474942252
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Merlo Rd/158th Ave",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 67,
+                "rte_desc": "67-Bethany/158th",
+                "stop_id": 10103,
+                "stop_name": "NW Springville & 173rd",
+                "stop_seq": 100,
+                "type": "BUS",
+                "zipcode": "97229"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.84837331339058,
+                    45.56389783658021
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Merlo Rd/158th Ave",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 67,
+                "rte_desc": "67-Bethany/158th",
+                "stop_id": 10101,
+                "stop_name": "NW Springville & 165th Terrace",
+                "stop_seq": 200,
+                "type": "BUS",
+                "zipcode": "97229"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.83466994060277,
+                    45.55956988711942
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Merlo Rd/158th Ave",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 67,
+                "rte_desc": "67-Bethany/158th",
+                "stop_id": 10106,
+                "stop_name": "NW Bethany & Wismer",
+                "stop_seq": 500,
+                "type": "BUS",
+                "zipcode": "97229"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.83693880313152,
+                    45.55404203368314
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Merlo Rd/158th Ave",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 67,
+                "rte_desc": "67-Bethany/158th",
+                "stop_id": 10108,
+                "stop_name": "4700 Block NW Bethany",
+                "stop_seq": 600,
+                "type": "BUS",
+                "zipcode": "97229"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.83851771221592,
+                    45.54465521467678
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Merlo Rd/158th Ave",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 67,
+                "rte_desc": "67-Bethany/158th",
+                "stop_id": 10111,
+                "stop_name": "NW Bethany & West Union",
+                "stop_seq": 750,
+                "type": "BUS",
+                "zipcode": "97229"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.84056436922357,
+                    45.53818798716747
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Merlo Rd/158th Ave",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 67,
+                "rte_desc": "67-Bethany/158th",
+                "stop_id": 10114,
+                "stop_name": "NW Bethany & Oak Hills Dr",
+                "stop_seq": 900,
+                "type": "BUS",
+                "zipcode": "97006"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.83974213780647,
+                    45.520076183788674
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Merlo Rd/158th Ave",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 67,
+                "rte_desc": "67-Bethany/158th",
+                "stop_id": 8230,
+                "stop_name": "NW 158th & Schendel",
+                "stop_seq": 1250,
+                "type": "BUS",
+                "zipcode": "97006"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.83964744186707,
+                    45.51326594453709
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Merlo Rd/158th Ave",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 67,
+                "rte_desc": "67-Bethany/158th",
+                "stop_id": 10182,
+                "stop_name": "800 Block SW 158th",
+                "stop_seq": 1350,
+                "type": "BUS",
+                "zipcode": "97006"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.8420518918388,
+                    45.56520110931803
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Merlo Rd/158th Ave",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 67,
+                "rte_desc": "67-Bethany/158th",
+                "stop_id": 10099,
+                "stop_name": "NW Springville & Oats Terrace",
+                "stop_seq": 300,
+                "type": "BUS",
+                "zipcode": "97229"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.83508150820742,
+                    45.56274948955284
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Merlo Rd/158th Ave",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 67,
+                "rte_desc": "67-Bethany/158th",
+                "stop_id": 10104,
+                "stop_name": "NW Kaiser & Westbrook",
+                "stop_seq": 450,
+                "type": "BUS",
+                "zipcode": "97229"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.84298805179057,
+                    45.53055221147287
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Merlo Rd/158th Ave",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 67,
+                "rte_desc": "67-Bethany/158th",
+                "stop_id": 10115,
+                "stop_name": "NW Bethany & Cornell",
+                "stop_seq": 1050,
+                "type": "BUS",
+                "zipcode": "97006"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.83629759916485,
+                    45.56632628226636
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Merlo Rd/158th Ave",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 67,
+                "rte_desc": "67-Bethany/158th",
+                "stop_id": 10098,
+                "stop_name": "NW Springville & Kaiser Rd",
+                "stop_seq": 350,
+                "type": "BUS",
+                "zipcode": "97229"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.84068453505621,
+                    45.529304637173645
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Merlo Rd/158th Ave",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 67,
+                "rte_desc": "67-Bethany/158th",
+                "stop_id": 13205,
+                "stop_name": "NW Cornell & 158th",
+                "stop_seq": 1100,
+                "type": "BUS",
+                "zipcode": "97006"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.84206124109217,
+                    45.50532379248198
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Merlo Rd/158th Ave",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 67,
+                "rte_desc": "67-Bethany/158th",
+                "stop_id": 12899,
+                "stop_name": "Merlo Rd/SW 158th MAX Stn Turnaround",
+                "stop_seq": 1450,
+                "type": "BUS",
+                "zipcode": "97003"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

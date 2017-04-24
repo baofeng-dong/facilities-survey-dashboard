@@ -1,0 +1,471 @@
+{
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68652053151128,
+                    45.49702571280562
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 64,
+                "rte_desc": "64-Marquam Hill/Tigard",
+                "stop_id": 10612,
+                "stop_name": "3515 SW US Veterans Rd",
+                "stop_seq": 35,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7534042924737,
+                    45.438954710391876
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 64,
+                "rte_desc": "64-Marquam Hill/Tigard",
+                "stop_id": 10639,
+                "stop_name": "11600 Block SW Pacific Hwy",
+                "stop_seq": 425,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7134339188214,
+                    45.46829005610519
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 64,
+                "rte_desc": "64-Marquam Hill/Tigard",
+                "stop_id": 5878,
+                "stop_name": "SW Troy & 35th",
+                "stop_seq": 350,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68815613954094,
+                    45.49735520503011
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 64,
+                "rte_desc": "64-Marquam Hill/Tigard",
+                "stop_id": 9488,
+                "stop_name": "3505 SW US Veterans Rd",
+                "stop_seq": 45,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70418812266034,
+                    45.47612714612064
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 64,
+                "rte_desc": "64-Marquam Hill/Tigard",
+                "stop_id": 966,
+                "stop_name": "SW Capitol & 26th",
+                "stop_seq": 300,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71418671701642,
+                    45.467828537144065
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 64,
+                "rte_desc": "64-Marquam Hill/Tigard",
+                "stop_id": 10865,
+                "stop_name": "SW 36th & Capitol Hwy",
+                "stop_seq": 355,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7204557872064,
+                    45.45476194104639
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 64,
+                "rte_desc": "64-Marquam Hill/Tigard",
+                "stop_id": 930,
+                "stop_name": "SW Capitol & Taylors Ferry",
+                "stop_seq": 357,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68514079906794,
+                    45.49887720517788
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 64,
+                "rte_desc": "64-Marquam Hill/Tigard",
+                "stop_id": 871,
+                "stop_name": "SW Campus Dr & Loading Dock 5",
+                "stop_seq": 100,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68590102057397,
+                    45.497876895369586
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 64,
+                "rte_desc": "64-Marquam Hill/Tigard",
+                "stop_id": 10176,
+                "stop_name": "700 SW Campus Dr at Doernbecher",
+                "stop_seq": 125,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68430258691197,
+                    45.498186562258525
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 64,
+                "rte_desc": "64-Marquam Hill/Tigard",
+                "stop_id": 868,
+                "stop_name": "SW Campus Dr & OHSU Garage F",
+                "stop_seq": 150,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68716115199707,
+                    45.49904224530831
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 64,
+                "rte_desc": "64-Marquam Hill/Tigard",
+                "stop_id": 5032,
+                "stop_name": "SW Sam Jackson Pk & US Veterans",
+                "stop_seq": 55,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71767304040979,
+                    45.45446802053934
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 64,
+                "rte_desc": "64-Marquam Hill/Tigard",
+                "stop_id": 8213,
+                "stop_name": "Barbur Transit Center",
+                "stop_seq": 360,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68221997802769,
+                    45.49642214627816
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 64,
+                "rte_desc": "64-Marquam Hill/Tigard",
+                "stop_id": 8455,
+                "stop_name": "SW US Veterans Rd & Bldg #16",
+                "stop_seq": 15,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69321930207246,
+                    45.47889611121874
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 64,
+                "rte_desc": "64-Marquam Hill/Tigard",
+                "stop_id": 955,
+                "stop_name": "SW Capitol & Sunset",
+                "stop_seq": 250,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6855354526294,
+                    45.49933602534843
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 64,
+                "rte_desc": "64-Marquam Hill/Tigard",
+                "stop_id": 5028,
+                "stop_name": "SW Sam Jackson Pk & OHSU",
+                "stop_seq": 65,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68426545105717,
+                    45.500298423399734
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 64,
+                "rte_desc": "64-Marquam Hill/Tigard",
+                "stop_id": 5027,
+                "stop_name": "SW Sam Jackson Pk & Campus Dr",
+                "stop_seq": 75,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68327068056084,
+                    45.49705833364313
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 64,
+                "rte_desc": "64-Marquam Hill/Tigard",
+                "stop_id": 5975,
+                "stop_name": "US Veterans Hospital",
+                "stop_seq": 25,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7693403921675,
+                    45.430064807973814
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 64,
+                "rte_desc": "64-Marquam Hill/Tigard",
+                "stop_id": 5846,
+                "stop_name": "Tigard Transit Center",
+                "stop_seq": 450,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71195177274194,
+                    45.47618634708082
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 64,
+                "rte_desc": "64-Marquam Hill/Tigard",
+                "stop_id": 13768,
+                "stop_name": "SW Vermont & 34th",
+                "stop_seq": 325,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68257202304343,
+                    45.49910833412138
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 64,
+                "rte_desc": "64-Marquam Hill/Tigard",
+                "stop_id": 870,
+                "stop_name": "SW Campus Dr & Terwilliger",
+                "stop_seq": 200,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

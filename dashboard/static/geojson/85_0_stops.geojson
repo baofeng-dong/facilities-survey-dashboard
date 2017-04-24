@@ -1,0 +1,402 @@
+{
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70255439119585,
+                    45.557679641482764
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Swan Island",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 85,
+                "rte_desc": "85-Swan Island",
+                "stop_id": 3315,
+                "stop_name": "N Lagoon & Anchor",
+                "stop_seq": 300,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70172308622487,
+                    45.56033681834827
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Swan Island",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 85,
+                "rte_desc": "85-Swan Island",
+                "stop_id": 324,
+                "stop_name": "N Basin & Pacific Pride",
+                "stop_seq": 350,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71102236879564,
+                    45.56853729903526
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Swan Island",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 85,
+                "rte_desc": "85-Swan Island",
+                "stop_id": 314,
+                "stop_name": "6300 Block N Basin",
+                "stop_seq": 700,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71434567816135,
+                    45.56980687433092
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Swan Island",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 85,
+                "rte_desc": "85-Swan Island",
+                "stop_id": 320,
+                "stop_name": "N Basin & Ensign",
+                "stop_seq": 750,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69865489296906,
+                    45.55628903460048
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Swan Island",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 85,
+                "rte_desc": "85-Swan Island",
+                "stop_id": 2161,
+                "stop_name": "N Going & Port Center Way",
+                "stop_seq": 250,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70450658584426,
+                    45.56231057174486
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Swan Island",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 85,
+                "rte_desc": "85-Swan Island",
+                "stop_id": 318,
+                "stop_name": "N Basin & Emerson",
+                "stop_seq": 400,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7175609891527,
+                    45.57149117225124
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Swan Island",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 85,
+                "rte_desc": "85-Swan Island",
+                "stop_id": 321,
+                "stop_name": "N Basin & Fathom",
+                "stop_seq": 800,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69230792305464,
+                    45.555588671703795
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Swan Island",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 85,
+                "rte_desc": "85-Swan Island",
+                "stop_id": 2195,
+                "stop_name": "N Greeley & Going Overpass",
+                "stop_seq": 200,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67523410126829,
+                    45.53954934957816
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Swan Island",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 85,
+                "rte_desc": "85-Swan Island",
+                "stop_id": 11839,
+                "stop_name": "N Interstate & Albina",
+                "stop_seq": 150,
+                "type": "BUS",
+                "zipcode": "97227"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70545060701465,
+                    45.56834553633314
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Swan Island",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 85,
+                "rte_desc": "85-Swan Island",
+                "stop_id": 11947,
+                "stop_name": "N Cutter Circle & Leverman",
+                "stop_seq": 500,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70190872115529,
+                    45.56663718767319
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Swan Island",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 85,
+                "rte_desc": "85-Swan Island",
+                "stop_id": 11948,
+                "stop_name": "6000 Block N Cutter Circle",
+                "stop_seq": 550,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70182458251122,
+                    45.5688437889246
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Swan Island",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 85,
+                "rte_desc": "85-Swan Island",
+                "stop_id": 11949,
+                "stop_name": "6300 Block N Cutter Circle",
+                "stop_seq": 600,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70574166058933,
+                    45.569074164415476
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Swan Island",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 85,
+                "rte_desc": "85-Swan Island",
+                "stop_id": 11950,
+                "stop_name": "N Leverman & Cutter Circle",
+                "stop_seq": 650,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71988439219427,
+                    45.57246778879225
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Swan Island",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 85,
+                "rte_desc": "85-Swan Island",
+                "stop_id": 316,
+                "stop_name": "6700 Block N Basin (Coast Guard)",
+                "stop_seq": 850,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70831113470055,
+                    45.56647462471038
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Swan Island",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 85,
+                "rte_desc": "85-Swan Island",
+                "stop_id": 12383,
+                "stop_name": "N Leverman & Basin",
+                "stop_seq": 450,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66647593582104,
+                    45.53000537698145
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Swan Island",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 85,
+                "rte_desc": "85-Swan Island",
+                "stop_id": 2592,
+                "stop_name": "Rose Quarter Transit Center",
+                "stop_seq": 50,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6712014407081,
+                    45.532536556207695
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Swan Island",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 85,
+                "rte_desc": "85-Swan Island",
+                "stop_id": 3365,
+                "stop_name": "N Interstate & Larrabee",
+                "stop_seq": 100,
+                "type": "BUS",
+                "zipcode": "97227"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

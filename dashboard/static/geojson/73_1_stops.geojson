@@ -1,0 +1,1184 @@
+{
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56624631178272,
+                    45.479259380523075
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 73,
+                "rte_desc": "73-122nd Ave",
+                "stop_id": 1831,
+                "stop_name": "SE Foster & 94th (I-205 Overpass)",
+                "stop_seq": 25,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56749666283287,
+                    45.479585849998564
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 73,
+                "rte_desc": "73-122nd Ave",
+                "stop_id": 13236,
+                "stop_name": "SE Foster & 94th",
+                "stop_seq": 50,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56878963147199,
+                    45.479066485406875
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 73,
+                "rte_desc": "73-122nd Ave",
+                "stop_id": 6427,
+                "stop_name": "SE Woodstock & 92nd",
+                "stop_seq": 100,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56612132476042,
+                    45.478268697229744
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 73,
+                "rte_desc": "73-122nd Ave",
+                "stop_id": 6398,
+                "stop_name": "SE Woodstock & 94th (I-205 West End)",
+                "stop_seq": 150,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5600253851465,
+                    45.477187810828376
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 73,
+                "rte_desc": "73-122nd Ave",
+                "stop_id": 1779,
+                "stop_name": "SE Foster & 101st",
+                "stop_seq": 200,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.55659246467133,
+                    45.476537743387
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 73,
+                "rte_desc": "73-122nd Ave",
+                "stop_id": 1772,
+                "stop_name": "SE Foster & 103rd",
+                "stop_seq": 250,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.55283432470806,
+                    45.47584309729975
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 73,
+                "rte_desc": "73-122nd Ave",
+                "stop_id": 1782,
+                "stop_name": "SE Foster & 107th",
+                "stop_seq": 300,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.54872233271459,
+                    45.47600754900719
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 73,
+                "rte_desc": "73-122nd Ave",
+                "stop_id": 1784,
+                "stop_name": "SE Foster & 110th Dr",
+                "stop_seq": 350,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.54360797779901,
+                    45.476337440100835
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 73,
+                "rte_desc": "73-122nd Ave",
+                "stop_id": 1773,
+                "stop_name": "11600 Block SE Foster",
+                "stop_seq": 400,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53995771447691,
+                    45.47640312146021
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 73,
+                "rte_desc": "73-122nd Ave",
+                "stop_id": 1766,
+                "stop_name": "SE Foster & 120th",
+                "stop_seq": 450,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53694255986821,
+                    45.47711096533611
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 73,
+                "rte_desc": "73-122nd Ave",
+                "stop_id": 6626,
+                "stop_name": "SE 122nd & Foster",
+                "stop_seq": 500,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53706557741762,
+                    45.48006696283035
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 73,
+                "rte_desc": "73-122nd Ave",
+                "stop_id": 6657,
+                "stop_name": "SE 122nd & Ramona",
+                "stop_seq": 550,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53778536431801,
+                    45.483000587499184
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 73,
+                "rte_desc": "73-122nd Ave",
+                "stop_id": 6633,
+                "stop_name": "SE 122nd & Harold",
+                "stop_seq": 600,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53768212806908,
+                    45.486193052878725
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 73,
+                "rte_desc": "73-122nd Ave",
+                "stop_id": 6660,
+                "stop_name": "SE 122nd & Raymond",
+                "stop_seq": 650,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53762201859428,
+                    45.48764527972761
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 73,
+                "rte_desc": "73-122nd Ave",
+                "stop_id": 9487,
+                "stop_name": "SE 122nd & Schiller",
+                "stop_seq": 700,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53756647208704,
+                    45.48940410574648
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 73,
+                "rte_desc": "73-122nd Ave",
+                "stop_id": 6635,
+                "stop_name": "SE 122nd & Holgate",
+                "stop_seq": 750,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53752370175418,
+                    45.49177527450841
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 73,
+                "rte_desc": "73-122nd Ave",
+                "stop_id": 6618,
+                "stop_name": "SE 122nd & Boise",
+                "stop_seq": 800,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53751904483669,
+                    45.49467867589391
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 73,
+                "rte_desc": "73-122nd Ave",
+                "stop_id": 6624,
+                "stop_name": "SE 122nd & Bush",
+                "stop_seq": 850,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53750442578225,
+                    45.497343251073936
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 73,
+                "rte_desc": "73-122nd Ave",
+                "stop_id": 6655,
+                "stop_name": "SE 122nd & Powell",
+                "stop_seq": 900,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53750606648588,
+                    45.500825532642864
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 73,
+                "rte_desc": "73-122nd Ave",
+                "stop_id": 6675,
+                "stop_name": "SE 122nd & Woodward Pl",
+                "stop_seq": 950,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53749699246248,
+                    45.504517433738684
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 73,
+                "rte_desc": "73-122nd Ave",
+                "stop_id": 6630,
+                "stop_name": "SE 122nd & Division",
+                "stop_seq": 1000,
+                "type": "BUS",
+                "zipcode": "97233"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53753183262761,
+                    45.50814675547287
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 73,
+                "rte_desc": "73-122nd Ave",
+                "stop_id": 6640,
+                "stop_name": "SE 122nd & Lincoln",
+                "stop_seq": 1050,
+                "type": "BUS",
+                "zipcode": "97233"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5375196202938,
+                    45.51135410575724
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 73,
+                "rte_desc": "73-122nd Ave",
+                "stop_id": 6645,
+                "stop_name": "SE 122nd & Market",
+                "stop_seq": 1100,
+                "type": "BUS",
+                "zipcode": "97233"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53753218374183,
+                    45.51284483151524
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 73,
+                "rte_desc": "73-122nd Ave",
+                "stop_id": 6642,
+                "stop_name": "SE 122nd & Madison",
+                "stop_seq": 1150,
+                "type": "BUS",
+                "zipcode": "97233"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53756734863134,
+                    45.514982917696656
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 73,
+                "rte_desc": "73-122nd Ave",
+                "stop_id": 6669,
+                "stop_name": "SE 122nd & Salmon",
+                "stop_seq": 1200,
+                "type": "BUS",
+                "zipcode": "97233"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53758679378753,
+                    45.516281904965176
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 73,
+                "rte_desc": "73-122nd Ave",
+                "stop_id": 8940,
+                "stop_name": "SE 122nd & Midland Library",
+                "stop_seq": 1250,
+                "type": "BUS",
+                "zipcode": "97233"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53762013776698,
+                    45.51988250133162
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 73,
+                "rte_desc": "73-122nd Ave",
+                "stop_id": 6652,
+                "stop_name": "SE 122nd & Oak",
+                "stop_seq": 1300,
+                "type": "BUS",
+                "zipcode": "97233"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53761087774953,
+                    45.52227006835012
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 73,
+                "rte_desc": "73-122nd Ave",
+                "stop_id": 6621,
+                "stop_name": "SE 122nd & E Burnside",
+                "stop_seq": 1350,
+                "type": "BUS",
+                "zipcode": "97233"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53759771964512,
+                    45.525342482377575
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 73,
+                "rte_desc": "73-122nd Ave",
+                "stop_id": 6611,
+                "stop_name": "300 Block NE 122nd",
+                "stop_seq": 1400,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53757838951184,
+                    45.527441547981994
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 73,
+                "rte_desc": "73-122nd Ave",
+                "stop_id": 6648,
+                "stop_name": "500 Block NE 122nd Ave",
+                "stop_seq": 1450,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53752469679955,
+                    45.53120362985912
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 73,
+                "rte_desc": "73-122nd Ave",
+                "stop_id": 6651,
+                "stop_name": "NE 122nd & Multnomah",
+                "stop_seq": 1500,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53751043694102,
+                    45.53266765808136
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 73,
+                "rte_desc": "73-122nd Ave",
+                "stop_id": 9027,
+                "stop_name": "NE 122nd & Wasco",
+                "stop_seq": 1550,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53746968859834,
+                    45.534288654592764
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 73,
+                "rte_desc": "73-122nd Ave",
+                "stop_id": 6628,
+                "stop_name": "NE 122nd & Halsey",
+                "stop_seq": 1600,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5374386989647,
+                    45.53692450965679
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 73,
+                "rte_desc": "73-122nd Ave",
+                "stop_id": 6670,
+                "stop_name": "NE 122nd & San Rafael",
+                "stop_seq": 1650,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53739099693091,
+                    45.539818858987715
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 73,
+                "rte_desc": "73-122nd Ave",
+                "stop_id": 6620,
+                "stop_name": "NE 122nd & Brazee",
+                "stop_seq": 1700,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53730579845714,
+                    45.54295096501581
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 73,
+                "rte_desc": "73-122nd Ave",
+                "stop_id": 6673,
+                "stop_name": "NE 122nd & Stanton",
+                "stop_seq": 1750,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5371708771355,
+                    45.54842724199691
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 73,
+                "rte_desc": "73-122nd Ave",
+                "stop_id": 8907,
+                "stop_name": "NE 122nd & Fremont",
+                "stop_seq": 1800,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53708335293653,
+                    45.5512951420203
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 73,
+                "rte_desc": "73-122nd Ave",
+                "stop_id": 6654,
+                "stop_name": "NE 122nd & Shaver",
+                "stop_seq": 1850,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53808592373879,
+                    45.55509590165684
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 73,
+                "rte_desc": "73-122nd Ave",
+                "stop_id": 6604,
+                "stop_name": "NE 121st Pl & Prescott",
+                "stop_seq": 1900,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5412846347496,
+                    45.55542537508176
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 73,
+                "rte_desc": "73-122nd Ave",
+                "stop_id": 4740,
+                "stop_name": "NE Prescott & 118th",
+                "stop_seq": 1950,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.544035540157,
+                    45.55544042514385
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 73,
+                "rte_desc": "73-122nd Ave",
+                "stop_id": 4738,
+                "stop_name": "NE Prescott & 115th",
+                "stop_seq": 2000,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.54735402366228,
+                    45.55544017016636
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 73,
+                "rte_desc": "73-122nd Ave",
+                "stop_id": 4736,
+                "stop_name": "NE Prescott & 112th",
+                "stop_seq": 2050,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.54950900297746,
+                    45.55544998399533
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 73,
+                "rte_desc": "73-122nd Ave",
+                "stop_id": 4734,
+                "stop_name": "NE Prescott & 110th",
+                "stop_seq": 2100,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.55253520218064,
+                    45.55544932556763
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 73,
+                "rte_desc": "73-122nd Ave",
+                "stop_id": 4726,
+                "stop_name": "10700 Block NE Prescott",
+                "stop_seq": 2150,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.55461397531411,
+                    45.55548095662003
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 73,
+                "rte_desc": "73-122nd Ave",
+                "stop_id": 4732,
+                "stop_name": "NE Prescott & 105th",
+                "stop_seq": 2200,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.55849007742663,
+                    45.55547257929731
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 73,
+                "rte_desc": "73-122nd Ave",
+                "stop_id": 4730,
+                "stop_name": "NE Prescott & 102nd",
+                "stop_seq": 2250,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56090092090905,
+                    45.555450055250276
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 73,
+                "rte_desc": "73-122nd Ave",
+                "stop_id": 4771,
+                "stop_name": "NE Prescott & 99th",
+                "stop_seq": 2300,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56269833754571,
+                    45.55544415528164
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 73,
+                "rte_desc": "73-122nd Ave",
+                "stop_id": 8724,
+                "stop_name": "NE Prescott & 97th",
+                "stop_seq": 2350,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56477194386882,
+                    45.55544408516283
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 73,
+                "rte_desc": "73-122nd Ave",
+                "stop_id": 4768,
+                "stop_name": "NE Prescott & 95th",
+                "stop_seq": 2400,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56776534640431,
+                    45.5554534828356
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose Transit Center",
+                "frequent": "False",
+                "jurisdic": "Maywood Park",
+                "rte": 73,
+                "rte_desc": "73-122nd Ave",
+                "stop_id": 4767,
+                "stop_name": "NE Prescott & 92nd",
+                "stop_seq": 2450,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56488772267384,
+                    45.558690808535864
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 73,
+                "rte_desc": "73-122nd Ave",
+                "stop_id": 10851,
+                "stop_name": "Parkrose/ Sumner Transit Center",
+                "stop_seq": 2500,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

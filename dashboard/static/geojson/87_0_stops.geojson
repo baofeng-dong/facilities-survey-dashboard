@@ -1,0 +1,1828 @@
+{
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56318814730095,
+                    45.53003934610571
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 10863,
+                "stop_name": "Gateway Transit Center",
+                "stop_seq": 100,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56086619791836,
+                    45.5294070730263
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 4287,
+                "stop_name": "10000 Block NE Pacific St",
+                "stop_seq": 150,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.55794039594858,
+                    45.53161195406824
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 6522,
+                "stop_name": "1200 Block NE 102nd",
+                "stop_seq": 200,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.55791925338247,
+                    45.534023456659035
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 6531,
+                "stop_name": "NE 102nd & Weidler",
+                "stop_seq": 250,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.55787661346704,
+                    45.536188622296926
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 6518,
+                "stop_name": "NE 102nd & Hancock",
+                "stop_seq": 300,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.55786059962712,
+                    45.537436121213425
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 6530,
+                "stop_name": "NE 102nd & Tillamook",
+                "stop_seq": 350,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.55780894868106,
+                    45.540159381379105
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 6508,
+                "stop_name": "NE 102nd & Brazee",
+                "stop_seq": 400,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.55777521832367,
+                    45.5421068904594
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 8149,
+                "stop_name": "NE 102nd & Knott",
+                "stop_seq": 450,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.55769113249055,
+                    45.544319675146724
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 6521,
+                "stop_name": "NE 102nd & Morris Ct",
+                "stop_seq": 500,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.55763910264766,
+                    45.54797298370623
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 6514,
+                "stop_name": "NE 102nd & Fremont",
+                "stop_seq": 550,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.55767706845243,
+                    45.55020349733952
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 6506,
+                "stop_name": "NE 102nd & Beech",
+                "stop_seq": 600,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.55766770989376,
+                    45.55166430941612
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 6528,
+                "stop_name": "NE 102nd & Shaver",
+                "stop_seq": 650,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.55763737650676,
+                    45.555276088146
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 10842,
+                "stop_name": "NE 102nd & Prescott",
+                "stop_seq": 750,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.55763946298444,
+                    45.55861512464297
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 13639,
+                "stop_name": "NE 102nd & Sandy",
+                "stop_seq": 800,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.55463678067197,
+                    45.56024513173936
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 9105,
+                "stop_name": "NE 105th & Killingsworth",
+                "stop_seq": 850,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.55464214767744,
+                    45.56141677830292
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 9619,
+                "stop_name": "NE 105th & Marx",
+                "stop_seq": 900,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.55463031058657,
+                    45.56535873427257
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 9106,
+                "stop_name": "NE 105th & Simpson",
+                "stop_seq": 950,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.54825728298643,
+                    45.56813706651959
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 9107,
+                "stop_name": "11000 Block NE Holman",
+                "stop_seq": 1000,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.54286438581092,
+                    45.56708030090128
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 9108,
+                "stop_name": "NE Airport Way & Ainsworth Circle",
+                "stop_seq": 1050,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53810727499238,
+                    45.56723577487483
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 10716,
+                "stop_name": "NE Airport Way & Win Sivers Drive",
+                "stop_seq": 1100,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53378512302993,
+                    45.56549997646281
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 9110,
+                "stop_name": "NE Airport Way & 122nd",
+                "stop_seq": 1150,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5274745691455,
+                    45.56261903720164
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 10717,
+                "stop_name": "13100 Block NE Airport Way",
+                "stop_seq": 1200,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.52154233760402,
+                    45.56182012700481
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 9112,
+                "stop_name": "NE Airport Way & 138th",
+                "stop_seq": 1250,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.50987381314884,
+                    45.56151876635487
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 13630,
+                "stop_name": "Portland Habilitation Center",
+                "stop_seq": 1300,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.51040698631263,
+                    45.560849345075326
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 9537,
+                "stop_name": "5200 Block NE 148th (PHC)",
+                "stop_seq": 1350,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.50939381697847,
+                    45.55943800267959
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 10718,
+                "stop_name": "NE Airport Way & 148th",
+                "stop_seq": 1400,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5056689032741,
+                    45.55874464823987
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 10719,
+                "stop_name": "NE Airport Way & 152nd Place",
+                "stop_seq": 1450,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.49947550199153,
+                    45.55731432824539
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 10994,
+                "stop_name": "NE Airport Way & 158th",
+                "stop_seq": 1500,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.4954938379419,
+                    45.55645941541495
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 10720,
+                "stop_name": "16400 Block NE Airport Way",
+                "stop_seq": 1550,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.48980530892969,
+                    45.55380195714141
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 13201,
+                "stop_name": "NE Airport Way & Mason Ct",
+                "stop_seq": 1600,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.48126379305383,
+                    45.55309389709104
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 11014,
+                "stop_name": "NE Airport Way & Riverside",
+                "stop_seq": 1650,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.47730340273573,
+                    45.54631415709256
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 10721,
+                "stop_name": "NE Airport Way & Sandy Blvd",
+                "stop_seq": 1700,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.47748648838338,
+                    45.54407546473166
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 10699,
+                "stop_name": "2900 Block NE 181st",
+                "stop_seq": 1750,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.47744896017048,
+                    45.53998428788588
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 11231,
+                "stop_name": "NE 181st & Wilkes",
+                "stop_seq": 1800,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.47742807991553,
+                    45.53733797530473
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 8714,
+                "stop_name": "NE 181st & San Rafael",
+                "stop_seq": 1850,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.47742889408592,
+                    45.53487160733609
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 8580,
+                "stop_name": "NE 181st & Halsey",
+                "stop_seq": 1900,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.47743964589225,
+                    45.53185105378852
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 6923,
+                "stop_name": "NE 181st & Wasco",
+                "stop_seq": 1950,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.47719135267089,
+                    45.52888050654377
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 13598,
+                "stop_name": "800 Block NE 181st",
+                "stop_seq": 2000,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.47722979435103,
+                    45.526014418845534
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 6920,
+                "stop_name": "NE 181st & Glisan",
+                "stop_seq": 2050,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.47724576984928,
+                    45.52385709503371
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 6912,
+                "stop_name": "NE 181st & Davis",
+                "stop_seq": 2100,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.47272749473376,
+                    45.52061132575595
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 13320,
+                "stop_name": "SE 185th Ave/Rockwood",
+                "stop_seq": 2150,
+                "type": "BUS",
+                "zipcode": "97233"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.4772776790195,
+                    45.52151054429247
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 9061,
+                "stop_name": "SE 181st & E Burnside",
+                "stop_seq": 2200,
+                "type": "BUS",
+                "zipcode": "97233"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.47713548158967,
+                    45.51811283101901
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 11073,
+                "stop_name": "SE 181st Ave & 180th Ave",
+                "stop_seq": 2250,
+                "type": "BUS",
+                "zipcode": "97233"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.47624186175334,
+                    45.51574795718028
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 6929,
+                "stop_name": "SE 181st & Yamhill",
+                "stop_seq": 2300,
+                "type": "BUS",
+                "zipcode": "97233"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.47587921922681,
+                    45.5124197279753
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 6938,
+                "stop_name": "SE 182nd & Market",
+                "stop_seq": 2400,
+                "type": "BUS",
+                "zipcode": "97233"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.4758409949991,
+                    45.509697480601254
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 6943,
+                "stop_name": "SE 182nd & Stephens",
+                "stop_seq": 2450,
+                "type": "BUS",
+                "zipcode": "97233"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.4758044745488,
+                    45.507676181633684
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 6937,
+                "stop_name": "SE 182nd & Lincoln",
+                "stop_seq": 2500,
+                "type": "BUS",
+                "zipcode": "97233"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.47578268103159,
+                    45.50418619190969
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 6935,
+                "stop_name": "SE 182nd & Division",
+                "stop_seq": 2550,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.4757406158803,
+                    45.50085920805693
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 6944,
+                "stop_name": "SE 182nd & Tibbetts",
+                "stop_seq": 2600,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.47569389383882,
+                    45.49676179124539
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 13199,
+                "stop_name": "3500 Block SE 182nd",
+                "stop_seq": 2650,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.47569449875675,
+                    45.49495274448764
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 13076,
+                "stop_name": "SE 182nd & Bush Terrace",
+                "stop_seq": 2700,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.47569873710637,
+                    45.492429551981786
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 8800,
+                "stop_name": "4100 Block SE 182nd",
+                "stop_seq": 2750,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.47568338213013,
+                    45.489889001132646
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 6941,
+                "stop_name": "SE Highland & W Powell",
+                "stop_seq": 2800,
+                "type": "BUS",
+                "zipcode": "97080"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.47567636754741,
+                    45.48843346425346
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 2670,
+                "stop_name": "SW Highland & 11th St",
+                "stop_seq": 2850,
+                "type": "BUS",
+                "zipcode": "97080"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.47474244802618,
+                    45.48622623566505
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 2667,
+                "stop_name": "SW Highland & Linneman",
+                "stop_seq": 2900,
+                "type": "BUS",
+                "zipcode": "97080"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.4725167242144,
+                    45.48543351798994
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 2671,
+                "stop_name": "SW Highland & 14th Dr",
+                "stop_seq": 2950,
+                "type": "BUS",
+                "zipcode": "97080"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.4679288162448,
+                    45.48658118380777
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 6744,
+                "stop_name": "SW 14th Dr & Pleasant View Dr",
+                "stop_seq": 3000,
+                "type": "BUS",
+                "zipcode": "97080"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.4641950832303,
+                    45.48662179948218
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 6742,
+                "stop_name": "SW 14th Dr & Tegart",
+                "stop_seq": 3050,
+                "type": "BUS",
+                "zipcode": "97080"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.46061638074525,
+                    45.486040400025686
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 6737,
+                "stop_name": "SW 14th Dr & Binford",
+                "stop_seq": 3100,
+                "type": "BUS",
+                "zipcode": "97080"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.45885848402108,
+                    45.486461976372496
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 6735,
+                "stop_name": "SW 14th Dr & Battaglia",
+                "stop_seq": 3150,
+                "type": "BUS",
+                "zipcode": "97080"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.45565083086571,
+                    45.48670933680842
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 6739,
+                "stop_name": "SW 14th Dr & Birdsdale",
+                "stop_seq": 3200,
+                "type": "BUS",
+                "zipcode": "97080"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.45329201714999,
+                    45.48400966039681
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 13501,
+                "stop_name": "SW Heiney & 18th Terrace",
+                "stop_seq": 3250,
+                "type": "BUS",
+                "zipcode": "97080"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.45285856364715,
+                    45.48119901418099
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 2650,
+                "stop_name": "SW Heiney & Binford Lake",
+                "stop_seq": 3300,
+                "type": "BUS",
+                "zipcode": "97080"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.44853426577913,
+                    45.48089315824436
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 470,
+                "stop_name": "SW Binford Lake & Towle",
+                "stop_seq": 3350,
+                "type": "BUS",
+                "zipcode": "97080"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.44780568555814,
+                    45.48427682356014
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 13502,
+                "stop_name": "SW Towle & 17th Ct",
+                "stop_seq": 3400,
+                "type": "BUS",
+                "zipcode": "97080"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.4478024518028,
+                    45.48728599173718
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 5853,
+                "stop_name": "SW Towle & 14th",
+                "stop_seq": 3450,
+                "type": "BUS",
+                "zipcode": "97080"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.44780991844216,
+                    45.48977962656534
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 5851,
+                "stop_name": "SW Towle & 10th Dr",
+                "stop_seq": 3500,
+                "type": "BUS",
+                "zipcode": "97080"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.44741001436222,
+                    45.49145447821654
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 1569,
+                "stop_name": "SW Eastman & Birdsdale",
+                "stop_seq": 3550,
+                "type": "BUS",
+                "zipcode": "97080"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.44461916332513,
+                    45.49346135369565
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 1587,
+                "stop_name": "SW Eastman & 4th",
+                "stop_seq": 3600,
+                "type": "BUS",
+                "zipcode": "97080"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.4421129011205,
+                    45.49464717781447
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 1577,
+                "stop_name": "SW Eastman & Florence",
+                "stop_seq": 3650,
+                "type": "BUS",
+                "zipcode": "97080"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.43809357357323,
+                    45.49695802003304
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 1580,
+                "stop_name": "SW Eastman & W Powell",
+                "stop_seq": 3700,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.43634309684982,
+                    45.499876806784165
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 1585,
+                "stop_name": "NW Eastman & 3rd",
+                "stop_seq": 3750,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.43594516981231,
+                    45.50204745426407
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 1582,
+                "stop_name": "600 Block NW Eastman (Townfair)",
+                "stop_seq": 3800,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.43020171286784,
+                    45.5043848961573
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 1348,
+                "stop_name": "NE Division & Main",
+                "stop_seq": 3950,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.42772042672506,
+                    45.5028428523355
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 13506,
+                "stop_name": "Gresham Transit Center",
+                "stop_seq": 4050,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.427270917545,
+                    45.5029925148207
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 13638,
+                "stop_name": "Gresham Transit Center",
+                "stop_seq": 4100,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.43507237684592,
+                    45.50437071738138
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 1331,
+                "stop_name": "NW Division & Eastman Parkway",
+                "stop_seq": 3850,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.47440976702788,
+                    45.52159539863054
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 13345,
+                "stop_name": "E Burnside & E 181st Ave Park & Ride",
+                "stop_seq": 2125,
+                "type": "BUS",
+                "zipcode": "97233"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.47342053489822,
+                    45.48963654792962
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 87,
+                "rte_desc": "87-Airport Way/181st",
+                "stop_id": 4522,
+                "stop_name": "W Powell & SW Duniway",
+                "stop_seq": 2775,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

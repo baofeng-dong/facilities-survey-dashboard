@@ -1,0 +1,540 @@
+{
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68465967958164,
+                    45.45615633819073
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 39,
+                "rte_desc": "39-Lewis & Clark",
+                "stop_id": 5814,
+                "stop_name": "SW Terwilliger & 6th",
+                "stop_seq": 450,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68486080191101,
+                    45.4594274565425
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 39,
+                "rte_desc": "39-Lewis & Clark",
+                "stop_id": 5801,
+                "stop_name": "SW Terwilliger & Primrose",
+                "stop_seq": 550,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68484844212769,
+                    45.46105967522624
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 39,
+                "rte_desc": "39-Lewis & Clark",
+                "stop_id": 5798,
+                "stop_name": "SW Terwilliger & Lobelia",
+                "stop_seq": 600,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69285730937813,
+                    45.46354510317408
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 39,
+                "rte_desc": "39-Lewis & Clark",
+                "stop_id": 5316,
+                "stop_name": "SW Spring Garden & 14th",
+                "stop_seq": 850,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69724578239617,
+                    45.46401670805838
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 39,
+                "rte_desc": "39-Lewis & Clark",
+                "stop_id": 5319,
+                "stop_name": "SW 19th & Spring Garden",
+                "stop_seq": 950,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69723397328029,
+                    45.465594033758194
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 39,
+                "rte_desc": "39-Lewis & Clark",
+                "stop_id": 7047,
+                "stop_name": "SW 19th & Multnomah",
+                "stop_seq": 1000,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69202002761762,
+                    45.46960614357839
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 39,
+                "rte_desc": "39-Lewis & Clark",
+                "stop_id": 6689,
+                "stop_name": "SW 13th & Custer",
+                "stop_seq": 1100,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67250742414983,
+                    45.45110190192731
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 39,
+                "rte_desc": "39-Lewis & Clark",
+                "stop_id": 11311,
+                "stop_name": "SW Palatine Hill & Gate 3 (L&C Security)",
+                "stop_seq": 200,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67470259857191,
+                    45.452867271285996
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 39,
+                "rte_desc": "39-Lewis & Clark",
+                "stop_id": 4334,
+                "stop_name": "SW Palatine Hill & Palatine Hill/Palater",
+                "stop_seq": 250,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68486571543279,
+                    45.45739104312871
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 39,
+                "rte_desc": "39-Lewis & Clark",
+                "stop_id": 5781,
+                "stop_name": "SW Terwilliger & Alice",
+                "stop_seq": 500,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6853614269627,
+                    45.46306890070438
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 39,
+                "rte_desc": "39-Lewis & Clark",
+                "stop_id": 5749,
+                "stop_name": "SW Taylors Ferry & 7th",
+                "stop_seq": 650,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68841812360886,
+                    45.463518116579195
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 39,
+                "rte_desc": "39-Lewis & Clark",
+                "stop_id": 5708,
+                "stop_name": "SW Taylors Ferry & 10th",
+                "stop_seq": 750,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69553138358633,
+                    45.463553146367566
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 39,
+                "rte_desc": "39-Lewis & Clark",
+                "stop_id": 5318,
+                "stop_name": "SW Spring Garden & 17th",
+                "stop_seq": 900,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67765822574282,
+                    45.45319563765799
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 39,
+                "rte_desc": "39-Lewis & Clark",
+                "stop_id": 5797,
+                "stop_name": "SW Terwilliger & L&C Law School",
+                "stop_seq": 300,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68980382881828,
+                    45.463098775532686
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 39,
+                "rte_desc": "39-Lewis & Clark",
+                "stop_id": 5709,
+                "stop_name": "SW Taylors Ferry & 11th",
+                "stop_seq": 800,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68253630460231,
+                    45.45404066250266
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 39,
+                "rte_desc": "39-Lewis & Clark",
+                "stop_id": 5813,
+                "stop_name": "SW Terwilliger & 2nd",
+                "stop_seq": 350,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6942791943986,
+                    45.467493504007706
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 39,
+                "rte_desc": "39-Lewis & Clark",
+                "stop_id": 180,
+                "stop_name": "SW Barbur & Moss",
+                "stop_seq": 1050,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69434763996654,
+                    45.47224635677313
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 39,
+                "rte_desc": "39-Lewis & Clark",
+                "stop_id": 9033,
+                "stop_name": "SW Bertha & Chestnut",
+                "stop_seq": 1150,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69636752797888,
+                    45.4780800719219
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 39,
+                "rte_desc": "39-Lewis & Clark",
+                "stop_id": 925,
+                "stop_name": "SW Capitol & Bertha Ct",
+                "stop_seq": 1250,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69285640366004,
+                    45.47879137447437
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 39,
+                "rte_desc": "39-Lewis & Clark",
+                "stop_id": 929,
+                "stop_name": "SW Capitol & Sunset",
+                "stop_seq": 1300,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67199022302114,
+                    45.44843655687804
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 39,
+                "rte_desc": "39-Lewis & Clark",
+                "stop_id": 12731,
+                "stop_name": "SW Huddleson & Palatine Hill",
+                "stop_seq": 100,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67129828665492,
+                    45.44981868728585
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 39,
+                "rte_desc": "39-Lewis & Clark",
+                "stop_id": 12732,
+                "stop_name": "L & C Campus & Templeton Student Center",
+                "stop_seq": 150,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6962934672281,
+                    45.47577590258169
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsdale",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 39,
+                "rte_desc": "39-Lewis & Clark",
+                "stop_id": 12730,
+                "stop_name": "SW Bertha & Vermont",
+                "stop_seq": 1200,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

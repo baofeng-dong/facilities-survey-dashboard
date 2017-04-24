@@ -1,0 +1,1230 @@
+{
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.81461227505491,
+                    45.48749358061399
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 52,
+                "rte_desc": "52-Farmington/185th",
+                "stop_id": 1649,
+                "stop_name": "SW Farmington & Hocken",
+                "stop_seq": 300,
+                "type": "BUS",
+                "zipcode": "97005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.81706907233081,
+                    45.48715415458233
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 52,
+                "rte_desc": "52-Farmington/185th",
+                "stop_id": 1655,
+                "stop_name": "SW Farmington & Menlo",
+                "stop_seq": 350,
+                "type": "BUS",
+                "zipcode": "97005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.82282665342058,
+                    45.48635573634396
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 52,
+                "rte_desc": "52-Farmington/185th",
+                "stop_id": 1668,
+                "stop_name": "SW Farmington & 142nd",
+                "stop_seq": 450,
+                "type": "BUS",
+                "zipcode": "97005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.83044879805672,
+                    45.48546120337611
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 52,
+                "rte_desc": "52-Farmington/185th",
+                "stop_id": 1670,
+                "stop_name": "SW Farmington & St Marys Dr",
+                "stop_seq": 600,
+                "type": "BUS",
+                "zipcode": "97078"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.83802365760903,
+                    45.484430525274455
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 52,
+                "rte_desc": "52-Farmington/185th",
+                "stop_id": 1641,
+                "stop_name": "SW Farmington & 157th Pl",
+                "stop_seq": 700,
+                "type": "BUS",
+                "zipcode": "97078"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.84747333783477,
+                    45.483227289215876
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 52,
+                "rte_desc": "52-Farmington/185th",
+                "stop_id": 1678,
+                "stop_name": "SW Farmington & 165th",
+                "stop_seq": 850,
+                "type": "BUS",
+                "zipcode": "97078"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.85818014055774,
+                    45.47956761865927
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 52,
+                "rte_desc": "52-Farmington/185th",
+                "stop_id": 1657,
+                "stop_name": "17500 Block SW Farmington",
+                "stop_seq": 1050,
+                "type": "BUS",
+                "zipcode": "97078"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.86730718889467,
+                    45.4790131917312
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 52,
+                "rte_desc": "52-Farmington/185th",
+                "stop_id": 7002,
+                "stop_name": "SW 185th & Rosa",
+                "stop_seq": 1300,
+                "type": "BUS",
+                "zipcode": "97078"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.86710453740571,
+                    45.48963851393903
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 52,
+                "rte_desc": "52-Farmington/185th",
+                "stop_id": 6995,
+                "stop_name": "SW 185th & Pike",
+                "stop_seq": 1700,
+                "type": "BUS",
+                "zipcode": "97078"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.86698685899512,
+                    45.49549897034899
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 52,
+                "rte_desc": "52-Farmington/185th",
+                "stop_id": 6957,
+                "stop_name": "SW 185th & Alexander",
+                "stop_seq": 1850,
+                "type": "BUS",
+                "zipcode": "97003"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.8671665793277,
+                    45.50054142372056
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 52,
+                "rte_desc": "52-Farmington/185th",
+                "stop_id": 6978,
+                "stop_name": "SW 185th & Johnson",
+                "stop_seq": 1950,
+                "type": "BUS",
+                "zipcode": "97003"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.86721557278481,
+                    45.504693228052844
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 52,
+                "rte_desc": "52-Farmington/185th",
+                "stop_id": 6968,
+                "stop_name": "SW 185th & Ewen",
+                "stop_seq": 2050,
+                "type": "BUS",
+                "zipcode": "97003"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.86734075116743,
+                    45.51146457096297
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 52,
+                "rte_desc": "52-Farmington/185th",
+                "stop_id": 6982,
+                "stop_name": "SW 185th & Longacre",
+                "stop_seq": 2200,
+                "type": "BUS",
+                "zipcode": "97003"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.8672893283578,
+                    45.51330521838424
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Hillsboro",
+                "rte": 52,
+                "rte_desc": "52-Farmington/185th",
+                "stop_id": 6955,
+                "stop_name": "SW 185th & Aloha Park Apts",
+                "stop_seq": 2250,
+                "type": "BUS",
+                "zipcode": "97003"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.8672660072643,
+                    45.518063214460625
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 52,
+                "rte_desc": "52-Farmington/185th",
+                "stop_id": 7007,
+                "stop_name": "SW 185th & Salix Terrace",
+                "stop_seq": 2350,
+                "type": "BUS",
+                "zipcode": "97006"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.86731048151469,
+                    45.5251486465527
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Hillsboro",
+                "rte": 52,
+                "rte_desc": "52-Farmington/185th",
+                "stop_id": 7020,
+                "stop_name": "700 Block NW 185th",
+                "stop_seq": 2500,
+                "type": "BUS",
+                "zipcode": "97006"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.86726145774507,
+                    45.52800089677958
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Hillsboro",
+                "rte": 52,
+                "rte_desc": "52-Farmington/185th",
+                "stop_id": 7024,
+                "stop_name": "NW 185th & Walker",
+                "stop_seq": 2550,
+                "type": "BUS",
+                "zipcode": "97006"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.86726503560958,
+                    45.53682440537271
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Hillsboro",
+                "rte": 52,
+                "rte_desc": "52-Farmington/185th",
+                "stop_id": 8884,
+                "stop_name": "NW 185th & Tanasbourne Rd",
+                "stop_seq": 2710,
+                "type": "BUS",
+                "zipcode": "97006"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.86735858794898,
+                    45.54366099685157
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 52,
+                "rte_desc": "52-Farmington/185th",
+                "stop_id": 9467,
+                "stop_name": "NW 185th & Bronson",
+                "stop_seq": 2730,
+                "type": "BUS",
+                "zipcode": "97229"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.8673582308951,
+                    45.54569971773102
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 52,
+                "rte_desc": "52-Farmington/185th",
+                "stop_id": 6992,
+                "stop_name": "NW 185th & Parkview",
+                "stop_seq": 2900,
+                "type": "BUS",
+                "zipcode": "97229"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.86736986816621,
+                    45.54936769260054
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 52,
+                "rte_desc": "52-Farmington/185th",
+                "stop_id": 7000,
+                "stop_name": "NW 185th & Westview HS",
+                "stop_seq": 2950,
+                "type": "BUS",
+                "zipcode": "97229"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.86746837194566,
+                    45.555098967760124
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 52,
+                "rte_desc": "52-Farmington/185th",
+                "stop_id": 7014,
+                "stop_name": "NW 185th & Tamarack",
+                "stop_seq": 3050,
+                "type": "BUS",
+                "zipcode": "97229"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.86740366156796,
+                    45.561706269879814
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 52,
+                "rte_desc": "52-Farmington/185th",
+                "stop_id": 7011,
+                "stop_name": "NW 185th & Springville",
+                "stop_seq": 3150,
+                "type": "BUS",
+                "zipcode": "97229"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.86048609287164,
+                    45.56291637737089
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 52,
+                "rte_desc": "52-Farmington/185th",
+                "stop_id": 8839,
+                "stop_name": "NW Springville & 178th",
+                "stop_seq": 3175,
+                "type": "BUS",
+                "zipcode": "97229"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.85216904896323,
+                    45.48177807287661
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 52,
+                "rte_desc": "52-Farmington/185th",
+                "stop_id": 1682,
+                "stop_name": "SW Farmington & 170th",
+                "stop_seq": 950,
+                "type": "BUS",
+                "zipcode": "97078"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.86703592276969,
+                    45.49395475696815
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 52,
+                "rte_desc": "52-Farmington/185th",
+                "stop_id": 7012,
+                "stop_name": "SW 185th & Tualatin Valley Hwy",
+                "stop_seq": 1800,
+                "type": "BUS",
+                "zipcode": "97078"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.86721079368607,
+                    45.50979971649226
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 52,
+                "rte_desc": "52-Farmington/185th",
+                "stop_id": 6977,
+                "stop_name": "SW 185th & Jay",
+                "stop_seq": 2150,
+                "type": "BUS",
+                "zipcode": "97003"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.86728812171519,
+                    45.529546804911384
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Hillsboro",
+                "rte": 52,
+                "rte_desc": "52-Farmington/185th",
+                "stop_id": 6986,
+                "stop_name": "NW 185th & McKinley School",
+                "stop_seq": 2600,
+                "type": "BUS",
+                "zipcode": "97006"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.86738773405806,
+                    45.55851507686434
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 52,
+                "rte_desc": "52-Farmington/185th",
+                "stop_id": 7026,
+                "stop_name": "NW 185th & West Union",
+                "stop_seq": 3100,
+                "type": "BUS",
+                "zipcode": "97229"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.8268488151928,
+                    45.48587893778668
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 52,
+                "rte_desc": "52-Farmington/185th",
+                "stop_id": 1660,
+                "stop_name": "SW Farmington & Murray",
+                "stop_seq": 550,
+                "type": "BUS",
+                "zipcode": "97078"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.86721611420194,
+                    45.50770412511449
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 52,
+                "rte_desc": "52-Farmington/185th",
+                "stop_id": 6993,
+                "stop_name": "SW 185th & Pheasant",
+                "stop_seq": 2100,
+                "type": "BUS",
+                "zipcode": "97003"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.86726254573534,
+                    45.52106329067171
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Hillsboro",
+                "rte": 52,
+                "rte_desc": "52-Farmington/185th",
+                "stop_id": 6972,
+                "stop_name": "NW 185th & Heritage Pkwy",
+                "stop_seq": 2400,
+                "type": "BUS",
+                "zipcode": "97006"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.86726952297978,
+                    45.53463421284344
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Hillsboro",
+                "rte": 52,
+                "rte_desc": "52-Farmington/185th",
+                "stop_id": 6961,
+                "stop_name": "NW 185th & Cornell",
+                "stop_seq": 2700,
+                "type": "BUS",
+                "zipcode": "97006"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.86743313300508,
+                    45.5531738896006
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 52,
+                "rte_desc": "52-Farmington/185th",
+                "stop_id": 6953,
+                "stop_name": "NW 185th & Adrian",
+                "stop_seq": 3000,
+                "type": "BUS",
+                "zipcode": "97229"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.85942626408945,
+                    45.566013935676885
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 52,
+                "rte_desc": "52-Farmington/185th",
+                "stop_id": 4429,
+                "stop_name": "PCC Rock Creek Main Stop",
+                "stop_seq": 3250,
+                "type": "BUS",
+                "zipcode": "97229"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.80130815955225,
+                    45.49138983593993
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 52,
+                "rte_desc": "52-Farmington/185th",
+                "stop_id": 9985,
+                "stop_name": "Beaverton Transit Center",
+                "stop_seq": 25,
+                "type": "BUS",
+                "zipcode": "97005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.81995191668095,
+                    45.486765812672196
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 52,
+                "rte_desc": "52-Farmington/185th",
+                "stop_id": 1666,
+                "stop_name": "SW Farmington & 139th",
+                "stop_seq": 400,
+                "type": "BUS",
+                "zipcode": "97005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.83477094369253,
+                    45.48486080098301
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 52,
+                "rte_desc": "52-Farmington/185th",
+                "stop_id": 1673,
+                "stop_name": "SW Farmington & 153rd",
+                "stop_seq": 650,
+                "type": "BUS",
+                "zipcode": "97078"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.84268142761347,
+                    45.4839838300103
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 52,
+                "rte_desc": "52-Farmington/185th",
+                "stop_id": 1674,
+                "stop_name": "SW Farmington & 160th",
+                "stop_seq": 750,
+                "type": "BUS",
+                "zipcode": "97078"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.85597195277704,
+                    45.48059931780148
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 52,
+                "rte_desc": "52-Farmington/185th",
+                "stop_id": 1651,
+                "stop_name": "SW Farmington & Kinnaman",
+                "stop_seq": 1000,
+                "type": "BUS",
+                "zipcode": "97078"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.86742445291647,
+                    45.4758798771814
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 52,
+                "rte_desc": "52-Farmington/185th",
+                "stop_id": 6970,
+                "stop_name": "SW 185th & Farmington",
+                "stop_seq": 1250,
+                "type": "BUS",
+                "zipcode": "97078"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.86727721952576,
+                    45.48125704920464
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 52,
+                "rte_desc": "52-Farmington/185th",
+                "stop_id": 6984,
+                "stop_name": "SW 185th & Madeline",
+                "stop_seq": 1400,
+                "type": "BUS",
+                "zipcode": "97078"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.86705000504823,
+                    45.48520643198396
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 52,
+                "rte_desc": "52-Farmington/185th",
+                "stop_id": 6980,
+                "stop_name": "SW 185th & Kinnaman",
+                "stop_seq": 1500,
+                "type": "BUS",
+                "zipcode": "97078"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.86702091612769,
+                    45.492339253919255
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 52,
+                "rte_desc": "52-Farmington/185th",
+                "stop_id": 6960,
+                "stop_name": "SW 185th & Blanton",
+                "stop_seq": 1750,
+                "type": "BUS",
+                "zipcode": "97078"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.86703134468384,
+                    45.49848188894848
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 52,
+                "rte_desc": "52-Farmington/185th",
+                "stop_id": 6945,
+                "stop_name": "2800 Block SW 185th",
+                "stop_seq": 1900,
+                "type": "BUS",
+                "zipcode": "97003"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.86723955342194,
+                    45.50276908303198
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 52,
+                "rte_desc": "52-Farmington/185th",
+                "stop_id": 7010,
+                "stop_name": "SW 185th & Sandra",
+                "stop_seq": 2000,
+                "type": "BUS",
+                "zipcode": "97003"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.81178859791534,
+                    45.487527998269144
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 52,
+                "rte_desc": "52-Farmington/185th",
+                "stop_id": 12451,
+                "stop_name": "SW Farmington & Erickson",
+                "stop_seq": 200,
+                "type": "BUS",
+                "zipcode": "97005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.80126358745737,
+                    45.488210952756106
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 52,
+                "rte_desc": "52-Farmington/185th",
+                "stop_id": 12945,
+                "stop_name": "SW Lombard & Broadway",
+                "stop_seq": 50,
+                "type": "BUS",
+                "zipcode": "97005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.86729947698798,
+                    45.52361110699067
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Hillsboro",
+                "rte": 52,
+                "rte_desc": "52-Farmington/185th",
+                "stop_id": 6990,
+                "stop_name": "NW 185th & Holly",
+                "stop_seq": 2450,
+                "type": "BUS",
+                "zipcode": "97006"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.80382163793429,
+                    45.48699781532779
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 52,
+                "rte_desc": "52-Farmington/185th",
+                "stop_id": 1648,
+                "stop_name": "SW Farmington & Hall",
+                "stop_seq": 75,
+                "type": "BUS",
+                "zipcode": "97005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.86399874068721,
+                    45.5629532301883
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 52,
+                "rte_desc": "52-Farmington/185th",
+                "stop_id": 8850,
+                "stop_name": "NW Springville & 181st",
+                "stop_seq": 3160,
+                "type": "BUS",
+                "zipcode": "97229"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.87001763758028,
+                    45.517308600170885
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Hillsboro",
+                "rte": 52,
+                "rte_desc": "52-Farmington/185th",
+                "stop_id": 9610,
+                "stop_name": "Willow Creek Transit Center",
+                "stop_seq": 2300,
+                "type": "BUS",
+                "zipcode": "97006"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.85989567275749,
+                    45.47879222487516
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 52,
+                "rte_desc": "52-Farmington/185th",
+                "stop_id": 13579,
+                "stop_name": "SW Farmington & Rosa Rd",
+                "stop_seq": 1150,
+                "type": "BUS",
+                "zipcode": "97078"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,1069 @@
+{
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6279937978691,
+                    45.44191607182768
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 29,
+                "rte_desc": "29-Lake/Webster Rd",
+                "stop_id": 6159,
+                "stop_name": "SE Washington & 34th",
+                "stop_seq": 400,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62789368365848,
+                    45.43861228292705
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 29,
+                "rte_desc": "29-Lake/Webster Rd",
+                "stop_id": 7411,
+                "stop_name": "SE 34th & Wister",
+                "stop_seq": 500,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61766059492831,
+                    45.43234146616441
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 29,
+                "rte_desc": "29-Lake/Webster Rd",
+                "stop_id": 3343,
+                "stop_name": "SE Lake & Where Else Ln",
+                "stop_seq": 750,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61426944837278,
+                    45.4314077092506
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 29,
+                "rte_desc": "29-Lake/Webster Rd",
+                "stop_id": 3330,
+                "stop_name": "SE Lake & Kuehn Rd",
+                "stop_seq": 800,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60872828947697,
+                    45.43022786160895
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 29,
+                "rte_desc": "29-Lake/Webster Rd",
+                "stop_id": 3356,
+                "stop_name": "SE Lake & 51st",
+                "stop_seq": 900,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6039506778663,
+                    45.43038087536066
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 29,
+                "rte_desc": "29-Lake/Webster Rd",
+                "stop_id": 3328,
+                "stop_name": "SE Lake & Harmony",
+                "stop_seq": 950,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59735762344201,
+                    45.42772705116374
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 29,
+                "rte_desc": "29-Lake/Webster Rd",
+                "stop_id": 3324,
+                "stop_name": "6400 Block SE Lake",
+                "stop_seq": 1100,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59342217845514,
+                    45.41958734773935
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 29,
+                "rte_desc": "29-Lake/Webster Rd",
+                "stop_id": 6215,
+                "stop_name": "SE Webster & Wilshire",
+                "stop_seq": 1300,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5910808775759,
+                    45.41260753564482
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 29,
+                "rte_desc": "29-Lake/Webster Rd",
+                "stop_id": 6205,
+                "stop_name": "SE Webster & Molt St",
+                "stop_seq": 1450,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58909426638714,
+                    45.40730684783215
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 29,
+                "rte_desc": "29-Lake/Webster Rd",
+                "stop_id": 6203,
+                "stop_name": "SE Webster & Mabel",
+                "stop_seq": 1600,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58486008839714,
+                    45.40646508356971
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 29,
+                "rte_desc": "29-Lake/Webster Rd",
+                "stop_id": 4939,
+                "stop_name": "SE Roots & Rickshire",
+                "stop_seq": 1700,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5827158902499,
+                    45.40645119153247
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 29,
+                "rte_desc": "29-Lake/Webster Rd",
+                "stop_id": 4945,
+                "stop_name": "SE Roots & 79th",
+                "stop_seq": 1750,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57891625796287,
+                    45.43576731287487
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 29,
+                "rte_desc": "29-Lake/Webster Rd",
+                "stop_id": 8005,
+                "stop_name": "SE 82nd & McBride",
+                "stop_seq": 2351,
+                "type": "BUS",
+                "zipcode": "97086"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59291707167002,
+                    45.424802858690455
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 29,
+                "rte_desc": "29-Lake/Webster Rd",
+                "stop_id": 10653,
+                "stop_name": "SE Lake & Hwy 224",
+                "stop_seq": 1175,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57897248212645,
+                    45.430730158317104
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 29,
+                "rte_desc": "29-Lake/Webster Rd",
+                "stop_id": 11251,
+                "stop_name": "SE 82nd & Sunnybrook",
+                "stop_seq": 2275,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63681523501234,
+                    45.44293444800406
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 29,
+                "rte_desc": "29-Lake/Webster Rd",
+                "stop_id": 6152,
+                "stop_name": "SE Washington & 25th",
+                "stop_seq": 200,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63292865676137,
+                    45.443432726994445
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 29,
+                "rte_desc": "29-Lake/Webster Rd",
+                "stop_id": 6156,
+                "stop_name": "SE Washington & 29th",
+                "stop_seq": 300,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62793322770446,
+                    45.44014597225977
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 29,
+                "rte_desc": "29-Lake/Webster Rd",
+                "stop_id": 7408,
+                "stop_name": "SE 34th & Sellwood",
+                "stop_seq": 450,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62861676733986,
+                    45.43575192175366
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 29,
+                "rte_desc": "29-Lake/Webster Rd",
+                "stop_id": 3335,
+                "stop_name": "SE Lake & Oatfield",
+                "stop_seq": 550,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62282355342262,
+                    45.433784814412675
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 29,
+                "rte_desc": "29-Lake/Webster Rd",
+                "stop_id": 3325,
+                "stop_name": "SE Lake & Boss",
+                "stop_seq": 650,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60160164670552,
+                    45.43010494137096
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 29,
+                "rte_desc": "29-Lake/Webster Rd",
+                "stop_id": 3339,
+                "stop_name": "SE Lake & Rusk",
+                "stop_seq": 1000,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59561829169184,
+                    45.426153154655836
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 29,
+                "rte_desc": "29-Lake/Webster Rd",
+                "stop_id": 3338,
+                "stop_name": "6500 Block SE Lake",
+                "stop_seq": 1150,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59340374659587,
+                    45.421347464934854
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 29,
+                "rte_desc": "29-Lake/Webster Rd",
+                "stop_id": 6189,
+                "stop_name": "SE Webster & Cavalier Way",
+                "stop_seq": 1250,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59260867220495,
+                    45.4152570798677
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 29,
+                "rte_desc": "29-Lake/Webster Rd",
+                "stop_id": 6212,
+                "stop_name": "SE Webster & Thiessen",
+                "stop_seq": 1400,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57934523002663,
+                    45.40638520059326
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 29,
+                "rte_desc": "29-Lake/Webster Rd",
+                "stop_id": 4946,
+                "stop_name": "SE Roots & 81st",
+                "stop_seq": 1800,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57601432259264,
+                    45.40632774544705
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 29,
+                "rte_desc": "29-Lake/Webster Rd",
+                "stop_id": 4935,
+                "stop_name": "SE Roots & Hearthwood Dr",
+                "stop_seq": 1900,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57903500585113,
+                    45.432960415648154
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 29,
+                "rte_desc": "29-Lake/Webster Rd",
+                "stop_id": 8049,
+                "stop_name": "SE 82nd & Sunnyside",
+                "stop_seq": 2301,
+                "type": "BUS",
+                "zipcode": "97086"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57578779257742,
+                    45.41070718797393
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 29,
+                "rte_desc": "29-Lake/Webster Rd",
+                "stop_id": 11958,
+                "stop_name": "SE Clackamas Rd & Johnson",
+                "stop_seq": 2000,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57722956837259,
+                    45.41335973281588
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 29,
+                "rte_desc": "29-Lake/Webster Rd",
+                "stop_id": 11959,
+                "stop_name": "SE Johnson & Cypress",
+                "stop_seq": 2050,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57865060212939,
+                    45.416146341410204
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 29,
+                "rte_desc": "29-Lake/Webster Rd",
+                "stop_id": 11960,
+                "stop_name": "SE Johnson & Thiessen",
+                "stop_seq": 2100,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57980599213457,
+                    45.41810511083093
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 29,
+                "rte_desc": "29-Lake/Webster Rd",
+                "stop_id": 11961,
+                "stop_name": "14400 Block SE Johnson",
+                "stop_seq": 2150,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58166961775098,
+                    45.421437823944096
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 29,
+                "rte_desc": "29-Lake/Webster Rd",
+                "stop_id": 11962,
+                "stop_name": "SE Johnson & Lake",
+                "stop_seq": 2200,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59870932383862,
+                    45.42895884893373
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 29,
+                "rte_desc": "29-Lake/Webster Rd",
+                "stop_id": 3322,
+                "stop_name": "6300 Block SE Lake",
+                "stop_seq": 1050,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59034275014014,
+                    45.41031991473142
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 29,
+                "rte_desc": "29-Lake/Webster Rd",
+                "stop_id": 6192,
+                "stop_name": "SE Webster & Clackamas",
+                "stop_seq": 1500,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57312596626383,
+                    45.40716809378706
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 29,
+                "rte_desc": "29-Lake/Webster Rd",
+                "stop_id": 3825,
+                "stop_name": "SE McKinley & Jefferson",
+                "stop_seq": 1950,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62591597879621,
+                    45.43463935520371
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 29,
+                "rte_desc": "29-Lake/Webster Rd",
+                "stop_id": 3353,
+                "stop_name": "SE Lake & 36th",
+                "stop_seq": 600,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59344223532604,
+                    45.41789654359236
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 29,
+                "rte_desc": "29-Lake/Webster Rd",
+                "stop_id": 6213,
+                "stop_name": "SE Webster & Tuscany Ct",
+                "stop_seq": 1350,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57331242700954,
+                    45.437310329219926
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 29,
+                "rte_desc": "29-Lake/Webster Rd",
+                "stop_id": 12921,
+                "stop_name": "Clackamas Town Center Mall",
+                "stop_seq": 2500,
+                "type": "BUS",
+                "zipcode": "97086"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57312087024691,
+                    45.40898885740262
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 29,
+                "rte_desc": "29-Lake/Webster Rd",
+                "stop_id": 13146,
+                "stop_name": "15700 Block SE McKinley",
+                "stop_seq": 1975,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59327816590115,
+                    45.42328638661552
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 29,
+                "rte_desc": "29-Lake/Webster Rd",
+                "stop_id": 6193,
+                "stop_name": "SE Webster & Lake",
+                "stop_seq": 1200,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63047722951282,
+                    45.44311962341311
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 29,
+                "rte_desc": "29-Lake/Webster Rd",
+                "stop_id": 6140,
+                "stop_name": "SE Washington & Oak",
+                "stop_seq": 350,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62004742664513,
+                    45.433013108096326
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 29,
+                "rte_desc": "29-Lake/Webster Rd",
+                "stop_id": 13147,
+                "stop_name": "SE Lake & 41st Ct",
+                "stop_seq": 700,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56870745294738,
+                    45.43566941948304
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 29,
+                "rte_desc": "29-Lake/Webster Rd",
+                "stop_id": 13248,
+                "stop_name": "Clackamas Town Center Transit Center",
+                "stop_seq": 2650,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64049050567837,
+                    45.44482683637778
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 29,
+                "rte_desc": "29-Lake/Webster Rd",
+                "stop_id": 8225,
+                "stop_name": "SE Jackson & 21st",
+                "stop_seq": 50,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56813401888509,
+                    45.43555507416447
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 29,
+                "rte_desc": "29-Lake/Webster Rd",
+                "stop_id": 13247,
+                "stop_name": "Clackamas Town Center TC",
+                "stop_seq": 2550,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63991111612495,
+                    45.44271305290574
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 29,
+                "rte_desc": "29-Lake/Webster Rd",
+                "stop_id": 7136,
+                "stop_name": "SE 21st & Washington",
+                "stop_seq": 100,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

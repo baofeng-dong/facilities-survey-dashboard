@@ -1,0 +1,1115 @@
+{
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66824623451849,
+                    45.543883348125135
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 24,
+                "rte_desc": "24-Fremont",
+                "stop_id": 6006,
+                "stop_name": "N Vancouver & Stanton",
+                "stop_seq": 50,
+                "type": "BUS",
+                "zipcode": "97227"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66824900361374,
+                    45.54203174173933
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 24,
+                "rte_desc": "24-Fremont",
+                "stop_id": 5997,
+                "stop_name": "N Vancouver & Knott",
+                "stop_seq": 100,
+                "type": "BUS",
+                "zipcode": "97227"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66657071302308,
+                    45.54273275380298
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 24,
+                "rte_desc": "24-Fremont",
+                "stop_id": 6362,
+                "stop_name": "N Williams & NE Graham",
+                "stop_seq": 150,
+                "type": "BUS",
+                "zipcode": "97227"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66655454203638,
+                    45.544449160807154
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 24,
+                "rte_desc": "24-Fremont",
+                "stop_id": 6364,
+                "stop_name": "N Williams & NE Morris",
+                "stop_seq": 200,
+                "type": "BUS",
+                "zipcode": "97212"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6666065649511,
+                    45.54697712624407
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 24,
+                "rte_desc": "24-Fremont",
+                "stop_id": 6359,
+                "stop_name": "N Williams & NE Cook",
+                "stop_seq": 250,
+                "type": "BUS",
+                "zipcode": "97227"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66364775439891,
+                    45.548207160837144
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 24,
+                "rte_desc": "24-Fremont",
+                "stop_id": 1842,
+                "stop_name": "NE Fremont & Mallory",
+                "stop_seq": 350,
+                "type": "BUS",
+                "zipcode": "97212"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6618627875844,
+                    45.548201852377424
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 24,
+                "rte_desc": "24-Fremont",
+                "stop_id": 1846,
+                "stop_name": "NE Fremont & M L King",
+                "stop_seq": 400,
+                "type": "BUS",
+                "zipcode": "97212"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65801899746388,
+                    45.54820293389573
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 24,
+                "rte_desc": "24-Fremont",
+                "stop_id": 1900,
+                "stop_name": "NE Fremont & 7th",
+                "stop_seq": 450,
+                "type": "BUS",
+                "zipcode": "97212"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6535736495552,
+                    45.54819512284096
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 24,
+                "rte_desc": "24-Fremont",
+                "stop_id": 1851,
+                "stop_name": "NE Fremont & 12th",
+                "stop_seq": 550,
+                "type": "BUS",
+                "zipcode": "97212"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6500961165875,
+                    45.54818576808963
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 24,
+                "rte_desc": "24-Fremont",
+                "stop_id": 1856,
+                "stop_name": "NE Fremont & 15th",
+                "stop_seq": 600,
+                "type": "BUS",
+                "zipcode": "97212"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64737852484367,
+                    45.54819616450453
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 24,
+                "rte_desc": "24-Fremont",
+                "stop_id": 1858,
+                "stop_name": "NE Fremont & 18th",
+                "stop_seq": 650,
+                "type": "BUS",
+                "zipcode": "97212"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64434737536921,
+                    45.54819859229305
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 24,
+                "rte_desc": "24-Fremont",
+                "stop_id": 1860,
+                "stop_name": "NE Fremont & 21st",
+                "stop_seq": 700,
+                "type": "BUS",
+                "zipcode": "97212"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64129095387256,
+                    45.54817886070166
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 24,
+                "rte_desc": "24-Fremont",
+                "stop_id": 1863,
+                "stop_name": "NE Fremont & 24th",
+                "stop_seq": 750,
+                "type": "BUS",
+                "zipcode": "97212"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63819054729102,
+                    45.54818449582099
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 24,
+                "rte_desc": "24-Fremont",
+                "stop_id": 1865,
+                "stop_name": "NE Fremont & 27th",
+                "stop_seq": 800,
+                "type": "BUS",
+                "zipcode": "97212"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63386208125509,
+                    45.54819390615688
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 24,
+                "rte_desc": "24-Fremont",
+                "stop_id": 1868,
+                "stop_name": "NE Fremont & 31st",
+                "stop_seq": 850,
+                "type": "BUS",
+                "zipcode": "97212"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6309629821334,
+                    45.54819840251838
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 24,
+                "rte_desc": "24-Fremont",
+                "stop_id": 1871,
+                "stop_name": "NE Fremont & 33rd",
+                "stop_seq": 900,
+                "type": "BUS",
+                "zipcode": "97212"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62820828326471,
+                    45.54821329392667
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 24,
+                "rte_desc": "24-Fremont",
+                "stop_id": 1872,
+                "stop_name": "NE Fremont & 35th",
+                "stop_seq": 950,
+                "type": "BUS",
+                "zipcode": "97212"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62509608090163,
+                    45.54823454372337
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 24,
+                "rte_desc": "24-Fremont",
+                "stop_id": 1834,
+                "stop_name": "NE Fremont & Alameda",
+                "stop_seq": 1000,
+                "type": "BUS",
+                "zipcode": "97212"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62293014745518,
+                    45.54824858695427
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 24,
+                "rte_desc": "24-Fremont",
+                "stop_id": 1874,
+                "stop_name": "NE Fremont & Cesar Chavez Blvd",
+                "stop_seq": 1050,
+                "type": "BUS",
+                "zipcode": "97212"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62093147339938,
+                    45.5482593579114
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 24,
+                "rte_desc": "24-Fremont",
+                "stop_id": 1876,
+                "stop_name": "NE Fremont & 41st",
+                "stop_seq": 1100,
+                "type": "BUS",
+                "zipcode": "97212"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61716954463755,
+                    45.548233079185124
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 24,
+                "rte_desc": "24-Fremont",
+                "stop_id": 10596,
+                "stop_name": "NE Fremont & 45th",
+                "stop_seq": 1150,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61380713899295,
+                    45.54824397137541
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 24,
+                "rte_desc": "24-Fremont",
+                "stop_id": 1882,
+                "stop_name": "NE Fremont & 48th",
+                "stop_seq": 1200,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61074093868136,
+                    45.54822535441087
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 24,
+                "rte_desc": "24-Fremont",
+                "stop_id": 10571,
+                "stop_name": "NE Fremont & 51st",
+                "stop_seq": 1250,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60773626580479,
+                    45.548192083221096
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 24,
+                "rte_desc": "24-Fremont",
+                "stop_id": 1888,
+                "stop_name": "NE Fremont & 54th",
+                "stop_seq": 1300,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60422531794376,
+                    45.548206349170634
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 24,
+                "rte_desc": "24-Fremont",
+                "stop_id": 1890,
+                "stop_name": "NE Fremont & 57th",
+                "stop_seq": 1350,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60052641557697,
+                    45.54817184161575
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 24,
+                "rte_desc": "24-Fremont",
+                "stop_id": 1894,
+                "stop_name": "NE Fremont & 61st",
+                "stop_seq": 1400,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59744684239831,
+                    45.54817730562614
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 24,
+                "rte_desc": "24-Fremont",
+                "stop_id": 1895,
+                "stop_name": "NE Fremont & 64th",
+                "stop_seq": 1450,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59544648093609,
+                    45.54816797854895
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 24,
+                "rte_desc": "24-Fremont",
+                "stop_id": 9253,
+                "stop_name": "NE Fremont & 66th",
+                "stop_seq": 1500,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59302586022572,
+                    45.54817426921096
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 24,
+                "rte_desc": "24-Fremont",
+                "stop_id": 10597,
+                "stop_name": "NE Fremont & 68th",
+                "stop_seq": 1550,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58969831673234,
+                    45.548169600589084
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 24,
+                "rte_desc": "24-Fremont",
+                "stop_id": 9548,
+                "stop_name": "NE Fremont & Sandy",
+                "stop_seq": 1600,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58706686120271,
+                    45.54813720913211
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 24,
+                "rte_desc": "24-Fremont",
+                "stop_id": 1904,
+                "stop_name": "NE Fremont & 74th",
+                "stop_seq": 1650,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58393536118085,
+                    45.548127805957144
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 24,
+                "rte_desc": "24-Fremont",
+                "stop_id": 1906,
+                "stop_name": "NE Fremont & 77th",
+                "stop_seq": 1700,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58090219150375,
+                    45.54811035563756
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 24,
+                "rte_desc": "24-Fremont",
+                "stop_id": 1908,
+                "stop_name": "NE Fremont & 80th",
+                "stop_seq": 1750,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57827985637503,
+                    45.54809484142598
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 24,
+                "rte_desc": "24-Fremont",
+                "stop_id": 1911,
+                "stop_name": "NE Fremont & 82nd",
+                "stop_seq": 1800,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57622117503959,
+                    45.54807594818821
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 24,
+                "rte_desc": "24-Fremont",
+                "stop_id": 1912,
+                "stop_name": "NE Fremont & 85th",
+                "stop_seq": 1850,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57107778469667,
+                    45.54807842623876
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 24,
+                "rte_desc": "24-Fremont",
+                "stop_id": 1917,
+                "stop_name": "NE Fremont & 89th",
+                "stop_seq": 1900,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57003472572933,
+                    45.54565536544085
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 24,
+                "rte_desc": "24-Fremont",
+                "stop_id": 26,
+                "stop_name": "NE 92nd & Hill",
+                "stop_seq": 1950,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57003204128797,
+                    45.54315218683761
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 24,
+                "rte_desc": "24-Fremont",
+                "stop_id": 21,
+                "stop_name": "2800 Block NE 92nd",
+                "stop_seq": 2000,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56889739545386,
+                    45.54106858691303
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 24,
+                "rte_desc": "24-Fremont",
+                "stop_id": 8114,
+                "stop_name": "NE 92nd & Russell",
+                "stop_seq": 2050,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56853677876053,
+                    45.5383337579492
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 24,
+                "rte_desc": "24-Fremont",
+                "stop_id": 8124,
+                "stop_name": "NE 92nd & Thompson",
+                "stop_seq": 2100,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56855076703228,
+                    45.537279367859654
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 24,
+                "rte_desc": "24-Fremont",
+                "stop_id": 8126,
+                "stop_name": "NE 92nd & Tillamook",
+                "stop_seq": 2150,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5685825093958,
+                    45.53550018178867
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 24,
+                "rte_desc": "24-Fremont",
+                "stop_id": 8118,
+                "stop_name": "NE 92nd & Schuyler",
+                "stop_seq": 2200,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.55857832858578,
+                    45.53344784724867
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 24,
+                "rte_desc": "24-Fremont",
+                "stop_id": 10747,
+                "stop_name": "NE Halsey & 102nd",
+                "stop_seq": 2250,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.55821373495262,
+                    45.53147869691726
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 24,
+                "rte_desc": "24-Fremont",
+                "stop_id": 6523,
+                "stop_name": "1200 Block NE 102nd",
+                "stop_seq": 2300,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.55826765807623,
+                    45.52979986876557
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 24,
+                "rte_desc": "24-Fremont",
+                "stop_id": 6525,
+                "stop_name": "NE 102nd & Pacific",
+                "stop_seq": 2350,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56046479648573,
+                    45.529563493180504
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 24,
+                "rte_desc": "24-Fremont",
+                "stop_id": 4288,
+                "stop_name": "10000 Block NE Pacific St",
+                "stop_seq": 2400,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56278734723529,
+                    45.52956226757305
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 24,
+                "rte_desc": "24-Fremont",
+                "stop_id": 8321,
+                "stop_name": "9800 Block NE Pacific St",
+                "stop_seq": 2450,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56377346451607,
+                    45.530571493870696
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 24,
+                "rte_desc": "24-Fremont",
+                "stop_id": 8194,
+                "stop_name": "Gateway Transit Center",
+                "stop_seq": 2500,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

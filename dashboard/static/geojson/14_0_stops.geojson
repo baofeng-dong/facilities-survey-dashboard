@@ -1,0 +1,1138 @@
+{
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63491395291229,
+                    45.512005579441016
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Foster & 94th",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 2615,
+                "stop_name": "SE Hawthorne & 30th",
+                "stop_seq": 1050,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62933787941948,
+                    45.51199869941645
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Foster & 94th",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 2620,
+                "stop_name": "SE Hawthorne & 34th",
+                "stop_seq": 1150,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6254626650961,
+                    45.51198677962411
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Foster & 94th",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 2623,
+                "stop_name": "SE Hawthorne & 37th",
+                "stop_seq": 1200,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62034852562707,
+                    45.51197564520536
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Foster & 94th",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 2628,
+                "stop_name": "SE Hawthorne & 41st",
+                "stop_seq": 1300,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61161524838992,
+                    45.51138380829293
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Foster & 94th",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 7651,
+                "stop_name": "SE 50th & Clay",
+                "stop_seq": 1450,
+                "type": "BUS",
+                "zipcode": "97215"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6113800774017,
+                    45.508110507186714
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Foster & 94th",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 7660,
+                "stop_name": "SE 50th & Lincoln",
+                "stop_seq": 1550,
+                "type": "BUS",
+                "zipcode": "97215"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60865276640112,
+                    45.49539193841512
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Foster & 94th",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 1794,
+                "stop_name": "SE Foster & 52nd",
+                "stop_seq": 1950,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59383711330271,
+                    45.48833934075113
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Foster & 94th",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 1804,
+                "stop_name": "SE Foster & 67th",
+                "stop_seq": 2250,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58874294148124,
+                    45.48625351581442
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Foster & 94th",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 1810,
+                "stop_name": "SE Foster & 72nd",
+                "stop_seq": 2350,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58375813706273,
+                    45.484568284184675
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Foster & 94th",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 1814,
+                "stop_name": "SE Foster & 77th",
+                "stop_seq": 2450,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58202611206842,
+                    45.48390876282561
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Foster & 94th",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 1816,
+                "stop_name": "SE Foster & 79th",
+                "stop_seq": 2500,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57602058978684,
+                    45.481828050896
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Foster & 94th",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 1821,
+                "stop_name": "SE Foster & 85th",
+                "stop_seq": 2600,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56878963147199,
+                    45.479066485406875
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Foster & 94th",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 6427,
+                "stop_name": "SE Woodstock & 92nd",
+                "stop_seq": 2750,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56336624836214,
+                    45.47819642187761
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Foster & 94th",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 8134,
+                "stop_name": "SE 97th & Foster",
+                "stop_seq": 2850,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56624631178272,
+                    45.479259380523075
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Foster & 94th",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 1831,
+                "stop_name": "SE Foster & 94th (I-205 Overpass)",
+                "stop_seq": 2900,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65687765024414,
+                    45.51215611906169
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Foster & 94th",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 2597,
+                "stop_name": "SE Hawthorne & 9th",
+                "stop_seq": 600,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65387065934803,
+                    45.512135914648404
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Foster & 94th",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 2599,
+                "stop_name": "SE Hawthorne & 12th",
+                "stop_seq": 650,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65157093753879,
+                    45.51213607574489
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Foster & 94th",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 2595,
+                "stop_name": "SE Hawthorne & Maple",
+                "stop_seq": 700,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64009079942443,
+                    45.51201538090634
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Foster & 94th",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 2612,
+                "stop_name": "SE Hawthorne & 25th",
+                "stop_seq": 950,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63128562473513,
+                    45.511992677784185
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Foster & 94th",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 2617,
+                "stop_name": "SE Hawthorne & 32nd Pl",
+                "stop_seq": 1100,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62307975079585,
+                    45.51195948419037
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Foster & 94th",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 2625,
+                "stop_name": "SE Hawthorne & Cesar Chavez Blvd",
+                "stop_seq": 1250,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61729252774911,
+                    45.511974062354184
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Foster & 94th",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 2630,
+                "stop_name": "SE Hawthorne & 44th",
+                "stop_seq": 1350,
+                "type": "BUS",
+                "zipcode": "97215"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61151396551101,
+                    45.510091232424074
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Foster & 94th",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 7662,
+                "stop_name": "SE 50th & Mill",
+                "stop_seq": 1500,
+                "type": "BUS",
+                "zipcode": "97215"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61128382136222,
+                    45.505510804854886
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Foster & 94th",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 7655,
+                "stop_name": "SE 50th & Division",
+                "stop_seq": 1650,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6114643306978,
+                    45.50069007195803
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Foster & 94th",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 8241,
+                "stop_name": "SE 50th & Brooklyn",
+                "stop_seq": 1750,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60333545225633,
+                    45.492843604142905
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Foster & 94th",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 1775,
+                "stop_name": "SE Foster & Gladstone",
+                "stop_seq": 2050,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59809803955685,
+                    45.49010180341936
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Foster & 94th",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 10196,
+                "stop_name": "SE Foster & 63rd",
+                "stop_seq": 2150,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59150935941216,
+                    45.487347635922795
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Foster & 94th",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 1808,
+                "stop_name": "SE Foster & 70th",
+                "stop_seq": 2300,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58621833313897,
+                    45.48541128850533
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Foster & 94th",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 1812,
+                "stop_name": "SE Foster & 75th",
+                "stop_seq": 2400,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57938732861221,
+                    45.48289916525513
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Foster & 94th",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 1819,
+                "stop_name": "SE Foster & 82nd",
+                "stop_seq": 2550,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57110845256763,
+                    45.48048292741391
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Foster & 94th",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 1827,
+                "stop_name": "SE Foster & 89th",
+                "stop_seq": 2700,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56612132476042,
+                    45.478268697229744
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Foster & 94th",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 6398,
+                "stop_name": "SE Woodstock & 94th (I-205 West End)",
+                "stop_seq": 2800,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64712840976365,
+                    45.512118556543506
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Foster & 94th",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 2596,
+                "stop_name": "SE Hawthorne & Poplar",
+                "stop_seq": 800,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64912509948968,
+                    45.5121289402219
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Foster & 94th",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 2603,
+                "stop_name": "SE Hawthorne & 16th",
+                "stop_seq": 750,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61383164970779,
+                    45.511961265080586
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Foster & 94th",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 2633,
+                "stop_name": "SE Hawthorne & 47th",
+                "stop_seq": 1400,
+                "type": "BUS",
+                "zipcode": "97215"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61140118667944,
+                    45.49725914017535
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Foster & 94th",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 1792,
+                "stop_name": "SE Foster & Powell",
+                "stop_seq": 1900,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60494864926004,
+                    45.49368259228448
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Foster & 94th",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 12946,
+                "stop_name": "SE Foster & 56th",
+                "stop_seq": 2000,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64233269546312,
+                    45.51200682772312
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Foster & 94th",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 2608,
+                "stop_name": "SE Hawthorne & 23rd",
+                "stop_seq": 900,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61107665958609,
+                    45.503118405944114
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Foster & 94th",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 7653,
+                "stop_name": "SE 50th & Clinton",
+                "stop_seq": 1700,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61144287822947,
+                    45.49943568565652
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Foster & 94th",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 7666,
+                "stop_name": "SE 50th & Kelly",
+                "stop_seq": 1800,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59563077896512,
+                    45.48907559367594
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Foster & 94th",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 1802,
+                "stop_name": "SE Foster & 65th",
+                "stop_seq": 2200,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57439726552384,
+                    45.481429767409566
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Foster & 94th",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 1823,
+                "stop_name": "SE Foster & 86th",
+                "stop_seq": 2650,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67857274754661,
+                    45.51518918104963
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Foster & 94th",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 3639,
+                "stop_name": "SW Madison & 4th",
+                "stop_seq": 400,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67583887422084,
+                    45.5144552233251
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Foster & 94th",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 3635,
+                "stop_name": "SW Madison & 1st",
+                "stop_seq": 450,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66511177953792,
+                    45.51215700840746
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Foster & 94th",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 2641,
+                "stop_name": "Hawthorne Bridge",
+                "stop_seq": 500,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65989377955117,
+                    45.51216771152517
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Foster & 94th",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 2594,
+                "stop_name": "SE Hawthorne & 6th",
+                "stop_seq": 550,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60033006155047,
+                    45.49116802867611
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Foster & 94th",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 12947,
+                "stop_name": "SE Foster & 61st",
+                "stop_seq": 2100,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64467471589897,
+                    45.51201003696514
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Foster & 94th",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 2607,
+                "stop_name": "SE Hawthorne & 20th",
+                "stop_seq": 850,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63704801497424,
+                    45.51201060550174
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Foster & 94th",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 14,
+                "rte_desc": "14-Hawthorne",
+                "stop_id": 2614,
+                "stop_name": "SE Hawthorne & 28th",
+                "stop_seq": 1000,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

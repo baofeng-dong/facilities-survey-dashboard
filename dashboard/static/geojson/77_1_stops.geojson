@@ -1,0 +1,2380 @@
+{
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65707522828144,
+                    45.53157619907644
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 10876,
+                "stop_name": "NE Multnomah & 9th",
+                "stop_seq": 4750,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70074918951033,
+                    45.53695642470458
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 6014,
+                "stop_name": "NW Vaughn & 24th",
+                "stop_seq": 6300,
+                "type": "BUS",
+                "zipcode": "97210"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70844223670025,
+                    45.53695100903623
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 8481,
+                "stop_name": "NW Wardway & Montgomery Pk",
+                "stop_seq": 6900,
+                "type": "BUS",
+                "zipcode": "97210"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.39673884088403,
+                    45.539204815794356
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Troutdale",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2346,
+                "stop_name": "SW Halsey & Halsey Loop",
+                "stop_seq": 200,
+                "type": "BUS",
+                "zipcode": "97060"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.41240696661536,
+                    45.537994458761375
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Wood Village",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2423,
+                "stop_name": "NE Halsey & 244th",
+                "stop_seq": 350,
+                "type": "BUS",
+                "zipcode": "97060"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.42251403497082,
+                    45.53665641142345
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Wood Village",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2331,
+                "stop_name": "23300 Block NE Halsey",
+                "stop_seq": 500,
+                "type": "BUS",
+                "zipcode": "97060"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.434046375751,
+                    45.535083008745275
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Fairview",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2342,
+                "stop_name": "NE Halsey & Fairview/223rd",
+                "stop_seq": 700,
+                "type": "BUS",
+                "zipcode": "97024"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.46169285094543,
+                    45.53374810799725
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2326,
+                "stop_name": "NE Halsey & 196th",
+                "stop_seq": 1100,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.4717724702134,
+                    45.53377807506295
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2406,
+                "stop_name": "NE Halsey & 186th",
+                "stop_seq": 1200,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.48175229527314,
+                    45.534818373372126
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2349,
+                "stop_name": "NE Halsey & 176th",
+                "stop_seq": 1350,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.52247146924086,
+                    45.5336770256522
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2379,
+                "stop_name": "NE Halsey & 136th Pl",
+                "stop_seq": 2000,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53306700785396,
+                    45.53365548421333
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2369,
+                "stop_name": "NE Halsey & 126th",
+                "stop_seq": 2250,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.55848331013864,
+                    45.534095628202195
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 10973,
+                "stop_name": "NE Weidler & 102nd",
+                "stop_seq": 2825,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57877206781053,
+                    45.534034214881785
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 10846,
+                "stop_name": "NE Jonesmore & 82nd",
+                "stop_seq": 3050,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.54069252014801,
+                    45.533655027799206
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2365,
+                "stop_name": "NE Halsey & 119th",
+                "stop_seq": 2400,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.47768861254414,
+                    45.534808979325774
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 8860,
+                "stop_name": "NE Halsey & 181st",
+                "stop_seq": 1300,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.39129891347203,
+                    45.54083967258458
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Troutdale",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 8746,
+                "stop_name": "W Columbia River Hwy & NW Graham",
+                "stop_seq": 100,
+                "type": "BUS",
+                "zipcode": "97060"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.40640163932862,
+                    45.538744859547414
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Troutdale",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2340,
+                "stop_name": "2100 Block SW Halsey (Edgefield Manor)",
+                "stop_seq": 300,
+                "type": "BUS",
+                "zipcode": "97060"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.41581371866279,
+                    45.53757228731384
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Wood Village",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2333,
+                "stop_name": "23900 Block NE Halsey",
+                "stop_seq": 400,
+                "type": "BUS",
+                "zipcode": "97060"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.42616280276009,
+                    45.53618023836497
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Fairview",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2419,
+                "stop_name": "NE Halsey & 230th Ct",
+                "stop_seq": 550,
+                "type": "BUS",
+                "zipcode": "97024"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.44036955493829,
+                    45.53416507481408
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Fairview",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2437,
+                "stop_name": "NE Halsey & 7th St",
+                "stop_seq": 750,
+                "type": "BUS",
+                "zipcode": "97024"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.44598219681616,
+                    45.533726494404824
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Fairview",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2414,
+                "stop_name": "NE Halsey & Fairview Parkway",
+                "stop_seq": 850,
+                "type": "BUS",
+                "zipcode": "97024"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.45694833187972,
+                    45.53367049321655
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2411,
+                "stop_name": "NE Halsey & 201st",
+                "stop_seq": 1000,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.48614157164228,
+                    45.53481033511547
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2399,
+                "stop_name": "NE Halsey & 172nd",
+                "stop_seq": 1400,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.49546057609804,
+                    45.5344310881788
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2395,
+                "stop_name": "NE Halsey & 162nd",
+                "stop_seq": 1550,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.50091496435803,
+                    45.533761322078476
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2392,
+                "stop_name": "NE Halsey & 157th",
+                "stop_seq": 1650,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.50876480994998,
+                    45.533777711223195
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2386,
+                "stop_name": "NE Halsey & 148th",
+                "stop_seq": 1800,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.51589943894018,
+                    45.53379147415712
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2382,
+                "stop_name": "NE Halsey & 143rd",
+                "stop_seq": 1900,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5269853245853,
+                    45.53362696903996
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2375,
+                "stop_name": "NE Halsey & 132nd",
+                "stop_seq": 2100,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53826473418748,
+                    45.53368247232058
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2367,
+                "stop_name": "NE Halsey & 122nd",
+                "stop_seq": 2350,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.54441161066441,
+                    45.53361434803043
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2361,
+                "stop_name": "NE Halsey & 114th",
+                "stop_seq": 2500,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.54890691920146,
+                    45.534209621775915
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 6225,
+                "stop_name": "NE Weidler & 111th",
+                "stop_seq": 2600,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.40021105948905,
+                    45.53905858012503
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Troutdale",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 10630,
+                "stop_name": "SW Halsey & Edgefield Meadows",
+                "stop_seq": 250,
+                "type": "BUS",
+                "zipcode": "97060"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56126325535527,
+                    45.53365016752104
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2343,
+                "stop_name": "NE Halsey & 100th",
+                "stop_seq": 2850,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56969374531018,
+                    45.533572458706374
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2334,
+                "stop_name": "9000 Block NE Halsey",
+                "stop_seq": 2900,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5723166331235,
+                    45.533601631659764
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2459,
+                "stop_name": "NE Halsey & 90th",
+                "stop_seq": 2950,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58504064952481,
+                    45.533665226454495
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2453,
+                "stop_name": "NE Halsey & 76th",
+                "stop_seq": 3200,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58708006307064,
+                    45.53366233732443
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2451,
+                "stop_name": "NE Halsey & 74th",
+                "stop_seq": 3250,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59570201350314,
+                    45.53371941231546
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2443,
+                "stop_name": "NE Halsey & 66th",
+                "stop_seq": 3400,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59847973430391,
+                    45.533745348298105
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2441,
+                "stop_name": "NE Halsey & 63rd",
+                "stop_seq": 3450,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60193654437214,
+                    45.5337677160087
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2438,
+                "stop_name": "NE Halsey & 60th",
+                "stop_seq": 3500,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60453873000019,
+                    45.53377040501127
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2432,
+                "stop_name": "NE Halsey & 57th",
+                "stop_seq": 3550,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60866841203654,
+                    45.53379399972217
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2428,
+                "stop_name": "NE Halsey & 53rd",
+                "stop_seq": 3650,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61287255042438,
+                    45.53379993595459
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2425,
+                "stop_name": "NE Halsey & 49th",
+                "stop_seq": 3750,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61489601889897,
+                    45.53405220750325
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 7571,
+                "stop_name": "NE 47th & Halsey",
+                "stop_seq": 3800,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61775231519617,
+                    45.53518811439964
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 650,
+                "stop_name": "NE Broadway & 44th",
+                "stop_seq": 3900,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62039279855749,
+                    45.534765421784826
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 7510,
+                "stop_name": "NE 42nd & Broadway",
+                "stop_seq": 3950,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62062386552653,
+                    45.53323313789161
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 10869,
+                "stop_name": "Hollywood Transit Center",
+                "stop_seq": 4000,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62277580967861,
+                    45.53475830112757
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 7484,
+                "stop_name": "NE Cesar Chavez Blvd & Sandy",
+                "stop_seq": 4100,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6247894552507,
+                    45.53523531696168
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 649,
+                "stop_name": "NE Broadway & 37th",
+                "stop_seq": 4150,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62827503622142,
+                    45.53523940713845
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 647,
+                "stop_name": "NE Broadway & 35th",
+                "stop_seq": 4200,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63659550214129,
+                    45.53526182818264
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 639,
+                "stop_name": "NE Broadway & 28th",
+                "stop_seq": 4400,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6395660707429,
+                    45.5352413359375
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 637,
+                "stop_name": "NE Broadway & 26th",
+                "stop_seq": 4450,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64160645444014,
+                    45.53512578108114
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 635,
+                "stop_name": "NE Broadway & 24th",
+                "stop_seq": 4500,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64985666773579,
+                    45.5351197616726
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 631,
+                "stop_name": "NE Broadway & 16th",
+                "stop_seq": 4650,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65340526179286,
+                    45.535107055774475
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 629,
+                "stop_name": "NE Broadway & 12th",
+                "stop_seq": 4700,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67410562996959,
+                    45.52681683202971
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 9311,
+                "stop_name": "NW Glisan & 3rd",
+                "stop_seq": 5585,
+                "type": "BUS",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7047258887126,
+                    45.536887121688196
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 8414,
+                "stop_name": "NW Vaughn & 26th",
+                "stop_seq": 6825,
+                "type": "BUS",
+                "zipcode": "97210"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70767312060836,
+                    45.539413118490494
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 4105,
+                "stop_name": "NW Nicolai & 27th",
+                "stop_seq": 6975,
+                "type": "BUS",
+                "zipcode": "97210"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70695134190846,
+                    45.53704293854324
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 8484,
+                "stop_name": "NW 27th & Vaughn at Montgomery Park",
+                "stop_seq": 7075,
+                "type": "BUS",
+                "zipcode": "97210"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66292976805337,
+                    45.531159122614994
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 11492,
+                "stop_name": "NE Multnomah & 3rd",
+                "stop_seq": 5000,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.46668111352847,
+                    45.5337644821617
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2407,
+                "stop_name": "NE Halsey & 192nd",
+                "stop_seq": 1150,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.503678166511,
+                    45.533760324726735
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2390,
+                "stop_name": "NE Halsey & 155th",
+                "stop_seq": 1700,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.55332438754827,
+                    45.53424425244617
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 6223,
+                "stop_name": "NE Weidler & 106th",
+                "stop_seq": 2700,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57441458884843,
+                    45.53363244477967
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2457,
+                "stop_name": "NE Halsey & 86th",
+                "stop_seq": 3000,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59150077015201,
+                    45.53367978739528
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2445,
+                "stop_name": "NE Halsey & 69th",
+                "stop_seq": 3350,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60673383123601,
+                    45.53377166541969
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2431,
+                "stop_name": "NE Halsey & 55th",
+                "stop_seq": 3600,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63114998140594,
+                    45.535242342473815
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 644,
+                "stop_name": "NE Broadway & 33rd",
+                "stop_seq": 4250,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6453381063347,
+                    45.53510217543255
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 634,
+                "stop_name": "NE Broadway & 21st",
+                "stop_seq": 4550,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71020677756114,
+                    45.538599604476445
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 8482,
+                "stop_name": "NW Nicolai & Wardway",
+                "stop_seq": 6925,
+                "type": "BUS",
+                "zipcode": "97210"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.41933275305408,
+                    45.537092366903806
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Wood Village",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2420,
+                "stop_name": "NE Halsey & 238th",
+                "stop_seq": 450,
+                "type": "BUS",
+                "zipcode": "97060"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.55693710461868,
+                    45.534249071359056
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 10746,
+                "stop_name": "NE Weidler & 103rd Pl",
+                "stop_seq": 2800,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65668697292283,
+                    45.5344391816531
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 10867,
+                "stop_name": "NE 9th & Weidler",
+                "stop_seq": 4725,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58190305602712,
+                    45.533688223930724
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2455,
+                "stop_name": "NE Halsey & 79th",
+                "stop_seq": 3150,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66048207620997,
+                    45.53158647471649
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 4043,
+                "stop_name": "NE Multnomah & Grand",
+                "stop_seq": 4900,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70669412860673,
+                    45.53684378182382
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 8802,
+                "stop_name": "NW Vaughn & 27th",
+                "stop_seq": 6875,
+                "type": "BUS",
+                "zipcode": "97210"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.48897526358886,
+                    45.53463780566612
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2398,
+                "stop_name": "NE Halsey & 169th",
+                "stop_seq": 1450,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66647593582104,
+                    45.53000537698145
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2592,
+                "stop_name": "Rose Quarter Transit Center",
+                "stop_seq": 5100,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.45898229368095,
+                    45.53369524451245
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 8825,
+                "stop_name": "19800 Block NE Halsey",
+                "stop_seq": 1050,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53577398021245,
+                    45.53366894188275
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2352,
+                "stop_name": "12400 Block NE Halsey",
+                "stop_seq": 2300,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57992598191645,
+                    45.532742545881376
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 7916,
+                "stop_name": "NE 81st & Clackamas",
+                "stop_seq": 3100,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.49887792204733,
+                    45.533755837494894
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 13026,
+                "stop_name": "NE Halsey & 159th Ct",
+                "stop_seq": 1600,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5292475757032,
+                    45.53361948879519
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2373,
+                "stop_name": "NE Halsey & 129th Pl",
+                "stop_seq": 2200,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.51870819226386,
+                    45.533760809667235
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2381,
+                "stop_name": "NE Halsey & 141st",
+                "stop_seq": 1950,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.51302606574215,
+                    45.53376714347819
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2384,
+                "stop_name": "NE Halsey & 146th",
+                "stop_seq": 1850,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.39819242931989,
+                    45.54428711424827
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Troutdale",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 9481,
+                "stop_name": "1100 Block NW Frontage Rd",
+                "stop_seq": 33,
+                "type": "BUS",
+                "zipcode": "97060"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.39074156348437,
+                    45.543206353286266
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Troutdale",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 9471,
+                "stop_name": "NW 257th/Graham & 257th Way",
+                "stop_seq": 66,
+                "type": "BUS",
+                "zipcode": "97060"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67799165467704,
+                    45.526659949895226
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 1997,
+                "stop_name": "NW Glisan & Broadway",
+                "stop_seq": 5600,
+                "type": "BUS",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68110330280423,
+                    45.52658520152128
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2011,
+                "stop_name": "NW Glisan & 10th",
+                "stop_seq": 5650,
+                "type": "BUS",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68314248993374,
+                    45.5265778539674
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2030,
+                "stop_name": "NW Glisan & 12th",
+                "stop_seq": 5700,
+                "type": "BUS",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68516387813439,
+                    45.52653179613029
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2046,
+                "stop_name": "NW Glisan & 14th",
+                "stop_seq": 5750,
+                "type": "BUS",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68716495680988,
+                    45.52650309337311
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2062,
+                "stop_name": "NW Glisan & 16th",
+                "stop_seq": 5800,
+                "type": "BUS",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69017261006668,
+                    45.52644092535115
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2086,
+                "stop_name": "NW Glisan & 19th",
+                "stop_seq": 5850,
+                "type": "BUS",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69378677045215,
+                    45.52637258550093
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 2099,
+                "stop_name": "NW Glisan & 21st",
+                "stop_seq": 5900,
+                "type": "BUS",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69440683244964,
+                    45.52764818714105
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 7113,
+                "stop_name": "NW 21st & Irving",
+                "stop_seq": 5950,
+                "type": "BUS",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69447528926283,
+                    45.53011444068921
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 7122,
+                "stop_name": "NW 21st & Lovejoy",
+                "stop_seq": 6000,
+                "type": "BUS",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69454003549721,
+                    45.53118311637563
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 7128,
+                "stop_name": "NW 21st & Northrup",
+                "stop_seq": 6050,
+                "type": "BUS",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69458388930106,
+                    45.53296310276397
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 7130,
+                "stop_name": "NW 21st & Pettygrove",
+                "stop_seq": 6100,
+                "type": "BUS",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.44911386815089,
+                    45.53356170058381
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Fairview",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 13505,
+                "stop_name": "NE Halsey & 208th Pl",
+                "stop_seq": 900,
+                "type": "BUS",
+                "zipcode": "97024"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69871388852746,
+                    45.53575207037206
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 7169,
+                "stop_name": "NW 23rd & Thurman",
+                "stop_seq": 6250,
+                "type": "BUS",
+                "zipcode": "97210"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69466578341792,
+                    45.53518849499482
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 10694,
+                "stop_name": "NW 21st & Savier",
+                "stop_seq": 6150,
+                "type": "BUS",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69641288085867,
+                    45.53559646614791
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 4788,
+                "stop_name": "NW Thurman & 22nd",
+                "stop_seq": 6200,
+                "type": "BUS",
+                "zipcode": "97210"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.42860178953883,
+                    45.535836975269824
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Montgomery Park",
+                "frequent": "False",
+                "jurisdic": "Fairview",
+                "rte": 77,
+                "rte_desc": "77-Broadway/Halsey",
+                "stop_id": 13809,
+                "stop_name": "NE Halsey & Wood Village",
+                "stop_seq": 625,
+                "type": "BUS",
+                "zipcode": "97024"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

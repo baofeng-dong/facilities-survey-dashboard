@@ -1,0 +1,3415 @@
+{
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75188384237804,
+                    45.587888752718236
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 4818,
+                "stop_name": "N Richmond & Syracuse",
+                "stop_seq": 50,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.751861774365,
+                    45.58759200162184
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 4817,
+                "stop_name": "N Richmond & Syracuse",
+                "stop_seq": 100,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75547164031941,
+                    45.59388181478751
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 11936,
+                "stop_name": "N St Louis & Central",
+                "stop_seq": 450,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75354933125728,
+                    45.594816230388034
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 5376,
+                "stop_name": "N St Louis & Smith",
+                "stop_seq": 500,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75190089804788,
+                    45.59561574868927
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 5373,
+                "stop_name": "N St Louis & New York",
+                "stop_seq": 550,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74985821251809,
+                    45.596547618298665
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 11007,
+                "stop_name": "N Fessenden & Seneca",
+                "stop_seq": 600,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.746717074225,
+                    45.59612187319007
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1714,
+                "stop_name": "N Fessenden & Richmond",
+                "stop_seq": 650,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74386423103039,
+                    45.59544620313633
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1699,
+                "stop_name": "N Fessenden & Allegheny",
+                "stop_seq": 700,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74138127541755,
+                    45.594855579315215
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 10614,
+                "stop_name": "N Fessenden & Tioga",
+                "stop_seq": 750,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73843854498965,
+                    45.59416235675518
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1703,
+                "stop_name": "N Fessenden & Burr",
+                "stop_seq": 800,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73512189151654,
+                    45.593373734406924
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1712,
+                "stop_name": "N Fessenden & Midway",
+                "stop_seq": 850,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7321269458181,
+                    45.59262739643133
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1707,
+                "stop_name": "N Fessenden & Columbia Way",
+                "stop_seq": 900,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72692910217987,
+                    45.591330168176036
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1709,
+                "stop_name": "N Fessenden & Geneva",
+                "stop_seq": 950,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72326151889675,
+                    45.59119328872344
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1722,
+                "stop_name": "N Fessenden & Van Houten",
+                "stop_seq": 1000,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72120911834678,
+                    45.591140118305496
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1720,
+                "stop_name": "N Fessenden & Portsmouth",
+                "stop_seq": 1050,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71805446657652,
+                    45.59115380116682
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 12726,
+                "stop_name": "N Fessenden & Haven",
+                "stop_seq": 1100,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7146141358767,
+                    45.58861960766479
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 12750,
+                "stop_name": "N Trenton & Dwight",
+                "stop_seq": 1150,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7116929478431,
+                    45.5885719232656
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 40,
+                "stop_name": "N Trenton & Alaska",
+                "stop_seq": 1200,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71025003947938,
+                    45.58777373183877
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 44,
+                "stop_name": "N Alaska & Foss",
+                "stop_seq": 1250,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70783125025619,
+                    45.58776880190922
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 42,
+                "stop_name": "N Alaska & Chautauqua Pl",
+                "stop_seq": 1300,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70560557824217,
+                    45.58774566285086
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 41,
+                "stop_name": "N Alaska & Chautauqua",
+                "stop_seq": 1350,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70675503233743,
+                    45.586098107995745
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1046,
+                "stop_name": "N Chautauqua & Washburne",
+                "stop_seq": 1400,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70804961693096,
+                    45.58454427847628
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1050,
+                "stop_name": "N Chautauqua & Willis",
+                "stop_seq": 1450,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70546593622657,
+                    45.58394367521728
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 6388,
+                "stop_name": "N Willis & Washburne",
+                "stop_seq": 1500,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7027947168726,
+                    45.58395529943304
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 6386,
+                "stop_name": "N Willis & Wabash",
+                "stop_seq": 1550,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70005826561218,
+                    45.58393223860504
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 6377,
+                "stop_name": "N Willis & Emerald",
+                "stop_seq": 1600,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69735704586707,
+                    45.58392927281205
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 6383,
+                "stop_name": "N Willis & Peninsular",
+                "stop_seq": 1650,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69729686876357,
+                    45.58285342524266
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 4435,
+                "stop_name": "N Peninsular & Halleck",
+                "stop_seq": 1700,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69255037636162,
+                    45.582636646041394
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 2316,
+                "stop_name": "N Halleck & Delaware",
+                "stop_seq": 1750,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68915766928858,
+                    45.58232116846309
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 3219,
+                "stop_name": "N Kilpatrick & Brandon",
+                "stop_seq": 1800,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68701297493853,
+                    45.579613323148195
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1301,
+                "stop_name": "N Denver & Terry",
+                "stop_seq": 1950,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6870133831946,
+                    45.57811816695349
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1299,
+                "stop_name": "N Denver & Russet",
+                "stop_seq": 2000,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6854342030475,
+                    45.57704974656658
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 3489,
+                "stop_name": "N Lombard & Fenwick",
+                "stop_seq": 2050,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68233814119704,
+                    45.57702362912298
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 3506,
+                "stop_name": "N Lombard Transit Center",
+                "stop_seq": 2100,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6765264224301,
+                    45.577144895388535
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 3451,
+                "stop_name": "N Lombard & Mississippi",
+                "stop_seq": 2150,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67489046984616,
+                    45.57694088741971
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 90,
+                "stop_name": "N Albina & Lombard St",
+                "stop_seq": 2200,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67490950942224,
+                    45.57519285058753
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 81,
+                "stop_name": "N Albina & Buffalo",
+                "stop_seq": 2250,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67494048591976,
+                    45.573495318982374
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 79,
+                "stop_name": "N Albina & Bryant",
+                "stop_seq": 2300,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6749420709176,
+                    45.57183128979629
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 83,
+                "stop_name": "N Albina & Dekum",
+                "stop_seq": 2350,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67497985297847,
+                    45.569639464540195
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 92,
+                "stop_name": "N Albina & Rosa Parks Way",
+                "stop_seq": 2400,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67503091747648,
+                    45.56651885105077
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 72,
+                "stop_name": "N Albina & Ainsworth",
+                "stop_seq": 2450,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67503646339223,
+                    45.56240967129914
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 89,
+                "stop_name": "N Albina & Killingsworth",
+                "stop_seq": 2550,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67506513535886,
+                    45.56062231264851
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 95,
+                "stop_name": "N Albina & Sumner",
+                "stop_seq": 2600,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67511997299287,
+                    45.558748695605416
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 74,
+                "stop_name": "N Albina & Alberta",
+                "stop_seq": 2650,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67502546986555,
+                    45.55663060382815
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 77,
+                "stop_name": "N Albina & Blandena",
+                "stop_seq": 2700,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67559005220122,
+                    45.554745708248
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 3977,
+                "stop_name": "N Mississippi & Skidmore",
+                "stop_seq": 2750,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67561344432919,
+                    45.55348655022073
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 3967,
+                "stop_name": "N Mississippi & Mason",
+                "stop_seq": 2800,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67563461938174,
+                    45.550538605378456
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 3957,
+                "stop_name": "N Mississippi & Failing",
+                "stop_seq": 2850,
+                "type": "BUS",
+                "zipcode": "97227"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67176221363096,
+                    45.54821738998764
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 10649,
+                "stop_name": "N Fremont & Kerby",
+                "stop_seq": 2950,
+                "type": "BUS",
+                "zipcode": "97227"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66804924187797,
+                    45.54759559540915
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 6000,
+                "stop_name": "N Vancouver & Ivy",
+                "stop_seq": 3000,
+                "type": "BUS",
+                "zipcode": "97227"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6680417965956,
+                    45.54597517640566
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 5984,
+                "stop_name": "N Vancouver & Fargo",
+                "stop_seq": 3050,
+                "type": "BUS",
+                "zipcode": "97227"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66824623451849,
+                    45.543883348125135
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 6006,
+                "stop_name": "N Vancouver & Stanton",
+                "stop_seq": 3100,
+                "type": "BUS",
+                "zipcode": "97227"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66824900361374,
+                    45.54203174173933
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 5997,
+                "stop_name": "N Vancouver & Knott",
+                "stop_seq": 3150,
+                "type": "BUS",
+                "zipcode": "97227"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66786328190754,
+                    45.5407143820721
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 6003,
+                "stop_name": "N Vancouver & Russell",
+                "stop_seq": 3200,
+                "type": "BUS",
+                "zipcode": "97227"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66779080587627,
+                    45.53966638174055
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 6001,
+                "stop_name": "N Vancouver & Page",
+                "stop_seq": 3250,
+                "type": "BUS",
+                "zipcode": "97227"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66779156839615,
+                    45.5381207907475
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 6008,
+                "stop_name": "N Vancouver & Tillamook",
+                "stop_seq": 3300,
+                "type": "BUS",
+                "zipcode": "97227"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66784119230472,
+                    45.53449962550467
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 6009,
+                "stop_name": "N Vancouver & Weidler",
+                "stop_seq": 3350,
+                "type": "BUS",
+                "zipcode": "97227"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66647593582104,
+                    45.53000537698145
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 2592,
+                "stop_name": "Rose Quarter Transit Center",
+                "stop_seq": 3400,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67583887422084,
+                    45.5144552233251
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 3635,
+                "stop_name": "SW Madison & 1st",
+                "stop_seq": 4050,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66511177953792,
+                    45.51215700840746
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 2641,
+                "stop_name": "Hawthorne Bridge",
+                "stop_seq": 4100,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65989377955117,
+                    45.51216771152517
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 2594,
+                "stop_name": "SE Hawthorne & 6th",
+                "stop_seq": 4150,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65883013841848,
+                    45.5116099272408
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 7855,
+                "stop_name": "SE 7th & Clay",
+                "stop_seq": 4200,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65884667640715,
+                    45.50846827382753
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 7859,
+                "stop_name": "SE 7th & Harrison",
+                "stop_seq": 4250,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65888002080378,
+                    45.507321093359195
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 7857,
+                "stop_name": "SE 7th & Grant",
+                "stop_seq": 4300,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65389372107077,
+                    45.504803245277856
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1375,
+                "stop_name": "SE Division & 12th",
+                "stop_seq": 4400,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64880252064155,
+                    45.504784034698794
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1419,
+                "stop_name": "SE Division & 17th",
+                "stop_seq": 4450,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64599516271353,
+                    45.504767563568976
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1435,
+                "stop_name": "SE Division & 20th",
+                "stop_seq": 4500,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64270304931854,
+                    45.504759170096456
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1439,
+                "stop_name": "SE Division & 23rd",
+                "stop_seq": 4550,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63978619103246,
+                    45.50474964862072
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1441,
+                "stop_name": "SE Division & 26th",
+                "stop_seq": 4600,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62052367186322,
+                    45.50473632967793
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1462,
+                "stop_name": "SE Division & 41st",
+                "stop_seq": 5000,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6157941383118,
+                    45.505226888691105
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1465,
+                "stop_name": "SE Division & 45th",
+                "stop_seq": 5100,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6131256898978,
+                    45.50523119624139
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1467,
+                "stop_name": "SE Division & 48th",
+                "stop_seq": 5150,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61131855960177,
+                    45.5052527589808
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1469,
+                "stop_name": "SE Division & 50th",
+                "stop_seq": 5200,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60861223981546,
+                    45.50525866320461
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1471,
+                "stop_name": "SE Division & 52nd",
+                "stop_seq": 5250,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60551997752701,
+                    45.505285719907924
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1475,
+                "stop_name": "SE Division & 55th",
+                "stop_seq": 5300,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60201513049394,
+                    45.50530433680978
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1477,
+                "stop_name": "SE Division & 60th",
+                "stop_seq": 5350,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59763472032473,
+                    45.50529341007002
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1480,
+                "stop_name": "SE Division & 64th",
+                "stop_seq": 5400,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59423827176185,
+                    45.50529969554098
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1483,
+                "stop_name": "SE Division & 67th",
+                "stop_seq": 5450,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58943565280453,
+                    45.50530552427781
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1486,
+                "stop_name": "SE Division & 71st",
+                "stop_seq": 5500,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58747871801909,
+                    45.50532012892864
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1314,
+                "stop_name": "7300 Block SE Division",
+                "stop_seq": 5550,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58475755444648,
+                    45.505318342883825
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1489,
+                "stop_name": "SE Division & 76th",
+                "stop_seq": 5600,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58200892562292,
+                    45.50526597801389
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1493,
+                "stop_name": "SE Division & 79th",
+                "stop_seq": 5650,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57837651525601,
+                    45.504668861967986
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1497,
+                "stop_name": "SE Division & 82nd",
+                "stop_seq": 5700,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57497005691413,
+                    45.50448855634436
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1500,
+                "stop_name": "SE Division & 85th",
+                "stop_seq": 5750,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57123268805931,
+                    45.50441757350045
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1503,
+                "stop_name": "SE Division & 89th",
+                "stop_seq": 5800,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56889294003439,
+                    45.50436130505388
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1505,
+                "stop_name": "SE Division & 92nd",
+                "stop_seq": 5850,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.55967234389107,
+                    45.50421892440703
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1359,
+                "stop_name": "SE Division & 101st",
+                "stop_seq": 5950,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.55767522806923,
+                    45.5041793398871
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1361,
+                "stop_name": "SE Division & 103rd",
+                "stop_seq": 6000,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.55494138032832,
+                    45.50414614115953
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1363,
+                "stop_name": "SE Division & 105th",
+                "stop_seq": 6050,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.55149450646721,
+                    45.5041003866947
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1365,
+                "stop_name": "SE Division & 109th",
+                "stop_seq": 6100,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.54707140315722,
+                    45.504082305640836
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1368,
+                "stop_name": "SE Division & 112th",
+                "stop_seq": 6150,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.54386496611032,
+                    45.50404814222524
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1370,
+                "stop_name": "SE Division & 116th",
+                "stop_seq": 6200,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.54047708039619,
+                    45.50400756772545
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1373,
+                "stop_name": "SE Division & 119th",
+                "stop_seq": 6250,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53716811692368,
+                    45.503986121875755
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1379,
+                "stop_name": "SE Division & 122nd",
+                "stop_seq": 6300,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.534848434303,
+                    45.50398365135511
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1383,
+                "stop_name": "SE Division & 125th",
+                "stop_seq": 6350,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53011179614461,
+                    45.50395980582483
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1386,
+                "stop_name": "SE Division & 130th",
+                "stop_seq": 6450,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.52800496911219,
+                    45.50393984668754
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1388,
+                "stop_name": "SE Division & 131st",
+                "stop_seq": 6500,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.52316217911638,
+                    45.5039575391417
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1389,
+                "stop_name": "SE Division & 136th",
+                "stop_seq": 6550,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5214763432665,
+                    45.50398250966871
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1391,
+                "stop_name": "SE Division & 138th",
+                "stop_seq": 6600,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.51718955558475,
+                    45.50400845986571
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1349,
+                "stop_name": "SE Division & 142nd",
+                "stop_seq": 6700,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5132352596051,
+                    45.50405326909282
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1398,
+                "stop_name": "SE Division & 145th",
+                "stop_seq": 6750,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.50974606302044,
+                    45.5041019979579
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1400,
+                "stop_name": "SE Division & 148th",
+                "stop_seq": 6800,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.50703015145743,
+                    45.504168129184364
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1405,
+                "stop_name": "SE Division & 151st",
+                "stop_seq": 6850,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.49611967453693,
+                    45.50446074267433
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1415,
+                "stop_name": "SE Division & 162nd",
+                "stop_seq": 7050,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.49309194953261,
+                    45.50446262313539
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1417,
+                "stop_name": "SE Division & 165th",
+                "stop_seq": 7100,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.48975604743514,
+                    45.50447582441283
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1418,
+                "stop_name": "SE Division & 168th",
+                "stop_seq": 7150,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.48491073257979,
+                    45.50449692714365
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1422,
+                "stop_name": "SE Division & 174th",
+                "stop_seq": 7200,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.48150008134354,
+                    45.50448482452775
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1424,
+                "stop_name": "SE Division & 176th Pl",
+                "stop_seq": 7250,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.47918641765868,
+                    45.504482635311085
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1426,
+                "stop_name": "SE Division & 179th",
+                "stop_seq": 7300,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.47488188656904,
+                    45.50446819148302
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1427,
+                "stop_name": "SE Division & 182nd",
+                "stop_seq": 7350,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.47193101335046,
+                    45.504458236962044
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1429,
+                "stop_name": "SE Division & 185th",
+                "stop_seq": 7400,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.467990422085,
+                    45.504401011802884
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1433,
+                "stop_name": "SE Division & 190th",
+                "stop_seq": 7450,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.46473888281464,
+                    45.50437399963817
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1312,
+                "stop_name": "3100 Block NW Division",
+                "stop_seq": 7500,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.45949797299102,
+                    45.50434041565406
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 9416,
+                "stop_name": "2700 Block NW Division",
+                "stop_seq": 7550,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.45520975555664,
+                    45.50436083525704
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1321,
+                "stop_name": "NW Division & Birdsdale",
+                "stop_seq": 7600,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.45215927719134,
+                    45.5043755389534
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1346,
+                "stop_name": "NW Division & Riverview",
+                "stop_seq": 7650,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.44930951448306,
+                    45.504401933006235
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 9426,
+                "stop_name": "NW Division & Angeline",
+                "stop_seq": 7700,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.4444718265692,
+                    45.5044117933614
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1357,
+                "stop_name": "NW Division & Wallula",
+                "stop_seq": 7750,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.440710556349,
+                    45.50436692923166
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1315,
+                "stop_name": "NW Division & Civic Dr",
+                "stop_seq": 7800,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.43775312750284,
+                    45.50437797195243
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1344,
+                "stop_name": "NW Division & Norman",
+                "stop_seq": 7850,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.43507237684592,
+                    45.50437071738138
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1331,
+                "stop_name": "NW Division & Eastman Parkway",
+                "stop_seq": 7900,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.43020171286784,
+                    45.5043848961573
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1348,
+                "stop_name": "NE Division & Main",
+                "stop_seq": 8000,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.42648582749149,
+                    45.50259420263247
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 2253,
+                "stop_name": "Gresham Transit Center",
+                "stop_seq": 8100,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67410562996959,
+                    45.52681683202971
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 9311,
+                "stop_name": "NW Glisan & 3rd",
+                "stop_seq": 3750,
+                "type": "BUS",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67555202542113,
+                    45.52470499281588
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 9301,
+                "stop_name": "NW 5th & Davis",
+                "stop_seq": 3800,
+                "type": "BUS",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67582657583233,
+                    45.52224017989127
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 7631,
+                "stop_name": "SW 5th & Pine",
+                "stop_seq": 3850,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67685502185405,
+                    45.52026995352134
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 7642,
+                "stop_name": "SW 5th & Washington",
+                "stop_seq": 3900,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67865107999347,
+                    45.51693981225403
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 7634,
+                "stop_name": "SW 5th & Salmon",
+                "stop_seq": 3950,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67857274754661,
+                    45.51518918104963
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 3639,
+                "stop_name": "SW Madison & 4th",
+                "stop_seq": 4000,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.50310251934759,
+                    45.5042490331377
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 13471,
+                "stop_name": "SE Division & 156th",
+                "stop_seq": 6925,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63680595140946,
+                    45.504753432616894
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1445,
+                "stop_name": "SE Division & 28th Pl",
+                "stop_seq": 4650,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6347534458713,
+                    45.50475501179264
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1447,
+                "stop_name": "SE Division & 30th",
+                "stop_seq": 4700,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62965739580434,
+                    45.50473795504694
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1451,
+                "stop_name": "SE Division & 34th",
+                "stop_seq": 4800,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62305473703567,
+                    45.50472967111877
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1458,
+                "stop_name": "SE Division & Cesar Chavez Blvd",
+                "stop_seq": 4950,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56698858544674,
+                    45.504335281830244
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 13297,
+                "stop_name": "SE Division & SE Division St MAX Station",
+                "stop_seq": 5875,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56355847069526,
+                    45.50424427005639
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 8949,
+                "stop_name": "SE Division & 96th",
+                "stop_seq": 5900,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61876541147052,
+                    45.50512896374052
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 13696,
+                "stop_name": "SE Division & 42nd",
+                "stop_seq": 5050,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.42772042672506,
+                    45.5028428523355
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 13506,
+                "stop_name": "Gresham Transit Center",
+                "stop_seq": 8075,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62594883065103,
+                    45.50474187835522
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 13753,
+                "stop_name": "SE Division & 36th",
+                "stop_seq": 4875,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63266346512611,
+                    45.50472896532466
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1449,
+                "stop_name": "SE Division & 32nd",
+                "stop_seq": 4750,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68709476333595,
+                    45.58233332118957
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 3222,
+                "stop_name": "N Kilpatrick & Denver",
+                "stop_seq": 1850,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68699629883677,
+                    45.581156561821516
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1304,
+                "stop_name": "N Denver & Watts",
+                "stop_seq": 1900,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75212182080375,
+                    45.58898087345023
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 8653,
+                "stop_name": "N Charleston & Lombard St",
+                "stop_seq": 150,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75267956524137,
+                    45.58958863790517
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 3509,
+                "stop_name": "N Lombard & John",
+                "stop_seq": 200,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75428268479551,
+                    45.590102478492135
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 3467,
+                "stop_name": "N Lombard & Burlington",
+                "stop_seq": 250,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7557066547405,
+                    45.59110733082989
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 8480,
+                "stop_name": "N Lombard & Baltimore",
+                "stop_seq": 300,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75686410669668,
+                    45.592307592466355
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 3525,
+                "stop_name": "N Lombard & New York",
+                "stop_seq": 350,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67370668598633,
+                    45.54800376673273
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1837,
+                "stop_name": "Fremont & Borthwick",
+                "stop_seq": 2900,
+                "type": "BUS",
+                "zipcode": "97227"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

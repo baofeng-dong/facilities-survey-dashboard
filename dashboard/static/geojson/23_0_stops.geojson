@@ -1,0 +1,701 @@
+{
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.51050569112513,
+                    45.55233996494081
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Sandy & 148th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 23,
+                "rte_desc": "23-San Rafael",
+                "stop_id": 10790,
+                "stop_name": "NE Sandy & 148th",
+                "stop_seq": 2100,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56086619791836,
+                    45.5294070730263
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Sandy & 148th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 23,
+                "rte_desc": "23-San Rafael",
+                "stop_id": 4287,
+                "stop_name": "10000 Block NE Pacific St",
+                "stop_seq": 100,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.54898479096131,
+                    45.5340213601569
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Sandy & 148th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 23,
+                "rte_desc": "23-San Rafael",
+                "stop_id": 6565,
+                "stop_name": "NE 111th & Weidler",
+                "stop_seq": 450,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.54897251438491,
+                    45.53703145993954
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Sandy & 148th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 23,
+                "rte_desc": "23-San Rafael",
+                "stop_id": 6563,
+                "stop_name": "NE 111th & San Rafael",
+                "stop_seq": 550,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.54888248420143,
+                    45.541947250019604
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Sandy & 148th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 23,
+                "rte_desc": "23-San Rafael",
+                "stop_id": 6557,
+                "stop_name": "NE 111th & Knott",
+                "stop_seq": 700,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.54270466327347,
+                    45.5432378808105
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Sandy & 148th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 23,
+                "rte_desc": "23-San Rafael",
+                "stop_id": 4012,
+                "stop_name": "NE Morris & 117th",
+                "stop_seq": 850,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5377041217734,
+                    45.542725281289975
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Sandy & 148th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 23,
+                "rte_desc": "23-San Rafael",
+                "stop_id": 5386,
+                "stop_name": "NE Stanton & 122nd",
+                "stop_seq": 950,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.55794039594858,
+                    45.53161195406824
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Sandy & 148th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 23,
+                "rte_desc": "23-San Rafael",
+                "stop_id": 6522,
+                "stop_name": "1200 Block NE 102nd",
+                "stop_seq": 150,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.55451814790723,
+                    45.533446579321385
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Sandy & 148th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 23,
+                "rte_desc": "23-San Rafael",
+                "stop_id": 2356,
+                "stop_name": "10500 Block NE Halsey",
+                "stop_seq": 350,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.55149585035232,
+                    45.53343111095933
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Sandy & 148th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 23,
+                "rte_desc": "23-San Rafael",
+                "stop_id": 2357,
+                "stop_name": "NE Halsey & 108th",
+                "stop_seq": 400,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5489587401246,
+                    45.539372340449944
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Sandy & 148th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 23,
+                "rte_desc": "23-San Rafael",
+                "stop_id": 6561,
+                "stop_name": "NE 111th & Sacramento",
+                "stop_seq": 600,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53770112088327,
+                    45.53959373123747
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Sandy & 148th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 23,
+                "rte_desc": "23-San Rafael",
+                "stop_id": 6667,
+                "stop_name": "NE 122nd & Sacramento",
+                "stop_seq": 1050,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53379519020734,
+                    45.53715584007125
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Sandy & 148th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 23,
+                "rte_desc": "23-San Rafael",
+                "stop_id": 5033,
+                "stop_name": "NE San Rafael & 125th",
+                "stop_seq": 1150,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53109317167825,
+                    45.53715702907875
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Sandy & 148th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 23,
+                "rte_desc": "23-San Rafael",
+                "stop_id": 5037,
+                "stop_name": "NE San Rafael & 128th",
+                "stop_seq": 1200,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.52728679968682,
+                    45.537142303822215
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Sandy & 148th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 23,
+                "rte_desc": "23-San Rafael",
+                "stop_id": 5039,
+                "stop_name": "NE San Rafael & 132nd",
+                "stop_seq": 1300,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.52420747212884,
+                    45.541469074161846
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Sandy & 148th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 23,
+                "rte_desc": "23-San Rafael",
+                "stop_id": 4988,
+                "stop_name": "NE Sacramento & 134th Pl",
+                "stop_seq": 1550,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.52051308419864,
+                    45.540435225274436
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Sandy & 148th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 23,
+                "rte_desc": "23-San Rafael",
+                "stop_id": 4990,
+                "stop_name": "NE Sacramento & 138th Pl",
+                "stop_seq": 1650,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.51668773064695,
+                    45.54048824441369
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Sandy & 148th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 23,
+                "rte_desc": "23-San Rafael",
+                "stop_id": 4979,
+                "stop_name": "NE Sacramento & 142nd",
+                "stop_seq": 1700,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.51255931904144,
+                    45.539904023822174
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Sandy & 148th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 23,
+                "rte_desc": "23-San Rafael",
+                "stop_id": 4993,
+                "stop_name": "14600 Block NE Sacramento",
+                "stop_seq": 1800,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.50988182488368,
+                    45.54817199183272
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Sandy & 148th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 23,
+                "rte_desc": "23-San Rafael",
+                "stop_id": 8567,
+                "stop_name": "NE 148th & Fremont",
+                "stop_seq": 2050,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.51007701171712,
+                    45.540570767905116
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Sandy & 148th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 23,
+                "rte_desc": "23-San Rafael",
+                "stop_id": 8564,
+                "stop_name": "NE 148th & Sacramento",
+                "stop_seq": 1900,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.54791441878264,
+                    45.54294282217485
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Sandy & 148th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 23,
+                "rte_desc": "23-San Rafael",
+                "stop_id": 6559,
+                "stop_name": "NE 111th & Morris",
+                "stop_seq": 750,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.52693174546916,
+                    45.542009636260886
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Sandy & 148th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 23,
+                "rte_desc": "23-San Rafael",
+                "stop_id": 6716,
+                "stop_name": "NE 132nd & Knott",
+                "stop_seq": 1450,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53707248327127,
+                    45.53715255988132
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Sandy & 148th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 23,
+                "rte_desc": "23-San Rafael",
+                "stop_id": 5035,
+                "stop_name": "NE San Rafael & 122nd",
+                "stop_seq": 1100,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56377346451607,
+                    45.530571493870696
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Sandy & 148th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 23,
+                "rte_desc": "23-San Rafael",
+                "stop_id": 8194,
+                "stop_name": "Gateway Transit Center",
+                "stop_seq": 25,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.526977904801,
+                    45.53904321888836
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Sandy & 148th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 23,
+                "rte_desc": "23-San Rafael",
+                "stop_id": 6714,
+                "stop_name": "NE 132nd & Eugene",
+                "stop_seq": 1350,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.51067546284634,
+                    45.539565324479966
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Sandy & 148th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 23,
+                "rte_desc": "23-San Rafael",
+                "stop_id": 4994,
+                "stop_name": "NE Sacramento & 148th",
+                "stop_seq": 1850,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.510017854649,
+                    45.54499034635459
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Sandy & 148th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 23,
+                "rte_desc": "23-San Rafael",
+                "stop_id": 13142,
+                "stop_name": "NE 148th & Rose Parkway",
+                "stop_seq": 1975,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.55791948878421,
+                    45.533366972185945
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Sandy & 148th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 23,
+                "rte_desc": "23-San Rafael",
+                "stop_id": 2354,
+                "stop_name": "102nd & Halsey",
+                "stop_seq": 200,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56332385200179,
+                    45.53048635401241
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Sandy & 148th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 23,
+                "rte_desc": "23-San Rafael",
+                "stop_id": 10862,
+                "stop_name": "Gateway Transit Center",
+                "stop_seq": 50,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,425 @@
+{
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.80019682573149,
+                    45.47699626466306
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "Morning Loop",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 53,
+                "rte_desc": "53-Arctic/Allen",
+                "stop_id": 3455,
+                "stop_name": "SW Lombard & Allen",
+                "stop_seq": 700,
+                "type": "BUS",
+                "zipcode": "97005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.80024919400522,
+                    45.478470915306715
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "Morning Loop",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 53,
+                "rte_desc": "53-Arctic/Allen",
+                "stop_id": 3580,
+                "stop_name": "SW Lombard & 12th",
+                "stop_seq": 750,
+                "type": "BUS",
+                "zipcode": "97005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.8002165660298,
+                    45.48042836784674
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "Morning Loop",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 53,
+                "rte_desc": "53-Arctic/Allen",
+                "stop_id": 3585,
+                "stop_name": "SW Lombard & 9th",
+                "stop_seq": 800,
+                "type": "BUS",
+                "zipcode": "97005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.80022013039424,
+                    45.482800886832415
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "Morning Loop",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 53,
+                "rte_desc": "53-Arctic/Allen",
+                "stop_id": 3583,
+                "stop_name": "SW Lombard & 5th",
+                "stop_seq": 850,
+                "type": "BUS",
+                "zipcode": "97005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.80024520558302,
+                    45.48492612081265
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "Morning Loop",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 53,
+                "rte_desc": "53-Arctic/Allen",
+                "stop_id": 3582,
+                "stop_name": "SW Lombard & 2nd",
+                "stop_seq": 900,
+                "type": "BUS",
+                "zipcode": "97005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.79705548595521,
+                    45.48642210698739
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "Morning Loop",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 53,
+                "rte_desc": "53-Arctic/Allen",
+                "stop_id": 342,
+                "stop_name": "SW Beaverton-Hillsdale & Griffith",
+                "stop_seq": 100,
+                "type": "BUS",
+                "zipcode": "97005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.78907340838123,
+                    45.48367009578776
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "Morning Loop",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 53,
+                "rte_desc": "53-Arctic/Allen",
+                "stop_id": 9699,
+                "stop_name": "10900 Block SW 5th",
+                "stop_seq": 200,
+                "type": "BUS",
+                "zipcode": "97005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.78289371105227,
+                    45.48365179456785
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "Morning Loop",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 53,
+                "rte_desc": "53-Arctic/Allen",
+                "stop_id": 9700,
+                "stop_name": "SW 5th & Western",
+                "stop_seq": 250,
+                "type": "BUS",
+                "zipcode": "97005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.78196646135068,
+                    45.48130692710061
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "Morning Loop",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 53,
+                "rte_desc": "53-Arctic/Allen",
+                "stop_id": 9685,
+                "stop_name": "SW Arctic Dr & Western Ave",
+                "stop_seq": 300,
+                "type": "BUS",
+                "zipcode": "97005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.77879106426703,
+                    45.479133753076745
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "Morning Loop",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 53,
+                "rte_desc": "53-Arctic/Allen",
+                "stop_id": 9686,
+                "stop_name": "SW Arctic Drive & Harvest Court",
+                "stop_seq": 350,
+                "type": "BUS",
+                "zipcode": "97005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.77897420321793,
+                    45.474829829590334
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "Morning Loop",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 53,
+                "rte_desc": "53-Arctic/Allen",
+                "stop_id": 9701,
+                "stop_name": "SW Arctic Drive & Allen",
+                "stop_seq": 400,
+                "type": "BUS",
+                "zipcode": "97005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.78472582147897,
+                    45.476713283506946
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "Morning Loop",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 53,
+                "rte_desc": "53-Arctic/Allen",
+                "stop_id": 9703,
+                "stop_name": "10500 Block SW Allen",
+                "stop_seq": 500,
+                "type": "BUS",
+                "zipcode": "97005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.78714003576926,
+                    45.47670166640195
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "Morning Loop",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 53,
+                "rte_desc": "53-Arctic/Allen",
+                "stop_id": 10499,
+                "stop_name": "SW Allen & 107th",
+                "stop_seq": 550,
+                "type": "BUS",
+                "zipcode": "97005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.79360975628559,
+                    45.47669413510527
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "Morning Loop",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 53,
+                "rte_desc": "53-Arctic/Allen",
+                "stop_id": 9704,
+                "stop_name": "SW Allen & King",
+                "stop_seq": 600,
+                "type": "BUS",
+                "zipcode": "97005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.80072479146631,
+                    45.487818285470055
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "Morning Loop",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 53,
+                "rte_desc": "53-Arctic/Allen",
+                "stop_id": 12944,
+                "stop_name": "SW Lombard & Broadway",
+                "stop_seq": 950,
+                "type": "BUS",
+                "zipcode": "97005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.80074943724856,
+                    45.4914354583063
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "Morning Loop",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 53,
+                "rte_desc": "53-Arctic/Allen",
+                "stop_id": 9977,
+                "stop_name": "Beaverton Transit Center",
+                "stop_seq": 1050,
+                "type": "BUS",
+                "zipcode": "97005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.79535706063058,
+                    45.484000768197916
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "Morning Loop",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 53,
+                "rte_desc": "53-Arctic/Allen",
+                "stop_id": 9707,
+                "stop_name": "4900 Block SW Griffith Drive",
+                "stop_seq": 150,
+                "type": "BUS",
+                "zipcode": "97005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.80074943724856,
+                    45.4914354583063
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "Morning Loop",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 53,
+                "rte_desc": "53-Arctic/Allen",
+                "stop_id": 9977,
+                "stop_name": "Beaverton Transit Center",
+                "stop_seq": 50,
+                "type": "BUS",
+                "zipcode": "97005"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

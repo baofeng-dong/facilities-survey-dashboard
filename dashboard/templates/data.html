@@ -1,0 +1,125 @@
+<!-- Copyright (C) 2016 Baofeng Dong
+# This program is released under the "MIT License".
+# Please see the file COPYING in the source
+# distribution of this software for license terms. -->
+
+{% extends "base.html" %}
+
+
+{% block content %}
+
+<div id="data-intro">
+    <h4><b>Survey Data Dashboard</b></h4>
+    <p>Note: select route, direction or surveyor to view the latest 300 survey submissions.</p>
+
+</div>
+
+<!-- dropdowns that trigger ajax call to update table based on selection -->
+<div id="select-group">
+<table height="100%">
+  <tr id="menu-dd">
+    <td style="padding-right:1em">
+      <strong>Route:</strong>
+    </td>
+    <td>
+      <div class="btn-group" role="form">
+        <button id="line_btn" type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">
+        All    <span class="caret"></span>
+        </button>
+        <ul id="filter_line" class="dropdown-menu scrollable-menu" role="menu">
+          <li role="presentation" class="dropdown-header">Route</li>
+          <li role="presentation"><a href="#">All</a></li>
+          <li role="presentation" class="divider"></li>
+          {% for route in routes %}
+          <li><a href="#">{{ route }}</a></li>
+          {% endfor %}
+        </ul>
+      </div>
+    </td>
+  </tr>
+  <tr id="menu-dd">
+  <td class="direction_cls" style="padding-right:1em; display:none">
+    <strong>Direction:</strong>
+  </td>
+    <td class="direction_cls" style="display: none;">
+      <div class="btn-group">
+        <button id="dir_btn" type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">
+        All    <span class="caret"></span>
+        </button>
+        <ul id="filter_dir" class="dropdown-menu" role="menu">
+          <li role="presentation" class="dropdown-header">Direction</li>
+          <li role="presentation"><a href="#">All</a></li>
+          <li role="presentation" class="divider"></li>
+          <li><a href="#" id="inbound_link"></a></li>
+          <li><a href="#" id="outbound_link"></a></li>
+        </ul>
+      </div>
+    </td>
+  </tr>
+  <tr id="menu-dd">
+    <td style="padding-right:1em;">
+      <strong >Surveyor:</strong>
+    </td>
+    <td>
+      <div class="btn-group">
+        <button id="user_btn" type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">
+        All    <span class="caret"></span>
+        </button>
+        <ul id="filter_user" class="dropdown-menu scrollable-menu" role="menu">
+          <li role="presentation" class="dropdown-header">Surveyor</li>
+          <li role="presentation"><a href="#">All</a></li>
+          <li role="presentation" class="divider"></li>    
+          {% for user in users %}
+          <li><a href="#">{{ user }}</a></li>
+          {% endfor %}
+        </ul>
+      </div>
+    </td>
+  </tr>
+</table>
+</div>
+<div id="download-button">
+<table>
+  <tr>
+    <td>
+      <div class="btn-group" role="form">
+        <button id="generate-btn" type="button" class="btn btn-default">
+        Download
+        </button>
+      </div>
+    </td>
+  </tr>
+</table>
+</div>
+<!-- table that has body populated by ajax call -->
+<div id="data-div">
+<div class="table-responsive panel panel-default">
+  <table class="table table-striped">
+    <thead id="thead">
+      <tr>
+        {% for header in headers %}
+        <th align="center">{{ header }}</th>
+        {% endfor %}
+      </tr>
+  </thead>
+    <tbody id="tbody">
+    </tbody>
+  </table>
+</div>
+</div>
+
+<script>
+    //convert ordered directions data by rte and desc
+    //into lookup object
+    //{rte_desc:{0:<outbound dir_desc>, 1:<inbound dir_desc>}, ... }
+    var directions = {{ directions|tojson|safe }};
+    console.log(directions);
+    var users = {{ users|tojson|safe }}; 
+    console.log(users); 
+
+</script>
+
+<script type="text/javascript" src="{{ url_for('index') }}static/js/data.js"></script>
+
+{% endblock %}
+

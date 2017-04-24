@@ -1,0 +1,1805 @@
+{
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67881195299157,
+                    45.503835653022136
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 6474,
+                "stop_name": "SW 1st & Arthur",
+                "stop_seq": 700,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67881010841992,
+                    45.50093683472669
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 6488,
+                "stop_name": "SW 1st & Woods",
+                "stop_seq": 800,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6759495790898,
+                    45.498011238015245
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 1132,
+                "stop_name": "SW Corbett & Curry",
+                "stop_seq": 900,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67600900135415,
+                    45.496576514368684
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 1137,
+                "stop_name": "SW Corbett & Gaines",
+                "stop_seq": 950,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67631408018815,
+                    45.490988172851004
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 1140,
+                "stop_name": "SW Corbett & Hamilton",
+                "stop_seq": 1150,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67633815453623,
+                    45.48966253075966
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 1153,
+                "stop_name": "SW Corbett & Seymour",
+                "stop_seq": 1200,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67687802668755,
+                    45.48370773289497
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 1155,
+                "stop_name": "SW Corbett & Sweeney",
+                "stop_seq": 1350,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67695775864219,
+                    45.47879401837507
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 1131,
+                "stop_name": "SW Corbett & Carolina",
+                "stop_seq": 1550,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67701491900596,
+                    45.47739921054644
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 1148,
+                "stop_name": "SW Corbett & Nebraska",
+                "stop_seq": 1600,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67321272542249,
+                    45.46733033405334
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 5704,
+                "stop_name": "SW Taylors Ferry & Riverview",
+                "stop_seq": 2000,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68032542157584,
+                    45.46387805691688
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 5718,
+                "stop_name": "SW Taylors Ferry & 2nd",
+                "stop_seq": 2100,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68841812360886,
+                    45.463518116579195
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 5708,
+                "stop_name": "SW Taylors Ferry & 10th",
+                "stop_seq": 2250,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69111509040832,
+                    45.462068182770935
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 5687,
+                "stop_name": "SW Taylors Ferry & Dolph",
+                "stop_seq": 2350,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69157016411886,
+                    45.46057765759678
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 5689,
+                "stop_name": "SW Taylors Ferry & Marigold",
+                "stop_seq": 2400,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69532188355745,
+                    45.45868585505172
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 5713,
+                "stop_name": "SW Taylors Ferry & 17th",
+                "stop_seq": 2500,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69957695679891,
+                    45.458844681464164
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 5719,
+                "stop_name": "SW Taylors Ferry & 23rd Dr",
+                "stop_seq": 2600,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70047466063878,
+                    45.458195788790675
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 5692,
+                "stop_name": "2200 Block SW Taylors Ferry",
+                "stop_seq": 2650,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70573368829287,
+                    45.45798590478718
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 5722,
+                "stop_name": "SW Taylors Ferry & 28th",
+                "stop_seq": 2750,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70780950668356,
+                    45.45755763991192
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 5724,
+                "stop_name": "SW Taylors Ferry & 30th",
+                "stop_seq": 2800,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71294638708639,
+                    45.45324069777745
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 7428,
+                "stop_name": "SW 35th & Ridge Dr",
+                "stop_seq": 2900,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72465493608136,
+                    45.454774344643575
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 5726,
+                "stop_name": "SW Taylors Ferry & 46th",
+                "stop_seq": 3350,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72578570720073,
+                    45.45477323241147
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 5728,
+                "stop_name": "SW Taylors Ferry & 48th",
+                "stop_seq": 3400,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73045177817997,
+                    45.454804210846234
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 5732,
+                "stop_name": "SW Taylors Ferry & 52nd",
+                "stop_seq": 3500,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73148927958295,
+                    45.45481257570068
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 5734,
+                "stop_name": "SW Taylors Ferry & 53rd",
+                "stop_seq": 3550,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73570064758724,
+                    45.4548629992993
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 5738,
+                "stop_name": "SW Taylors Ferry & 57th",
+                "stop_seq": 3650,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74064457727061,
+                    45.45492161107551
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 5743,
+                "stop_name": "SW Taylors Ferry & 62nd",
+                "stop_seq": 3750,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74705127012551,
+                    45.45495451620383
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 5747,
+                "stop_name": "SW Taylors Ferry & 69th",
+                "stop_seq": 3850,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75028811216316,
+                    45.45386207022398
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 5693,
+                "stop_name": "7100 Block SW Taylors Ferry",
+                "stop_seq": 3950,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75888366941949,
+                    45.455013594520395
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 5754,
+                "stop_name": "SW Taylors Ferry & 80th",
+                "stop_seq": 4150,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75908240440295,
+                    45.45248077986285
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 7906,
+                "stop_name": "SW 80th & Cedarcrest",
+                "stop_seq": 4250,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75908958452138,
+                    45.45052761696625
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 7910,
+                "stop_name": "SW 80th & Elmwood",
+                "stop_seq": 4350,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75908528020638,
+                    45.44674156133383
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 7914,
+                "stop_name": "SW 80th & Locust",
+                "stop_seq": 4500,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76175785200286,
+                    45.446652448486184
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 3441,
+                "stop_name": "SW Locust & 82nd",
+                "stop_seq": 4550,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7651937741796,
+                    45.44668369075088
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 3438,
+                "stop_name": "SW Locust & Hall",
+                "stop_seq": 4600,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76473427906672,
+                    45.448696255326404
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 2264,
+                "stop_name": "9800 Block SW Hall",
+                "stop_seq": 4650,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76822036719308,
+                    45.45145234597317
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 2307,
+                "stop_name": "SW Hall & 88th",
+                "stop_seq": 4800,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.77070820016415,
+                    45.45220369041452
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 2311,
+                "stop_name": "SW Hall & 91st",
+                "stop_seq": 4900,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67691552869763,
+                    45.48126596917189
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 1150,
+                "stop_name": "SW Corbett & Pendleton",
+                "stop_seq": 1450,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71821601399031,
+                    45.45220012999932
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 2809,
+                "stop_name": "SW Huber & 40th",
+                "stop_seq": 3050,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7590754817112,
+                    45.45376485147136
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 7904,
+                "stop_name": "SW 80th & Birch",
+                "stop_seq": 4200,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67877473296818,
+                    45.502336011908106
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 6480,
+                "stop_name": "SW 1st & Hooker",
+                "stop_seq": 750,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67593931746424,
+                    45.499444349111386
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 1138,
+                "stop_name": "SW Corbett & Gibbs",
+                "stop_seq": 850,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67629044018656,
+                    45.49247787085341
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 1127,
+                "stop_name": "SW Corbett & Bancroft",
+                "stop_seq": 1100,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67682963680619,
+                    45.48715022356139
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 1151,
+                "stop_name": "SW Corbett & Richardson",
+                "stop_seq": 1250,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67688995327548,
+                    45.482592250449294
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 1134,
+                "stop_name": "SW Corbett & Flower",
+                "stop_seq": 1400,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67400971918786,
+                    45.47720914529069
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 4103,
+                "stop_name": "SW Nebraska & Virginia",
+                "stop_seq": 1650,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67383922875777,
+                    45.4662064673977
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 5705,
+                "stop_name": "SW Taylors Ferry & Riverview (2nd)",
+                "stop_seq": 2050,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6853614269627,
+                    45.46306890070438
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 5749,
+                "stop_name": "SW Taylors Ferry & 7th",
+                "stop_seq": 2150,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68980382881828,
+                    45.463098775532686
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 5709,
+                "stop_name": "SW Taylors Ferry & 11th",
+                "stop_seq": 2300,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69255528328497,
+                    45.45959032603051
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 5711,
+                "stop_name": "SW Taylors Ferry & Taylors Ferry Ct",
+                "stop_seq": 2450,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69732658702016,
+                    45.45864412993385
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 5715,
+                "stop_name": "SW Taylors Ferry & 19th",
+                "stop_seq": 2550,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7119259164701,
+                    45.454955718901424
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 7421,
+                "stop_name": "SW 35th & Indian Hills Apts",
+                "stop_seq": 2850,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71289929212136,
+                    45.451967740915755
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 7419,
+                "stop_name": "SW 35th & Huber",
+                "stop_seq": 2950,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72144052863378,
+                    45.45293061324479
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 923,
+                "stop_name": "SW Capitol & Barbur",
+                "stop_seq": 3150,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73328762168123,
+                    45.454887660536954
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 5736,
+                "stop_name": "SW Taylors Ferry & 55th",
+                "stop_seq": 3600,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7380453750104,
+                    45.45490200615179
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 5740,
+                "stop_name": "SW Taylors Ferry & 60th",
+                "stop_seq": 3700,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75688587968699,
+                    45.45502036679481
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 5696,
+                "stop_name": "SW Taylors Ferry & 78th Pl",
+                "stop_seq": 4100,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75910160282415,
+                    45.44775344308028
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 7912,
+                "stop_name": "SW 80th & Landau",
+                "stop_seq": 4450,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76471137931226,
+                    45.45018414298371
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 2287,
+                "stop_name": "SW Hall & Hemlock",
+                "stop_seq": 4700,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67883640934352,
+                    45.50639122331797
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 6473,
+                "stop_name": "SW 1st & Madison Tower",
+                "stop_seq": 600,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76653755980733,
+                    45.45093218768672
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 2298,
+                "stop_name": "SW Hall & Washington",
+                "stop_seq": 4750,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75287128166961,
+                    45.45444994135389
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 12387,
+                "stop_name": "SW Taylors Ferry & Picasso Pl",
+                "stop_seq": 4000,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.77373208770116,
+                    45.453287398990206
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 12402,
+                "stop_name": "SW Hall & Greenburg",
+                "stop_seq": 4925,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70357320540798,
+                    45.45814575958096
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 5720,
+                "stop_name": "SW Taylors Ferry & 26th",
+                "stop_seq": 2700,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72718570657305,
+                    45.454793632243614
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 5730,
+                "stop_name": "SW Taylors Ferry & 49th",
+                "stop_seq": 3450,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.77878491499585,
+                    45.45228987755118
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 9220,
+                "stop_name": "Washington Square Transit Center",
+                "stop_seq": 5000,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67684888948601,
+                    45.48584735437459
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 1147,
+                "stop_name": "SW Corbett & Mitchell",
+                "stop_seq": 1300,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75468282636714,
+                    45.45497513481207
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 8387,
+                "stop_name": "SW Taylors Ferry & 76th Pl",
+                "stop_seq": 4050,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67283023270637,
+                    45.468638124391695
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 5700,
+                "stop_name": "SW Taylors Ferry & Fulton Park Blvd",
+                "stop_seq": 1950,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68013152290851,
+                    45.5077938153603
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 3397,
+                "stop_name": "300 Block SW Lincoln",
+                "stop_seq": 450,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7202150237444,
+                    45.45470929464583
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 5697,
+                "stop_name": "Taylors Ferry & Capitol Hwy",
+                "stop_seq": 3225,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.77691519101536,
+                    45.45291612642173
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 13582,
+                "stop_name": "SW Blum & Palmblad",
+                "stop_seq": 4975,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74427474607054,
+                    45.45495388797371
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 13578,
+                "stop_name": "6500 Block SW Taylors Ferry",
+                "stop_seq": 3800,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67609285207739,
+                    45.49516809785272
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 1125,
+                "stop_name": "SW Corbett & Abernethy",
+                "stop_seq": 1000,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68228619677673,
+                    45.510277176094824
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 10491,
+                "stop_name": "SW 5th & Hall",
+                "stop_seq": 50,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67395757029126,
+                    45.47590776299537
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 6062,
+                "stop_name": "SW Virginia & Vermont",
+                "stop_seq": 1725,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67398885535928,
+                    45.47447766152626
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 6053,
+                "stop_name": "SW Virginia & California",
+                "stop_seq": 1800,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67255669037176,
+                    45.47004023623416
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To  Washington Square Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 6060,
+                "stop_name": "SW Virginia & Taylors Ferry",
+                "stop_seq": 1875,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

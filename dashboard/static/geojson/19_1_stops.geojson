@@ -1,0 +1,2426 @@
+{
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56535542865426,
+                    45.46826135701855
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 13145,
+                "stop_name": "Flavel & I-205 Overpass",
+                "stop_seq": 50,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56403086550377,
+                    45.466815443615964
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 4039,
+                "stop_name": "SE Mt Scott & Aspen Summit",
+                "stop_seq": 100,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.560037282025,
+                    45.465678863296375
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 4032,
+                "stop_name": "10000 Block SE Mt Scott",
+                "stop_seq": 150,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.55609416828734,
+                    45.46455819254599
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Multnomah Co.",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 4036,
+                "stop_name": "SE Mt Scott & 105th",
+                "stop_seq": 200,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.54795274906478,
+                    45.46452838440426
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 6567,
+                "stop_name": "SE 112th & Mt Scott Blvd",
+                "stop_seq": 250,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5558541012083,
+                    45.46468111886895
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 4037,
+                "stop_name": "SE Mt Scott & 105th",
+                "stop_seq": 300,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.55768309870012,
+                    45.46515098138318
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 4035,
+                "stop_name": "SE Mt Scott & 103rd",
+                "stop_seq": 350,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56020591653876,
+                    45.46582938232422
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 4033,
+                "stop_name": "9900 Block SE Mt Scott",
+                "stop_seq": 400,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5626806660283,
+                    45.46642652191322
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 4040,
+                "stop_name": "SE Mt Scott & 98th",
+                "stop_seq": 450,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56721618251798,
+                    45.46846495235635
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 10307,
+                "stop_name": "SE Flavel & 92nd",
+                "stop_seq": 500,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56901024212162,
+                    45.468497977382064
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 1765,
+                "stop_name": "SE Flavel & 92nd",
+                "stop_seq": 550,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57162105304573,
+                    45.468560528601955
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 1729,
+                "stop_name": "8800 Block SE Flavel",
+                "stop_seq": 600,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57512015846335,
+                    45.46863939232873
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 1762,
+                "stop_name": "SE Flavel & 86th",
+                "stop_seq": 650,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57788062869678,
+                    45.46871045632566
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 1760,
+                "stop_name": "SE Flavel & 83rd",
+                "stop_seq": 700,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57891297013236,
+                    45.47109354750293
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 7982,
+                "stop_name": "SE 82nd & Ogden",
+                "stop_seq": 750,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57895348179461,
+                    45.473884873766885
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 7970,
+                "stop_name": "SE 82nd & Glenwood",
+                "stop_seq": 800,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57998761754546,
+                    45.475933692351404
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 1551,
+                "stop_name": "SE Duke & 81st",
+                "stop_seq": 850,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58290832175643,
+                    45.47593028752367
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 1529,
+                "stop_name": "SE Duke & 78th",
+                "stop_seq": 900,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58665413458942,
+                    45.47595578932205
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 1547,
+                "stop_name": "SE Duke & 74th",
+                "stop_seq": 950,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58977321790738,
+                    45.475945593828925
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 1545,
+                "stop_name": "SE Duke & 72nd",
+                "stop_seq": 1000,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59440640273583,
+                    45.47591907139281
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 1541,
+                "stop_name": "SE Duke & 67th",
+                "stop_seq": 1100,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5969354896186,
+                    45.47589974379807
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 1538,
+                "stop_name": "SE Duke & 65th",
+                "stop_seq": 1150,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60207758889005,
+                    45.47589732811188
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 1534,
+                "stop_name": "SE Duke & 60th",
+                "stop_seq": 1250,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60511669947606,
+                    45.47589594715107
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 1532,
+                "stop_name": "SE Duke & 57th",
+                "stop_seq": 1300,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60812965905771,
+                    45.47589569818087
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 1530,
+                "stop_name": "SE Duke & 52nd",
+                "stop_seq": 1350,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60863330255468,
+                    45.47742416101426
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 7719,
+                "stop_name": "SE 52nd & Tolman",
+                "stop_seq": 1400,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60991137971983,
+                    45.47921788630209
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 6421,
+                "stop_name": "SE Woodstock & 51st",
+                "stop_seq": 1450,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61219232142408,
+                    45.47924755825672
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 6420,
+                "stop_name": "SE Woodstock & 49th",
+                "stop_seq": 1500,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6152854564776,
+                    45.47922740760729
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 6416,
+                "stop_name": "SE Woodstock & 46th",
+                "stop_seq": 1550,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61833520272582,
+                    45.47924452632141
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 6414,
+                "stop_name": "SE Woodstock & 43rd",
+                "stop_seq": 1600,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62036513031566,
+                    45.479260469164714
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 6412,
+                "stop_name": "SE Woodstock & 41st",
+                "stop_seq": 1650,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62245522767111,
+                    45.4792621195343
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 6409,
+                "stop_name": "SE Woodstock & Cesar Chavez Blvd",
+                "stop_seq": 1700,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62586396314214,
+                    45.47927427943141
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 6408,
+                "stop_name": "3600 Block SE Woodstock",
+                "stop_seq": 1750,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62816556350526,
+                    45.47937446395485
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 6406,
+                "stop_name": "SE Woodstock & 34th",
+                "stop_seq": 1800,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63030560938024,
+                    45.47927877351684
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 6403,
+                "stop_name": "SE Woodstock & 32nd",
+                "stop_seq": 1850,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6304135489112,
+                    45.47671806134482
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 7358,
+                "stop_name": "SE 32nd & Tolman",
+                "stop_seq": 1900,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63044667791638,
+                    45.47352881113203
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 7336,
+                "stop_name": "SE 32nd & Bybee",
+                "stop_seq": 1950,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6304813540943,
+                    45.471692580299475
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 7345,
+                "stop_name": "SE 32nd & Knapp",
+                "stop_seq": 2000,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6304659675699,
+                    45.46937173712042
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 7352,
+                "stop_name": "SE 32nd & Rex",
+                "stop_seq": 2050,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63428697182681,
+                    45.47005580742538
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 4813,
+                "stop_name": "SE Rex & 28th",
+                "stop_seq": 2100,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63447780687875,
+                    45.473214284992785
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 7270,
+                "stop_name": "SE 28th & Bybee",
+                "stop_seq": 2150,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63241988403627,
+                    45.47931127684886
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 6400,
+                "stop_name": "SE Woodstock & Moreland Ln",
+                "stop_seq": 2200,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63454749789679,
+                    45.477256393789624
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 10189,
+                "stop_name": "SE 28th & Carlton",
+                "stop_seq": 2250,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63446164074769,
+                    45.47513099364626
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 7295,
+                "stop_name": "SE 28th & Tolman",
+                "stop_seq": 2300,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63751775762039,
+                    45.47443201372644
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 859,
+                "stop_name": "2400 Block SE Bybee",
+                "stop_seq": 2350,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6412747605239,
+                    45.474234336976
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 855,
+                "stop_name": "SE Bybee & 23rd",
+                "stop_seq": 2400,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64269371347693,
+                    45.47414459790424
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 853,
+                "stop_name": "SE Bybee & 22nd",
+                "stop_seq": 2500,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64466110483424,
+                    45.47401899316946
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 848,
+                "stop_name": "SE Bybee & 20th",
+                "stop_seq": 2550,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64664379306765,
+                    45.473896829703925
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 846,
+                "stop_name": "SE Bybee & 18th",
+                "stop_seq": 2600,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6484024311248,
+                    45.47379664219461
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 838,
+                "stop_name": "SE Bybee & Milwaukie",
+                "stop_seq": 2650,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64887258836656,
+                    45.475439817017296
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 3912,
+                "stop_name": "SE Milwaukie & Claybourne",
+                "stop_seq": 2700,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64903443273174,
+                    45.4770777700026
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 3947,
+                "stop_name": "SE Milwaukie & Tolman",
+                "stop_seq": 2750,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64947743806606,
+                    45.48076619149696
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 3940,
+                "stop_name": "SE Milwaukie & Ramona",
+                "stop_seq": 2800,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64951324803987,
+                    45.48417009041282
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 3922,
+                "stop_name": "SE Milwaukie & Insley",
+                "stop_seq": 2850,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64983283347206,
+                    45.48610573732866
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 3933,
+                "stop_name": "SE Milwaukie & Mitchell",
+                "stop_seq": 2900,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.650702162491,
+                    45.488858891648796
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 3929,
+                "stop_name": "SE Milwaukie & Long",
+                "stop_seq": 2950,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6514606617077,
+                    45.49121808351041
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 3932,
+                "stop_name": "SE Milwaukie & Mall",
+                "stop_seq": 3000,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65287897643975,
+                    45.4945185528163
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 3908,
+                "stop_name": "SE Milwaukie & Center",
+                "stop_seq": 3050,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65394817799884,
+                    45.4981276035206
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 3917,
+                "stop_name": "SE Milwaukie & Haig",
+                "stop_seq": 3100,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65467876392233,
+                    45.501411528482365
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 4538,
+                "stop_name": "SE Powell & Milwaukie",
+                "stop_seq": 3150,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65728543036057,
+                    45.50166179332409
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 4702,
+                "stop_name": "SE Powell & 9th",
+                "stop_seq": 3200,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67845128890315,
+                    45.50381151013754
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 143,
+                "stop_name": "SW Arthur & 1st",
+                "stop_seq": 3300,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67252920198463,
+                    45.523008743907596
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 9526,
+                "stop_name": "W Burnside & SW 2nd",
+                "stop_seq": 3800,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66087398573688,
+                    45.52286682598067
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 704,
+                "stop_name": "E Burnside & NE Grand",
+                "stop_seq": 3850,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65784349894574,
+                    45.522851089811645
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 820,
+                "stop_name": "E Burnside & SE 8th",
+                "stop_seq": 3900,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63688706267185,
+                    45.52638167761997
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 2105,
+                "stop_name": "NE Glisan & 28th",
+                "stop_seq": 4250,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63419811751366,
+                    45.52637611120004
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 2106,
+                "stop_name": "NE Glisan & 30th",
+                "stop_seq": 4300,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63186422052077,
+                    45.52637111308299
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 2108,
+                "stop_name": "NE Glisan & 32nd",
+                "stop_seq": 4350,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62726843197079,
+                    45.526374111251336
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 2003,
+                "stop_name": "NE Glisan & Laurelhurst",
+                "stop_seq": 4400,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62524295842285,
+                    45.52635895399324
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 2001,
+                "stop_name": "NE Glisan & Laddington",
+                "stop_seq": 4450,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62295318959721,
+                    45.52604501558871
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 2110,
+                "stop_name": "NE Glisan & Cesar Chavez Blvd",
+                "stop_seq": 4500,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61897003509243,
+                    45.526345831941335
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 2114,
+                "stop_name": "NE Glisan & 43rd",
+                "stop_seq": 4550,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61251398816316,
+                    45.526424979026125
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 2119,
+                "stop_name": "NE Glisan & 49th",
+                "stop_seq": 4650,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60902557379576,
+                    45.526423527381226
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 2122,
+                "stop_name": "NE Glisan & 53rd",
+                "stop_seq": 4700,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60605519759275,
+                    45.52641777873812
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 2124,
+                "stop_name": "NE Glisan & 56th",
+                "stop_seq": 4750,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60243045677093,
+                    45.526408169157456
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 2127,
+                "stop_name": "NE Glisan & 60th",
+                "stop_seq": 4800,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5996875545573,
+                    45.526396603966695
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 2130,
+                "stop_name": "NE Glisan & 62nd",
+                "stop_seq": 4850,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59721514761482,
+                    45.52639348467457
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 2131,
+                "stop_name": "NE Glisan & 65th",
+                "stop_seq": 4900,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59458744082526,
+                    45.526388891383924
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 2134,
+                "stop_name": "NE Glisan & 67th",
+                "stop_seq": 4950,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58999474843716,
+                    45.52636376593163
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 2138,
+                "stop_name": "NE Glisan & 71st",
+                "stop_seq": 5000,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58731420896505,
+                    45.52636265748033
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 2139,
+                "stop_name": "NE Glisan & 73rd",
+                "stop_seq": 5050,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5837318187664,
+                    45.52635513650558
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 2144,
+                "stop_name": "NE Glisan & 78th",
+                "stop_seq": 5100,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.581639444098,
+                    45.52634799548106
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 2146,
+                "stop_name": "NE Glisan & 80th",
+                "stop_seq": 5150,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57855762757674,
+                    45.52633912541693
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 2147,
+                "stop_name": "NE Glisan & 82nd",
+                "stop_seq": 5200,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57507633110765,
+                    45.52630881093295
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 2151,
+                "stop_name": "NE Glisan & 86th",
+                "stop_seq": 5250,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.569427025588,
+                    45.52628923866425
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 2155,
+                "stop_name": "NE Glisan & 92nd",
+                "stop_seq": 5300,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56716732836983,
+                    45.526235857400934
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 2158,
+                "stop_name": "NE Glisan & 94th",
+                "stop_seq": 5350,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56278734723529,
+                    45.52956226757305
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 8321,
+                "stop_name": "9800 Block NE Pacific St",
+                "stop_seq": 5450,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56377346451607,
+                    45.530571493870696
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 8194,
+                "stop_name": "Gateway Transit Center",
+                "stop_seq": 5500,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64778385874057,
+                    45.52497143287201
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 5061,
+                "stop_name": "NE Sandy & 18th",
+                "stop_seq": 4050,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68347357095746,
+                    45.506701968560826
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 654,
+                "stop_name": "SW Broadway & 5th",
+                "stop_seq": 3500,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68181137567855,
+                    45.512946379080326
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 7772,
+                "stop_name": "SW 6th & Market",
+                "stop_seq": 3550,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6807614445876,
+                    45.51486977564483
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 7765,
+                "stop_name": "SW 6th & Jefferson",
+                "stop_seq": 3600,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6789745778685,
+                    45.518199280986885
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 7807,
+                "stop_name": "SW 6th & Yamhill",
+                "stop_seq": 3650,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6771722837615,
+                    45.52152502201463
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 7782,
+                "stop_name": "SW 6th & Oak",
+                "stop_seq": 3700,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67663525895473,
+                    45.522947539447024
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 792,
+                "stop_name": "W Burnside & SW 6th",
+                "stop_seq": 3750,
+                "type": "BUS",
+                "zipcode": "97205"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64616504946959,
+                    45.5255677950678
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 5044,
+                "stop_name": "NE Sandy & Flanders",
+                "stop_seq": 4100,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64116008693993,
+                    45.526390761625734
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 13193,
+                "stop_name": "NE Glisan & 24th",
+                "stop_seq": 4150,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67527677440368,
+                    45.50192126932668
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 3116,
+                "stop_name": "SW Kelly & Corbett",
+                "stop_seq": 3250,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61628289270492,
+                    45.526334494047134
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 13737,
+                "stop_name": "NE Glisan & 45th",
+                "stop_seq": 4600,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6494635127867,
+                    45.52422032489166
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 6839,
+                "stop_name": "NE 16th & Sandy",
+                "stop_seq": 4000,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65380669090162,
+                    45.52282350791177
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 13327,
+                "stop_name": "E Burnside & SE Sandy",
+                "stop_seq": 3950,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64018611165604,
+                    45.47431246182627
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 13782,
+                "stop_name": "SE Bybee & Bybee Blvd MAX Station",
+                "stop_seq": 2375,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56188423576745,
+                    45.52687279400099
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 8140,
+                "stop_name": "NE 99th & Glisan",
+                "stop_seq": 5400,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64218877904908,
+                    45.477585039090975
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gateway Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 19,
+                "rte_desc": "19-Woodstock/Glisan",
+                "stop_id": 7172,
+                "stop_name": "SE 23rd & Tolman",
+                "stop_seq": 2450,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

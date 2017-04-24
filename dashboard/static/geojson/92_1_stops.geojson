@@ -1,0 +1,701 @@
+{
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.83262439356155,
+                    45.4417478336943
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 92,
+                "rte_desc": "92-South Beaverton Express",
+                "stop_id": 9170,
+                "stop_name": "SW Teal & 152nd",
+                "stop_seq": 50,
+                "type": "BUS",
+                "zipcode": "97007"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.83761350898878,
+                    45.43972624908009
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 92,
+                "rte_desc": "92-South Beaverton Express",
+                "stop_id": 9215,
+                "stop_name": "SW Teal & Nighthawk Dr",
+                "stop_seq": 125,
+                "type": "BUS",
+                "zipcode": "97007"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.8358869128133,
+                    45.43828144166535
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 92,
+                "rte_desc": "92-South Beaverton Express",
+                "stop_id": 9172,
+                "stop_name": "SW Teal & Bobwhite Circle",
+                "stop_seq": 150,
+                "type": "BUS",
+                "zipcode": "97007"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.83110561946786,
+                    45.43540434205219
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 92,
+                "rte_desc": "92-South Beaverton Express",
+                "stop_id": 9174,
+                "stop_name": "SW Scholls Ferry & Teal Blvd",
+                "stop_seq": 200,
+                "type": "BUS",
+                "zipcode": "97007"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.82575836600664,
+                    45.44038177294113
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 92,
+                "rte_desc": "92-South Beaverton Express",
+                "stop_id": 8625,
+                "stop_name": "SW Murray & Teal Blvd",
+                "stop_seq": 350,
+                "type": "BUS",
+                "zipcode": "97008"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.82579910981694,
+                    45.44318695702584
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 92,
+                "rte_desc": "92-South Beaverton Express",
+                "stop_id": 8626,
+                "stop_name": "SW Murray & Osprey Dr",
+                "stop_seq": 400,
+                "type": "BUS",
+                "zipcode": "97008"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.82583606978284,
+                    45.447904220428796
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 92,
+                "rte_desc": "92-South Beaverton Express",
+                "stop_id": 8627,
+                "stop_name": "SW Murray & Weir Rd",
+                "stop_seq": 450,
+                "type": "BUS",
+                "zipcode": "97008"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.82454679049938,
+                    45.4529651840769
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 92,
+                "rte_desc": "92-South Beaverton Express",
+                "stop_id": 8628,
+                "stop_name": "SW Brockman & Stallion",
+                "stop_seq": 500,
+                "type": "BUS",
+                "zipcode": "97008"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.8076232886814,
+                    45.45473395858266
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 92,
+                "rte_desc": "92-South Beaverton Express",
+                "stop_id": 9178,
+                "stop_name": "SW Brockman & Sorrento",
+                "stop_seq": 650,
+                "type": "BUS",
+                "zipcode": "97008"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.8054842255353,
+                    45.452679121931865
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 92,
+                "rte_desc": "92-South Beaverton Express",
+                "stop_id": 9179,
+                "stop_name": "SW 125th & Footpath",
+                "stop_seq": 700,
+                "type": "BUS",
+                "zipcode": "97008"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.8055950577125,
+                    45.4500285482634
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 92,
+                "rte_desc": "92-South Beaverton Express",
+                "stop_id": 9180,
+                "stop_name": "9600 Block SW 125th",
+                "stop_seq": 750,
+                "type": "BUS",
+                "zipcode": "97008"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.80425860957662,
+                    45.44757646556297
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 92,
+                "rte_desc": "92-South Beaverton Express",
+                "stop_id": 9181,
+                "stop_name": "SW Conestoga & 125th",
+                "stop_seq": 800,
+                "type": "BUS",
+                "zipcode": "97008"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.79826034773089,
+                    45.44840790531346
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 92,
+                "rte_desc": "92-South Beaverton Express",
+                "stop_id": 9183,
+                "stop_name": "SW Conestoga & Trapper Terrace",
+                "stop_seq": 900,
+                "type": "BUS",
+                "zipcode": "97008"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.79306762806968,
+                    45.44581546053852
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 92,
+                "rte_desc": "92-South Beaverton Express",
+                "stop_id": 5197,
+                "stop_name": "SW Scholls Ferry & Springwood",
+                "stop_seq": 1000,
+                "type": "BUS",
+                "zipcode": "97008"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.78902865884966,
+                    45.44745977797233
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 92,
+                "rte_desc": "92-South Beaverton Express",
+                "stop_id": 5190,
+                "stop_name": "SW Scholls Ferry & Nimbus",
+                "stop_seq": 1050,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.83765471126482,
+                    45.4409509197657
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 92,
+                "rte_desc": "92-South Beaverton Express",
+                "stop_id": 9171,
+                "stop_name": "SW Teal & 155th",
+                "stop_seq": 100,
+                "type": "BUS",
+                "zipcode": "97007"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.83351656556366,
+                    45.43638996344497
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 92,
+                "rte_desc": "92-South Beaverton Express",
+                "stop_id": 9173,
+                "stop_name": "SW Teal & Pintail",
+                "stop_seq": 175,
+                "type": "BUS",
+                "zipcode": "97007"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.8281951889834,
+                    45.436969802778506
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 92,
+                "rte_desc": "92-South Beaverton Express",
+                "stop_id": 9175,
+                "stop_name": "SW Scholls Ferry & 147th",
+                "stop_seq": 250,
+                "type": "BUS",
+                "zipcode": "97007"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67559976074202,
+                    45.513746096543365
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 92,
+                "rte_desc": "92-South Beaverton Express",
+                "stop_id": 12789,
+                "stop_name": "SW Jefferson & 1st",
+                "stop_seq": 1200,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6791666059873,
+                    45.51470370266629
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 92,
+                "rte_desc": "92-South Beaverton Express",
+                "stop_id": 12790,
+                "stop_name": "SW Jefferson between 4th & 5th",
+                "stop_seq": 1250,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68159251203018,
+                    45.51536586842799
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 92,
+                "rte_desc": "92-South Beaverton Express",
+                "stop_id": 3039,
+                "stop_name": "SW Jefferson & Broadway",
+                "stop_seq": 1300,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68376350724297,
+                    45.51594444595192
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 92,
+                "rte_desc": "92-South Beaverton Express",
+                "stop_id": 3049,
+                "stop_name": "SW Jefferson & 10th",
+                "stop_seq": 1350,
+                "type": "BUS",
+                "zipcode": "97205"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.82824519873743,
+                    45.440887033286586
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 92,
+                "rte_desc": "92-South Beaverton Express",
+                "stop_id": 9208,
+                "stop_name": "14700 Block SW Teal",
+                "stop_seq": 25,
+                "type": "BUS",
+                "zipcode": "97007"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.82584047049221,
+                    45.45263180470668
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 92,
+                "rte_desc": "92-South Beaverton Express",
+                "stop_id": 12746,
+                "stop_name": "SW Murray & Brockman",
+                "stop_seq": 475,
+                "type": "BUS",
+                "zipcode": "97008"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.82023131292489,
+                    45.45474377040795
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 92,
+                "rte_desc": "92-South Beaverton Express",
+                "stop_id": 9176,
+                "stop_name": "SW Brockman & Davies",
+                "stop_seq": 550,
+                "type": "BUS",
+                "zipcode": "97008"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.80068843104688,
+                    45.4478728543531
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 92,
+                "rte_desc": "92-South Beaverton Express",
+                "stop_id": 9182,
+                "stop_name": "SW Conestoga & Downing",
+                "stop_seq": 850,
+                "type": "BUS",
+                "zipcode": "97008"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.78295545334046,
+                    45.455495418479465
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 92,
+                "rte_desc": "92-South Beaverton Express",
+                "stop_id": 9185,
+                "stop_name": "SW Scholls Ferry & Progress Park & Ride",
+                "stop_seq": 1150,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.81541210128445,
+                    45.45473476529332
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 92,
+                "rte_desc": "92-South Beaverton Express",
+                "stop_id": 9177,
+                "stop_name": "SW Brockman & 135th",
+                "stop_seq": 600,
+                "type": "BUS",
+                "zipcode": "97008"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67687521213138,
+                    45.50927864085123
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 92,
+                "rte_desc": "92-South Beaverton Express",
+                "stop_id": 1926,
+                "stop_name": "SW Naito Parkway & Harrison",
+                "stop_seq": 1160,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7965151819575,
+                    45.44615930522863
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 92,
+                "rte_desc": "92-South Beaverton Express",
+                "stop_id": 9184,
+                "stop_name": "SW Conestoga & Boones Bend",
+                "stop_seq": 950,
+                "type": "BUS",
+                "zipcode": "97008"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

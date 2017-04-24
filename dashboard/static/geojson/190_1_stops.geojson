@@ -1,0 +1,425 @@
+{
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68570607583784,
+                    45.6053581077679
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 190,
+                "rte_desc": "MAX Yellow Line",
+                "stop_id": 11498,
+                "stop_name": "Expo Center MAX Station",
+                "stop_seq": 50,
+                "type": "MAX",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68568309629472,
+                    45.596128893993885
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 190,
+                "rte_desc": "MAX Yellow Line",
+                "stop_id": 11499,
+                "stop_name": "Delta Park/Vanport MAX Station",
+                "stop_seq": 100,
+                "type": "MAX",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68566219710401,
+                    45.58370030617172
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 190,
+                "rte_desc": "MAX Yellow Line",
+                "stop_id": 11500,
+                "stop_name": "Kenton/N Denver Ave MAX Station",
+                "stop_seq": 150,
+                "type": "MAX",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68215962425236,
+                    45.576400083657894
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 190,
+                "rte_desc": "MAX Yellow Line",
+                "stop_id": 11501,
+                "stop_name": "N Lombard TC MAX Station",
+                "stop_seq": 200,
+                "type": "MAX",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68222286249024,
+                    45.5691404911804
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 190,
+                "rte_desc": "MAX Yellow Line",
+                "stop_id": 11502,
+                "stop_name": "Rosa Parks MAX Station",
+                "stop_seq": 250,
+                "type": "MAX",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68231173818272,
+                    45.562026221241666
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 190,
+                "rte_desc": "MAX Yellow Line",
+                "stop_id": 11503,
+                "stop_name": "N Killingsworth St MAX Station",
+                "stop_seq": 300,
+                "type": "MAX",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68232044896052,
+                    45.55518293232873
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 190,
+                "rte_desc": "MAX Yellow Line",
+                "stop_id": 11504,
+                "stop_name": "N Prescott St MAX Station",
+                "stop_seq": 350,
+                "type": "MAX",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6810694962863,
+                    45.54893916803956
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 190,
+                "rte_desc": "MAX Yellow Line",
+                "stop_id": 11505,
+                "stop_name": "Overlook Park MAX Station",
+                "stop_seq": 400,
+                "type": "MAX",
+                "zipcode": "97227"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67523076071906,
+                    45.539407505110354
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 190,
+                "rte_desc": "MAX Yellow Line",
+                "stop_id": 11506,
+                "stop_name": "Albina/Mississippi MAX Station",
+                "stop_seq": 450,
+                "type": "MAX",
+                "zipcode": "97227"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66758083942057,
+                    45.53001931574935
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 190,
+                "rte_desc": "MAX Yellow Line",
+                "stop_id": 11507,
+                "stop_name": "Interstate/Rose Quarter MAX Station",
+                "stop_seq": 550,
+                "type": "MAX",
+                "zipcode": "97227"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66491664178665,
+                    45.530060460750306
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 190,
+                "rte_desc": "MAX Yellow Line",
+                "stop_id": 8340,
+                "stop_name": "Rose Quarter TC MAX Station",
+                "stop_seq": 650,
+                "type": "MAX",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67560442703862,
+                    45.52673535003867
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 190,
+                "rte_desc": "MAX Yellow Line",
+                "stop_id": 7601,
+                "stop_name": "Union Station/NW 5th & Glisan MAX Stn",
+                "stop_seq": 950,
+                "type": "MAX",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67549840464419,
+                    45.523885246783
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 190,
+                "rte_desc": "MAX Yellow Line",
+                "stop_id": 9303,
+                "stop_name": "NW 5th & Couch MAX Station",
+                "stop_seq": 1000,
+                "type": "MAX",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67617830172131,
+                    45.52157338786237
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 190,
+                "rte_desc": "MAX Yellow Line",
+                "stop_id": 7627,
+                "stop_name": "SW 5th & Oak MAX Station",
+                "stop_seq": 1050,
+                "type": "MAX",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67793376529407,
+                    45.51825542125225
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 190,
+                "rte_desc": "MAX Yellow Line",
+                "stop_id": 7646,
+                "stop_name": "Pioneer Place/SW 5th Ave MAX Station",
+                "stop_seq": 1100,
+                "type": "MAX",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67974162318123,
+                    45.51491772389312
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 190,
+                "rte_desc": "MAX Yellow Line",
+                "stop_id": 7608,
+                "stop_name": "City Hall/SW 5th & Jefferson MAX Station",
+                "stop_seq": 1150,
+                "type": "MAX",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68155076155331,
+                    45.511644700168986
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 190,
+                "rte_desc": "MAX Yellow Line",
+                "stop_id": 7618,
+                "stop_name": "PSU Urban Center/SW 5th & Mill MAX Station",
+                "stop_seq": 1200,
+                "type": "MAX",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68299881410887,
+                    45.50897935357969
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 190,
+                "rte_desc": "MAX Yellow Line",
+                "stop_id": 7606,
+                "stop_name": "PSU South/SW 5th & Jackson MAX Stn",
+                "stop_seq": 1250,
+                "type": "MAX",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

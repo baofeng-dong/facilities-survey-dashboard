@@ -1,0 +1,1230 @@
+{
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56496976542054,
+                    45.55811850801608
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 21,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "stop_id": 5050,
+                "stop_name": "NE Sandy & Parkrose Transit Center",
+                "stop_seq": 2650,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.42727791078666,
+                    45.504983605336996
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 21,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "stop_id": 10602,
+                "stop_name": "300 Block NE Division",
+                "stop_seq": 100,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.4326203708719,
+                    45.504556952630224
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 21,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "stop_id": 1342,
+                "stop_name": "NW Division & Miller",
+                "stop_seq": 150,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.43517819569271,
+                    45.50508750669817
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 21,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "stop_id": 1572,
+                "stop_name": "NW Eastman & Division",
+                "stop_seq": 200,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.42683138006146,
+                    45.50266939836756
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 21,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "stop_id": 8198,
+                "stop_name": "Gresham Transit Center",
+                "stop_seq": 50,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.43501844497068,
+                    45.509087012206656
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 21,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "stop_id": 10821,
+                "stop_name": "NW Eastman & Burnside",
+                "stop_seq": 250,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.43369887362962,
+                    45.5113593051508
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 21,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "stop_id": 1575,
+                "stop_name": "SE 223rd & NW Fairview",
+                "stop_seq": 300,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.4336819626412,
+                    45.5135343028482
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 21,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "stop_id": 7150,
+                "stop_name": "SE 223rd & Salmon",
+                "stop_seq": 350,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.43367825403651,
+                    45.51587261784691
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 21,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "stop_id": 7153,
+                "stop_name": "SE 223rd & Yamhill",
+                "stop_seq": 400,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.43364585605242,
+                    45.51805922540055
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 21,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "stop_id": 10007,
+                "stop_name": "600 Block SE 223rd",
+                "stop_seq": 450,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.43360646197384,
+                    45.51954725094598
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 21,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "stop_id": 7152,
+                "stop_name": "SE 223rd & Stark",
+                "stop_seq": 500,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.43360238397021,
+                    45.521809978237435
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 21,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "stop_id": 7145,
+                "stop_name": "SE 223rd & Ankeny",
+                "stop_seq": 550,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.43342002815855,
+                    45.527630775738544
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 21,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "stop_id": 9766,
+                "stop_name": "NE 223rd & Glisan",
+                "stop_seq": 600,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.43347417487617,
+                    45.530038216476704
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "False",
+                "jurisdic": "Wood Village",
+                "rte": 21,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "stop_id": 9772,
+                "stop_name": "NE 223rd & Park Lane",
+                "stop_seq": 650,
+                "type": "BUS",
+                "zipcode": "97060"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.43352426815089,
+                    45.532958178134635
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "False",
+                "jurisdic": "Wood Village",
+                "rte": 21,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "stop_id": 9773,
+                "stop_name": "1400 Block NE 223rd",
+                "stop_seq": 700,
+                "type": "BUS",
+                "zipcode": "97060"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.43316942181498,
+                    45.5349995229677
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "False",
+                "jurisdic": "Fairview",
+                "rte": 21,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "stop_id": 2341,
+                "stop_name": "NE Halsey & Fairview/223rd",
+                "stop_seq": 750,
+                "type": "BUS",
+                "zipcode": "97024"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.42883267437878,
+                    45.53566154109045
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "False",
+                "jurisdic": "Fairview",
+                "rte": 21,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "stop_id": 2416,
+                "stop_name": "NE Halsey & 227th",
+                "stop_seq": 800,
+                "type": "BUS",
+                "zipcode": "97024"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.42641095534391,
+                    45.5359723787706
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "False",
+                "jurisdic": "Wood Village",
+                "rte": 21,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "stop_id": 2418,
+                "stop_name": "NE Halsey & 230th Ct",
+                "stop_seq": 850,
+                "type": "BUS",
+                "zipcode": "97060"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.42239382174371,
+                    45.53652550817141
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "False",
+                "jurisdic": "Wood Village",
+                "rte": 21,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "stop_id": 2330,
+                "stop_name": "23300 Block NE Halsey",
+                "stop_seq": 900,
+                "type": "BUS",
+                "zipcode": "97060"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.41820899333936,
+                    45.537709490772045
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "False",
+                "jurisdic": "Wood Village",
+                "rte": 21,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "stop_id": 13594,
+                "stop_name": "NE 238th & Halsey",
+                "stop_seq": 950,
+                "type": "BUS",
+                "zipcode": "97060"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.4199649235414,
+                    45.54294413051198
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "False",
+                "jurisdic": "Wood Village",
+                "rte": 21,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "stop_id": 13090,
+                "stop_name": "23500 Block NE Sandy",
+                "stop_seq": 1000,
+                "type": "BUS",
+                "zipcode": "97060"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.42349776308677,
+                    45.54309293425462
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "False",
+                "jurisdic": "Fairview",
+                "rte": 21,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "stop_id": 13478,
+                "stop_name": "23200 Block NE Sandy",
+                "stop_seq": 1050,
+                "type": "BUS",
+                "zipcode": "97024"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.42588882349625,
+                    45.5429621189915
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "False",
+                "jurisdic": "Fairview",
+                "rte": 21,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "stop_id": 13091,
+                "stop_name": "NE Sandy & 230th",
+                "stop_seq": 1100,
+                "type": "BUS",
+                "zipcode": "97024"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.42793474329898,
+                    45.542868281811714
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "False",
+                "jurisdic": "Fairview",
+                "rte": 21,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "stop_id": 13092,
+                "stop_name": "22800 Block NE Sandy",
+                "stop_seq": 1150,
+                "type": "BUS",
+                "zipcode": "97024"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.43429210534383,
+                    45.54251346380204
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "False",
+                "jurisdic": "Fairview",
+                "rte": 21,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "stop_id": 9776,
+                "stop_name": "NE Sandy & 223rd",
+                "stop_seq": 1200,
+                "type": "BUS",
+                "zipcode": "97024"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.43943862277266,
+                    45.542506994043194
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "False",
+                "jurisdic": "Fairview",
+                "rte": 21,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "stop_id": 11772,
+                "stop_name": "NE Sandy & Arborcrest Dr",
+                "stop_seq": 1250,
+                "type": "BUS",
+                "zipcode": "97024"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.44519153944928,
+                    45.543195895203034
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "False",
+                "jurisdic": "Fairview",
+                "rte": 21,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "stop_id": 9722,
+                "stop_name": "21100 Block NE Sandy",
+                "stop_seq": 1300,
+                "type": "BUS",
+                "zipcode": "97024"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.45061063832662,
+                    45.544284542784695
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "False",
+                "jurisdic": "Fairview",
+                "rte": 21,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "stop_id": 9723,
+                "stop_name": "NE Sandy & 206th Pl",
+                "stop_seq": 1350,
+                "type": "BUS",
+                "zipcode": "97024"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.45525338590146,
+                    45.544912176406974
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 21,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "stop_id": 9724,
+                "stop_name": "NE Sandy & 201st",
+                "stop_seq": 1400,
+                "type": "BUS",
+                "zipcode": "97024"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.46173947042314,
+                    45.54537165090594
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 21,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "stop_id": 9725,
+                "stop_name": "19000 Block NE Sandy (East Entrance)",
+                "stop_seq": 1450,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.47008011029025,
+                    45.545770321169364
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 21,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "stop_id": 9726,
+                "stop_name": "18600 Block NE Sandy",
+                "stop_seq": 1550,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.47263115410465,
+                    45.545857246585925
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 21,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "stop_id": 10874,
+                "stop_name": "NE Sandy & 185th Dr",
+                "stop_seq": 1600,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.47789354022999,
+                    45.546175675415824
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 21,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "stop_id": 10318,
+                "stop_name": "NE Sandy & Airport Way/181st",
+                "stop_seq": 1650,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.48182325741439,
+                    45.546912290881046
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 21,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "stop_id": 10194,
+                "stop_name": "17600 Block NE Sandy",
+                "stop_seq": 1700,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.48580755306948,
+                    45.54763981771275
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 21,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "stop_id": 11815,
+                "stop_name": "NE Sandy & 172nd Pl",
+                "stop_seq": 1750,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.4924422242108,
+                    45.54890408846169
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 21,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "stop_id": 8584,
+                "stop_name": "NE Sandy & 165th",
+                "stop_seq": 1800,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.4955080571478,
+                    45.54949591386483
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 21,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "stop_id": 8585,
+                "stop_name": "NE Sandy & 162nd",
+                "stop_seq": 1850,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.50002833095968,
+                    45.550549364392815
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 21,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "stop_id": 11072,
+                "stop_name": "NE Sandy & 158th",
+                "stop_seq": 1900,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5031003784217,
+                    45.55112783867382
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 21,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "stop_id": 10453,
+                "stop_name": "NE Sandy & 154th",
+                "stop_seq": 1950,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.50584712451004,
+                    45.55165353716788
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 21,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "stop_id": 8587,
+                "stop_name": "NE Sandy & 152nd",
+                "stop_seq": 2000,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.51004513279875,
+                    45.55244278905435
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 21,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "stop_id": 10822,
+                "stop_name": "NE Sandy & 148th",
+                "stop_seq": 2050,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.51413544557934,
+                    45.553160218048546
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 21,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "stop_id": 10824,
+                "stop_name": "14300 Block NE Sandy",
+                "stop_seq": 2100,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5209261940448,
+                    45.55440528940703
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 21,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "stop_id": 10823,
+                "stop_name": "NE Sandy & 138th",
+                "stop_seq": 2150,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.52570729167158,
+                    45.555197045251944
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 21,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "stop_id": 10825,
+                "stop_name": "NE Sandy & 133rd",
+                "stop_seq": 2200,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.52846004876925,
+                    45.55566048442365
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 21,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "stop_id": 10826,
+                "stop_name": "NE Sandy & 131st Pl",
+                "stop_seq": 2250,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53368362137626,
+                    45.556618634288796
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 21,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "stop_id": 10827,
+                "stop_name": "NE Sandy & 125th Pl",
+                "stop_seq": 2300,
+                "type": "BUS",
+                "zipcode": "97230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.54435110823655,
+                    45.558014475309584
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 21,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "stop_id": 10829,
+                "stop_name": "NE Sandy & 115th",
+                "stop_seq": 2400,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.54715750408106,
+                    45.55826731887481
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 21,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "stop_id": 10830,
+                "stop_name": "NE Sandy & 112th",
+                "stop_seq": 2450,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.55098986085845,
+                    45.55862981202255
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 21,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "stop_id": 10831,
+                "stop_name": "NE Sandy & 109th",
+                "stop_seq": 2500,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.55290671946385,
+                    45.558809323204514
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 21,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "stop_id": 10832,
+                "stop_name": "NE Sandy & 107th",
+                "stop_seq": 2550,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.55544820405336,
+                    45.559037726148894
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 21,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "stop_id": 13591,
+                "stop_name": "NE Sandy & 104th",
+                "stop_seq": 2600,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56465166523434,
+                    45.55862153755274
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 21,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "stop_id": 10854,
+                "stop_name": "Parkrose/ Sumner Transit Center",
+                "stop_seq": 2700,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.54169014096996,
+                    45.557756268227564
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 21,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "stop_id": 10828,
+                "stop_name": "NE Sandy & 118th",
+                "stop_seq": 2350,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

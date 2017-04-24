@@ -1,0 +1,402 @@
+{
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68359304595901,
+                    45.50961586007243
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Expo Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 190,
+                "rte_desc": "MAX Yellow Line",
+                "stop_id": 10293,
+                "stop_name": "PSU South/SW 6th & College MAX Stn",
+                "stop_seq": 100,
+                "type": "MAX",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68255049157666,
+                    45.511596895285436
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Expo Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 190,
+                "rte_desc": "MAX Yellow Line",
+                "stop_id": 7774,
+                "stop_name": "PSU Urban Center/SW 6th & Montgomery MAX Stn",
+                "stop_seq": 150,
+                "type": "MAX",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68038063344989,
+                    45.51563288102793
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Expo Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 190,
+                "rte_desc": "MAX Yellow Line",
+                "stop_id": 13123,
+                "stop_name": "SW 6th & Madison MAX Station",
+                "stop_seq": 200,
+                "type": "MAX",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67855822485666,
+                    45.518967582574845
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Expo Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 190,
+                "rte_desc": "MAX Yellow Line",
+                "stop_id": 7777,
+                "stop_name": "Pioneer Courthouse/SW 6th Ave MAX Stn",
+                "stop_seq": 250,
+                "type": "MAX",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6767555769054,
+                    45.52232702904761
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Expo Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 190,
+                "rte_desc": "MAX Yellow Line",
+                "stop_id": 7787,
+                "stop_name": "SW 6th & Pine MAX Station",
+                "stop_seq": 300,
+                "type": "MAX",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67642915467516,
+                    45.524405370626695
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Expo Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 190,
+                "rte_desc": "MAX Yellow Line",
+                "stop_id": 9299,
+                "stop_name": "NW 6th & Davis MAX Station",
+                "stop_seq": 350,
+                "type": "MAX",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67651700954832,
+                    45.52722183736719
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Expo Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 190,
+                "rte_desc": "MAX Yellow Line",
+                "stop_id": 7763,
+                "stop_name": "Union Station/NW 6th & Hoyt MAX Stn",
+                "stop_seq": 400,
+                "type": "MAX",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66808498101378,
+                    45.530353891590636
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Expo Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 190,
+                "rte_desc": "MAX Yellow Line",
+                "stop_id": 11508,
+                "stop_name": "Interstate/Rose Quarter MAX Station",
+                "stop_seq": 750,
+                "type": "MAX",
+                "zipcode": "97227"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6757628586145,
+                    45.53970177403468
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Expo Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 190,
+                "rte_desc": "MAX Yellow Line",
+                "stop_id": 11509,
+                "stop_name": "Albina/Mississippi MAX Station",
+                "stop_seq": 800,
+                "type": "MAX",
+                "zipcode": "97227"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68095269052255,
+                    45.54848196958781
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Expo Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 190,
+                "rte_desc": "MAX Yellow Line",
+                "stop_id": 11510,
+                "stop_name": "Overlook Park MAX Station",
+                "stop_seq": 850,
+                "type": "MAX",
+                "zipcode": "97227"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68228448804285,
+                    45.55523995823518
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Expo Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 190,
+                "rte_desc": "MAX Yellow Line",
+                "stop_id": 11511,
+                "stop_name": "N Prescott St MAX Station",
+                "stop_seq": 900,
+                "type": "MAX",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68217455970405,
+                    45.5633103888234
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Expo Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 190,
+                "rte_desc": "MAX Yellow Line",
+                "stop_id": 11512,
+                "stop_name": "N Killingsworth St MAX Station",
+                "stop_seq": 950,
+                "type": "MAX",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68208263971513,
+                    45.570606439218125
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Expo Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 190,
+                "rte_desc": "MAX Yellow Line",
+                "stop_id": 11513,
+                "stop_name": "Rosa Parks MAX Station",
+                "stop_seq": 1000,
+                "type": "MAX",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68203465787211,
+                    45.577826537583654
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Expo Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 190,
+                "rte_desc": "MAX Yellow Line",
+                "stop_id": 11514,
+                "stop_name": "N Lombard TC MAX Station",
+                "stop_seq": 1050,
+                "type": "MAX",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68618780121695,
+                    45.584019895203944
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Expo Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 190,
+                "rte_desc": "MAX Yellow Line",
+                "stop_id": 11515,
+                "stop_name": "Kenton/N Denver Ave MAX Station",
+                "stop_seq": 1100,
+                "type": "MAX",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68556339947325,
+                    45.59612358548519
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Expo Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 190,
+                "rte_desc": "MAX Yellow Line",
+                "stop_id": 11516,
+                "stop_name": "Delta Park/Vanport MAX Station",
+                "stop_seq": 1150,
+                "type": "MAX",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68570607583784,
+                    45.6053581077679
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Expo Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 190,
+                "rte_desc": "MAX Yellow Line",
+                "stop_id": 11498,
+                "stop_name": "Expo Center MAX Station",
+                "stop_seq": 1200,
+                "type": "MAX",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

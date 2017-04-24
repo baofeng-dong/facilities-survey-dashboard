@@ -1,0 +1,126 @@
+{
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.80115742579308,
+                    45.49064001978521
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Wilsonville",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 203,
+                "rte_desc": "WES Commuter Rail",
+                "stop_id": 13066,
+                "stop_name": "Beaverton TC WES Station",
+                "stop_seq": 50,
+                "type": "CR",
+                "zipcode": "97005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.78699686486327,
+                    45.457591854922725
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Wilsonville",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 203,
+                "rte_desc": "WES Commuter Rail",
+                "stop_id": 13067,
+                "stop_name": "Hall/Nimbus WES Station",
+                "stop_seq": 100,
+                "type": "CR",
+                "zipcode": "97008"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76952657549919,
+                    45.429940805162644
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Wilsonville",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 203,
+                "rte_desc": "WES Commuter Rail",
+                "stop_id": 13068,
+                "stop_name": "Tigard TC WES Station",
+                "stop_seq": 150,
+                "type": "CR",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76450447651163,
+                    45.38362562905867
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Wilsonville",
+                "frequent": "False",
+                "jurisdic": "Tualatin",
+                "rte": 203,
+                "rte_desc": "WES Commuter Rail",
+                "stop_id": 13069,
+                "stop_name": "Tualatin WES Station",
+                "stop_seq": 200,
+                "type": "CR",
+                "zipcode": "97062"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.77530302958623,
+                    45.31135754530628
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Wilsonville",
+                "frequent": "False",
+                "jurisdic": "Wilsonville",
+                "rte": 203,
+                "rte_desc": "WES Commuter Rail",
+                "stop_id": 13070,
+                "stop_name": "Wilsonville WES Station",
+                "stop_seq": 250,
+                "type": "CR",
+                "zipcode": "97070"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

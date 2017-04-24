@@ -1,0 +1,471 @@
+{
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5145396837186,
+                    45.42501283045929
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Happy Valley",
+                "rte": 155,
+                "rte_desc": "155-Sunnyside",
+                "stop_id": 10145,
+                "stop_name": "SE Sunnyside & 145th",
+                "stop_seq": 15,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.51666497174635,
+                    45.425036626543154
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Happy Valley",
+                "rte": 155,
+                "rte_desc": "155-Sunnyside",
+                "stop_id": 10143,
+                "stop_name": "SE Sunnyside & 142nd",
+                "stop_seq": 20,
+                "type": "BUS",
+                "zipcode": "97086"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.52741235077234,
+                    45.42680951698121
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Happy Valley",
+                "rte": 155,
+                "rte_desc": "155-Sunnyside",
+                "stop_id": 10139,
+                "stop_name": "SE Sunnyside & 132nd",
+                "stop_seq": 30,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53761159311671,
+                    45.428882576350006
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Happy Valley",
+                "rte": 155,
+                "rte_desc": "155-Sunnyside",
+                "stop_id": 10135,
+                "stop_name": "SE Sunnyside & 122nd",
+                "stop_seq": 40,
+                "type": "BUS",
+                "zipcode": "97086"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.54085641533177,
+                    45.43045118889286
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Happy Valley",
+                "rte": 155,
+                "rte_desc": "155-Sunnyside",
+                "stop_id": 10216,
+                "stop_name": "SE Sunnyside & 119th",
+                "stop_seq": 45,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.54846122734345,
+                    45.43342194372948
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Happy Valley",
+                "rte": 155,
+                "rte_desc": "155-Sunnyside",
+                "stop_id": 10214,
+                "stop_name": "SE Sunnyside & Valley View Terr",
+                "stop_seq": 50,
+                "type": "BUS",
+                "zipcode": "97086"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.54358672758231,
+                    45.431781496247794
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 155,
+                "rte_desc": "155-Sunnyside",
+                "stop_id": 10592,
+                "stop_name": "SE Sunnyside & 117th",
+                "stop_seq": 46,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.55178134198705,
+                    45.43384260773172
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 155,
+                "rte_desc": "155-Sunnyside",
+                "stop_id": 11928,
+                "stop_name": "SE Sunnyside & Sunnybrook",
+                "stop_seq": 100,
+                "type": "BUS",
+                "zipcode": "97086"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.55508901796846,
+                    45.43378824999563
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 155,
+                "rte_desc": "155-Sunnyside",
+                "stop_id": 11929,
+                "stop_name": "SE Sunnyside & 105th",
+                "stop_seq": 150,
+                "type": "BUS",
+                "zipcode": "97086"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.52057357750166,
+                    45.42513347891484
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Happy Valley",
+                "rte": 155,
+                "rte_desc": "155-Sunnyside",
+                "stop_id": 10141,
+                "stop_name": "SE Sunnyside & 140th",
+                "stop_seq": 25,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57331242700954,
+                    45.437310329219926
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 155,
+                "rte_desc": "155-Sunnyside",
+                "stop_id": 12921,
+                "stop_name": "Clackamas Town Center Mall",
+                "stop_seq": 250,
+                "type": "BUS",
+                "zipcode": "97086"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53187071822,
+                    45.427452361619956
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Happy Valley",
+                "rte": 155,
+                "rte_desc": "155-Sunnyside",
+                "stop_id": 10137,
+                "stop_name": "SE Sunnyside & 128th",
+                "stop_seq": 35,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56069211012364,
+                    45.43210667029633
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 155,
+                "rte_desc": "155-Sunnyside",
+                "stop_id": 13077,
+                "stop_name": "Kaiser Sunnyside Medical Center",
+                "stop_seq": 175,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.50133865625332,
+                    45.426983648537416
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Happy Valley",
+                "rte": 155,
+                "rte_desc": "155-Sunnyside",
+                "stop_id": 12902,
+                "stop_name": "SE Sunnyside & 157th",
+                "stop_seq": 1,
+                "type": "BUS",
+                "zipcode": "97086"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.50781400773097,
+                    45.42525937000834
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Happy Valley",
+                "rte": 155,
+                "rte_desc": "155-Sunnyside",
+                "stop_id": 12903,
+                "stop_name": "SE Sunnyside & 152nd",
+                "stop_seq": 2,
+                "type": "BUS",
+                "zipcode": "97086"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56214122356492,
+                    45.43518522901619
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 155,
+                "rte_desc": "155-Sunnyside",
+                "stop_id": 11454,
+                "stop_name": "10100 Block SE Stevens Rd",
+                "stop_seq": 200,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56641665915171,
+                    45.437325442812266
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 155,
+                "rte_desc": "155-Sunnyside",
+                "stop_id": 11927,
+                "stop_name": "SE Bob Schumacher & Monterey",
+                "stop_seq": 225,
+                "type": "BUS",
+                "zipcode": "97086"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.51307769869886,
+                    45.425008755412414
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Happy Valley",
+                "rte": 155,
+                "rte_desc": "155-Sunnyside",
+                "stop_id": 12923,
+                "stop_name": "SE Sunnyside & Misty Dr",
+                "stop_seq": 10,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56870745294738,
+                    45.43566941948304
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 155,
+                "rte_desc": "155-Sunnyside",
+                "stop_id": 13248,
+                "stop_name": "Clackamas Town Center Transit Center",
+                "stop_seq": 400,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56813401888509,
+                    45.43555507416447
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 155,
+                "rte_desc": "155-Sunnyside",
+                "stop_id": 13247,
+                "stop_name": "Clackamas Town Center TC",
+                "stop_seq": 300,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

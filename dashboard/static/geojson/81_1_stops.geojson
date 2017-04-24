@@ -1,0 +1,816 @@
+{
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.3999164275339,
+                    45.5127216861057
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 81,
+                "rte_desc": "81-Kane/257th",
+                "stop_id": 3104,
+                "stop_name": "NE Kane & 23rd",
+                "stop_seq": 1140,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.40011933473929,
+                    45.5103423612594
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 81,
+                "rte_desc": "81-Kane/257th",
+                "stop_id": 3099,
+                "stop_name": "NE Kane & 18th Ct",
+                "stop_seq": 1160,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.4001364236085,
+                    45.50502929129205
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 81,
+                "rte_desc": "81-Kane/257th",
+                "stop_id": 3093,
+                "stop_name": "NE Kane & Division",
+                "stop_seq": 1220,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.39897490058446,
+                    45.49219495951953
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 81,
+                "rte_desc": "81-Kane/257th",
+                "stop_id": 8776,
+                "stop_name": "SE Kane & Powell Valley",
+                "stop_seq": 1320,
+                "type": "BUS",
+                "zipcode": "97080"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.40348938739733,
+                    45.49329047344236
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 81,
+                "rte_desc": "81-Kane/257th",
+                "stop_id": 4714,
+                "stop_name": "2800 Block SE Powell Valley",
+                "stop_seq": 1360,
+                "type": "BUS",
+                "zipcode": "97080"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.40753016483936,
+                    45.49417727541526
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 81,
+                "rte_desc": "81-Kane/257th",
+                "stop_id": 4518,
+                "stop_name": "E Powell & SE Burnside",
+                "stop_seq": 1380,
+                "type": "BUS",
+                "zipcode": "97080"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.4119663782598,
+                    45.49611265276154
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 81,
+                "rte_desc": "81-Kane/257th",
+                "stop_id": 4638,
+                "stop_name": "E Powell & SE 3rd",
+                "stop_seq": 1420,
+                "type": "BUS",
+                "zipcode": "97080"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.4182656873844,
+                    45.49811934464823
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 81,
+                "rte_desc": "81-Kane/257th",
+                "stop_id": 8461,
+                "stop_name": "E Powell & NE Liberty",
+                "stop_seq": 1480,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.42762496638315,
+                    45.49886816296156
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 81,
+                "rte_desc": "81-Kane/257th",
+                "stop_id": 10657,
+                "stop_name": "NE Hood & 2nd",
+                "stop_seq": 1550,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.3986084946174,
+                    45.52413872679614
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Troutdale",
+                "rte": 81,
+                "rte_desc": "81-Kane/257th",
+                "stop_id": 10646,
+                "stop_name": "SW 257th & 24th",
+                "stop_seq": 1025,
+                "type": "BUS",
+                "zipcode": "97060"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.4279223940593,
+                    45.50091259152004
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 81,
+                "rte_desc": "81-Kane/257th",
+                "stop_id": 10654,
+                "stop_name": "NE Hood & 5th",
+                "stop_seq": 1600,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.4000826215021,
+                    45.503154964656595
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 81,
+                "rte_desc": "81-Kane/257th",
+                "stop_id": 3106,
+                "stop_name": "Kane & 8th",
+                "stop_seq": 1240,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.39893043905728,
+                    45.496160563525365
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 81,
+                "rte_desc": "81-Kane/257th",
+                "stop_id": 3101,
+                "stop_name": "SE Kane & 2nd",
+                "stop_seq": 1280,
+                "type": "BUS",
+                "zipcode": "97080"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.40981915494547,
+                    45.49456740227733
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 81,
+                "rte_desc": "81-Kane/257th",
+                "stop_id": 4546,
+                "stop_name": "E Powell & SE Rene",
+                "stop_seq": 1400,
+                "type": "BUS",
+                "zipcode": "97080"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.41377838848702,
+                    45.497950708943385
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 81,
+                "rte_desc": "81-Kane/257th",
+                "stop_id": 4528,
+                "stop_name": "E Powell & NE Hogan",
+                "stop_seq": 1440,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.39672642032203,
+                    45.53604901305671
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Troutdale",
+                "rte": 81,
+                "rte_desc": "81-Kane/257th",
+                "stop_id": 9428,
+                "stop_name": "SW 257th & Jennings Way",
+                "stop_seq": 160,
+                "type": "BUS",
+                "zipcode": "97060"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.42177655184317,
+                    45.49815059903251
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 81,
+                "rte_desc": "81-Kane/257th",
+                "stop_id": 4521,
+                "stop_name": "E Powell & NE Cleveland",
+                "stop_seq": 1500,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.39279891949442,
+                    45.53839847671194
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Troutdale",
+                "rte": 81,
+                "rte_desc": "81-Kane/257th",
+                "stop_id": 10171,
+                "stop_name": "400 Block SW 257th",
+                "stop_seq": 155,
+                "type": "BUS",
+                "zipcode": "97060"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.40013321286975,
+                    45.5078659318602
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 81,
+                "rte_desc": "81-Kane/257th",
+                "stop_id": 12952,
+                "stop_name": "NE Kane & 15th",
+                "stop_seq": 1200,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.3994665182392,
+                    45.53011351398174
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Troutdale",
+                "rte": 81,
+                "rte_desc": "81-Kane/257th",
+                "stop_id": 9103,
+                "stop_name": "SW 257th & Cherry Park",
+                "stop_seq": 300,
+                "type": "BUS",
+                "zipcode": "97060"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.39860935994051,
+                    45.518485997989686
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 81,
+                "rte_desc": "81-Kane/257th",
+                "stop_id": 13031,
+                "stop_name": "NE Kane & SE Stark",
+                "stop_seq": 1100,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.39860825002367,
+                    45.51593767494978
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 81,
+                "rte_desc": "81-Kane/257th",
+                "stop_id": 10878,
+                "stop_name": "NE Kane & 29th (MHCC)",
+                "stop_seq": 1120,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.39945116188706,
+                    45.533704761086284
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Troutdale",
+                "rte": 81,
+                "rte_desc": "81-Kane/257th",
+                "stop_id": 9101,
+                "stop_name": "SW 257th & Sturges",
+                "stop_seq": 200,
+                "type": "BUS",
+                "zipcode": "97060"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.40177601676226,
+                    45.492898297069296
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 81,
+                "rte_desc": "81-Kane/257th",
+                "stop_id": 4720,
+                "stop_name": "SE Powell Valley & Robin",
+                "stop_seq": 1340,
+                "type": "BUS",
+                "zipcode": "97080"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.39863396817779,
+                    45.525834981773734
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Troutdale",
+                "rte": 81,
+                "rte_desc": "81-Kane/257th",
+                "stop_id": 8595,
+                "stop_name": "SW 257th & Hensley Rd",
+                "stop_seq": 1000,
+                "type": "BUS",
+                "zipcode": "97060"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.39858942221579,
+                    45.521304153702424
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Troutdale",
+                "rte": 81,
+                "rte_desc": "81-Kane/257th",
+                "stop_id": 8597,
+                "stop_name": "SW 257th & 28th",
+                "stop_seq": 1075,
+                "type": "BUS",
+                "zipcode": "97060"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.42684015281968,
+                    45.50300844687222
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 81,
+                "rte_desc": "81-Kane/257th",
+                "stop_id": 10859,
+                "stop_name": "Gresham Transit Center",
+                "stop_seq": 1650,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.3989461391999,
+                    45.497777535261456
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 81,
+                "rte_desc": "81-Kane/257th",
+                "stop_id": 13468,
+                "stop_name": "NE Kane & SE 1st",
+                "stop_seq": 1260,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.39896342885652,
+                    45.49377644577747
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 81,
+                "rte_desc": "81-Kane/257th",
+                "stop_id": 13469,
+                "stop_name": "SE Kane & 5th St",
+                "stop_seq": 1300,
+                "type": "BUS",
+                "zipcode": "97080"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.42448236169092,
+                    45.4981718060879
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 81,
+                "rte_desc": "81-Kane/257th",
+                "stop_id": 13473,
+                "stop_name": "E Powell & NE Elliott",
+                "stop_seq": 1525,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.37824486582672,
+                    45.53729270005825
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Troutdale",
+                "rte": 81,
+                "rte_desc": "81-Kane/257th",
+                "stop_id": 13314,
+                "stop_name": "Glenn Otto Park",
+                "stop_seq": 25,
+                "type": "BUS",
+                "zipcode": "97060"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.42772042672506,
+                    45.5028428523355
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 81,
+                "rte_desc": "81-Kane/257th",
+                "stop_id": 13506,
+                "stop_name": "Gresham Transit Center",
+                "stop_seq": 1633,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.3808560191834,
+                    45.53725664333146
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Troutdale",
+                "rte": 81,
+                "rte_desc": "81-Kane/257th",
+                "stop_id": 13332,
+                "stop_name": "E Columbia River Hwy & SE Jackson Park",
+                "stop_seq": 50,
+                "type": "BUS",
+                "zipcode": "97060"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.38511658363656,
+                    45.54082721694019
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Troutdale",
+                "rte": 81,
+                "rte_desc": "81-Kane/257th",
+                "stop_id": 13315,
+                "stop_name": "E Columbia River Hwy & SE Kibling",
+                "stop_seq": 100,
+                "type": "BUS",
+                "zipcode": "97060"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.38899149918016,
+                    45.54083316929239
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Troutdale",
+                "rte": 81,
+                "rte_desc": "81-Kane/257th",
+                "stop_id": 13316,
+                "stop_name": "W Columbia River Hwy & SW Kendall",
+                "stop_seq": 125,
+                "type": "BUS",
+                "zipcode": "97060"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

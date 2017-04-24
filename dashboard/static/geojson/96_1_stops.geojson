@@ -1,0 +1,747 @@
+{
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.77327043908298,
+                    45.3363483186236
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Wilsonville",
+                "rte": 96,
+                "rte_desc": "96-Tualatin/I-5",
+                "stop_id": 8389,
+                "stop_name": "SW 95th & Commerce Circle",
+                "stop_seq": 100,
+                "type": "BUS",
+                "zipcode": "97070"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.77337151612328,
+                    45.340198529116094
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Wilsonville",
+                "rte": 96,
+                "rte_desc": "96-Tualatin/I-5",
+                "stop_id": 521,
+                "stop_name": "SW Boones Ferry Rd & Day",
+                "stop_seq": 150,
+                "type": "BUS",
+                "zipcode": "97070"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7745785611473,
+                    45.35332096430287
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Tualatin",
+                "rte": 96,
+                "rte_desc": "96-Tualatin/I-5",
+                "stop_id": 543,
+                "stop_name": "SW Boones Ferry Rd & Norwood",
+                "stop_seq": 300,
+                "type": "BUS",
+                "zipcode": "97062"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.77252774666975,
+                    45.36900542713965
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Tualatin",
+                "rte": 96,
+                "rte_desc": "96-Tualatin/I-5",
+                "stop_id": 562,
+                "stop_name": "SW Boones Ferry Rd & Siletz",
+                "stop_seq": 550,
+                "type": "BUS",
+                "zipcode": "97062"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76970781524597,
+                    45.37275864724985
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Tualatin",
+                "rte": 96,
+                "rte_desc": "96-Tualatin/I-5",
+                "stop_id": 502,
+                "stop_name": "SW Boones Ferry Rd & Apache",
+                "stop_seq": 650,
+                "type": "BUS",
+                "zipcode": "97062"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76340754622686,
+                    45.37528873157256
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Tualatin",
+                "rte": 96,
+                "rte_desc": "96-Tualatin/I-5",
+                "stop_id": 8278,
+                "stop_name": "SW Sagert & Tillamook",
+                "stop_seq": 750,
+                "type": "BUS",
+                "zipcode": "97062"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75878937417441,
+                    45.38412574378965
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Tualatin",
+                "rte": 96,
+                "rte_desc": "96-Tualatin/I-5",
+                "stop_id": 3778,
+                "stop_name": "SW Martinazzi & Boones Ferry",
+                "stop_seq": 950,
+                "type": "BUS",
+                "zipcode": "97062"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75695373395432,
+                    45.387038712026715
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Durham",
+                "rte": 96,
+                "rte_desc": "96-Tualatin/I-5",
+                "stop_id": 496,
+                "stop_name": "18400 Block SW Boones Ferry Rd",
+                "stop_seq": 1000,
+                "type": "BUS",
+                "zipcode": "97224"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75109787886271,
+                    45.39140307626826
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Tualatin",
+                "rte": 96,
+                "rte_desc": "96-Tualatin/I-5",
+                "stop_id": 537,
+                "stop_name": "18000 Block SW Lower Boones Ferry",
+                "stop_seq": 1150,
+                "type": "BUS",
+                "zipcode": "97224"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67570961477904,
+                    45.50975232490192
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 96,
+                "rte_desc": "96-Tualatin/I-5",
+                "stop_id": 11002,
+                "stop_name": "SW Harbor & Montgomery",
+                "stop_seq": 1500,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74942184167357,
+                    45.40389871529445
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 96,
+                "rte_desc": "96-Tualatin/I-5",
+                "stop_id": 7893,
+                "stop_name": "SW 72nd & Upper Boones Ferry",
+                "stop_seq": 1300,
+                "type": "BUS",
+                "zipcode": "97224"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67598000758912,
+                    45.5080871749886
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 96,
+                "rte_desc": "96-Tualatin/I-5",
+                "stop_id": 10713,
+                "stop_name": "SW Harbor & River Pkwy",
+                "stop_seq": 1450,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.77421677592324,
+                    45.34382813114758
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 96,
+                "rte_desc": "96-Tualatin/I-5",
+                "stop_id": 8892,
+                "stop_name": "24300 Block SW Boones Ferry Rd",
+                "stop_seq": 200,
+                "type": "BUS",
+                "zipcode": "97062"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.77465184328754,
+                    45.355776227753076
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Tualatin",
+                "rte": 96,
+                "rte_desc": "96-Tualatin/I-5",
+                "stop_id": 9511,
+                "stop_name": "SW Boones Ferry Rd & Iowa Dr",
+                "stop_seq": 350,
+                "type": "BUS",
+                "zipcode": "97062"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.77447203248389,
+                    45.360549082426004
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Tualatin",
+                "rte": 96,
+                "rte_desc": "96-Tualatin/I-5",
+                "stop_id": 531,
+                "stop_name": "SW Boones Ferry Rd & Ibach",
+                "stop_seq": 400,
+                "type": "BUS",
+                "zipcode": "97062"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76577601711404,
+                    45.375238962833066
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Tualatin",
+                "rte": 96,
+                "rte_desc": "96-Tualatin/I-5",
+                "stop_id": 5004,
+                "stop_name": "SW Sagert & 86th",
+                "stop_seq": 700,
+                "type": "BUS",
+                "zipcode": "97062"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76043528253449,
+                    45.3761485381941
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Tualatin",
+                "rte": 96,
+                "rte_desc": "96-Tualatin/I-5",
+                "stop_id": 8285,
+                "stop_name": "SW Martinazzi & Mohawk",
+                "stop_seq": 800,
+                "type": "BUS",
+                "zipcode": "97062"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75887009818747,
+                    45.380048782478625
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Tualatin",
+                "rte": 96,
+                "rte_desc": "96-Tualatin/I-5",
+                "stop_id": 8249,
+                "stop_name": "SW Martinazzi & Martinazzi Square",
+                "stop_seq": 850,
+                "type": "BUS",
+                "zipcode": "97062"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74882076841627,
+                    45.39469654986714
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Tualatin",
+                "rte": 96,
+                "rte_desc": "96-Tualatin/I-5",
+                "stop_id": 7879,
+                "stop_name": "Tualatin Park & Ride",
+                "stop_seq": 1200,
+                "type": "BUS",
+                "zipcode": "97224"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67559976074202,
+                    45.513746096543365
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 96,
+                "rte_desc": "96-Tualatin/I-5",
+                "stop_id": 12789,
+                "stop_name": "SW Jefferson & 1st",
+                "stop_seq": 1550,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6791666059873,
+                    45.51470370266629
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 96,
+                "rte_desc": "96-Tualatin/I-5",
+                "stop_id": 12790,
+                "stop_name": "SW Jefferson between 4th & 5th",
+                "stop_seq": 1600,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68159251203018,
+                    45.51536586842799
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 96,
+                "rte_desc": "96-Tualatin/I-5",
+                "stop_id": 3039,
+                "stop_name": "SW Jefferson & Broadway",
+                "stop_seq": 1650,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.77297766735936,
+                    45.36667469864378
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Tualatin",
+                "rte": 96,
+                "rte_desc": "96-Tualatin/I-5",
+                "stop_id": 503,
+                "stop_name": "SW Boones Ferry Rd & Arapaho",
+                "stop_seq": 500,
+                "type": "BUS",
+                "zipcode": "97062"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7530627179652,
+                    45.3900424419414
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Tualatin",
+                "rte": 96,
+                "rte_desc": "96-Tualatin/I-5",
+                "stop_id": 513,
+                "stop_name": "SW Lower Boones Ferry & Childs Rd",
+                "stop_seq": 1100,
+                "type": "BUS",
+                "zipcode": "97224"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68376350724297,
+                    45.51594444595192
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 96,
+                "rte_desc": "96-Tualatin/I-5",
+                "stop_id": 3049,
+                "stop_name": "SW Jefferson & 10th",
+                "stop_seq": 1700,
+                "type": "BUS",
+                "zipcode": "97205"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74900208738642,
+                    45.39767000509855
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 96,
+                "rte_desc": "96-Tualatin/I-5",
+                "stop_id": 11944,
+                "stop_name": "16800 Block SW 72nd",
+                "stop_seq": 1250,
+                "type": "BUS",
+                "zipcode": "97224"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.77509807970623,
+                    45.34689215175868
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 96,
+                "rte_desc": "96-Tualatin/I-5",
+                "stop_id": 534,
+                "stop_name": "SW Boones Ferry Rd & Greenhill Ln",
+                "stop_seq": 250,
+                "type": "BUS",
+                "zipcode": "97062"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.77031714953569,
+                    45.371963772418574
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Tualatin",
+                "rte": 96,
+                "rte_desc": "96-Tualatin/I-5",
+                "stop_id": 9353,
+                "stop_name": "SW Boones Ferry Rd & Avery",
+                "stop_seq": 600,
+                "type": "BUS",
+                "zipcode": "97062"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75855963466057,
+                    45.38209777976098
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Tualatin",
+                "rte": 96,
+                "rte_desc": "96-Tualatin/I-5",
+                "stop_id": 8250,
+                "stop_name": "SW Martinazzi & Tualatin-Sherwood",
+                "stop_seq": 900,
+                "type": "BUS",
+                "zipcode": "97062"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.77300443926347,
+                    45.3648464568397
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Tualatin",
+                "rte": 96,
+                "rte_desc": "96-Tualatin/I-5",
+                "stop_id": 510,
+                "stop_name": "SW Boones Ferry Rd & Blake",
+                "stop_seq": 450,
+                "type": "BUS",
+                "zipcode": "97062"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75505744979259,
+                    45.389241189467526
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Tualatin",
+                "rte": 96,
+                "rte_desc": "96-Tualatin/I-5",
+                "stop_id": 570,
+                "stop_name": "SW Lower Boones Ferry & Boones Ferry",
+                "stop_seq": 1050,
+                "type": "BUS",
+                "zipcode": "97224"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.77549329736831,
+                    45.33519004640482
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Wilsonville",
+                "rte": 96,
+                "rte_desc": "96-Tualatin/I-5",
+                "stop_id": 13493,
+                "stop_name": "10100 Block SW Commerce Circle",
+                "stop_seq": 50,
+                "type": "BUS",
+                "zipcode": "97070"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

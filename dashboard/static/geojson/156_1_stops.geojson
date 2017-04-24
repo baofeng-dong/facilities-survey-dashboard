@@ -1,0 +1,678 @@
+{
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.50712259618406,
+                    45.419996296600004
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 156,
+                "rte_desc": "156-Mather Rd",
+                "stop_id": 10221,
+                "stop_name": "SE 152nd & Territory Dr",
+                "stop_seq": 20,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.50558667091761,
+                    45.41438958920204
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Happy Valley",
+                "rte": 156,
+                "rte_desc": "156-Mather Rd",
+                "stop_id": 10297,
+                "stop_name": "SE 152nd & Sedona Drive",
+                "stop_seq": 22,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.52770444884055,
+                    45.41411229827851
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 156,
+                "rte_desc": "156-Mather Rd",
+                "stop_id": 10225,
+                "stop_name": "13300 Block SE Hubbard",
+                "stop_seq": 30,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53482035332352,
+                    45.41406897949411
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 156,
+                "rte_desc": "156-Mather Rd",
+                "stop_id": 10227,
+                "stop_name": "SE Hubbard & 125th",
+                "stop_seq": 40,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53786218683105,
+                    45.416480958805884
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 156,
+                "rte_desc": "156-Mather Rd",
+                "stop_id": 10229,
+                "stop_name": "SE 122nd & Mountain Sun Dr",
+                "stop_seq": 45,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53871372254518,
+                    45.424999755331584
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 156,
+                "rte_desc": "156-Mather Rd",
+                "stop_id": 8998,
+                "stop_name": "SE Mather & 122nd",
+                "stop_seq": 50,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.54790221626871,
+                    45.42098873614832
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 156,
+                "rte_desc": "156-Mather Rd",
+                "stop_id": 9000,
+                "stop_name": "SE Mather & Cranberry Loop",
+                "stop_seq": 150,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.55519036104668,
+                    45.41984091722353
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 156,
+                "rte_desc": "156-Mather Rd",
+                "stop_id": 9002,
+                "stop_name": "10500 Block SE Mather",
+                "stop_seq": 250,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.55935233691339,
+                    45.422125122491
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 156,
+                "rte_desc": "156-Mather Rd",
+                "stop_id": 9007,
+                "stop_name": "14000 Block SE 97th",
+                "stop_seq": 300,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.51231827905887,
+                    45.42264516802303
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Happy Valley",
+                "rte": 156,
+                "rte_desc": "156-Mather Rd",
+                "stop_id": 10148,
+                "stop_name": "SE Oregon Trail Dr & Hines",
+                "stop_seq": 5,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.50725827503068,
+                    45.42295976404464
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 156,
+                "rte_desc": "156-Mather Rd",
+                "stop_id": 10219,
+                "stop_name": "SE Oregon Trail Dr & 152nd",
+                "stop_seq": 15,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.50795519372109,
+                    45.41091147316603
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Happy Valley",
+                "rte": 156,
+                "rte_desc": "156-Mather Rd",
+                "stop_id": 10223,
+                "stop_name": "SE 152nd & Morning Way",
+                "stop_seq": 25,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.52438912413436,
+                    45.41061543008603
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Happy Valley",
+                "rte": 156,
+                "rte_desc": "156-Mather Rd",
+                "stop_id": 8830,
+                "stop_name": "SE Hwy 224 & 135th",
+                "stop_seq": 28,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53169245950929,
+                    45.4140776406273
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 156,
+                "rte_desc": "156-Mather Rd",
+                "stop_id": 9008,
+                "stop_name": "SE Hubbard & 128th",
+                "stop_seq": 35,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53793727045517,
+                    45.42088433424719
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Happy Valley",
+                "rte": 156,
+                "rte_desc": "156-Mather Rd",
+                "stop_id": 10231,
+                "stop_name": "SE 122nd & Echo Valley",
+                "stop_seq": 47,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.54366461171465,
+                    45.425035512864284
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 156,
+                "rte_desc": "156-Mather Rd",
+                "stop_id": 10204,
+                "stop_name": "SE Mather & Cedar Park Dr",
+                "stop_seq": 140,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.55029513638866,
+                    45.420298086926884
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 156,
+                "rte_desc": "156-Mather Rd",
+                "stop_id": 9001,
+                "stop_name": "11000 Block SE Mather",
+                "stop_seq": 200,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56113959358112,
+                    45.42418234564586
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 156,
+                "rte_desc": "156-Mather Rd",
+                "stop_id": 9004,
+                "stop_name": "SE 97th & Lawnfield",
+                "stop_seq": 350,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.55508901796846,
+                    45.43378824999563
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 156,
+                "rte_desc": "156-Mather Rd",
+                "stop_id": 11929,
+                "stop_name": "SE Sunnyside & 105th",
+                "stop_seq": 450,
+                "type": "BUS",
+                "zipcode": "97086"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53785505485091,
+                    45.418373526023025
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 156,
+                "rte_desc": "156-Mather Rd",
+                "stop_id": 11952,
+                "stop_name": "SE 122nd & Summers Lane",
+                "stop_seq": 46,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.54111341449963,
+                    45.425024034325446
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 156,
+                "rte_desc": "156-Mather Rd",
+                "stop_id": 8999,
+                "stop_name": "SE Mather & 119th Ct",
+                "stop_seq": 100,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57331242700954,
+                    45.437310329219926
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 156,
+                "rte_desc": "156-Mather Rd",
+                "stop_id": 12921,
+                "stop_name": "Clackamas Town Center Mall",
+                "stop_seq": 550,
+                "type": "BUS",
+                "zipcode": "97086"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56268120447112,
+                    45.42671079533271
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 156,
+                "rte_desc": "156-Mather Rd",
+                "stop_id": 9005,
+                "stop_name": "SE 97th & Talbert Dr",
+                "stop_seq": 400,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56069211012364,
+                    45.43210667029633
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 156,
+                "rte_desc": "156-Mather Rd",
+                "stop_id": 13077,
+                "stop_name": "Kaiser Sunnyside Medical Center",
+                "stop_seq": 475,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.51734864754992,
+                    45.410302883505246
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Happy Valley",
+                "rte": 156,
+                "rte_desc": "156-Mather Rd",
+                "stop_id": 2909,
+                "stop_name": "SE Hwy 224 & 142nd",
+                "stop_seq": 27,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56214122356492,
+                    45.43518522901619
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 156,
+                "rte_desc": "156-Mather Rd",
+                "stop_id": 11454,
+                "stop_name": "10100 Block SE Stevens Rd",
+                "stop_seq": 500,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56641665915171,
+                    45.437325442812266
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 156,
+                "rte_desc": "156-Mather Rd",
+                "stop_id": 11927,
+                "stop_name": "SE Bob Schumacher & Monterey",
+                "stop_seq": 525,
+                "type": "BUS",
+                "zipcode": "97086"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56870745294738,
+                    45.43566941948304
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 156,
+                "rte_desc": "156-Mather Rd",
+                "stop_id": 13248,
+                "stop_name": "Clackamas Town Center Transit Center",
+                "stop_seq": 700,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56813401888509,
+                    45.43555507416447
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 156,
+                "rte_desc": "156-Mather Rd",
+                "stop_id": 13247,
+                "stop_name": "Clackamas Town Center TC",
+                "stop_seq": 600,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

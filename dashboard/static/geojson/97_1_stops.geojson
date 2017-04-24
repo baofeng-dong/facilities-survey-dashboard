@@ -1,0 +1,379 @@
+{
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.84674081656952,
+                    45.36639364233413
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Tualatin WES Station",
+                "frequent": "False",
+                "jurisdic": "Sherwood",
+                "rte": 97,
+                "rte_desc": "97-Tualatin-Sherwood Rd",
+                "stop_id": 9189,
+                "stop_name": "16400 Block SW Langer",
+                "stop_seq": 100,
+                "type": "BUS",
+                "zipcode": "97140"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.84427587939993,
+                    45.36773954587653
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Tualatin WES Station",
+                "frequent": "False",
+                "jurisdic": "Sherwood",
+                "rte": 97,
+                "rte_desc": "97-Tualatin-Sherwood Rd",
+                "stop_id": 9190,
+                "stop_name": "16100 Block SW Langer",
+                "stop_seq": 150,
+                "type": "BUS",
+                "zipcode": "97140"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.84117695775613,
+                    45.36715822872314
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Tualatin WES Station",
+                "frequent": "False",
+                "jurisdic": "Sherwood",
+                "rte": 97,
+                "rte_desc": "97-Tualatin-Sherwood Rd",
+                "stop_id": 13766,
+                "stop_name": "SW Langer & Holland",
+                "stop_seq": 200,
+                "type": "BUS",
+                "zipcode": "97140"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.83477495276946,
+                    45.36766779493574
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Tualatin WES Station",
+                "frequent": "False",
+                "jurisdic": "Sherwood",
+                "rte": 97,
+                "rte_desc": "97-Tualatin-Sherwood Rd",
+                "stop_id": 13837,
+                "stop_name": "SW Tualatin-Sherwood Rd & Langer Farms",
+                "stop_seq": 250,
+                "type": "BUS",
+                "zipcode": "97140"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.82481412622107,
+                    45.3678247499221
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Tualatin WES Station",
+                "frequent": "False",
+                "jurisdic": "Sherwood",
+                "rte": 97,
+                "rte_desc": "97-Tualatin-Sherwood Rd",
+                "stop_id": 13838,
+                "stop_name": "SW Tualatin-Sherwood Rd & Gerda Ln",
+                "stop_seq": 300,
+                "type": "BUS",
+                "zipcode": "97140"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.8172214743746,
+                    45.36811264260255
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Tualatin WES Station",
+                "frequent": "False",
+                "jurisdic": "Sherwood",
+                "rte": 97,
+                "rte_desc": "97-Tualatin-Sherwood Rd",
+                "stop_id": 13839,
+                "stop_name": "SW Tualatin-Sherwood Rd & Oregon St",
+                "stop_seq": 350,
+                "type": "BUS",
+                "zipcode": "97140"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.8094139000306,
+                    45.36890943330792
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Tualatin WES Station",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 97,
+                "rte_desc": "97-Tualatin-Sherwood Rd",
+                "stop_id": 13840,
+                "stop_name": "SW Tualatin-Sherwood Rd & Cipole",
+                "stop_seq": 400,
+                "type": "BUS",
+                "zipcode": "97140"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.80599900850547,
+                    45.369246286752926
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Tualatin WES Station",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 97,
+                "rte_desc": "97-Tualatin-Sherwood Rd",
+                "stop_id": 13841,
+                "stop_name": "SW Tualatin-Sherwood Rd & 124th",
+                "stop_seq": 450,
+                "type": "BUS",
+                "zipcode": "97140"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.79262180974568,
+                    45.372370278135946
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Tualatin WES Station",
+                "frequent": "False",
+                "jurisdic": "Tualatin",
+                "rte": 97,
+                "rte_desc": "97-Tualatin-Sherwood Rd",
+                "stop_id": 13843,
+                "stop_name": "SW Tualatin-Sherwood Rd & Avery",
+                "stop_seq": 550,
+                "type": "BUS",
+                "zipcode": "97062"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7823847116097,
+                    45.37769648410324
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Tualatin WES Station",
+                "frequent": "False",
+                "jurisdic": "Tualatin",
+                "rte": 97,
+                "rte_desc": "97-Tualatin-Sherwood Rd",
+                "stop_id": 13844,
+                "stop_name": "SW Tualatin-Sherwood Rd & Teton",
+                "stop_seq": 600,
+                "type": "BUS",
+                "zipcode": "97062"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.77501385492222,
+                    45.37877170104592
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Tualatin WES Station",
+                "frequent": "False",
+                "jurisdic": "Tualatin",
+                "rte": 97,
+                "rte_desc": "97-Tualatin-Sherwood Rd",
+                "stop_id": 13845,
+                "stop_name": "SW Tualatin-Sherwood Rd & 95th",
+                "stop_seq": 650,
+                "type": "BUS",
+                "zipcode": "97062"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.77088983852644,
+                    45.380090149132954
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Tualatin WES Station",
+                "frequent": "False",
+                "jurisdic": "Tualatin",
+                "rte": 97,
+                "rte_desc": "97-Tualatin-Sherwood Rd",
+                "stop_id": 13846,
+                "stop_name": "SW Tualatin-Sherwood Rd & 90th",
+                "stop_seq": 700,
+                "type": "BUS",
+                "zipcode": "97062"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7648062836159,
+                    45.38110461271521
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Tualatin WES Station",
+                "frequent": "False",
+                "jurisdic": "Tualatin",
+                "rte": 97,
+                "rte_desc": "97-Tualatin-Sherwood Rd",
+                "stop_id": 13847,
+                "stop_name": "SW Tualatin-Sherwood Rd & Boones Ferry",
+                "stop_seq": 750,
+                "type": "BUS",
+                "zipcode": "97062"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75855963466057,
+                    45.38209777976098
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Tualatin WES Station",
+                "frequent": "False",
+                "jurisdic": "Tualatin",
+                "rte": 97,
+                "rte_desc": "97-Tualatin-Sherwood Rd",
+                "stop_id": 8250,
+                "stop_name": "SW Martinazzi & Tualatin-Sherwood",
+                "stop_seq": 800,
+                "type": "BUS",
+                "zipcode": "97062"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75967006599589,
+                    45.38474625593123
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Tualatin WES Station",
+                "frequent": "False",
+                "jurisdic": "Tualatin",
+                "rte": 97,
+                "rte_desc": "97-Tualatin-Sherwood Rd",
+                "stop_id": 13078,
+                "stop_name": "SW Boones Ferry Rd & Martinazzi",
+                "stop_seq": 850,
+                "type": "BUS",
+                "zipcode": "97062"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76436308494584,
+                    45.382865616521265
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Tualatin WES Station",
+                "frequent": "False",
+                "jurisdic": "Tualatin",
+                "rte": 97,
+                "rte_desc": "97-Tualatin-Sherwood Rd",
+                "stop_id": 13079,
+                "stop_name": "SW Boones Ferry Rd & Nyberg",
+                "stop_seq": 900,
+                "type": "BUS",
+                "zipcode": "97062"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

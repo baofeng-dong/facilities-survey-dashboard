@@ -1,0 +1,540 @@
+{
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68884592551434,
+                    45.42318484224512
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin Park & Ride",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 37,
+                "rte_desc": "37-Lake Grove",
+                "stop_id": 1223,
+                "stop_name": "Country Club & Knaus Rd",
+                "stop_seq": 300,
+                "type": "BUS",
+                "zipcode": "97034"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71361355020139,
+                    45.418322657545474
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin Park & Ride",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 37,
+                "rte_desc": "37-Lake Grove",
+                "stop_id": 568,
+                "stop_name": "Boones Ferry Rd & Twin Fir",
+                "stop_seq": 600,
+                "type": "BUS",
+                "zipcode": "97035"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72604306911818,
+                    45.407043446706744
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin Park & Ride",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 37,
+                "rte_desc": "37-Lake Grove",
+                "stop_id": 539,
+                "stop_name": "Boones Ferry Rd & SW Madrona",
+                "stop_seq": 900,
+                "type": "BUS",
+                "zipcode": "97035"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66787974610853,
+                    45.42063106268485
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin Park & Ride",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 37,
+                "rte_desc": "37-Lake Grove",
+                "stop_id": 8208,
+                "stop_name": "Lake Oswego Transit Center",
+                "stop_seq": 50,
+                "type": "BUS",
+                "zipcode": "97034"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67268047259621,
+                    45.42041430526356
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin Park & Ride",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 37,
+                "rte_desc": "37-Lake Grove",
+                "stop_id": 7,
+                "stop_name": "A Ave & 8th St",
+                "stop_seq": 100,
+                "type": "BUS",
+                "zipcode": "97034"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67515248781474,
+                    45.42070678100007
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin Park & Ride",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 37,
+                "rte_desc": "37-Lake Grove",
+                "stop_id": 4,
+                "stop_name": "A Ave & 10th St",
+                "stop_seq": 150,
+                "type": "BUS",
+                "zipcode": "97034"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67918110229617,
+                    45.423080727733435
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin Park & Ride",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 37,
+                "rte_desc": "37-Lake Grove",
+                "stop_id": 1221,
+                "stop_name": "Country Club & Iron Mtn",
+                "stop_seq": 200,
+                "type": "BUS",
+                "zipcode": "97034"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68321591444644,
+                    45.42308070603733
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin Park & Ride",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 37,
+                "rte_desc": "37-Lake Grove",
+                "stop_id": 1219,
+                "stop_name": "700 Block Country Club",
+                "stop_seq": 250,
+                "type": "BUS",
+                "zipcode": "97034"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6928908927379,
+                    45.42320192549955
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin Park & Ride",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 37,
+                "rte_desc": "37-Lake Grove",
+                "stop_id": 1227,
+                "stop_name": "Country Club & Redwood",
+                "stop_seq": 350,
+                "type": "BUS",
+                "zipcode": "97034"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69530824683402,
+                    45.42329585688426
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin Park & Ride",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 37,
+                "rte_desc": "37-Lake Grove",
+                "stop_id": 1231,
+                "stop_name": "Country Club & Uplands",
+                "stop_seq": 400,
+                "type": "BUS",
+                "zipcode": "97034"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69765186819217,
+                    45.42384887821198
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin Park & Ride",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 37,
+                "rte_desc": "37-Lake Grove",
+                "stop_id": 1233,
+                "stop_name": "Country Club & Wembley Park",
+                "stop_seq": 450,
+                "type": "BUS",
+                "zipcode": "97034"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70254485505531,
+                    45.425162882566035
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin Park & Ride",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 37,
+                "rte_desc": "37-Lake Grove",
+                "stop_id": 1226,
+                "stop_name": "Country Club & Hazel Road",
+                "stop_seq": 500,
+                "type": "BUS",
+                "zipcode": "97034"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71089405961628,
+                    45.42127009615917
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin Park & Ride",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 37,
+                "rte_desc": "37-Lake Grove",
+                "stop_id": 553,
+                "stop_name": "Boones Ferry Rd & Rainbow",
+                "stop_seq": 550,
+                "type": "BUS",
+                "zipcode": "97035"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71534506137026,
+                    45.416600454788075
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin Park & Ride",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 37,
+                "rte_desc": "37-Lake Grove",
+                "stop_id": 536,
+                "stop_name": "Boones Ferry Rd & Kruse Way Pl",
+                "stop_seq": 650,
+                "type": "BUS",
+                "zipcode": "97035"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71668502773758,
+                    45.41467057734598
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin Park & Ride",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 37,
+                "rte_desc": "37-Lake Grove",
+                "stop_id": 11775,
+                "stop_name": "Boones Ferry Rd & Mercantile Dr",
+                "stop_seq": 700,
+                "type": "BUS",
+                "zipcode": "97035"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71898808959057,
+                    45.41091115167447
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin Park & Ride",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 37,
+                "rte_desc": "37-Lake Grove",
+                "stop_id": 11776,
+                "stop_name": "Boones Ferry Rd & Oakridge",
+                "stop_seq": 750,
+                "type": "BUS",
+                "zipcode": "97035"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72300143411854,
+                    45.40883583337741
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin Park & Ride",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 37,
+                "rte_desc": "37-Lake Grove",
+                "stop_id": 529,
+                "stop_name": "Boones Ferry Rd & Firwood",
+                "stop_seq": 850,
+                "type": "BUS",
+                "zipcode": "97035"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72824347772644,
+                    45.40567613873037
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin Park & Ride",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 37,
+                "rte_desc": "37-Lake Grove",
+                "stop_id": 576,
+                "stop_name": "Boones Ferry Rd & West Sunset Dr",
+                "stop_seq": 950,
+                "type": "BUS",
+                "zipcode": "97035"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73039590383105,
+                    45.404278988220355
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin Park & Ride",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 37,
+                "rte_desc": "37-Lake Grove",
+                "stop_id": 11777,
+                "stop_name": "Boones Ferry Rd & Washington Ct",
+                "stop_seq": 1000,
+                "type": "BUS",
+                "zipcode": "97035"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73360636797626,
+                    45.402194312474656
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin Park & Ride",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 37,
+                "rte_desc": "37-Lake Grove",
+                "stop_id": 11778,
+                "stop_name": "Boones Ferry Rd & Pilkington",
+                "stop_seq": 1050,
+                "type": "BUS",
+                "zipcode": "97035"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73816758417779,
+                    45.39940123102369
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin Park & Ride",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 37,
+                "rte_desc": "37-Lake Grove",
+                "stop_id": 11779,
+                "stop_name": "Boones Ferry Rd & Jean",
+                "stop_seq": 1100,
+                "type": "BUS",
+                "zipcode": "97035"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74882076841627,
+                    45.39469654986714
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin Park & Ride",
+                "frequent": "False",
+                "jurisdic": "Tualatin",
+                "rte": 37,
+                "rte_desc": "37-Lake Grove",
+                "stop_id": 7879,
+                "stop_name": "Tualatin Park & Ride",
+                "stop_seq": 1150,
+                "type": "BUS",
+                "zipcode": "97224"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74347830849648,
+                    45.39675721831592
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tualatin Park & Ride",
+                "frequent": "False",
+                "jurisdic": "Tualatin",
+                "rte": 37,
+                "rte_desc": "37-Lake Grove",
+                "stop_id": 12852,
+                "stop_name": "SW Lower Boones Ferry & 65th",
+                "stop_seq": 1125,
+                "type": "BUS",
+                "zipcode": "97035"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

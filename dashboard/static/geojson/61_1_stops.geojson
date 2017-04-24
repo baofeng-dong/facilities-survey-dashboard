@@ -1,0 +1,379 @@
+{
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76076428128165,
+                    45.48926829398452
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 61,
+                "rte_desc": "61-Marquam Hill/Beaverton",
+                "stop_id": 3367,
+                "stop_name": "SW Laurelwood & Laurel",
+                "stop_seq": 160,
+                "type": "BUS",
+                "zipcode": "97225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74841413658343,
+                    45.48613280235958
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 61,
+                "rte_desc": "61-Marquam Hill/Beaverton",
+                "stop_id": 348,
+                "stop_name": "SW Beaverton-Hillsdale & Oleson",
+                "stop_seq": 200,
+                "type": "BUS",
+                "zipcode": "97225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68221997802769,
+                    45.49642214627816
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 61,
+                "rte_desc": "61-Marquam Hill/Beaverton",
+                "stop_id": 8455,
+                "stop_name": "SW US Veterans Rd & Bldg #16",
+                "stop_seq": 300,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.80116511610176,
+                    45.49154298282815
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 61,
+                "rte_desc": "61-Marquam Hill/Beaverton",
+                "stop_id": 9986,
+                "stop_name": "Beaverton Transit Center",
+                "stop_seq": 150,
+                "type": "BUS",
+                "zipcode": "97005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.79026982577396,
+                    45.490097905971105
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 61,
+                "rte_desc": "61-Marquam Hill/Beaverton",
+                "stop_id": 10035,
+                "stop_name": "4100 Block SW 110th",
+                "stop_seq": 155,
+                "type": "BUS",
+                "zipcode": "97005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68514079906794,
+                    45.49887720517788
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 61,
+                "rte_desc": "61-Marquam Hill/Beaverton",
+                "stop_id": 871,
+                "stop_name": "SW Campus Dr & Loading Dock 5",
+                "stop_seq": 500,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68590102057397,
+                    45.497876895369586
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 61,
+                "rte_desc": "61-Marquam Hill/Beaverton",
+                "stop_id": 10176,
+                "stop_name": "700 SW Campus Dr at Doernbecher",
+                "stop_seq": 550,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68430258691197,
+                    45.498186562258525
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 61,
+                "rte_desc": "61-Marquam Hill/Beaverton",
+                "stop_id": 868,
+                "stop_name": "SW Campus Dr & OHSU Garage F",
+                "stop_seq": 600,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68815613954094,
+                    45.49735520503011
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 61,
+                "rte_desc": "61-Marquam Hill/Beaverton",
+                "stop_id": 9488,
+                "stop_name": "3505 SW US Veterans Rd",
+                "stop_seq": 400,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68327068056084,
+                    45.49705833364313
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 61,
+                "rte_desc": "61-Marquam Hill/Beaverton",
+                "stop_id": 5975,
+                "stop_name": "US Veterans Hospital",
+                "stop_seq": 350,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68652053151128,
+                    45.49702571280562
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 61,
+                "rte_desc": "61-Marquam Hill/Beaverton",
+                "stop_id": 10612,
+                "stop_name": "3515 SW US Veterans Rd",
+                "stop_seq": 375,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69285640366004,
+                    45.47879137447437
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 61,
+                "rte_desc": "61-Marquam Hill/Beaverton",
+                "stop_id": 929,
+                "stop_name": "SW Capitol & Sunset",
+                "stop_seq": 250,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68716115199707,
+                    45.49904224530831
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 61,
+                "rte_desc": "61-Marquam Hill/Beaverton",
+                "stop_id": 5032,
+                "stop_name": "SW Sam Jackson Pk & US Veterans",
+                "stop_seq": 450,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6855354526294,
+                    45.49933602534843
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 61,
+                "rte_desc": "61-Marquam Hill/Beaverton",
+                "stop_id": 5028,
+                "stop_name": "SW Sam Jackson Pk & OHSU",
+                "stop_seq": 466,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68426545105717,
+                    45.500298423399734
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 61,
+                "rte_desc": "61-Marquam Hill/Beaverton",
+                "stop_id": 5027,
+                "stop_name": "SW Sam Jackson Pk & Campus Dr",
+                "stop_seq": 482,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68257202304343,
+                    45.49910833412138
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 61,
+                "rte_desc": "61-Marquam Hill/Beaverton",
+                "stop_id": 870,
+                "stop_name": "SW Campus Dr & Terwilliger",
+                "stop_seq": 650,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

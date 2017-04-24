@@ -1,0 +1,1667 @@
+{
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68114846394523,
+                    45.50098487484533
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vermont & Shattuck and Maplewood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 198,
+                "stop_name": "SW Barbur & Woods",
+                "stop_seq": 750,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67911949604607,
+                    45.49734773033284
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vermont & Shattuck and Maplewood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 185,
+                "stop_name": "SW Barbur & Pennoyer",
+                "stop_seq": 850,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67856572713242,
+                    45.49103721631117
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vermont & Shattuck and Maplewood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 173,
+                "stop_name": "SW Barbur & Hamilton",
+                "stop_seq": 950,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68275676679828,
+                    45.487059214323075
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vermont & Shattuck and Maplewood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 155,
+                "stop_name": "4900 Block SW Barbur",
+                "stop_seq": 1000,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68960176149501,
+                    45.47046822702211
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vermont & Shattuck and Maplewood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 199,
+                "stop_name": "SW Barbur & Bertha",
+                "stop_seq": 1250,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69434763996654,
+                    45.47224635677313
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vermont & Shattuck and Maplewood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 9033,
+                "stop_name": "SW Bertha & Chestnut",
+                "stop_seq": 1350,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6934374526942,
+                    45.47319778925959
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vermont & Shattuck and Maplewood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 1056,
+                "stop_name": "SW Chestnut & 14th",
+                "stop_seq": 1400,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69099730992335,
+                    45.4760858904866
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vermont & Shattuck and Maplewood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 6026,
+                "stop_name": "SW Vermont & Chestnut",
+                "stop_seq": 1550,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69758018010198,
+                    45.47611534898113
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vermont & Shattuck and Maplewood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 6024,
+                "stop_name": "SW Vermont & Bertha",
+                "stop_seq": 1650,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70156351579266,
+                    45.47610918748148
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vermont & Shattuck and Maplewood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 6034,
+                "stop_name": "SW Vermont & 24th",
+                "stop_seq": 1800,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70418812266034,
+                    45.47612714612064
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vermont & Shattuck and Maplewood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 966,
+                "stop_name": "SW Capitol & 26th",
+                "stop_seq": 1851,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71962183398523,
+                    45.47626832704314
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vermont & Shattuck and Maplewood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 6043,
+                "stop_name": "SW Vermont & 42nd",
+                "stop_seq": 2100,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72287220126151,
+                    45.476295739247874
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vermont & Shattuck and Maplewood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 10467,
+                "stop_name": "SW Vermont & 45th",
+                "stop_seq": 2190,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73064594531655,
+                    45.47636976835236
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vermont & Shattuck and Maplewood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 6049,
+                "stop_name": "SW Vermont & 52nd",
+                "stop_seq": 2301,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73339044480598,
+                    45.47639014463161
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vermont & Shattuck and Maplewood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 6050,
+                "stop_name": "SW Vermont & 55th",
+                "stop_seq": 2351,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73854357708079,
+                    45.476431575239786
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vermont & Shattuck and Maplewood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 6051,
+                "stop_name": "SW Vermont & 60th",
+                "stop_seq": 3450,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74269020684922,
+                    45.476468918716535
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vermont & Shattuck and Maplewood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 6030,
+                "stop_name": "SW Vermont & Shattuck",
+                "stop_seq": 3550,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73480576635629,
+                    45.48351240002997
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vermont & Shattuck and Maplewood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 863,
+                "stop_name": "SW Cameron & Shattuck",
+                "stop_seq": 3800,
+                "type": "BUS",
+                "zipcode": "97221"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72735969897776,
+                    45.48346832495721
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vermont & Shattuck and Maplewood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 862,
+                "stop_name": "SW Cameron & Fairvale Ct",
+                "stop_seq": 4000,
+                "type": "BUS",
+                "zipcode": "97221"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72324385285235,
+                    45.478718642621715
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vermont & Shattuck and Maplewood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 7549,
+                "stop_name": "SW 45th & Illinois",
+                "stop_seq": 4250,
+                "type": "BUS",
+                "zipcode": "97221"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72325067945205,
+                    45.475875068406836
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vermont & Shattuck and Maplewood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 10466,
+                "stop_name": "SW 45th & Vermont",
+                "stop_seq": 4290,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72323389042326,
+                    45.472199107559604
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vermont & Shattuck and Maplewood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 7540,
+                "stop_name": "SW 45th & Caldew",
+                "stop_seq": 4350,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72870528813145,
+                    45.46797247958138
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vermont & Shattuck and Maplewood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 7668,
+                "stop_name": "SW 51st & Moss",
+                "stop_seq": 4450,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72868795918318,
+                    45.46966843777188
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vermont & Shattuck and Maplewood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 7667,
+                "stop_name": "SW 51st & Custer",
+                "stop_seq": 4500,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73046798404533,
+                    45.470858377987135
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vermont & Shattuck and Maplewood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 7698,
+                "stop_name": "SW 52nd & Maplewood School",
+                "stop_seq": 4600,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73051649846686,
+                    45.472842631921054
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vermont & Shattuck and Maplewood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 7700,
+                "stop_name": "SW 52nd & Nevada Ct",
+                "stop_seq": 4650,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73339450657463,
+                    45.47402811924031
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vermont & Shattuck and Maplewood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 7728,
+                "stop_name": "SW 55th & Texas",
+                "stop_seq": 4750,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73333352671715,
+                    45.47628466361283
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vermont & Shattuck and Maplewood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 7729,
+                "stop_name": "SW 55th & Vermont",
+                "stop_seq": 4850,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73079726452909,
+                    45.47625639898054
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vermont & Shattuck and Maplewood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 6048,
+                "stop_name": "SW Vermont & 52nd",
+                "stop_seq": 4900,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72798723597599,
+                    45.476220267365164
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vermont & Shattuck and Maplewood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 6046,
+                "stop_name": "SW Vermont & 50th",
+                "stop_seq": 4950,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72249741315756,
+                    45.476164148334455
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vermont & Shattuck and Maplewood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 6045,
+                "stop_name": "SW Vermont & 45th",
+                "stop_seq": 5000,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7248649459434,
+                    45.47619265883757
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vermont & Shattuck and Maplewood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 6027,
+                "stop_name": "SW Vermont & Idaho",
+                "stop_seq": 4975,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7232353935922,
+                    45.47038007873023
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vermont & Shattuck and Maplewood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 10801,
+                "stop_name": "7500 Block SW 45th",
+                "stop_seq": 4375,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68328988914024,
+                    45.50556589359561
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vermont & Shattuck and Maplewood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 7591,
+                "stop_name": "SW 5th & Caruthers",
+                "stop_seq": 650,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67981216485971,
+                    45.49860155624016
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vermont & Shattuck and Maplewood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 196,
+                "stop_name": "SW Barbur & Whitaker",
+                "stop_seq": 800,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6803196064146,
+                    45.48023082309979
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vermont & Shattuck and Maplewood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 188,
+                "stop_name": "SW Barbur & Capitol Hwy",
+                "stop_seq": 1050,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69363970347067,
+                    45.476101118062246
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vermont & Shattuck and Maplewood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 6032,
+                "stop_name": "SW Vermont & 13th",
+                "stop_seq": 1600,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69970228572403,
+                    45.476107843237145
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vermont & Shattuck and Maplewood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 6018,
+                "stop_name": "2200 Block SW Vermont",
+                "stop_seq": 1750,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71513210768877,
+                    45.47623603985291
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vermont & Shattuck and Maplewood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 6041,
+                "stop_name": "SW Vermont & 37th",
+                "stop_seq": 2050,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72188386484333,
+                    45.47629609307275
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vermont & Shattuck and Maplewood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 6029,
+                "stop_name": "SW Vermont & Idaho Dr",
+                "stop_seq": 2150,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72811999952071,
+                    45.47635838199425
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vermont & Shattuck and Maplewood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 6047,
+                "stop_name": "SW Vermont & 50th",
+                "stop_seq": 2251,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73571367715927,
+                    45.476409695092364
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vermont & Shattuck and Maplewood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 6019,
+                "stop_name": "5700 Block SW Vermont",
+                "stop_seq": 3400,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7386766140444,
+                    45.47929081207639
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vermont & Shattuck and Maplewood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 5221,
+                "stop_name": "SW Shattuck & 60th",
+                "stop_seq": 3650,
+                "type": "BUS",
+                "zipcode": "97221"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73161996339654,
+                    45.48348801244362
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vermont & Shattuck and Maplewood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 865,
+                "stop_name": "SW Cameron & 53rd",
+                "stop_seq": 3900,
+                "type": "BUS",
+                "zipcode": "97221"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72479534298287,
+                    45.48344499316855
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vermont & Shattuck and Maplewood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 861,
+                "stop_name": "4600 Block SW Cameron",
+                "stop_seq": 4050,
+                "type": "BUS",
+                "zipcode": "97221"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72323672783186,
+                    45.476635715435116
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vermont & Shattuck and Maplewood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 7559,
+                "stop_name": "SW 45th & Vermont",
+                "stop_seq": 4275,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72324120799388,
+                    45.473725953475146
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vermont & Shattuck and Maplewood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 9328,
+                "stop_name": "SW 45th & Nevada",
+                "stop_seq": 4325,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67836731311237,
+                    45.495994401122694
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vermont & Shattuck and Maplewood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 176,
+                "stop_name": "SW Barbur & Lane",
+                "stop_seq": 900,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7075089539427,
+                    45.47615854325886
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vermont & Shattuck and Maplewood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 6035,
+                "stop_name": "SW Vermont & 30th",
+                "stop_seq": 1900,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74156186786138,
+                    45.47645992410211
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vermont & Shattuck and Maplewood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 6052,
+                "stop_name": "SW Vermont & 63rd",
+                "stop_seq": 3500,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7232360392244,
+                    45.48125183856153
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vermont & Shattuck and Maplewood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 7555,
+                "stop_name": "SW 45th & Pendleton",
+                "stop_seq": 4150,
+                "type": "BUS",
+                "zipcode": "97221"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69085464264826,
+                    45.47476705836788
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vermont & Shattuck and Maplewood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 12467,
+                "stop_name": "SW Chestnut & 12th Dr",
+                "stop_seq": 1525,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68211456047726,
+                    45.50268645330365
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vermont & Shattuck and Maplewood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 175,
+                "stop_name": "SW Barbur & Hooker",
+                "stop_seq": 700,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68091092180185,
+                    45.471567428229164
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vermont & Shattuck and Maplewood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 207,
+                "stop_name": "SW Barbur & 3rd",
+                "stop_seq": 1150,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70960631811887,
+                    45.47615595073633
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vermont & Shattuck and Maplewood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 6037,
+                "stop_name": "SW Vermont & 32nd",
+                "stop_seq": 1950,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73235513485645,
+                    45.47292944760687
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vermont & Shattuck and Maplewood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 4104,
+                "stop_name": "SW Nevada Ct & 54th",
+                "stop_seq": 4700,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74186855506038,
+                    45.477622312077415
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vermont & Shattuck and Maplewood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 5222,
+                "stop_name": "SW Shattuck & 63rd",
+                "stop_seq": 3600,
+                "type": "BUS",
+                "zipcode": "97221"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72498473531975,
+                    45.476377679533634
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vermont & Shattuck and Maplewood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 6028,
+                "stop_name": "SW Vermont & Idaho",
+                "stop_seq": 2201,
+                "type": "BUS",
+                "zipcode": "97221"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68613191992443,
+                    45.47121484162412
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vermont & Shattuck and Maplewood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 191,
+                "stop_name": "SW Barbur & Terwilliger",
+                "stop_seq": 1200,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7202784998019,
+                    45.47613769904654
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vermont & Shattuck and Maplewood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 11789,
+                "stop_name": "SW Vermont & Idaho Dr",
+                "stop_seq": 5050,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72324387660125,
+                    45.48289849067566
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vermont & Shattuck and Maplewood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 7544,
+                "stop_name": "SW 45th & Flower Pl",
+                "stop_seq": 4100,
+                "type": "BUS",
+                "zipcode": "97221"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67723157892468,
+                    45.522897413959754
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vermont & Shattuck and Maplewood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 13170,
+                "stop_name": "SW Broadway & W Burnside",
+                "stop_seq": 300,
+                "type": "BUS",
+                "zipcode": "97205"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67582657583233,
+                    45.52224017989127
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vermont & Shattuck and Maplewood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 7631,
+                "stop_name": "SW 5th & Pine",
+                "stop_seq": 350,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67757117318236,
+                    45.518935910357385
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vermont & Shattuck and Maplewood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 7625,
+                "stop_name": "SW 5th & Morrison",
+                "stop_seq": 400,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67935201651184,
+                    45.515682288641386
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vermont & Shattuck and Maplewood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 7612,
+                "stop_name": "SW 5th & Madison",
+                "stop_seq": 450,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68083702132535,
+                    45.51295381630083
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vermont & Shattuck and Maplewood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 7616,
+                "stop_name": "SW 5th & Market",
+                "stop_seq": 500,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68228619677673,
+                    45.510277176094824
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vermont & Shattuck and Maplewood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 10491,
+                "stop_name": "SW 5th & Hall",
+                "stop_seq": 550,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68385035369094,
+                    45.50708320964193
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vermont & Shattuck and Maplewood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 7588,
+                "stop_name": "SW 5th & Broadway",
+                "stop_seq": 600,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67979737520537,
+                    45.47674686841897
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vermont & Shattuck and Maplewood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 181,
+                "stop_name": "SW Barbur & Parkhill Dr",
+                "stop_seq": 1100,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71195177274194,
+                    45.47618634708082
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vermont & Shattuck and Maplewood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 13768,
+                "stop_name": "SW Vermont & 34th",
+                "stop_seq": 2000,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7362924209051,
+                    45.48257574359754
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vermont & Shattuck and Maplewood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 13703,
+                "stop_name": "SW Shattuck & 59th Ct",
+                "stop_seq": 3725,
+                "type": "BUS",
+                "zipcode": "97221"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72401506119918,
+                    45.46753062163561
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Vermont & Shattuck and Maplewood",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 1,
+                "rte_desc": "1-Vermont",
+                "stop_id": 4052,
+                "stop_name": "SW Multnomah & 45th",
+                "stop_seq": 4400,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,540 @@
+{
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68399134391613,
+                    45.51630482563363
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To NW 23rd and Marshall",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 193,
+                "rte_desc": "Portland Streetcar - NS Line",
+                "stop_id": 6493,
+                "stop_name": "Art Museum",
+                "stop_seq": 550,
+                "type": "SC",
+                "zipcode": "97205"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69445480222754,
+                    45.53134597000517
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To NW 23rd and Marshall",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 193,
+                "rte_desc": "Portland Streetcar - NS Line",
+                "stop_id": 10777,
+                "stop_name": "NW 21st & Northrup",
+                "stop_seq": 1150,
+                "type": "SC",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68108294537576,
+                    45.52359301375949
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To NW 23rd and Marshall",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 193,
+                "rte_desc": "Portland Streetcar - NS Line",
+                "stop_id": 10770,
+                "stop_name": "NW 10th & Couch",
+                "stop_seq": 750,
+                "type": "SC",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68118037094948,
+                    45.52644550015357
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To NW 23rd and Marshall",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 193,
+                "rte_desc": "Portland Streetcar - NS Line",
+                "stop_id": 10772,
+                "stop_name": "NW 10th & Glisan",
+                "stop_seq": 850,
+                "type": "SC",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68535650216496,
+                    45.531506839263265
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To NW 23rd and Marshall",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 193,
+                "rte_desc": "Portland Streetcar - NS Line",
+                "stop_id": 10775,
+                "stop_name": "NW 14th & Northrup",
+                "stop_seq": 1050,
+                "type": "SC",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68941655837007,
+                    45.53143733786578
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To NW 23rd and Marshall",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 193,
+                "rte_desc": "Portland Streetcar - NS Line",
+                "stop_id": 10776,
+                "stop_name": "NW 18th & Northrup",
+                "stop_seq": 1100,
+                "type": "SC",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69644459700427,
+                    45.531307957174704
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To NW 23rd and Marshall",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 193,
+                "rte_desc": "Portland Streetcar - NS Line",
+                "stop_id": 10778,
+                "stop_name": "NW 22nd & Northrup",
+                "stop_seq": 1200,
+                "type": "SC",
+                "zipcode": "97210"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69868837676808,
+                    45.53061554246625
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To NW 23rd and Marshall",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 193,
+                "rte_desc": "Portland Streetcar - NS Line",
+                "stop_id": 8989,
+                "stop_name": "NW 23rd & Marshall",
+                "stop_seq": 1250,
+                "type": "SC",
+                "zipcode": "97210"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68124991689476,
+                    45.52857211101171
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To NW 23rd and Marshall",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 193,
+                "rte_desc": "Portland Streetcar - NS Line",
+                "stop_id": 10773,
+                "stop_name": "NW 10th & Johnson",
+                "stop_seq": 900,
+                "type": "SC",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67413997270785,
+                    45.50714319509995
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To NW 23rd and Marshall",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 193,
+                "rte_desc": "Portland Streetcar - NS Line",
+                "stop_id": 12379,
+                "stop_name": "SW River Pkwy & Moody",
+                "stop_seq": 200,
+                "type": "SC",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67653123343075,
+                    45.50895328590259
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To NW 23rd and Marshall",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 193,
+                "rte_desc": "Portland Streetcar - NS Line",
+                "stop_id": 12380,
+                "stop_name": "SW Harrison Street",
+                "stop_seq": 250,
+                "type": "SC",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67981306341166,
+                    45.51028096325123
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To NW 23rd and Marshall",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 193,
+                "rte_desc": "Portland Streetcar - NS Line",
+                "stop_id": 12382,
+                "stop_name": "SW 3rd & Harrison",
+                "stop_seq": 350,
+                "type": "SC",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68331952902226,
+                    45.531538471319486
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To NW 23rd and Marshall",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 193,
+                "rte_desc": "Portland Streetcar - NS Line",
+                "stop_id": 12796,
+                "stop_name": "NW 12th & Northrup",
+                "stop_seq": 1000,
+                "type": "SC",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6820783886834,
+                    45.512220169457684
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To NW 23rd and Marshall",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 193,
+                "rte_desc": "Portland Streetcar - NS Line",
+                "stop_id": 10764,
+                "stop_name": "PSU Urban Center",
+                "stop_seq": 400,
+                "type": "SC",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68497774931123,
+                    45.51454578137176
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To NW 23rd and Marshall",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 193,
+                "rte_desc": "Portland Streetcar - NS Line",
+                "stop_id": 10765,
+                "stop_name": "SW 10th & Clay",
+                "stop_seq": 500,
+                "type": "SC",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68247121544186,
+                    45.5192253230198
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To NW 23rd and Marshall",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 193,
+                "rte_desc": "Portland Streetcar - NS Line",
+                "stop_id": 10767,
+                "stop_name": "Central Library",
+                "stop_seq": 600,
+                "type": "SC",
+                "zipcode": "97205"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68455313374979,
+                    45.513054091135594
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To NW 23rd and Marshall",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 193,
+                "rte_desc": "Portland Streetcar - NS Line",
+                "stop_id": 10766,
+                "stop_name": "SW Park & Mill",
+                "stop_seq": 450,
+                "type": "SC",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67073862366149,
+                    45.498942278942124
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To NW 23rd and Marshall",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 193,
+                "rte_desc": "Portland Streetcar - NS Line",
+                "stop_id": 12883,
+                "stop_name": "OHSU Commons",
+                "stop_seq": 100,
+                "type": "SC",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68172381550283,
+                    45.520567194692674
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To NW 23rd and Marshall",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 193,
+                "rte_desc": "Portland Streetcar - NS Line",
+                "stop_id": 10768,
+                "stop_name": "SW 10th & Alder",
+                "stop_seq": 650,
+                "type": "SC",
+                "zipcode": "97205"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67273381203186,
+                    45.50328702161082
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To NW 23rd and Marshall",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 193,
+                "rte_desc": "Portland Streetcar - NS Line",
+                "stop_id": 13602,
+                "stop_name": "SW Moody & Meade North",
+                "stop_seq": 150,
+                "type": "SC",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68136386894994,
+                    45.53127971731937
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To NW 23rd and Marshall",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 193,
+                "rte_desc": "Portland Streetcar - NS Line",
+                "stop_id": 13604,
+                "stop_name": "NW 10th & Northrup",
+                "stop_seq": 950,
+                "type": "SC",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6709327168145,
+                    45.49559765777079
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To NW 23rd and Marshall",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 193,
+                "rte_desc": "Portland Streetcar - NS Line",
+                "stop_id": 12882,
+                "stop_name": "SW Bond & Lane",
+                "stop_seq": 50,
+                "type": "SC",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6713760203807,
+                    45.49389433689637
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To NW 23rd and Marshall",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 193,
+                "rte_desc": "Portland Streetcar - NS Line",
+                "stop_id": 12881,
+                "stop_name": "SW Lowell & Bond",
+                "stop_seq": 25,
+                "type": "SC",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

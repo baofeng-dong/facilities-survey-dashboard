@@ -1,0 +1,747 @@
+{
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58302517014775,
+                    45.42245631600683
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 152,
+                "rte_desc": "152-Milwaukie",
+                "stop_id": 8161,
+                "stop_name": "SE Lake & Johnson",
+                "stop_seq": 350,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5920409061953,
+                    45.42342711286714
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 152,
+                "rte_desc": "152-Milwaukie",
+                "stop_id": 8163,
+                "stop_name": "6900 Block SE Lake",
+                "stop_seq": 500,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59907199533741,
+                    45.429534369638326
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 152,
+                "rte_desc": "152-Milwaukie",
+                "stop_id": 3323,
+                "stop_name": "6200 Block SE Lake",
+                "stop_seq": 702,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60087325532541,
+                    45.430242613714995
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 152,
+                "rte_desc": "152-Milwaukie",
+                "stop_id": 3340,
+                "stop_name": "SE Lake & Rusk",
+                "stop_seq": 750,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60464651257283,
+                    45.426125557468374
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 152,
+                "rte_desc": "152-Milwaukie",
+                "stop_id": 9258,
+                "stop_name": "5700 Block SE Kellogg Creek Dr",
+                "stop_seq": 825,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60964186530408,
+                    45.43558497351024
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 152,
+                "rte_desc": "152-Milwaukie",
+                "stop_id": 9412,
+                "stop_name": "Exceed Enterprises",
+                "stop_seq": 975,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6167516491391,
+                    45.43596165885437
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 152,
+                "rte_desc": "152-Milwaukie",
+                "stop_id": 8166,
+                "stop_name": "4500 Block SE International Way",
+                "stop_seq": 1050,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61863265398542,
+                    45.43817348433626
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 152,
+                "rte_desc": "152-Milwaukie",
+                "stop_id": 10490,
+                "stop_name": "SE International Way & Criterion Ct",
+                "stop_seq": 1100,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62532494190484,
+                    45.4417328989232
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 152,
+                "rte_desc": "152-Milwaukie",
+                "stop_id": 9810,
+                "stop_name": "Milwaukie Marketplace & 37th",
+                "stop_seq": 1200,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62750754463444,
+                    45.44376399180284
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 152,
+                "rte_desc": "152-Milwaukie",
+                "stop_id": 9329,
+                "stop_name": "Milwaukie Marketplace",
+                "stop_seq": 1250,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63570942703355,
+                    45.44651539657457
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 152,
+                "rte_desc": "152-Milwaukie",
+                "stop_id": 2571,
+                "stop_name": "2700 Block SE Harrison",
+                "stop_seq": 1350,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63804474348252,
+                    45.44646906247201
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 152,
+                "rte_desc": "152-Milwaukie",
+                "stop_id": 2570,
+                "stop_name": "SE Harrison & 24th",
+                "stop_seq": 1400,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6064235137704,
+                    45.42660293043608
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 152,
+                "rte_desc": "152-Milwaukie",
+                "stop_id": 10504,
+                "stop_name": "Milwaukie Center/North Clackamas Park",
+                "stop_seq": 775,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60943797816205,
+                    45.43293869160451
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 152,
+                "rte_desc": "152-Milwaukie",
+                "stop_id": 8164,
+                "stop_name": "SE International Way & Mallard",
+                "stop_seq": 950,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61366137643905,
+                    45.434010448830264
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 152,
+                "rte_desc": "152-Milwaukie",
+                "stop_id": 8165,
+                "stop_name": "4900 Block SE International Way (Blount)",
+                "stop_seq": 1000,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6219648090837,
+                    45.43956023599692
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 152,
+                "rte_desc": "152-Milwaukie",
+                "stop_id": 8167,
+                "stop_name": "SE International Way & 40th",
+                "stop_seq": 1150,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6333535801763,
+                    45.44659236769553
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 152,
+                "rte_desc": "152-Milwaukie",
+                "stop_id": 2573,
+                "stop_name": "SE Harrison & 29th",
+                "stop_seq": 1300,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59287576474493,
+                    45.42497462612929
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 152,
+                "rte_desc": "152-Milwaukie",
+                "stop_id": 10644,
+                "stop_name": "SE Lake & Hwy 224",
+                "stop_seq": 550,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58714671151948,
+                    45.423087886258415
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 152,
+                "rte_desc": "152-Milwaukie",
+                "stop_id": 10942,
+                "stop_name": "SE Lake & Tiara Dr",
+                "stop_seq": 400,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60591846536522,
+                    45.431687895209095
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 152,
+                "rte_desc": "152-Milwaukie",
+                "stop_id": 10939,
+                "stop_name": "5600 Block SE International Way",
+                "stop_seq": 900,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6032768964941,
+                    45.43048249118095
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 152,
+                "rte_desc": "152-Milwaukie",
+                "stop_id": 3329,
+                "stop_name": "SE Lake & Harmony",
+                "stop_seq": 850,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5968822355651,
+                    45.42756539174011
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 152,
+                "rte_desc": "152-Milwaukie",
+                "stop_id": 9615,
+                "stop_name": "6400 Block SE Lake",
+                "stop_seq": 650,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5888435523978,
+                    45.423175498696104
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 152,
+                "rte_desc": "152-Milwaukie",
+                "stop_id": 8162,
+                "stop_name": "SE Lake & Matilda",
+                "stop_seq": 450,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57400318580466,
+                    45.437506594559366
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 152,
+                "rte_desc": "152-Milwaukie",
+                "stop_id": 12922,
+                "stop_name": "Clackamas Town Center Mall",
+                "stop_seq": 100,
+                "type": "BUS",
+                "zipcode": "97086"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57926042722407,
+                    45.43593930435524
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 152,
+                "rte_desc": "152-Milwaukie",
+                "stop_id": 8006,
+                "stop_name": "SE 82nd & McBride",
+                "stop_seq": 150,
+                "type": "BUS",
+                "zipcode": "97086"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5793664897492,
+                    45.43374962036602
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 152,
+                "rte_desc": "152-Milwaukie",
+                "stop_id": 8050,
+                "stop_name": "SE 82nd & Sunnyside Dr",
+                "stop_seq": 200,
+                "type": "BUS",
+                "zipcode": "97086"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57944040802126,
+                    45.43222152765979
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 152,
+                "rte_desc": "152-Milwaukie",
+                "stop_id": 7975,
+                "stop_name": "SE 82nd & Harmony",
+                "stop_seq": 250,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57932892424326,
+                    45.43033249623467
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 152,
+                "rte_desc": "152-Milwaukie",
+                "stop_id": 10446,
+                "stop_name": "SE 82nd & Sunnybrook",
+                "stop_seq": 300,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59589716303329,
+                    45.42664211423702
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 152,
+                "rte_desc": "152-Milwaukie",
+                "stop_id": 3337,
+                "stop_name": "6600 Block SE Lake",
+                "stop_seq": 600,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64049050567837,
+                    45.44482683637778
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 152,
+                "rte_desc": "152-Milwaukie",
+                "stop_id": 8225,
+                "stop_name": "SE Jackson & 21st",
+                "stop_seq": 1450,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56870745294738,
+                    45.43566941948304
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 152,
+                "rte_desc": "152-Milwaukie",
+                "stop_id": 13248,
+                "stop_name": "Clackamas Town Center Transit Center",
+                "stop_seq": 50,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6241518063145,
+                    45.440390213862486
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Milwaukie",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 152,
+                "rte_desc": "152-Milwaukie",
+                "stop_id": 13812,
+                "stop_name": "11400 Block SE 37th",
+                "stop_seq": 1175,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

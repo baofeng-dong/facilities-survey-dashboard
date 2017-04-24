@@ -1,0 +1,1115 @@
+{
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66147895534958,
+                    45.57465588547211
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 6,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "stop_id": 10494,
+                "stop_name": "NE M L King & Morgan",
+                "stop_seq": 950,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6614899977875,
+                    45.57339135433153
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 6,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "stop_id": 5900,
+                "stop_name": "NE M L King & Bryant",
+                "stop_seq": 1000,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66152546580088,
+                    45.56650568510312
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 6,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "stop_id": 5887,
+                "stop_name": "NE M L King & Ainsworth",
+                "stop_seq": 1150,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66157116952908,
+                    45.5623457921869
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 6,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "stop_id": 5927,
+                "stop_name": "NE M L King & Killingsworth",
+                "stop_seq": 1250,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66161850577227,
+                    45.55880613270139
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 6,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "stop_id": 5889,
+                "stop_name": "NE M L King & Alberta",
+                "stop_seq": 1350,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66164776031977,
+                    45.55732575433231
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 6,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "stop_id": 5961,
+                "stop_name": "NE M L King & Wygant",
+                "stop_seq": 1400,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66169679671708,
+                    45.54843737686204
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 6,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "stop_id": 5911,
+                "stop_name": "NE M L King & Fremont",
+                "stop_seq": 1650,
+                "type": "BUS",
+                "zipcode": "97212"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66172713402281,
+                    45.544355137396416
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 6,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "stop_id": 5938,
+                "stop_name": "NE M L King & Morris",
+                "stop_seq": 1750,
+                "type": "BUS",
+                "zipcode": "97212"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66171151035053,
+                    45.54225161155059
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 6,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "stop_id": 5931,
+                "stop_name": "NE M L King & Knott",
+                "stop_seq": 1800,
+                "type": "BUS",
+                "zipcode": "97212"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66172008441505,
+                    45.53813128595806
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 6,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "stop_id": 5955,
+                "stop_name": "NE M L King & Tillamook",
+                "stop_seq": 1950,
+                "type": "BUS",
+                "zipcode": "97212"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66180557791817,
+                    45.53018162187111
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 6,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "stop_id": 5917,
+                "stop_name": "NE M L King & Holladay",
+                "stop_seq": 2200,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66184137001439,
+                    45.52336790221068
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 6,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "stop_id": 5901,
+                "stop_name": "NE M L King & E Burnside",
+                "stop_seq": 2350,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68376350724297,
+                    45.51594444595192
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 6,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "stop_id": 3049,
+                "stop_name": "SW Jefferson & 10th",
+                "stop_seq": 2900,
+                "type": "BUS",
+                "zipcode": "97205"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66178447541036,
+                    45.53231670893959
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 6,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "stop_id": 5958,
+                "stop_name": "NE M L King & Wasco",
+                "stop_seq": 2150,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66151594545258,
+                    45.56532434522972
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 6,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "stop_id": 5923,
+                "stop_name": "NE M L King & Jarrett",
+                "stop_seq": 1200,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6617059129921,
+                    45.53951740214271
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 6,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "stop_id": 5951,
+                "stop_name": "NE M L King & Sacramento",
+                "stop_seq": 1900,
+                "type": "BUS",
+                "zipcode": "97212"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66146563966261,
+                    45.5759651884204
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 6,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "stop_id": 5919,
+                "stop_name": "NE M L King & Holland",
+                "stop_seq": 900,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66148457071628,
+                    45.57195008510147
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 6,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "stop_id": 5904,
+                "stop_name": "NE M L King & Dekum",
+                "stop_seq": 1050,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66165460765716,
+                    45.55523737553411
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 6,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "stop_id": 5947,
+                "stop_name": "NE M L King & Prescott",
+                "stop_seq": 1450,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66165002126019,
+                    45.55089146745743
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 6,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "stop_id": 5907,
+                "stop_name": "NE M L King & Failing",
+                "stop_seq": 1550,
+                "type": "BUS",
+                "zipcode": "97212"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6617222449396,
+                    45.54577743684032
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 6,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "stop_id": 5908,
+                "stop_name": "NE M L King & Fargo",
+                "stop_seq": 1700,
+                "type": "BUS",
+                "zipcode": "97212"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66172482321367,
+                    45.536739203787526
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 6,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "stop_id": 5914,
+                "stop_name": "NE M L King & Hancock",
+                "stop_seq": 2000,
+                "type": "BUS",
+                "zipcode": "97212"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66177664148516,
+                    45.53398401461309
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 6,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "stop_id": 5960,
+                "stop_name": "NE M L King & Weidler",
+                "stop_seq": 2100,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66188107491797,
+                    45.521625995153656
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 6,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "stop_id": 5892,
+                "stop_name": "SE M L King & Ash",
+                "stop_seq": 2400,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66618415534144,
+                    45.51302146331125
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 6,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "stop_id": 2642,
+                "stop_name": "Hawthorne Bridge",
+                "stop_seq": 2650,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67739149482526,
+                    45.51504883273184
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 6,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "stop_id": 12787,
+                "stop_name": "SW 3rd & Madison",
+                "stop_seq": 2700,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6791666059873,
+                    45.51470370266629
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 6,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "stop_id": 12790,
+                "stop_name": "SW Jefferson between 4th & 5th",
+                "stop_seq": 2750,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68159251203018,
+                    45.51536586842799
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 6,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "stop_id": 3039,
+                "stop_name": "SW Jefferson & Broadway",
+                "stop_seq": 2800,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66148658413263,
+                    45.57023407217048
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 6,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "stop_id": 5943,
+                "stop_name": "NE M L King & Rosa Parks Way",
+                "stop_seq": 1100,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66166647523532,
+                    45.55309044260587
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 6,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "stop_id": 5934,
+                "stop_name": "NE M L King & Mason",
+                "stop_seq": 1500,
+                "type": "BUS",
+                "zipcode": "97212"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66175832812152,
+                    45.53534007647654
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 6,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "stop_id": 5897,
+                "stop_name": "NE M L King & Broadway",
+                "stop_seq": 2050,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66145316436132,
+                    45.51231105745629
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 6,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "stop_id": 2643,
+                "stop_name": "Hawthorne Bridge Ramp & SE M L King",
+                "stop_seq": 2600,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68715357056004,
+                    45.51685238997436
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 6,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "stop_id": 3051,
+                "stop_name": "SW Jefferson & 13th",
+                "stop_seq": 3000,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69011097103783,
+                    45.517636362303435
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 6,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "stop_id": 3052,
+                "stop_name": "SW Jefferson & 16th",
+                "stop_seq": 3050,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69309902482144,
+                    45.517581309120864
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 6,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "stop_id": 1114,
+                "stop_name": "SW 18th & Goose Hollow MAX Station",
+                "stop_seq": 3100,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66985264482996,
+                    45.59674398308159
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 6,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "stop_id": 13643,
+                "stop_name": "N Vancouver Way & Jubitz",
+                "stop_seq": 200,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68460159395174,
+                    45.61234943596678
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 6,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "stop_id": 13748,
+                "stop_name": "12100 N Pavilion",
+                "stop_seq": 150,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66167295505886,
+                    45.549633779576304
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 6,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "stop_id": 5893,
+                "stop_name": "NE M L King & Beech",
+                "stop_seq": 1600,
+                "type": "BUS",
+                "zipcode": "97212"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66564848446404,
+                    45.59367177614958
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 6,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "stop_id": 10590,
+                "stop_name": "N Vancouver Way & NE Walker St",
+                "stop_seq": 300,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66374100428783,
+                    45.59230625082533
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 6,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "stop_id": 8740,
+                "stop_name": "NE Vancouver Way & 3rd",
+                "stop_seq": 400,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66224562486617,
+                    45.58999883093841
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 6,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "stop_id": 9480,
+                "stop_name": "NE Vancouver Way & Gertz Rd",
+                "stop_seq": 500,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66377299661943,
+                    45.58732213668407
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 6,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "stop_id": 9449,
+                "stop_name": "9000 Block NE Vancouver Way",
+                "stop_seq": 600,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66146363344917,
+                    45.58077761594005
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 6,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "stop_id": 13570,
+                "stop_name": "NE M L King & Winchell",
+                "stop_seq": 700,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6614448163987,
+                    45.577698245303964
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 6,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "stop_id": 5950,
+                "stop_name": "NE M L King & Russet",
+                "stop_seq": 800,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66187385071723,
+                    45.51910194780283
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 6,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "stop_id": 13613,
+                "stop_name": "SE M L King & Stark",
+                "stop_seq": 2450,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66191914964905,
+                    45.516960251444196
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 6,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "stop_id": 13584,
+                "stop_name": "SE M L King & Morrison",
+                "stop_seq": 2550,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6812407381493,
+                    45.61104660242716
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 6,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "stop_id": 1026,
+                "stop_name": "Jantzen Beach Main Stop",
+                "stop_seq": 100,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6618061626979,
+                    45.52737668680507
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 6,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "stop_id": 5912,
+                "stop_name": "NE M L King & Hoyt",
+                "stop_seq": 2250,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

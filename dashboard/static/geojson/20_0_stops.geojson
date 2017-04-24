@@ -1,0 +1,3162 @@
+{
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.42127624431384,
+                    45.50471289820802
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 1328,
+                "stop_name": "NE Division & Cleveland",
+                "stop_seq": 30,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.41661634616955,
+                    45.504692411284815
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 1324,
+                "stop_name": "NE Division & Burnside",
+                "stop_seq": 40,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.39977857959936,
+                    45.50539059286603
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 3092,
+                "stop_name": "NE Kane & Division",
+                "stop_seq": 110,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.39981044755456,
+                    45.5101561266505
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 3091,
+                "stop_name": "NE Kane & 18th Ct",
+                "stop_seq": 140,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.39911251531514,
+                    45.51914802696701
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Troutdale",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 8464,
+                "stop_name": "SE Stark & SW 257th Dr",
+                "stop_seq": 175,
+                "type": "BUS",
+                "zipcode": "97060"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.40177455437957,
+                    45.51915701738975
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Troutdale",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 5398,
+                "stop_name": "SE Stark & SW McGinnis",
+                "stop_seq": 190,
+                "type": "BUS",
+                "zipcode": "97060"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.40946855488498,
+                    45.519186743088866
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Troutdale",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 5411,
+                "stop_name": "SE Stark & NE Rene",
+                "stop_seq": 200,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.42159307006703,
+                    45.519169287541295
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 5493,
+                "stop_name": "SE Stark & NE Cleveland",
+                "stop_seq": 240,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.43459225738827,
+                    45.51917324958842
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 5492,
+                "stop_name": "SE Stark & 223rd",
+                "stop_seq": 270,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.43894498848564,
+                    45.519194707859576
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 5488,
+                "stop_name": "SE Stark & 217th",
+                "stop_seq": 290,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.44494124342549,
+                    45.51919245974759
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 5484,
+                "stop_name": "SE Stark & 212th",
+                "stop_seq": 310,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.45194779101253,
+                    45.519207866706104
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 5481,
+                "stop_name": "SE Stark & 205th Pl",
+                "stop_seq": 340,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.46497534475512,
+                    45.51923187638668
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 5472,
+                "stop_name": "SE Stark & 192nd",
+                "stop_seq": 380,
+                "type": "BUS",
+                "zipcode": "97233"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.47246921364966,
+                    45.519254575096035
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 5469,
+                "stop_name": "SE Stark & 185th",
+                "stop_seq": 400,
+                "type": "BUS",
+                "zipcode": "97233"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.47533715851344,
+                    45.51925231064123
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 5390,
+                "stop_name": "SE Stark & 182nd",
+                "stop_seq": 410,
+                "type": "BUS",
+                "zipcode": "97233"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.48158776834259,
+                    45.51924772652542
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 5464,
+                "stop_name": "SE Stark & 176th Pl",
+                "stop_seq": 430,
+                "type": "BUS",
+                "zipcode": "97233"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.49096810279741,
+                    45.51925622392091
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 5459,
+                "stop_name": "SE Stark & 167th",
+                "stop_seq": 460,
+                "type": "BUS",
+                "zipcode": "97233"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.49359004549224,
+                    45.51923881047752
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 5457,
+                "stop_name": "SE Stark & 165th",
+                "stop_seq": 470,
+                "type": "BUS",
+                "zipcode": "97233"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.49968086131727,
+                    45.5192451122478
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 5453,
+                "stop_name": "SE Stark & 160th",
+                "stop_seq": 490,
+                "type": "BUS",
+                "zipcode": "97233"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.51360013505105,
+                    45.51922402658393
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 5442,
+                "stop_name": "SE Stark & 146th",
+                "stop_seq": 550,
+                "type": "BUS",
+                "zipcode": "97233"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7031584340282,
+                    45.52427414894745
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 8749,
+                "stop_name": "W Burnside & NW Uptown Terrace",
+                "stop_seq": 2140,
+                "type": "BUS",
+                "zipcode": "97210"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.55929034910267,
+                    45.52276913529324
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 10877,
+                "stop_name": "E Burnside & NE 102nd",
+                "stop_seq": 1600,
+                "type": "BUS",
+                "zipcode": "97216"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.39829698942674,
+                    45.51602055581746
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 10879,
+                "stop_name": "NE Kane & 29th, MHCC",
+                "stop_seq": 165,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57064335831478,
+                    45.52283594716695
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 697,
+                "stop_name": "9100 Block E Burnside",
+                "stop_seq": 1640,
+                "type": "BUS",
+                "zipcode": "97216"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57377237167663,
+                    45.52282047423341
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 818,
+                "stop_name": "E Burnside & NE 87th",
+                "stop_seq": 1650,
+                "type": "BUS",
+                "zipcode": "97216"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58025195749862,
+                    45.52284739273928
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 814,
+                "stop_name": "E Burnside & NE 82nd",
+                "stop_seq": 1670,
+                "type": "BUS",
+                "zipcode": "97215"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58672454119092,
+                    45.522905553132915
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 809,
+                "stop_name": "E Burnside & NE 74th",
+                "stop_seq": 1690,
+                "type": "BUS",
+                "zipcode": "97215"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58882473528395,
+                    45.52316664303024
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 807,
+                "stop_name": "E Burnside & NE 72nd",
+                "stop_seq": 1700,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59946365501828,
+                    45.522941043803804
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 796,
+                "stop_name": "E Burnside & NE 62nd",
+                "stop_seq": 1740,
+                "type": "BUS",
+                "zipcode": "97215"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60737029313798,
+                    45.52295185935621
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 788,
+                "stop_name": "E Burnside & NE 55th",
+                "stop_seq": 1770,
+                "type": "BUS",
+                "zipcode": "97215"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6100574089015,
+                    45.522961388160816
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 785,
+                "stop_name": "E Burnside & NE 52nd",
+                "stop_seq": 1780,
+                "type": "BUS",
+                "zipcode": "97215"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.52140465198515,
+                    45.51919790654944
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 5395,
+                "stop_name": "SE Stark & 139th",
+                "stop_seq": 580,
+                "type": "BUS",
+                "zipcode": "97233"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53755054626794,
+                    45.51911859287046
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 5426,
+                "stop_name": "SE Stark & 122nd",
+                "stop_seq": 640,
+                "type": "BUS",
+                "zipcode": "97233"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.54024549749738,
+                    45.51911764835875
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 5424,
+                "stop_name": "SE Stark & 119th",
+                "stop_seq": 650,
+                "type": "BUS",
+                "zipcode": "97216"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5434866990882,
+                    45.51909091468966
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 5422,
+                "stop_name": "SE Stark & 117th",
+                "stop_seq": 660,
+                "type": "BUS",
+                "zipcode": "97216"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.54639924994525,
+                    45.51907673272746
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 5419,
+                "stop_name": "SE Stark & 113th",
+                "stop_seq": 670,
+                "type": "BUS",
+                "zipcode": "97216"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5522502693631,
+                    45.519101291133126
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 5415,
+                "stop_name": "SE Stark & 108th",
+                "stop_seq": 690,
+                "type": "BUS",
+                "zipcode": "97216"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.55595829021146,
+                    45.51913181361837
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 5414,
+                "stop_name": "SE Stark & 105th",
+                "stop_seq": 700,
+                "type": "BUS",
+                "zipcode": "97216"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.41348032668728,
+                    45.504723258198915
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 1339,
+                "stop_name": "NE Division & Hogan",
+                "stop_seq": 50,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.40841708424949,
+                    45.50471272741296
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 1335,
+                "stop_name": "NE Division & Fleming",
+                "stop_seq": 70,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.40286184160288,
+                    45.50469441339426
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 1320,
+                "stop_name": "NE Division & Palmblad Dr",
+                "stop_seq": 100,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.3998412213349,
+                    45.50811580602571
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 3097,
+                "stop_name": "NE Kane & 15th",
+                "stop_seq": 130,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.39935389754581,
+                    45.513224296685785
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 3105,
+                "stop_name": "NE Kane & 23rd",
+                "stop_seq": 150,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.4172695647742,
+                    45.51916600148049
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 5407,
+                "stop_name": "SE Stark & 238th",
+                "stop_seq": 230,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.42628701495202,
+                    45.51917512746449
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 8851,
+                "stop_name": "SE Stark & NE Kelly",
+                "stop_seq": 260,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5577068265471,
+                    45.51952555416431
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 10910,
+                "stop_name": "SE 103rd Dr & Stark",
+                "stop_seq": 800,
+                "type": "BUS",
+                "zipcode": "97216"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56291669789823,
+                    45.522784652353074
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 8745,
+                "stop_name": "E Burnside & NE 97th",
+                "stop_seq": 1625,
+                "type": "BUS",
+                "zipcode": "97216"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5918175666715,
+                    45.52317488027222
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 801,
+                "stop_name": "E Burnside & NE 69th",
+                "stop_seq": 1710,
+                "type": "BUS",
+                "zipcode": "97215"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60421564761108,
+                    45.52294551166926
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 791,
+                "stop_name": "E Burnside & NE 58th",
+                "stop_seq": 1760,
+                "type": "BUS",
+                "zipcode": "97215"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61716997583407,
+                    45.523149635251805
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 777,
+                "stop_name": "E Burnside & NE 44th",
+                "stop_seq": 1810,
+                "type": "BUS",
+                "zipcode": "97215"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62520344376185,
+                    45.52334648257152
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 711,
+                "stop_name": "E Burnside & NE Laurelhurst",
+                "stop_seq": 1840,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65142847153218,
+                    45.52376684461609
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 5058,
+                "stop_name": "NE Sandy & 14th",
+                "stop_seq": 1950,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.79517199678207,
+                    45.512665820320095
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 993,
+                "stop_name": "SW Cedar Hills & Butner",
+                "stop_seq": 2410,
+                "type": "BUS",
+                "zipcode": "97225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.79882105274521,
+                    45.504837963050285
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 1018,
+                "stop_name": "SW Cedar Hills & Lynnridge",
+                "stop_seq": 2460,
+                "type": "BUS",
+                "zipcode": "97225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.80339935985872,
+                    45.50300260255427
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 1011,
+                "stop_name": "SW Cedar Hills & Huntington",
+                "stop_seq": 2470,
+                "type": "BUS",
+                "zipcode": "97225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.47019388578721,
+                    45.51924754991014
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 12397,
+                "stop_name": "SE Stark & 187th",
+                "stop_seq": 390,
+                "type": "BUS",
+                "zipcode": "97233"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.77038782310434,
+                    45.51002988772409
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 5378,
+                "stop_name": "St Vincent Hospital East Pavilion",
+                "stop_seq": 2320,
+                "type": "BUS",
+                "zipcode": "97225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.77170877841428,
+                    45.510016271030544
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 5379,
+                "stop_name": "St Vincent Hospital Main Stop",
+                "stop_seq": 2330,
+                "type": "BUS",
+                "zipcode": "97225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.77273825696875,
+                    45.50925730110207
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 5377,
+                "stop_name": "St Vincent Hospital Dr & Barnes",
+                "stop_seq": 2340,
+                "type": "BUS",
+                "zipcode": "97225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6228618489566,
+                    45.52359993490245
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 771,
+                "stop_name": "E Burnside & NE Cesar Chavez Blvd",
+                "stop_seq": 1830,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63198355170009,
+                    45.5229528660357
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 768,
+                "stop_name": "E Burnside & NE 32nd",
+                "stop_seq": 1860,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.45610091067427,
+                    45.51921500714016
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 5479,
+                "stop_name": "SE Stark & 202nd",
+                "stop_seq": 350,
+                "type": "BUS",
+                "zipcode": "97233"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56670972744936,
+                    45.52276346060428
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 823,
+                "stop_name": "E Burnside & NE 94th",
+                "stop_seq": 1630,
+                "type": "BUS",
+                "zipcode": "97216"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59495895319394,
+                    45.52318479298243
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 800,
+                "stop_name": "E Burnside & NE 67th",
+                "stop_seq": 1720,
+                "type": "BUS",
+                "zipcode": "97215"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61480080526547,
+                    45.52303305265071
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 778,
+                "stop_name": "E Burnside & NE 47th",
+                "stop_seq": 1800,
+                "type": "BUS",
+                "zipcode": "97215"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67100747650085,
+                    45.52325049498209
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 689,
+                "stop_name": "W Burnside & Burnside Bridge",
+                "stop_seq": 2020,
+                "type": "BUS",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6789394193079,
+                    45.52311512096773
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 716,
+                "stop_name": "W Burnside & NW Park",
+                "stop_seq": 2040,
+                "type": "BUS",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69006534110966,
+                    45.523077149854736
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 735,
+                "stop_name": "W Burnside & NW 19th",
+                "stop_seq": 2080,
+                "type": "BUS",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69286627298094,
+                    45.5232122609602
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 742,
+                "stop_name": "W Burnside & NW 20th Pl",
+                "stop_seq": 2100,
+                "type": "BUS",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69495392325527,
+                    45.52331653405087
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 747,
+                "stop_name": "W Burnside & NW King",
+                "stop_seq": 2110,
+                "type": "BUS",
+                "zipcode": "97210"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70068104493708,
+                    45.52390045336254
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 9555,
+                "stop_name": "W Burnside & NW 23rd Pl",
+                "stop_seq": 2132,
+                "type": "BUS",
+                "zipcode": "97210"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70739522524029,
+                    45.52400347164813
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 8880,
+                "stop_name": "W Burnside & NW Maywood Dr",
+                "stop_seq": 2146,
+                "type": "BUS",
+                "zipcode": "97210"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71013145667592,
+                    45.523436985771355
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 713,
+                "stop_name": "W Burnside & NW Macleay",
+                "stop_seq": 2150,
+                "type": "BUS",
+                "zipcode": "97210"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70098937217476,
+                    45.523776736260274
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 9354,
+                "stop_name": "W Burnside & SW Osage",
+                "stop_seq": 2152,
+                "type": "BUS",
+                "zipcode": "97205"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71500986226624,
+                    45.52266156816787
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 707,
+                "stop_name": "W Burnside & NW Hermosa",
+                "stop_seq": 2160,
+                "type": "BUS",
+                "zipcode": "97210"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72504570376734,
+                    45.5194039820841
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 682,
+                "stop_name": "4600 Block W Burnside",
+                "stop_seq": 2180,
+                "type": "BUS",
+                "zipcode": "97210"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72728669656476,
+                    45.51986094221702
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 780,
+                "stop_name": "W Burnside & NW 48th Ave",
+                "stop_seq": 2190,
+                "type": "BUS",
+                "zipcode": "97210"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74635516807118,
+                    45.51596919836236
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 8798,
+                "stop_name": "SW Barnes & Barnes",
+                "stop_seq": 2235,
+                "type": "BUS",
+                "zipcode": "97225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74939558213697,
+                    45.516357636481516
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 252,
+                "stop_name": "SW Barnes & 70th",
+                "stop_seq": 2240,
+                "type": "BUS",
+                "zipcode": "97225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75360143207327,
+                    45.51537012976982
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 239,
+                "stop_name": "SW Barnes & Miller",
+                "stop_seq": 2250,
+                "type": "BUS",
+                "zipcode": "97225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75617233644427,
+                    45.513042960521
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 9872,
+                "stop_name": "7600 Block SW Barnes",
+                "stop_seq": 2260,
+                "type": "BUS",
+                "zipcode": "97225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75994680203776,
+                    45.51141993961482
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 237,
+                "stop_name": "SW Barnes & Leahy",
+                "stop_seq": 2270,
+                "type": "BUS",
+                "zipcode": "97225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76130752338454,
+                    45.51041996417623
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 231,
+                "stop_name": "8200 Block SW Barnes (Art School)",
+                "stop_seq": 2280,
+                "type": "BUS",
+                "zipcode": "97225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7641571797093,
+                    45.50903925921928
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 253,
+                "stop_name": "SW Barnes & 84th",
+                "stop_seq": 2285,
+                "type": "BUS",
+                "zipcode": "97225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.78154448222197,
+                    45.5100017538757
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 9975,
+                "stop_name": "Sunset Transit Center",
+                "stop_seq": 2350,
+                "type": "BUS",
+                "zipcode": "97225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.78969112515568,
+                    45.51553910589002
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 9628,
+                "stop_name": "SW Barnes & Cedar Hills Blvd",
+                "stop_seq": 2370,
+                "type": "BUS",
+                "zipcode": "97225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.79638171059409,
+                    45.50737565629459
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 1020,
+                "stop_name": "SW Cedar Hills & Park Way",
+                "stop_seq": 2440,
+                "type": "BUS",
+                "zipcode": "97225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.8062986116077,
+                    45.50101016091066
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 1022,
+                "stop_name": "SW Cedar Hills & Walker",
+                "stop_seq": 2480,
+                "type": "BUS",
+                "zipcode": "97005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.8009822378328,
+                    45.49115942760015
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 9978,
+                "stop_name": "Beaverton Transit Center",
+                "stop_seq": 2650,
+                "type": "BUS",
+                "zipcode": "97005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.80883184118244,
+                    45.493780284502975
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 2268,
+                "stop_name": "3600 Block SW Hall",
+                "stop_seq": 2550,
+                "type": "BUS",
+                "zipcode": "97005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.80521581656991,
+                    45.493592861157246
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 1034,
+                "stop_name": "SW Center & 125th",
+                "stop_seq": 2600,
+                "type": "BUS",
+                "zipcode": "97005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.4254930432256,
+                    45.50482282585692
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 12707,
+                "stop_name": "NE Division & Kelly",
+                "stop_seq": 20,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5823100710012,
+                    45.52286181087917
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 811,
+                "stop_name": "E Burnside & NE 79th",
+                "stop_seq": 1680,
+                "type": "BUS",
+                "zipcode": "97215"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6198322093147,
+                    45.523071106250434
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 775,
+                "stop_name": "E Burnside & NE 41st",
+                "stop_seq": 1820,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67589298363812,
+                    45.52317322209494
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 782,
+                "stop_name": "W Burnside & NW 5th",
+                "stop_seq": 2030,
+                "type": "BUS",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6979952742176,
+                    45.523491402861175
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 755,
+                "stop_name": "W Burnside & NW 23rd",
+                "stop_seq": 2130,
+                "type": "BUS",
+                "zipcode": "97210"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73517058666853,
+                    45.51945413990943
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 691,
+                "stop_name": "W Burnside & Mt Calvary Cemetery",
+                "stop_seq": 2210,
+                "type": "BUS",
+                "zipcode": "97210"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.77030772436052,
+                    45.5088810243763
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 240,
+                "stop_name": "SW Barnes & Monterey/St Vincent Hosp Dr",
+                "stop_seq": 2300,
+                "type": "BUS",
+                "zipcode": "97225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.8076948865971,
+                    45.498589151329206
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 1014,
+                "stop_name": "SW Cedar Hills & Jenkins",
+                "stop_seq": 2490,
+                "type": "BUS",
+                "zipcode": "97005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.40464770206698,
+                    45.50469735755242
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 1355,
+                "stop_name": "NE Division & Village Squire Ct",
+                "stop_seq": 90,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.48427525603923,
+                    45.51925604403439
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 5462,
+                "stop_name": "SE Stark & 174th",
+                "stop_seq": 440,
+                "type": "BUS",
+                "zipcode": "97233"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.51045444282494,
+                    45.519241088244826
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 5443,
+                "stop_name": "SE Stark & 148th",
+                "stop_seq": 540,
+                "type": "BUS",
+                "zipcode": "97233"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53379807589184,
+                    45.51914259748461
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 5428,
+                "stop_name": "SE Stark & 126th",
+                "stop_seq": 630,
+                "type": "BUS",
+                "zipcode": "97233"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68362937312376,
+                    45.52300400026161
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 11032,
+                "stop_name": "W Burnside & NW 12th",
+                "stop_seq": 2060,
+                "type": "BUS",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.50395989054657,
+                    45.51925440587874
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 11071,
+                "stop_name": "SE Stark & 155th",
+                "stop_seq": 510,
+                "type": "BUS",
+                "zipcode": "97233"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68809103833213,
+                    45.52298518871275
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 10809,
+                "stop_name": "W Burnside & NW 17th",
+                "stop_seq": 2070,
+                "type": "BUS",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68143541642621,
+                    45.523037035563995
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 10791,
+                "stop_name": "W Burnside & NW 10th",
+                "stop_seq": 2050,
+                "type": "BUS",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.51741439054302,
+                    45.51921967548863
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 12949,
+                "stop_name": "SE Stark & 142nd",
+                "stop_seq": 565,
+                "type": "BUS",
+                "zipcode": "97233"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.52645179440927,
+                    45.519182012450635
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 5433,
+                "stop_name": "SE Stark & 133rd",
+                "stop_seq": 600,
+                "type": "BUS",
+                "zipcode": "97233"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.54922290949713,
+                    45.519077810723196
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 5417,
+                "stop_name": "SE Stark & 111th",
+                "stop_seq": 680,
+                "type": "BUS",
+                "zipcode": "97216"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60215513088316,
+                    45.52294917425303
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 794,
+                "stop_name": "E Burnside & NE 60th",
+                "stop_seq": 1750,
+                "type": "BUS",
+                "zipcode": "97215"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72126277944963,
+                    45.52024212558165
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 687,
+                "stop_name": "W Burnside & NW Barnes",
+                "stop_seq": 2170,
+                "type": "BUS",
+                "zipcode": "97210"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.80861899310051,
+                    45.49702097144363
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 1003,
+                "stop_name": "SW Cedar Hills & Fairfield",
+                "stop_seq": 2500,
+                "type": "BUS",
+                "zipcode": "97005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.4076706792912,
+                    45.51915328004142
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Troutdale",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 9792,
+                "stop_name": "SE Stark & SW Sundial",
+                "stop_seq": 197,
+                "type": "BUS",
+                "zipcode": "97060"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.44216569249413,
+                    45.519189296833325
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 5393,
+                "stop_name": "SE Stark & 215th",
+                "stop_seq": 300,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.45923294376507,
+                    45.51922150229761
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 5476,
+                "stop_name": "SE Stark & 197th Dr",
+                "stop_seq": 360,
+                "type": "BUS",
+                "zipcode": "97233"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.47915044515517,
+                    45.51927321006808
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 5466,
+                "stop_name": "SE Stark & 179th",
+                "stop_seq": 420,
+                "type": "BUS",
+                "zipcode": "97233"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.4962264973721,
+                    45.5192418456353
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 5455,
+                "stop_name": "SE Stark & 162nd",
+                "stop_seq": 480,
+                "type": "BUS",
+                "zipcode": "97233"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.50767356028477,
+                    45.519264051522
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 5446,
+                "stop_name": "SE Stark & 151st",
+                "stop_seq": 530,
+                "type": "BUS",
+                "zipcode": "97233"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.52982011805948,
+                    45.51916370711546
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 12943,
+                "stop_name": "SE Stark & 130th",
+                "stop_seq": 615,
+                "type": "BUS",
+                "zipcode": "97233"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.80337632329947,
+                    45.49362681139756
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 12932,
+                "stop_name": "SW Center & Lombard",
+                "stop_seq": 2615,
+                "type": "BUS",
+                "zipcode": "97005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76792543282689,
+                    45.50872048606557
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 235,
+                "stop_name": "8800 Block SW Barnes (Gabel School)",
+                "stop_seq": 2290,
+                "type": "BUS",
+                "zipcode": "97225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.44728826677523,
+                    45.5192389096952
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 5391,
+                "stop_name": "21000 Block SE Stark",
+                "stop_seq": 320,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62857608745061,
+                    45.522931280709635
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 702,
+                "stop_name": "E Burnside & NE Floral",
+                "stop_seq": 1850,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.41297516271142,
+                    45.51916414795994
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 12957,
+                "stop_name": "SE Stark & Cherry Park",
+                "stop_seq": 210,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.795476504026,
+                    45.509743070972256
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 12993,
+                "stop_name": "SW Cedar Hills & Foothill Dr",
+                "stop_seq": 2425,
+                "type": "BUS",
+                "zipcode": "97225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.48874370752164,
+                    45.5192489744927
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 13547,
+                "stop_name": "SE Stark & 169th",
+                "stop_seq": 450,
+                "type": "BUS",
+                "zipcode": "97233"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63802649780158,
+                    45.522957353730604
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 764,
+                "stop_name": "E Burnside & NE 28th",
+                "stop_seq": 1885,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6412338506235,
+                    45.522944620444726
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 760,
+                "stop_name": "E Burnside & NE 24th",
+                "stop_seq": 1900,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64526259829839,
+                    45.522963372896115
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 8512,
+                "stop_name": "E Burnside & NE 20th",
+                "stop_seq": 1915,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64736688367971,
+                    45.522970429774794
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 730,
+                "stop_name": "E Burnside & NE 18th",
+                "stop_seq": 1930,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6494635127867,
+                    45.52422032489166
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 6839,
+                "stop_name": "NE 16th & Sandy",
+                "stop_seq": 1945,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.46220931270966,
+                    45.51922862441417
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 13523,
+                "stop_name": "19400 Block SE Stark",
+                "stop_seq": 370,
+                "type": "BUS",
+                "zipcode": "97233"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.42710840704872,
+                    45.50271992316189
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gresham",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 10857,
+                "stop_name": "Gresham Transit Center",
+                "stop_seq": 10,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65339143794083,
+                    45.52366100895449
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 13328,
+                "stop_name": "NE Couch & 12th",
+                "stop_seq": 1975,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65854936345009,
+                    45.52369107421343
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 13329,
+                "stop_name": "NE Couch & 7th",
+                "stop_seq": 2000,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6615244283449,
+                    45.52370256250534
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 20,
+                "rte_desc": "20-Burnside/Stark",
+                "stop_id": 13330,
+                "stop_name": "NE Couch & M L King",
+                "stop_seq": 2010,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

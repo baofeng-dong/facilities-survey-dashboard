@@ -1,0 +1,1851 @@
+{
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56870745294738,
+                    45.43566941948304
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 13248,
+                "stop_name": "Clackamas Town Center Transit Center",
+                "stop_seq": 100,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57400318580466,
+                    45.437506594559366
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 12922,
+                "stop_name": "Clackamas Town Center Mall",
+                "stop_seq": 150,
+                "type": "BUS",
+                "zipcode": "97086"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58037471108311,
+                    45.441310376119056
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 986,
+                "stop_name": "SE Causey & Ross Center",
+                "stop_seq": 200,
+                "type": "BUS",
+                "zipcode": "97086"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5831339610602,
+                    45.43958499164024
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 1938,
+                "stop_name": "SE Fuller & Michael Dr",
+                "stop_seq": 250,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58414487628534,
+                    45.43773275655485
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 1942,
+                "stop_name": "SE Fuller & Stephanie Ct",
+                "stop_seq": 300,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5850248293528,
+                    45.43657503888599
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 1936,
+                "stop_name": "11900 Block SE Fuller (La Salle)",
+                "stop_seq": 350,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58703453707862,
+                    45.43424630381389
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 1940,
+                "stop_name": "SE Fuller & Southgate",
+                "stop_seq": 400,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58719733374697,
+                    45.43271129967749
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 2497,
+                "stop_name": "SE Fuller & Harmony",
+                "stop_seq": 450,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59094502563696,
+                    45.43226881904344
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 2503,
+                "stop_name": "SE Harmony & 71st",
+                "stop_seq": 500,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59363944572914,
+                    45.43212387819088
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 2501,
+                "stop_name": "SE Harmony & 67th",
+                "stop_seq": 550,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59821651909031,
+                    45.43206955251161
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 2499,
+                "stop_name": "SE Harmony & Linwood",
+                "stop_seq": 600,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59893110268304,
+                    45.434092260439606
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 3428,
+                "stop_name": "12300 Block SE Linwood",
+                "stop_seq": 650,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59928943061148,
+                    45.435976062060796
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 3432,
+                "stop_name": "11900 Block SE Linwood (Linwood Sch)",
+                "stop_seq": 700,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59921944615846,
+                    45.43747622383913
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 3430,
+                "stop_name": "SE Linwood & Furnberg",
+                "stop_seq": 750,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59924369772247,
+                    45.43911471558281
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 3426,
+                "stop_name": "11600 Block SE Linwood",
+                "stop_seq": 800,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59913941072625,
+                    45.442150716429815
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 3425,
+                "stop_name": "SE Linwood & Montgomery",
+                "stop_seq": 850,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.598892747891,
+                    45.44509398542714
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 3434,
+                "stop_name": "SE Linwood & Monroe",
+                "stop_seq": 900,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59886146950814,
+                    45.44823662054819
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 13783,
+                "stop_name": "SE Linwood & King",
+                "stop_seq": 950,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59891409804035,
+                    45.452024645149486
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 13785,
+                "stop_name": "SE Linwood & Needham Ct",
+                "stop_seq": 1000,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6017450231694,
+                    45.457056386312416
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 13787,
+                "stop_name": "SE Johnson Creek & 58th Dr",
+                "stop_seq": 1050,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.604715321526,
+                    45.45799411480258
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 13789,
+                "stop_name": "SE Johnson Creek & Stanley",
+                "stop_seq": 1100,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61688333948388,
+                    45.461757938411814
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 3080,
+                "stop_name": "SE Johnson Creek & Springwater Corridor",
+                "stop_seq": 1200,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62042012810659,
+                    45.46045361317762
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 3076,
+                "stop_name": "SE Johnson Creek & 42nd",
+                "stop_seq": 1300,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62593362935755,
+                    45.4620817165252
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 3082,
+                "stop_name": "SE Johnson Creek & 36th",
+                "stop_seq": 1350,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63715564042995,
+                    45.46274053276144
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 13770,
+                "stop_name": "SE Tacoma Park & Ride",
+                "stop_seq": 1450,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63931062998404,
+                    45.461271503250714
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 3854,
+                "stop_name": "8500 Block SE McLoughlin",
+                "stop_seq": 1500,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6171720667132,
+                    45.46045720027855
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 3078,
+                "stop_name": "SE Johnson Creek & Brookside",
+                "stop_seq": 1250,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64026520750288,
+                    45.45838609066114
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 3846,
+                "stop_name": "SE Frontage Rd & Ochoco St",
+                "stop_seq": 1550,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63880384839855,
+                    45.45714323732
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 12842,
+                "stop_name": "SE Main & Beta",
+                "stop_seq": 1600,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6408797065265,
+                    45.452273007647555
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 3661,
+                "stop_name": "SE Main & Milport",
+                "stop_seq": 1650,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64195505082404,
+                    45.44864542278248
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 12463,
+                "stop_name": "10200 Block SE Main",
+                "stop_seq": 1700,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64193462394913,
+                    45.44633155953654
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 3668,
+                "stop_name": "Main & Scott",
+                "stop_seq": 1750,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64049050567837,
+                    45.44482683637778
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 8225,
+                "stop_name": "SE Jackson & 21st",
+                "stop_seq": 2200,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64102827694214,
+                    45.43752689174824
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 7141,
+                "stop_name": "SE 22nd & Bluebird",
+                "stop_seq": 2300,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64108992390794,
+                    45.43532103701097
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 7144,
+                "stop_name": "SE 22nd & Wren",
+                "stop_seq": 2350,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64068975898729,
+                    45.43442841826027
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 5312,
+                "stop_name": "SE Sparrow & 22nd",
+                "stop_seq": 2400,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64161115889014,
+                    45.432397639457335
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 4820,
+                "stop_name": "12500 Block SE River Rd",
+                "stop_seq": 2450,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6428210027745,
+                    45.431099927648205
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 4821,
+                "stop_name": "12600 Block SE River Rd",
+                "stop_seq": 2500,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64452500216191,
+                    45.428627355084394
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 4847,
+                "stop_name": "SE River Rd & Evergreen",
+                "stop_seq": 2600,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64558718637565,
+                    45.425377828829745
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 13756,
+                "stop_name": "SE River Rd & Torbank",
+                "stop_seq": 2700,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6455921858161,
+                    45.422629716298644
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 4841,
+                "stop_name": "SE River Rd & Courtney",
+                "stop_seq": 2750,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64556957327842,
+                    45.42068963521656
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 4823,
+                "stop_name": "14100 Block SE River Rd",
+                "stop_seq": 2800,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64559336490112,
+                    45.41821903684922
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 4858,
+                "stop_name": "SE River Rd & Maple",
+                "stop_seq": 2850,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64557425887647,
+                    45.416454283050975
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 4866,
+                "stop_name": "SE River Rd & Oak Grove",
+                "stop_seq": 2900,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64554977763527,
+                    45.414297449139795
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 4884,
+                "stop_name": "SE River Rd & Rosebrier",
+                "stop_seq": 2950,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64554121042181,
+                    45.41189093524174
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 4832,
+                "stop_name": "SE River Rd & Anspach",
+                "stop_seq": 3000,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64549329890279,
+                    45.40868246740583
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 4874,
+                "stop_name": "SE River Rd & River Forest",
+                "stop_seq": 3050,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64441415635729,
+                    45.40745545315379
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 4876,
+                "stop_name": "SE River Rd & River Glen Ct",
+                "stop_seq": 3100,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64185921866911,
+                    45.40633232334593
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 4889,
+                "stop_name": "SE River Rd & Swain",
+                "stop_seq": 3150,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6393188841331,
+                    45.40501613378788
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 4838,
+                "stop_name": "SE River Rd & Concord",
+                "stop_seq": 3200,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63772485373406,
+                    45.40378048151464
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 4854,
+                "stop_name": "SE River Rd & Juniper Dr",
+                "stop_seq": 3250,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63438747418826,
+                    45.40166064803623
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 4863,
+                "stop_name": "SE River Rd & Mulberry",
+                "stop_seq": 3300,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63204533100149,
+                    45.400045734838685
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 4839,
+                "stop_name": "SE River Rd & Cooke",
+                "stop_seq": 3350,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62932640978265,
+                    45.39792856876283
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 4824,
+                "stop_name": "17300 Block SE River Rd",
+                "stop_seq": 3400,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6250703076322,
+                    45.39547648906105
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 4880,
+                "stop_name": "SE River Rd & Roethe",
+                "stop_seq": 3450,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6216743709922,
+                    45.39316585916905
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 4834,
+                "stop_name": "SE River Rd & Boardman",
+                "stop_seq": 3500,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61923374769474,
+                    45.391537021103424
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 13215,
+                "stop_name": "18100 Block SE River Rd",
+                "stop_seq": 3550,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6171487221473,
+                    45.39010693901724
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 4852,
+                "stop_name": "SE River Rd & Jennings",
+                "stop_seq": 3600,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61396822891604,
+                    45.387956838488
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 4850,
+                "stop_name": "SE River Rd & Hull Ave",
+                "stop_seq": 3650,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61259861193432,
+                    45.38702666626682
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 4871,
+                "stop_name": "SE River Rd & River Dr",
+                "stop_seq": 3700,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61114955266757,
+                    45.38605489905485
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 4861,
+                "stop_name": "SE River Rd & Meldrum",
+                "stop_seq": 3750,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60973767052678,
+                    45.385106449517146
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Clackamas Co.",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 4836,
+                "stop_name": "SE River Rd & Britton",
+                "stop_seq": 3800,
+                "type": "BUS",
+                "zipcode": "97267"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60762189291597,
+                    45.38534897604962
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gladstone",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 1993,
+                "stop_name": "Glen Echo & SE Mildred",
+                "stop_seq": 3850,
+                "type": "BUS",
+                "zipcode": "97027"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60496267594003,
+                    45.38590814595939
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gladstone",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 14,
+                "stop_name": "Abernethy & Duniway",
+                "stop_seq": 3900,
+                "type": "BUS",
+                "zipcode": "97027"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60319008428938,
+                    45.38472030722754
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gladstone",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 10,
+                "stop_name": "Abernethy & Barclay",
+                "stop_seq": 3950,
+                "type": "BUS",
+                "zipcode": "97027"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6010991643916,
+                    45.38404605919469
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gladstone",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 11,
+                "stop_name": "Abernethy & Beatrice",
+                "stop_seq": 4000,
+                "type": "BUS",
+                "zipcode": "97027"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59739563383175,
+                    45.384203056717865
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gladstone",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 17,
+                "stop_name": "Abernethy & Portland Ave",
+                "stop_seq": 4050,
+                "type": "BUS",
+                "zipcode": "97027"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59689826164113,
+                    45.38353394641861
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gladstone",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 4475,
+                "stop_name": "Portland Ave & W Ipswich",
+                "stop_seq": 4100,
+                "type": "BUS",
+                "zipcode": "97027"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59557185516229,
+                    45.38160756013856
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gladstone",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 4467,
+                "stop_name": "Portland Ave & W Fairfield",
+                "stop_seq": 4150,
+                "type": "BUS",
+                "zipcode": "97027"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59472996610816,
+                    45.38032868833922
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gladstone",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 4462,
+                "stop_name": "Portland Ave & W Dartmouth",
+                "stop_seq": 4200,
+                "type": "BUS",
+                "zipcode": "97027"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59353916639965,
+                    45.378497998722
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gladstone",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 4456,
+                "stop_name": "Portland Ave & W Arlington",
+                "stop_seq": 4250,
+                "type": "BUS",
+                "zipcode": "97027"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59488893389418,
+                    45.377867037193894
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gladstone",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 126,
+                "stop_name": "W Arlington & Bellevue",
+                "stop_seq": 4300,
+                "type": "BUS",
+                "zipcode": "97027"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59676458667148,
+                    45.37722852818031
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gladstone",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 124,
+                "stop_name": "W Arlington & Beatrice",
+                "stop_seq": 4350,
+                "type": "BUS",
+                "zipcode": "97027"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5986635932423,
+                    45.376600067392346
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gladstone",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 122,
+                "stop_name": "W Arlington & Barton",
+                "stop_seq": 4400,
+                "type": "BUS",
+                "zipcode": "97027"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60089183559423,
+                    45.37596305875475
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Gladstone",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 135,
+                "stop_name": "W Arlington & McLoughlin",
+                "stop_seq": 4450,
+                "type": "BUS",
+                "zipcode": "97027"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60137586428978,
+                    45.368364099971366
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Oregon City",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 3831,
+                "stop_name": "McLoughlin & Clackamette Dr",
+                "stop_seq": 4500,
+                "type": "BUS",
+                "zipcode": "97045"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60428537348632,
+                    45.36014618240127
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Oregon City",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 10447,
+                "stop_name": "Oregon City Transit Center",
+                "stop_seq": 4600,
+                "type": "BUS",
+                "zipcode": "97045"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63991111612495,
+                    45.44271305290574
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 7136,
+                "stop_name": "SE 21st & Washington",
+                "stop_seq": 2250,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61275752833241,
+                    45.460548695513396
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Milwaukie",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 13805,
+                "stop_name": "4900 Block SE Johnson Creek",
+                "stop_seq": 1150,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6295971025486,
+                    45.462636106809576
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Oregon City Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 34,
+                "rte_desc": "34-Linwood/River Rd",
+                "stop_id": 3081,
+                "stop_name": "SE Johnson Creek & 32nd",
+                "stop_seq": 1400,
+                "type": "BUS",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
