@@ -137,4 +137,10 @@ class Helper(object):
             if key == "region" and value:
                 where += " AND contractregion='{0}'".format(value)
 
+            if key == "start" and value:
+                where += " AND date(createdate)>='{0}'".format(value)
+
+            if key == "end" and value:
+                where += " AND date(createdate)<='{0}'".format(value)
+
         return where
