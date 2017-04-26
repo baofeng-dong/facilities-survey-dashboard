@@ -3,6 +3,7 @@
     var sel_args = {
         manager : "",
         region : "",
+        repair : "",
         start : "",
         end : ""
     }
@@ -112,6 +113,22 @@ $(document).ready(function() {
             sel_args.region = sel_region;
         }
         $("#region_btn").text(this.text+' ').append('<span class="caret"></span>');
+
+        resetLayers();
+        //rebuild shelters based on new args
+        rebuildShelters(sel_args);
+
+    });
+        //function for when need repair is selected
+    $('#filter_repair a').on('click', function() {
+        var sel_repair = this.text
+        console.log("need repair selected: " + sel_repair)
+        if (sel_repair == 'All') {
+            sel_args.repair = '';
+        } else {
+            sel_args.repair = sel_repair;
+        }
+        $("#repair_btn").text(this.text+' ').append('<span class="caret"></span>');
 
         resetLayers();
         //rebuild shelters based on new args
