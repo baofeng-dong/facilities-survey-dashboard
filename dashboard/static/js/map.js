@@ -13,6 +13,9 @@
     //create group layer for MAX platform points
     var platformGroup = new L.FeatureGroup();
 
+    //create an array list for storing ratings for each shelter
+    var ratingsList = [];
+
     var hasLegend = false;
     var highLight = null;
     var selected;
@@ -23,14 +26,6 @@
                 smoothFactor: 1,
                 dashArray: '10,10',
                 clickable: true
-    };
-    var shelterStyle = {
-                clickable: true,
-                fillColor: "#4BF01B",
-                radius: 10,
-                weight: 1,
-                opacity: 0.2,
-                fillOpacity: 0.6
     };
     var newStyle = {
                 color:'red',
@@ -162,27 +157,41 @@ function rebuildShelters(args) {
     console.log(args);
 
     $.getJSON('map/_query', args, function(data) {
-
-        //retrive origin and destination lat and lng
-
         console.log(data);
 
         $(data.data).each(function(index, item) {
+            //clear the rating list for each different shelter
+            ratingsList.length = 0;
             // get lat and long from data.data json
             var shelterLocation = item.location;
-
             //split the string of shelterLocation into an array
             var locationValues = shelterLocation.split(",")
 
             //cast string value into float to get shelter lat and lng
             var shelterLat = parseFloat(locationValues[0]);
             var shelterLng = parseFloat(locationValues[1]);
-
             var shelterLatlng = L.latLng(shelterLat,shelterLng);
+
+            //get integer ratings from the returned strings
+            var graffitiRating = parseInt(item.graffiti, 10);
+            var litterRating = parseInt(item.litter, 10);
+            var washedRating = parseInt(item.washed, 10);
+            var roofRating = parseInt(item.roof, 10);
+            var glassRating = parseInt(item.glass, 10);
+            var benchRating = parseInt(item.bench, 10);
+            var trashcanRating = parseInt(item.trashcan, 10);
+            var lidRating = parseInt(item.lid, 10);
+            var trashcangraffitiRating = parseInt(item.trashcangraffiti, 10);
+            ratingsList.push(graffitiRating,litterRating,washedRating,roofRating,
+                glassRating,benchRating,trashcanRating,lidRating,trashcangraffitiRating);
+            console.log(ratingsList);
+            var avgRating = calculateAvg(ratingsList);
+            console.log("Average rating: ", avgRating);
 
             // defines popup content for bus shelters
             var shelter_popup = L. popup().setContent(
                 "<b>Shelter:</b>" + " " + item.shelter + '<br />' + 
+                "<b>Average Rating:</b>" + " " + avgRating + '<br />' +
                 "<b>Contract Region:</b>" + " " + item.region + '<br />' +
                 "<b>Manager:</b>" + " " + item.manager + '<br />' + 
                 "<b>Date:</b>" + " " + item.date + '<br />' + 
@@ -194,11 +203,12 @@ function rebuildShelters(args) {
                 "<b>Glass Dried:</b>" + " " + item.glass + '<br />' +
                 "<b>Bench Dried:</b>" + " " + item.bench + '<br />' +
                 "<b>Trashcan Empty:</b>" + " " + item.trashcan + '<br />' +
+                "<b>Trashcan Lid Clean:</b>" + " " + item.lid + '<br />' +
                 "<b>Trashcan Free of Graffiti:</b>" + " " + item.trashcangraffiti + '<br />' +
                 "<b>Need Repair:</b>" + " " + item.repair + '<br />' +
                 "<b>Comments:</b>" + " " + item.comments
                 );
-
+            shelterStyle = getStyle(avgRating);
             //defines bus shelters
             var shelter = L.circleMarker(shelterLatlng, shelterStyle).bindPopup(shelter_popup, {showOnMouseOver:true});
 
@@ -211,6 +221,32 @@ function rebuildShelters(args) {
 
     });
     //addLabel();
+}
+
+function getStyle(rating) {
+    return {
+        clickable: true,
+        fillColor: getColor(rating),
+        radius: 10,
+        weight: 1,
+        opacity: 0.2,
+        fillOpacity: 0.8
+    }
+}
+
+//calculate average of an array list
+function calculateAvg(arrayList) {
+    var sum = 0;
+    len = arrayList.length;
+
+    for(var i = 0; i < len; i++) {
+        if (!isNaN(arrayList[i])) {
+            sum += arrayList[i];
+        }
+    }
+    var avg = sum/len;
+    avg = avg.toFixed(2);
+    return avg
 }
 
 //function for expanding/collapsing div content
@@ -236,7 +272,7 @@ function toggle_tb(){
             }
        });
 }
-
+//load date range picker and calls rebuildShelter function once date is entered
 function loadCalendar() {
     $(function() {
 
@@ -303,9 +339,9 @@ function addLabel() {
 }
 
 function getColor(d) {
-    return  d == 'ORIGIN' ? "#259CEF" :
-            d == 'DESTINATION' ? "#4BF01B" :
-                                 'red' ;
+    return  d > 3.5 ? "#80ff00" :
+            d > 2.5 ? "#ff8000" :
+                                 "#ff4000" ;
 }
 
 function getBaseColor(rte) {
