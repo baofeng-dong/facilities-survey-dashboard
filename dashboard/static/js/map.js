@@ -2,7 +2,9 @@
 //dictionary for storing query params and values
     var sel_args = {
         manager : "",
-        region : ""
+        region : "",
+        start : "",
+        end : ""
     }
 
     //create layer to store all bus shelter points
@@ -78,6 +80,12 @@ $(document).ready(function() {
 
     //load map with markers on initial page load with no filter params
     rebuildShelters(sel_args);
+
+    //call toggle div function
+    toggle_tb();
+
+    //load calendar
+    loadCalendar();
 
     //function for when a manager or supervisor is selected
     $('#filter_manager a').on('click', function() {
@@ -210,6 +218,41 @@ function toggle_tb(){
         
             }
        });
+}
+
+function loadCalendar() {
+    $(function() {
+
+    var start = moment().subtract(29, 'days');
+    var end = moment();
+
+    function cb(start, end) {
+        $('#reportrange span').html(start.format('MMMM D, YYYY') + ' - ' + end.format('MMMM D, YYYY'));
+        sel_args.start = start.format("MM-DD-YYYY");
+        sel_args.end = end.format("MM-DD-YYYY");
+        console.log(sel_args);
+
+        resetLayers();
+        //rebuild shelters based on new args
+        rebuildShelters(sel_args);
+    }
+
+    $('#reportrange').daterangepicker({
+        startDate: start,
+        endDate: end,
+        ranges: {
+           'Today': [moment(), moment()],
+           'Yesterday': [moment().subtract(1, 'days'), moment().subtract(1, 'days')],
+           'Last 7 Days': [moment().subtract(6, 'days'), moment()],
+           'Last 30 Days': [moment().subtract(29, 'days'), moment()],
+           'This Month': [moment().startOf('month'), moment().endOf('month')],
+           'Last Month': [moment().subtract(1, 'month').startOf('month'), moment().subtract(1, 'month').endOf('month')]
+        }
+    }, cb);
+
+    cb(start, end);
+    
+});
 }
 
 //add label to map
