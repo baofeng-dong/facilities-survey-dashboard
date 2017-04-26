@@ -112,6 +112,11 @@ class Helper(object):
         "Sunday": "(0)"
         }
 
+        lookuprepair = {
+        "Yes": "true",
+        "No": "false"
+        }
+
         lookupvehicle = {
         "MAX": "IN ('90','100','190','200','290')",
         "WES": "IN ('203')",
@@ -136,6 +141,9 @@ class Helper(object):
 
             if key == "region" and value:
                 where += " AND contractregion='{0}'".format(value)
+
+            if key == "repair":
+                where += " AND needrepair='{0}'".format(lookuprepair[value])
 
             if key == "start" and value:
                 where += " AND date(createdate)>='{0}'".format(value)
