@@ -125,12 +125,13 @@ table {
 }
 
 #map-select {
-    height: 200px;
+    height: 180px;
     width: 100%;
     max-width: 920px;
 }
 
 #reportrange {
+    margin-top: 10px !important;
     float: right !important;
     width: 30% !important;
 }
