@@ -28,9 +28,9 @@ def index():
 def intro():
     return render_template("introduction.html")
 
-@app.route('/progress')
-def progress():
-    return render_template("progress.html")
+@app.route('/data')
+def data():
+    return render_template("data.html")
 
 @app.route('/results')
 def result():
