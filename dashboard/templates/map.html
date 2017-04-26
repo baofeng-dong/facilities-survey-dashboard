@@ -15,51 +15,60 @@
     <p>Note: select manager, and contract region to view bus shelter cleaning inspection data</p>
 </div>
 
-<table id="select-table">
-  <tr id="menu-dd">
-    <td style="padding-left: 1em" width="25%">
-      <div class="btn-group" role="form">
-        <button id="manager_btn" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">
-        Manager    
-        <span class="caret"></span>
-        </button>
-        <ul id="filter_manager" class="dropdown-menu scrollable-menu" role="menu">
-          <li role="presentation" class="dropdown-header">Manager</li>
-          <li role="presentation" class="divider"></li>
-            <li><a href="#">All</a></li>
-            <li><a href="#">Tom Cord</a></li>
-            <li><a href="#">Numan Mujeeb</a></li>
-            <li><a href="#">Wendy Rogers</a></li>
-            <li><a href="#">Sam Marra</a></li>
-            <li><a href="#">Brett Rogers</a></li>
-            <li><a href="#">Elizabeth Papadopoulos</a></li>
-            <li><a href="#">Wayman Nordstrom</a></li>
-            <li><a href="#">Dennis Ronan</a></li>
-            <li><a href="#">Baofeng Dong</a></li>
-            <li><a href="#">Brett Hamilton</a></li>
-            <li><a href="#">Meredith Rider</a></li>
-            <li><a href="#">Cassadi Willey</a></li>
-        </ul>
-      </div>
-    </td>
-    <td style="padding-left: 4em; padding-right: 1em" width="30%">
-      <div class="dropdown">
-        <button id="region_btn" class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Contract Region
-        <span class="caret"></span></button>
-        <ul id="filter_region" class="dropdown-menu scrollable-menu" role="menu">
-          <li role="presentation" class="dropdown-header">Contract Region</li>
-          <li role="presentation" class="divider"></li>
-            <li><a href="#">All</a></li>
-            <li><a href="#">NE</a></li>
-            <li><a href="#">SE</a></li>
-            <li><a href="#">West</a></li>
-        </ul>
-      </div>
-    </td>
-  </tr>
+  <div id="select-table">
+    <table id="menu-table">
+      <tr id="menu-dd">
+        <td style="padding-left: 1em" width="25%">
+          <div class="btn-group" role="form">
+            <button id="manager_btn" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">
+            Manager    
+            <span class="caret"></span>
+            </button>
+            <ul id="filter_manager" class="dropdown-menu scrollable-menu" role="menu">
+              <li role="presentation" class="dropdown-header">Manager</li>
+              <li role="presentation" class="divider"></li>
+                <li><a href="#">All</a></li>
+                <li><a href="#">Tom Cord</a></li>
+                <li><a href="#">Numan Mujeeb</a></li>
+                <li><a href="#">Wendy Rogers</a></li>
+                <li><a href="#">Sam Marra</a></li>
+                <li><a href="#">Brett Rogers</a></li>
+                <li><a href="#">Elizabeth Papadopoulos</a></li>
+                <li><a href="#">Wayman Nordstrom</a></li>
+                <li><a href="#">Dennis Ronan</a></li>
+                <li><a href="#">Baofeng Dong</a></li>
+                <li><a href="#">Brett Hamilton</a></li>
+                <li><a href="#">Meredith Rider</a></li>
+                <li><a href="#">Cassadi Willey</a></li>
+            </ul>
+          </div>
+        </td>
+        <td style="padding-left: 4em; padding-right: 1em" width="30%">
+          <div class="dropdown">
+            <button id="region_btn" class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Contract Region
+            <span class="caret"></span></button>
+            <ul id="filter_region" class="dropdown-menu scrollable-menu" role="menu">
+              <li role="presentation" class="dropdown-header">Contract Region</li>
+              <li role="presentation" class="divider"></li>
+                <li><a href="#">All</a></li>
+                <li><a href="#">NE</a></li>
+                <li><a href="#">SE</a></li>
+                <li><a href="#">West</a></li>
+            </ul>
+          </div>
+        </td>
+      </tr>
+    </table>
+  </div> <!-- select table div -->
+  <div id="reportrange" class="pull-right" style="background: #fff; cursor: pointer; padding: 5px 10px; border: 1px solid #ccc; width: 100%">
+      <i class="glyphicon glyphicon-calendar fa fa-calendar"></i>&nbsp;
+      <span></span> <b class="caret"></b>
+  </div> <!-- calendar picker div -->
 
-</table>
-</div>
+</div> <!-- map select div -->
+
+
+
 </div>
 
 <div id="mapid">
