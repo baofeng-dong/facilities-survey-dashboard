@@ -33,7 +33,10 @@ class Helper(object):
                 cast(createdate as time),
                 manager_supervisor as manager,
                 contractregion as region,
-                shelterid,
+                case
+                    WHEN shelterid = 'None' or shelterid = '' THEN '1234'
+                    else shelterid
+                end as shelterid,
                 location,
                 nolitter as litter,
                 nograffiti as graffiti,
@@ -44,8 +47,12 @@ class Helper(object):
                 trashcanempty as trashcan,
                 lidclean as lid,
                 trashcangraffiti,
-                needrepair as repair,
-                comments
+                case
+                    WHEN needrepair = 'true' THEN 'Yes'
+                    WHEN needrepair = 'false' THEN 'No'
+                    else                           ''
+                end as repair,
+                coalesce(comments, '')
             from bus_shelter_inspection """
 
         query_string += " WHERE "
