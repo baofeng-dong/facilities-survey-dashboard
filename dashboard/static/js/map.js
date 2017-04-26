@@ -237,14 +237,16 @@ function getStyle(rating) {
 //calculate average of an array list
 function calculateAvg(arrayList) {
     var sum = 0;
+    var counter = 0;
     len = arrayList.length;
 
     for(var i = 0; i < len; i++) {
         if (!isNaN(arrayList[i])) {
             sum += arrayList[i];
+            counter ++;
         }
     }
-    var avg = sum/len;
+    var avg = sum/counter;
     avg = avg.toFixed(2);
     return avg
 }
