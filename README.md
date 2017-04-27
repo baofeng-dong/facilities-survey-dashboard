@@ -5,6 +5,6 @@ distribution of this software for license terms.
 
 A Python flask web application to display TriMet facilities bus shelter cleaning inspection results.
 
-A beta version of the survey dashboard website is available at: https://survey.trimet.org/facilities/. 
+A beta version of the survey dashboard website is available at: https://survey-test.trimet.org/facilities/. 
 The site is under constant construction and improvement.
 To learn more about this survey, you can contact us at gissurvey@trimet.org
