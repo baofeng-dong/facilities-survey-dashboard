@@ -45,10 +45,45 @@ def map():
 def map_query():
     response = []
     where = ""
+    csv = "no"
+    args = request.args
+    debug(args)
+
+    if 'csv' in args.keys():
+        csv = request.args['csv']
+        debug(csv)
+
+    where = Helper.buildconditions(args)
+    debug(where)
+
+    if csv == "yes":
+        debug("executed here!")
+        data = Helper.query_map_data(where=where, csv=csv)
+        response = ""
+        #build csv string
+        for record in data:
+            if record:
+                debug(record)
+                response += ','.join([(item or ' ') for item in record[:-1]])
+                debug(response)
+                debug(record[-1])
+                response += ',' + record[-1] + '\n'
+            # else:
+                # response += ','.join("nodata") + '\n'
+    else:
+        response = Helper.query_map_data(where=where, csv=csv)
+
+    return jsonify(data=response)
+
+
+@app.route('/map/_station_query', methods=['GET'])
+def max_data_query():
+    response = []
+    where = ""
     args = request.args
 
     where = Helper.buildconditions(args)
     debug(where)
-    response = Helper.query_map_data(where=where)
+    response = Helper.query_station_data(where=where)
 
     return jsonify(data=response)
