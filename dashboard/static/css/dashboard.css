@@ -245,3 +245,8 @@ th {
     opacity: 0.7;
 }
 
+#download-button {
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
