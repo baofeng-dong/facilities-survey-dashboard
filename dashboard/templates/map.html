@@ -10,13 +10,29 @@
 <div id="control-section">
 <!-- dropdowns that trigger ajax call to update table based on selection -->
 <div id="map-select">
-<div id="map-intro">
+  <div id="map-intro">
     <h4><b>Map Dashboard</b></h4>
-    <p>Note: select manager, and contract region to view bus shelter cleaning inspection data</p>
-</div>
+    <p>Note: select manager, and contract region to view bus shelter or MAX platform cleaning inspection data</p>
+  </div>
+
+  <div id="map-view">
+  <label>Map View</label>
+
+  <table class="fixed" width="100%">
+    <col width="100%"/>
+
+    <tr>
+      <td><input class = "checkview" type="checkbox" name="mapview" value="shelter" checked="checked">Bus Shelter</td>
+    </tr>
+    <tr>
+      <td><input class = "checkview" type="checkbox" name="mapview" value="platform">MAX Platform</td>
+    </tr>
+  </table>
+
+  </div> <!--map view div-->
 
   <div id="select-table">
-    <table id="menu-table">
+    <table id="bus-menu-table">
       <tr id="menu-dd">
         <td style="padding-left: 1em" width="20%">
           <div class="btn-group" role="form">
@@ -28,14 +44,11 @@
               <li role="presentation" class="dropdown-header">Manager</li>
               <li role="presentation" class="divider"></li>
                 <li><a href="#">All</a></li>
-                <li><a href="#">Tom Cord</a></li>
                 <li><a href="#">Numan Mujeeb</a></li>
                 <li><a href="#">Wendy Rogers</a></li>
                 <li><a href="#">Sam Marra</a></li>
                 <li><a href="#">Brett Rogers</a></li>
                 <li><a href="#">Elizabeth Papadopoulos</a></li>
-                <li><a href="#">Wayman Nordstrom</a></li>
-                <li><a href="#">Dennis Ronan</a></li>
                 <li><a href="#">Baofeng Dong</a></li>
                 <li><a href="#">Brett Hamilton</a></li>
                 <li><a href="#">Meredith Rider</a></li>
@@ -72,6 +85,59 @@
         </td>
       </tr>
     </table>
+    <table id="max-menu-table">
+      <tr id="menu-dd">
+        <td style="padding-left: 1em" width="20%">
+          <div class="btn-group" role="form">
+            <button id="manager_btn" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">
+            Manager    
+            <span class="caret"></span>
+            </button>
+            <ul id="filter_manager" class="dropdown-menu scrollable-menu" role="menu">
+              <li role="presentation" class="dropdown-header">Manager</li>
+              <li role="presentation" class="divider"></li>
+                <li><a href="#">All</a></li>
+                <li><a href="#">Numan Mujeeb</a></li>
+                <li><a href="#">Wendy Rogers</a></li>
+                <li><a href="#">Sam Marra</a></li>
+                <li><a href="#">Brett Rogers</a></li>
+                <li><a href="#">Elizabeth Papadopoulos</a></li>
+                <li><a href="#">Baofeng Dong</a></li>
+                <li><a href="#">Brett Hamilton</a></li>
+                <li><a href="#">Meredith Rider</a></li>
+                <li><a href="#">Cassadi Willey</a></li>
+            </ul>
+          </div>
+        </td>
+        <td style="padding-left: 4em; padding-right: 1em" width="25%">
+          <div class="dropdown">
+            <button id="crew_btn" class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Cleaning Crew
+            <span class="caret"></span></button>
+            <ul id="filter_crew" class="dropdown-menu scrollable-menu" role="menu">
+              <li role="presentation" class="dropdown-header">Cleaning Crew</li>
+              <li role="presentation" class="divider"></li>
+                <li><a href="#">All</a></li>
+                <li><a href="#">East</a></li>
+                <li><a href="#">West</a></li>
+            </ul>
+          </div>
+        </td>
+        <td style="padding-left: 3em; padding-right: 1em" width="25%">
+          <div class="dropdown">
+            <button id="wash_btn" class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Pressure Wash Crew
+            <span class="caret"></span></button>
+            <ul id="filter_wash" class="dropdown-menu scrollable-menu" role="menu">
+              <li role="presentation" class="dropdown-header">Pressure Wash Crew</li>
+              <li role="presentation" class="divider"></li>
+                <li><a href="#">All</a></li>
+                <li><a href="#">East</a></li>
+                <li><a href="#">West</a></li>
+                <li><a href="#">Out of Season</a></li>
+            </ul>
+          </div>
+        </td>
+      </tr>
+    </table> <!-- MAX menu table -->
   </div> <!-- select table div -->
   <div id="reportrange" class="pull-right" style="background: #fff; cursor: pointer; padding: 5px 10px; border: 1px solid #ccc; width: 100%">
       <i class="glyphicon glyphicon-calendar fa fa-calendar"></i>&nbsp;
@@ -79,7 +145,19 @@
   </div> <!-- calendar picker div -->
 
 </div> <!-- map select div -->
-
+<div id="download-button">
+<table>
+  <tr>
+    <td>
+      <div class="btn-group" role="form">
+        <button id="generate-btn" type="button" class="btn btn-default">
+        Download
+        </button>
+      </div>
+    </td>
+  </tr>
+</table>
+</div>
 
 
 </div>
@@ -96,5 +174,6 @@
 
 
 <script type="text/javascript" src="{{ url_for('index') }}static/js/map.js"></script>
+<script type="text/javascript" src="{{ url_for('index') }}static/js/map_functions.js"></script>
 
 {% endblock %}
